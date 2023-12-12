@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "0eb2a78d-2e05-49fc-9682-dacfbec6be4a",
+        "type": "message",
+        "text": "Hey everyone - tomorrow I will do things a little different. Instead of office hours at 11:30, I will push them to 12:30 and hold them during regular class time. I will leave it to be an open Q&amp;A session - we can do practice problems together, discuss whatever topics you want, etc. Open to anyone!",
+        "user": "U03LK4YJGQJ",
+        "ts": "1697085190.458149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fq3j6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone - tomorrow I will do things a little different. Instead of office hours at 11:30, I will push them to 12:30 and hold them during regular class time. I will leave it to be an open Q&A session - we can do practice problems together, discuss whatever topics you want, etc. Open to anyone!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4bfa602a3916",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/4026473552256_4bfa602a39169e79a840_72.jpg",
+            "first_name": "Aaron",
+            "real_name": "Aaron Daines",
+            "display_name": "Aaron Daines",
+            "team": "T0ZBAEL59",
+            "name": "aaron.daines",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,374 @@
+[
+    {
+        "client_msg_id": "12b0e2f5-09b0-4f94-b2ea-c4b99c10961c",
+        "type": "message",
+        "text": "Hey <!channel>,\n\nWe only have two actual classes left for B2B, plus the last day of class at Dave's house (on December 11). Dave has procrastinated and both the last lectures will include a post-class discussion (Navigating a Career through Corporate, and Navigating a Career through Entrepreneurship).\n\nDave is really open to which days we choose for the last two. I've made a google form. Please check the boxes for *all the available dates.* We will only do 2 days, but this will give us more options.\n\nPlease try to fill this out within the next couple days so Dave can plan the last couple classes.\n\n<https:\/\/forms.gle\/GBUT6W7USbZ5UWCTA>",
+        "user": "U03LCGM9XML",
+        "ts": "1697510213.588989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7oDA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nWe only have two actual classes left for B2B, plus the last day of class at Dave's house (on December 11). Dave has procrastinated and both the last lectures will include a post-class discussion (Navigating a Career through Corporate, and Navigating a Career through Entrepreneurship).\n\nDave is really open to which days we choose for the last two. I've made a google form. Please check the boxes for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "all the available dates. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "We will only do 2 days, but this will give us more options.\n\nPlease try to fill this out within the next couple days so Dave can plan the last couple classes.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/GBUT6W7USbZ5UWCTA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe4a9879d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Parry",
+            "display_name": "Evan Parry",
+            "team": "T0ZBAEL59",
+            "name": "evanparry13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh3.googleusercontent.com\/O4ZT38tvXp3YUStmtYRTuuSaEiZ4fob96DX6xgVZTrzoCr7-WHOWbMldOO2zlrZf9j1YjiZEsWk",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 25491,
+                "from_url": "https:\/\/forms.gle\/GBUT6W7USbZ5UWCTA",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/GBUT6W7USbZ5UWCTA",
+                "fallback": "Google Docs: B2B Sales Class",
+                "title": "B2B Sales Class",
+                "title_link": "https:\/\/forms.gle\/GBUT6W7USbZ5UWCTA",
+                "service_name": "Google Docs"
+            }
+        ],
+        "thread_ts": "1697510213.588989",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1697511321.934829",
+        "reply_users": [
+            "U05PQ5BK2R2",
+            "U03LCGM9XML"
+        ],
+        "replies": [
+            {
+                "user": "U05PQ5BK2R2",
+                "ts": "1697511178.113849"
+            },
+            {
+                "user": "U03LCGM9XML",
+                "ts": "1697511193.272649"
+            },
+            {
+                "user": "U05PQ5BK2R2",
+                "ts": "1697511256.153599"
+            },
+            {
+                "user": "U05PQ5BK2R2",
+                "ts": "1697511321.934829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U03LK5045V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb3cf6da-176d-4236-9366-d649bbb57b2f",
+        "type": "message",
+        "text": "<@U03LCGM9XML> we can bring our significant other as well, right?",
+        "user": "U03UV6770V9",
+        "ts": "1697510254.492609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZGntf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LCGM9XML"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we can bring our significant other as well, right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "726175ac772f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-27\/3994854151414_726175ac772f9b58d6e2_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Baize",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "kevin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LCGM9XML"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57C0CEA5-44AB-4551-8EEC-08B6B7119B21",
+        "type": "message",
+        "text": "<@U03LCGM9XML> so our next class in Nov 6th, correct?",
+        "user": "U05PQ5BK2R2",
+        "ts": "1697511178.113849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0CycQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LCGM9XML"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so our next class in Nov 6th, correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8c595b84f1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-12\/5899814021649_8c595b84f1a53a659196_72.png",
+            "first_name": "Judy",
+            "real_name": "Judy Newman",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "sjudy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697510213.588989",
+        "parent_user_id": "U03LCGM9XML"
+    },
+    {
+        "client_msg_id": "1FF216B6-D37D-446D-ADB3-CF18EA319086",
+        "type": "message",
+        "text": "If you vote for it :upside_down_face: ",
+        "user": "U03LCGM9XML",
+        "ts": "1697511193.272649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KcCWs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you vote for it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "upside_down_face",
+                                "unicode": "1f643"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe4a9879d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Parry",
+            "display_name": "Evan Parry",
+            "team": "T0ZBAEL59",
+            "name": "evanparry13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697510213.588989",
+        "parent_user_id": "U03LCGM9XML"
+    },
+    {
+        "client_msg_id": "A07D7589-7969-4777-8CC4-5426CAD56DAE",
+        "type": "message",
+        "text": "Oh okay. I see that. I thought something else…but sure yes okay. ",
+        "user": "U05PQ5BK2R2",
+        "ts": "1697511256.153599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IICo5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh okay. I see that. I thought something else"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "but sure yes okay. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8c595b84f1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-12\/5899814021649_8c595b84f1a53a659196_72.png",
+            "first_name": "Judy",
+            "real_name": "Judy Newman",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "sjudy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697510213.588989",
+        "parent_user_id": "U03LCGM9XML"
+    },
+    {
+        "client_msg_id": "9D1E721A-BB33-488B-A77F-CCD248937C37",
+        "type": "message",
+        "text": "I can vote many times for this. :imp:  there’s no limit :eyes: ",
+        "user": "U05PQ5BK2R2",
+        "ts": "1697511321.934829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fdfo+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can vote many times for this. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "imp",
+                                "unicode": "1f47f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " no limit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8c595b84f1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-12\/5899814021649_8c595b84f1a53a659196_72.png",
+            "first_name": "Judy",
+            "real_name": "Judy Newman",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "sjudy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697510213.588989",
+        "parent_user_id": "U03LCGM9XML"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "cd7f10a0-0738-485e-bc30-b098e52d81f4",
+        "type": "message",
+        "text": "Reminder of the review session today at 4pm in TNRB 130. Here is the zoom link: <https:\/\/byu.zoom.us\/j\/92189524066?pwd=eHRiRjJ5OS9KejJCUHB4aEpzd29JUT09> It will be recorded as well  <!channel>",
+        "user": "U03LMGXA3FW",
+        "ts": "1697744843.339149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rW1K\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reminder of the review session today at 4pm in TNRB 130. Here is the zoom link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.zoom.us\/j\/92189524066?pwd=eHRiRjJ5OS9KejJCUHB4aEpzd29JUT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": " It will be recorded as well  "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697744843.339149",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1698162653.016819",
+        "reply_users": [
+            "U05B0NGPZTK",
+            "U05DD0R2J6R",
+            "U03LMGXA3FW"
+        ],
+        "replies": [
+            {
+                "user": "U05B0NGPZTK",
+                "ts": "1697931560.498849"
+            },
+            {
+                "user": "U05B0NGPZTK",
+                "ts": "1697931827.361029"
+            },
+            {
+                "user": "U05DD0R2J6R",
+                "ts": "1698161135.099189"
+            },
+            {
+                "user": "U03LMGXA3FW",
+                "ts": "1698161296.602669"
+            },
+            {
+                "user": "U05DD0R2J6R",
+                "ts": "1698162653.016819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1698162653.016819"
+    }
+]

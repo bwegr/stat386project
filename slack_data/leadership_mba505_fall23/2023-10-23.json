@@ -1,0 +1,696 @@
+[
+    {
+        "client_msg_id": "6382ae69-0fdb-4c06-acc5-b77909e382fe",
+        "type": "message",
+        "text": "For clarification, Leadership class is cancelled tomorrow because of the midterm?",
+        "user": "U05AMVCTLRZ",
+        "ts": "1698077553.894489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eY1bX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For clarification, Leadership class is cancelled tomorrow because of the midterm?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21cea2f50db5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5357074088198_21cea2f50db509542cea_72.png",
+            "first_name": "Travis",
+            "real_name": "Travis Crosby",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "crosbytrc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698077553.894489",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698077974.934609",
+        "reply_users": [
+            "U03LMGXA3FW"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGXA3FW",
+                "ts": "1698077974.934609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1698077974.934609"
+    },
+    {
+        "client_msg_id": "292b5f08-d731-47e0-8db6-a718b371294d",
+        "type": "message",
+        "text": "Correct, no in person class tomorrow due to the midterm",
+        "user": "U03LMGXA3FW",
+        "ts": "1698077974.934609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cX2t+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Correct, no in person class tomorrow due to the midterm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698077553.894489",
+        "parent_user_id": "U05AMVCTLRZ",
+        "reactions": [
+            {
+                "name": "thank-you",
+                "users": [
+                    "U05AMVCTLRZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eaa1e850-5238-4bbd-a0eb-f06c7608454f",
+        "type": "message",
+        "text": "Thanks Kalie! This is it!",
+        "user": "U05GZPFMAA2",
+        "ts": "1698080535.411019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wSJME",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Kalie! This is it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dae6d1b7129e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-25\/6099646149092_dae6d1b7129ed59f3cd8_72.png",
+            "first_name": "Val",
+            "real_name": "Val Fulton",
+            "display_name": "Val",
+            "team": "T0ZBAEL59",
+            "name": "valeriam.fulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05GZPFMAA2",
+            "ts": "1698080542.000000"
+        },
+        "thread_ts": "1698012142.379409",
+        "parent_user_id": "U05GZPFMAA2"
+    },
+    {
+        "client_msg_id": "eb906b04-f963-478b-b114-150627cfa2ea",
+        "type": "message",
+        "text": "Does anyone remember the time limit for the midterm?",
+        "user": "U05DFQNU4EP",
+        "ts": "1698080847.618389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W5lPm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone remember the time limit for the midterm?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe53c672847",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-21\/5455152209798_fbe53c672847250a8ed4_72.png",
+            "first_name": "Hunter",
+            "real_name": "Hunter Blalack",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "blalackhunter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698080847.618389",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698080902.671039",
+        "reply_users": [
+            "U05AN015NSX",
+            "U05DFQNU4EP"
+        ],
+        "replies": [
+            {
+                "user": "U05AN015NSX",
+                "ts": "1698080890.232289"
+            },
+            {
+                "user": "U05DFQNU4EP",
+                "ts": "1698080902.671039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9cdd1c92-72d5-4dc8-93ae-6b16dbbc42ad",
+        "type": "message",
+        "text": "\"You will have 90 minutes to complete the exam\"",
+        "user": "U05AN015NSX",
+        "ts": "1698080890.232289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z\/gYA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"You will have 90 minutes to complete the exam\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698080847.618389",
+        "parent_user_id": "U05DFQNU4EP"
+    },
+    {
+        "client_msg_id": "CF610088-D7A1-440A-8807-1605167954E6",
+        "type": "message",
+        "text": "90 minutes ",
+        "user": "U03M8T6EJ8G",
+        "ts": "1698080892.556569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l6wQy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "90 minutes "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4dad93fa6dcf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-27\/5491285165794_4dad93fa6dcf57d01702_72.png",
+            "first_name": "Glenn",
+            "real_name": "Glenn Davalos",
+            "display_name": "Glenn Davalos",
+            "team": "T0ZBAEL59",
+            "name": "glenndavalos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698080892.556569",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698080908.364129",
+        "reply_users": [
+            "U05DFQNU4EP"
+        ],
+        "replies": [
+            {
+                "user": "U05DFQNU4EP",
+                "ts": "1698080908.364129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5536e809-a426-427c-bcfd-596664afa142",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U05DFQNU4EP",
+        "ts": "1698080902.671039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cSYv0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe53c672847",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-21\/5455152209798_fbe53c672847250a8ed4_72.png",
+            "first_name": "Hunter",
+            "real_name": "Hunter Blalack",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "blalackhunter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698080847.618389",
+        "parent_user_id": "U05DFQNU4EP",
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e028ad23-91b2-4603-9fb4-bdb81c872947",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U05DFQNU4EP",
+        "ts": "1698080908.364129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ye0AT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe53c672847",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-21\/5455152209798_fbe53c672847250a8ed4_72.png",
+            "first_name": "Hunter",
+            "real_name": "Hunter Blalack",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "blalackhunter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698080892.556569",
+        "parent_user_id": "U03M8T6EJ8G"
+    },
+    {
+        "client_msg_id": "86737dde-cddf-4ab7-a139-a34e85b00150",
+        "type": "message",
+        "text": "Hi quick question! (sorry if I am missing something here) In module 2 pages 4-6 when the slides talk about the congruence model, they go over the elements of inputs but then when it is supposed to zoom into org components and outputs the presentation just skip that and goes to rational man. Are those sliding missing or we are only focusing on the inputs?",
+        "user": "U05AN02C0E7",
+        "ts": "1698111008.210779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jIW\/O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi quick question! (sorry if I am missing something here) In module 2 pages 4-6 when the slides talk about the congruence model, they go over the elements of inputs but then when it is supposed to zoom into org components and outputs the presentation just skip that and goes to rational man. Are those sliding missing or we are only focusing on the inputs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c8a8b5ae6726",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5361571737781_c8a8b5ae6726bf382cce_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Antuña",
+            "display_name": "Julian Antuña",
+            "team": "T0ZBAEL59",
+            "name": "julian.rosario93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5da3e49b-1503-43d3-bf43-3257eea231bb",
+        "type": "message",
+        "text": "Prof Howell said on the beginning of the review session (it is recorded!) she would update module 1 with this, since the first time we saw this was right after camp williams, but I haven't seen an updated version of it :disappointed:",
+        "user": "U05AQGJMMT6",
+        "ts": "1698116106.383869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4EAbI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Prof Howell said on the beginning of the review session (it is recorded!) she would update module 1 with this, since the first time we saw this was right after camp williams, but I haven't seen an updated version of it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698012142.379409",
+        "parent_user_id": "U05GZPFMAA2"
+    },
+    {
+        "client_msg_id": "943e6c4e-089a-4cab-b377-c29da66ce410",
+        "type": "message",
+        "text": "Did anyone else have an issue taking the proctored practice exam? It wouldn't load the questions for me and then when the proctoring software support people got involved, it closed me out of the test and won't let me back in",
+        "user": "U05DJBMDG0L",
+        "ts": "1698117008.331199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2kVyy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did anyone else have an issue taking the proctored practice exam? It wouldn't load the questions for me and then when the proctoring software support people got involved, it closed me out of the test and won't let me back in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "05cc2cf46691",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-06\/5853483419606_05cc2cf4669182a318bb_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Despain",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "devindespain79",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698117008.331199",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698120532.692849",
+        "reply_users": [
+            "U05AN015NSX",
+            "U03LMGXA3FW"
+        ],
+        "replies": [
+            {
+                "user": "U05AN015NSX",
+                "ts": "1698117520.733719"
+            },
+            {
+                "user": "U03LMGXA3FW",
+                "ts": "1698120532.692849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1698120532.692849",
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ce30dfc-837e-4dfd-9750-a435ddb41b1d",
+        "type": "message",
+        "text": "Same thing happened while taking the test the webcam stopped working and the proctor software people stopped me to take the exam and asked to rectify the camera. But unable to take the test even after troubleshooting and they asked me to inform the professor.",
+        "user": "U05AK5FTUSZ",
+        "ts": "1698117191.299669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gTrrL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same thing happened while taking the test the webcam stopped working and the proctor software people stopped me to take the exam and asked to rectify the camera. But unable to take the test even after troubleshooting and they asked me to inform the professor."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2d08316b010a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-28\/5650269890069_2d08316b010a1259db16_72.jpg",
+            "first_name": "Munni",
+            "real_name": "Munni Pradeepa Nalli",
+            "display_name": "Pradeepa",
+            "team": "T0ZBAEL59",
+            "name": "munnipradeepa.n",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14b010e0-a8aa-44cb-ac5b-321e16530594",
+        "type": "message",
+        "text": "Some people have issues with Proctorio because of their anti-virus software since Proctorio is legal spyware, which is why I remove it as soon as I'm finished with my exams. So, if you have anti-virus software, try turning it off before you take the test next time when the professor reopens it for you.",
+        "user": "U05AN015NSX",
+        "ts": "1698117520.733719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+725m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Some people have issues with Proctorio because of their anti-virus software since Proctorio is legal spyware, which is why I remove it as soon as I'm finished with my exams. So, if you have anti-virus software, try turning it off before you take the test next time when the professor reopens it for you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05AN015NSX",
+            "ts": "1698117545.000000"
+        },
+        "thread_ts": "1698117008.331199",
+        "parent_user_id": "U05DJBMDG0L",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05DJBMDG0L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "46BE053F-944F-43DA-84FA-8887AED8D172",
+        "type": "message",
+        "text": "If you have any issues tomorrow, reach out to Professor Howell asap. She will be available during normal business hours. ",
+        "user": "U03LMGXA3FW",
+        "ts": "1698120532.692849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M0c1v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you have any issues tomorrow, reach out to Professor Howell asap"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " She will be available during normal business hours"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698117008.331199",
+        "parent_user_id": "U05DJBMDG0L"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "32332CDC-0493-4CD9-8DBC-05B48892C815",
+        "type": "message",
+        "text": "*Financial Modeling Preview Pro-Sem*\n\nWe are very excited to have Professor Brandon Muirhead come for our Pro-Sem this Friday. He will introduce himself, do a couple demo modeling exercises with us, and share his wisdom. He teaches one of the most popular classes in the program. It is full for next semester with a long wait list. If you’re enrolled or are curious for next year, please come!\n\nIt’s back to normal this week, so it will be from 9:30-10:45am in room w208. A light breakfast will be provided. ",
+        "user": "U03L4GN325D",
+        "ts": "1698164031.243589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BFMNR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Financial Modeling Preview Pro-Sem\n\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "We are very excited to have Professor Brandon Muirhead come for our Pro-Sem this Friday. He will introduce himself, do a couple demo modeling exercises with us, and share his wisdom. He teaches one of the most popular classes in the program. It is full for next semester with a long wait list. If you’re enrolled or are curious for next year, please come!\n\nIt’s back to normal this week, so it will be from 9:30-10:45am in room w208. A light breakfast will be provided. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SZAWQBM4",
+                    "U05GZPFMAA2",
+                    "U03TVL5E0M6"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

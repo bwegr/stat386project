@@ -1,0 +1,581 @@
+[
+    {
+        "client_msg_id": "4F82090E-2E57-4BD8-BE5D-E0D5EB8D0824",
+        "type": "message",
+        "text": "<@U03LKPR8N75> <@U03LK551XFU> <@U03LMGTRFN0> <@U03LG7DG3TP> <@U03LMGX6W1J> <@U03LN7VEH2Q> <@U03LK39EPB5> I do not remember who all said they were not coming, so if you did not RVSP, ignore. If you are coming, send me the email you want your ticket sent to :slightly_smiling_face: ",
+        "user": "U03LMGXA3FW",
+        "ts": "1698680832.162779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0T7JI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LKPR8N75"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LK551XFU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LMGTRFN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LG7DG3TP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LMGX6W1J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LN7VEH2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LK39EPB5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I do not remember who all said they were not coming, so if you did not RVSP, ignore"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " If you are coming, send me the email you want your ticket sent to "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "727DE979-60CD-4180-8DF7-405A7507C7BE",
+        "type": "message",
+        "text": "<mailto:Gabrielzacheu@gmail.com|Gabrielzacheu@gmail.com>",
+        "user": "U03LMGX6W1J",
+        "ts": "1698681744.903429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QH3Ol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:Gabrielzacheu@gmail.com",
+                                "text": "Gabrielzacheu@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "af8409e31c70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-20\/5146521465492_af8409e31c707fc84cb1_72.jpg",
+            "first_name": "Gabriel",
+            "real_name": "Gabriel Henrique Zacheu",
+            "display_name": "Gabriel Zacheu",
+            "team": "T0ZBAEL59",
+            "name": "gabrielzacheu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "4325DED7-91CD-4F3C-BF6A-6F9B71A9A2BA",
+        "type": "message",
+        "text": "<mailto:jared.sturgell@gmail.Com|jared.sturgell@gmail.Com>",
+        "user": "U03LMGTRFN0",
+        "ts": "1698684693.107619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wf09p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:jared.sturgell@gmail.Com",
+                                "text": "jared.sturgell@gmail.Com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "1955b651-fd1f-470f-ae70-a3b0641f5228",
+        "type": "message",
+        "text": "<mailto:Brianbrc@gmail.com|Brianbrc@gmail.com>",
+        "user": "U03LG7DG3TP",
+        "ts": "1698690162.885719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0urfD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:Brianbrc@gmail.com",
+                                "text": "Brianbrc@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "febfb39abef0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-06\/3792562798928_febfb39abef0ab619f9a_72.jpg",
+            "first_name": "Brian",
+            "real_name": "Brian Christensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "brianbrc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Please take the time to fill out this survey. Thanks!",
+        "user": "U03LK551XFU",
+        "ts": "1698700622.750139",
+        "thread_ts": "1698244590.871879",
+        "root": {
+            "client_msg_id": "f6135dd2-0837-4a8f-8165-7ad307cac9f3",
+            "type": "message",
+            "text": "More surveys! :businessparrot: <!channel>\n\nPlease take a few minutes to fill out this form regarding projects for next semester: <https:\/\/forms.gle\/PgPcRFZSjpnBYdxy7>\n\nI'll keep the survey open through this weekend. Thanks!",
+            "user": "U03LCGQP0LW",
+            "ts": "1698244590.871879",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0+43K",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "More surveys! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "businessparrot"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nPlease take a few minutes to fill out this form regarding projects for next semester: "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/forms.gle\/PgPcRFZSjpnBYdxy7"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nI'll keep the survey open through this weekend. Thanks!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0ZBAEL59",
+            "attachments": [
+                {
+                    "image_url": "https:\/\/lh5.googleusercontent.com\/pCwU99MBJ9FsgMniwBmgWy3cPsH4y67Tm47RU-RENnESGE3P65930qyivgquT_hd8rMsoN_tf3E",
+                    "image_width": 800,
+                    "image_height": 600,
+                    "image_bytes": 47419,
+                    "from_url": "https:\/\/forms.gle\/PgPcRFZSjpnBYdxy7",
+                    "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                    "id": 1,
+                    "original_url": "https:\/\/forms.gle\/PgPcRFZSjpnBYdxy7",
+                    "fallback": "Google Docs: Savage Winter Semester Projects",
+                    "text": "Brainstorming opportunity for winter semester (Jan. - Apr. 2024) projects.",
+                    "title": "Savage Winter Semester Projects",
+                    "title_link": "https:\/\/forms.gle\/PgPcRFZSjpnBYdxy7",
+                    "service_name": "Google Docs"
+                }
+            ],
+            "thread_ts": "1698244590.871879",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1698700622.750139",
+            "reply_users": [
+                "U03LK551XFU"
+            ],
+            "replies": [
+                {
+                    "user": "U03LK551XFU",
+                    "ts": "1698700622.750139"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C\/Z1x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please take the time to fill out this survey. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2c2cc3b3-3d81-476d-a20f-8dfccd574e96",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LCGQP0LW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0217f92-6465-4bcb-b610-b5e3af3b0adb",
+        "type": "message",
+        "text": "<!channel> - need responses on another travel question for Scott & Barry.\n\nThey're looking at a potential flight leaving SLC on Dec 31st. Indicate which of the following applies to your situation:\n> :+1::skin-tone-3: - I can fly that afternoon and am okay with the idea - more time in PH!\n> :shrug::skin-tone-3: - I can technically make it, but not the biggest fan.\n> :no_good::skin-tone-3: - I logistically cannot make that work.\nAs context, we're having a bit of difficulty in getting the BYU Travel office to book some of the better-priced flights. We've opened up negotiations (Gretel and I are going to bat on this, guys - probably using up some social capital in the process :joy:). But in the meantime, Barry and Scott want to do a feasibility check for this 31st date. We wouldn't move forward with this plan without circling back to talk as a group how much it would or wouldn't save and have a broader discussion.\n\nThanks for your patience in this red-tape portion of the process. Once we get international flights booked, we'll be able to have some more exciting convos about what sort of fun beach\/cultural\/adventure excursions we want to do! :flag-ph:",
+        "user": "U03LK533VR8",
+        "ts": "1698708932.521269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aAyAD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - need responses on another travel question for Scott & Barry.\n\nThey're looking at a potential flight leaving SLC on Dec 31st. Indicate which of the following applies to your situation:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d-1f3fc",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I can fly that afternoon and am okay with the idea - more time in PH!\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "shrug",
+                                "unicode": "1f937-1f3fc",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I can technically make it, but not the biggest fan.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "no_good",
+                                "unicode": "1f645-1f3fc",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I logistically cannot make that work."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAs context, we're having a bit of difficulty in getting the BYU Travel office to book some of the better-priced flights. We've opened up negotiations (Gretel and I are going to bat on this, guys - probably using up some social capital in the process "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). But in the meantime, Barry and Scott want to do a feasibility check for this 31st date. We wouldn't move forward with this plan without circling back to talk as a group how much it would or wouldn't save and have a broader discussion.\n\nThanks for your patience in this red-tape portion of the process. Once we get international flights booked, we'll be able to have some more exciting convos about what sort of fun beach\/cultural\/adventure excursions we want to do! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flag-ph",
+                                "unicode": "1f1f5-1f1ed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LK533VR8",
+            "ts": "1698710046.000000"
+        },
+        "thread_ts": "1698708932.521269",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698709717.458489",
+        "reply_users": [
+            "U03LCGQP0LW"
+        ],
+        "replies": [
+            {
+                "user": "U03LCGQP0LW",
+                "ts": "1698709717.458489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LK533VR8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U023PGS313M",
+                    "U03LG7DG3TP",
+                    "U03LMGXA3FW",
+                    "U03NW11JH19",
+                    "U03LK551XFU",
+                    "U03L4GLKLTZ",
+                    "U03LK39EPB5",
+                    "U03LN7VEH2Q"
+                ],
+                "count": 8
+            },
+            {
+                "name": "shrug",
+                "users": [
+                    "U03L4GN325D",
+                    "U03LCGQP0LW",
+                    "U03LG779KGD",
+                    "U03LMGX6W1J",
+                    "U03LG7C9P8V",
+                    "U03M8T9K6SU",
+                    "U03LXQFQS3B",
+                    "U03LKPR8N75"
+                ],
+                "count": 8
+            },
+            {
+                "name": "no_good",
+                "users": [
+                    "U03LK4ZPZ4J",
+                    "U03LK39LQ2F"
+                ],
+                "count": 2
+            },
+            {
+                "name": "shrug::skin-tone-3",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-shrugging::skin-tone-4",
+                "users": [
+                    "U03LK385119"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "91a17249-77b7-4a74-8183-deed2cd6325b",
+        "type": "message",
+        "text": "Thanks for doing so much heavy lifting, Jared!",
+        "user": "U03LCGQP0LW",
+        "ts": "1698709717.458489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AJdjR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for doing so much heavy lifting, Jared!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "854c6c8cafe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-15\/5271050025428_854c6c8cafe5c412a0a5_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Poulton",
+            "display_name": "Tanner Poulton",
+            "team": "T0ZBAEL59",
+            "name": "tannerjpoulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698708932.521269",
+        "parent_user_id": "U03LK533VR8",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03L4GN325D",
+                    "U03LMGXA3FW",
+                    "U03M8T9K6SU",
+                    "U03L4GLKLTZ",
+                    "U03LK39EPB5"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

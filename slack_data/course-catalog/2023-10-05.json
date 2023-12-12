@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "FEC095C0-3EB9-4AA0-838F-D8DF52B3C5A9",
+        "type": "message",
+        "text": "Golf!",
+        "user": "U03TVL5QZFA",
+        "ts": "1696558597.204009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5QST+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Golf!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696368456.250229",
+        "parent_user_id": "U03LK52VCQ2"
+    }
+]

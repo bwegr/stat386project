@@ -1,0 +1,106 @@
+[
+    {
+        "client_msg_id": "5df6b181-c2a0-4892-b84c-0f4acccbd130",
+        "type": "message",
+        "text": "Reminder: Stock Pitch Competition Kickoff Meeting tonight at 6pm in room 170 TNRB. We'll be an info session and Q&amp;A for the competition on Nov. 10th.\n\nCome if you have an interest or enjoy:\n• Investing in stocks\n• Talking stocks\n• Interested in joining Silver Fund\n• Like challenging yourself\n• Learning new things\n• Or want to buy a Koenigsegg car, a Richard Mille watch, a Maltese Falcon Yacht, or a Gulfstream jet someday!\n",
+        "user": "U03LMGV8Y12",
+        "ts": "1698335002.118769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JrhfC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reminder: Stock Pitch Competition Kickoff Meeting tonight at 6pm in room 170 TNRB. We'll be an info session and Q&A for the competition on Nov. 10th.\n\nCome if you have an interest or enjoy:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Investing in stocks"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Talking stocks"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Interested in joining Silver Fund"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Like challenging yourself"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Learning new things"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Or want to buy a Koenigsegg car, a Richard Mille watch, a Maltese Falcon Yacht, or a Gulfstream jet someday!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "11faedfd4201",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-16\/4093144696930_11faedfd42013ff3c8c3_72.png",
+            "first_name": "Aaron",
+            "real_name": "Aaron Ranger",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "aarontranger",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

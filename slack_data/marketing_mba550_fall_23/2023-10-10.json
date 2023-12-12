@@ -1,0 +1,152 @@
+[
+    {
+        "client_msg_id": "9d825ec2-5a60-446a-8fff-4cba636154f6",
+        "type": "message",
+        "text": "Office hours Wednesday from 3:30-4:30 Room W329. Happy to help with any questions!",
+        "user": "U03LK4YF3A6",
+        "ts": "1696977883.243199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uFDDg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Office hours Wednesday from 3:30-4:30 Room W329. Happy to help with any questions!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "45932895-69e4-4895-bc88-cb9aedb62ecb",
+        "type": "message",
+        "text": "<https:\/\/www.washingtonpost.com\/parenting\/interactive\/2023\/lego-bricks-colors-history\/?utm_source=instagram&amp;utm_medium=social&amp;utm_campaign=wp_main&amp;crl8_id=67f15f21-0d27-43e9-bab3-799b5c22e145|https:\/\/www.washingtonpost.com\/parenting\/interactive\/2023\/lego-bricks-colors-history\/?utm_source=instagram&amp;utm_medium=social&amp;utm_campaign=wp_main&amp;crl8_id=67f15f21-0d27-43e9-bab3-799b5c22e145>",
+        "user": "U05AN02C0E7",
+        "ts": "1696994925.845069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "78ky6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.washingtonpost.com\/parenting\/interactive\/2023\/lego-bricks-colors-history\/?utm_source=instagram&utm_medium=social&utm_campaign=wp_main&crl8_id=67f15f21-0d27-43e9-bab3-799b5c22e145",
+                                "text": "https:\/\/www.washingtonpost.com\/parenting\/interactive\/2023\/lego-bricks-colors-history\/?utm_source=instagram&utm_medium=social&utm_campaign=wp_main&crl8_id=67f15f21-0d27-43e9-bab3-799b5c22e145"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c8a8b5ae6726",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5361571737781_c8a8b5ae6726bf382cce_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Antuña",
+            "display_name": "Julian Antuña",
+            "team": "T0ZBAEL59",
+            "name": "julian.rosario93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.washingtonpost.com\/parenting\/interactive\/2023\/lego-bricks-colors-history\/?utm_source=instagram&utm_medium=social&utm_campaign=wp_main&crl8_id=67f15f21-0d27-43e9-bab3-799b5c22e145",
+                "image_url": "https:\/\/www.washingtonpost.com\/wp-apps\/imrs.php?src=https:\/\/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com\/public\/TIVRAZAZUZCX7OLVNO3QWIS5HQ.png&w=1200",
+                "image_width": 1200,
+                "image_height": 800,
+                "image_bytes": 204199,
+                "service_icon": "https:\/\/www.washingtonpost.com\/touch-icon-iphone.png",
+                "id": 1,
+                "original_url": "https:\/\/www.washingtonpost.com\/parenting\/interactive\/2023\/lego-bricks-colors-history\/?utm_source=instagram&amp;utm_medium=social&amp;utm_campaign=wp_main&amp;crl8_id=67f15f21-0d27-43e9-bab3-799b5c22e145",
+                "fallback": "Washington Post: How Lego bricks went from five colors to nearly 200",
+                "text": "The Washington Post analyzed Lego’s palette to explore what the color system says about the evolution of the company.",
+                "title": "How Lego bricks went from five colors to nearly 200",
+                "title_link": "https:\/\/www.washingtonpost.com\/parenting\/interactive\/2023\/lego-bricks-colors-history\/?utm_source=instagram&utm_medium=social&utm_campaign=wp_main&crl8_id=67f15f21-0d27-43e9-bab3-799b5c22e145",
+                "service_name": "Washington Post"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "golden_lego",
+                "users": [
+                    "U05AN015NSX",
+                    "U05B0NFT057",
+                    "U05AFDRH8AJ",
+                    "U05H6DGRMRQ",
+                    "U03LXQCJA81"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd1cd782-c244-4c70-9a56-054f180328f9",
+        "type": "message",
+        "text": "Just reminded me of the Lego case class. My favorite so far! :grin:",
+        "user": "U05AN02C0E7",
+        "ts": "1696994949.868499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ntVoQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just reminded me of the Lego case class. My favorite so far! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c8a8b5ae6726",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5361571737781_c8a8b5ae6726bf382cce_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Antuña",
+            "display_name": "Julian Antuña",
+            "team": "T0ZBAEL59",
+            "name": "julian.rosario93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

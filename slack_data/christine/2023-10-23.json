@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "5959be2b-6738-4ac9-8168-6e26b0dbf4f6",
+        "type": "message",
+        "text": "Hi, Christine! I might have missed this info, but should we wait for a Core Classes Envelope to be available, or can we go ahead and add our core for winter semester?",
+        "user": "U05D98WQKFG",
+        "ts": "1698102294.691669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7OMVD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, Christine! I might have missed this info, but should we wait for a Core Classes Envelope to be available, or can we go ahead and add our core for winter semester?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6fd7a278c20f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-26\/5805857994867_6fd7a278c20fc3ee6f9c_72.jpg",
+            "first_name": "Eric",
+            "real_name": "Eric Magalhaes",
+            "display_name": "Eric Magalhaes",
+            "team": "T0ZBAEL59",
+            "name": "ericvmag",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "675a0658-3377-4942-bf4a-8cc467415ba1",
+        "type": "message",
+        "text": "I hope to have sections figured out by the end of next week.  I'll send out an email letting you know which section you have been assigned to.",
+        "user": "U03AVEWPUQN",
+        "ts": "1698102538.020179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qgaca",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hope to have sections figured out by the end of next week.  I'll send out an email letting you know which section you have been assigned to."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698102538.020179",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698265522.731479",
+        "reply_users": [
+            "U05DD0R44G5"
+        ],
+        "replies": [
+            {
+                "user": "U05DD0R44G5",
+                "ts": "1698265522.731479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05BBQDP59N",
+                    "U05D98WQKFG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

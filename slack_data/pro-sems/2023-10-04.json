@@ -1,0 +1,247 @@
+[
+    {
+        "type": "message",
+        "text": ":alert: Marketing Prosem! :alert:\n\nSuper excited to have the one and only Ronell Hugh!\n\n9:30-10:45 in W240 TNRB\n\n(If you feel you would have FOMO, you are welcome to join :wink: )",
+        "files": [
+            {
+                "id": "F05UM7EAVQF",
+                "created": 1696393470,
+                "timestamp": 1696393470,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LCGM9XML",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 1175050,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05UM7EAVQF\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05UM7EAVQF\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UM7EAVQF-317702575f\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UM7EAVQF-317702575f\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UM7EAVQF-317702575f\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UM7EAVQF-317702575f\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 271,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UM7EAVQF-317702575f\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UM7EAVQF-317702575f\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 407,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UM7EAVQF-317702575f\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 452,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UM7EAVQF-317702575f\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 542,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UM7EAVQF-317702575f\/image_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 578,
+                "original_w": 2005,
+                "original_h": 1132,
+                "thumb_tiny": "AwAbADCe8vvJby41DP3z0FVDfzrlZVBVhgjGDTWjka9lbYSFY5PpTbgeY4Vck9smgdtB2FUqwy8bDjJxSl0xgRn6g0qwSpafPGww+foMVGvStVqjJ6McGUdUJ\/Gmucn5QVH1pefamnOOaYjadNw9KrxWaxy+Zx7Vapk3+ok\/3TWRqKN\/8RXFZDY8x9v3dxxSGeVl2GRivpmmVoo2M27jsjNBBIzg4Hem5NP3synJzmmI\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LCGM9XML\/F05UM7EAVQF\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05UM7EAVQF-f88b3a7861",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LCGM9XML",
+        "display_as_bot": false,
+        "ts": "1696431601.379299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iC3b9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Marketing Prosem! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSuper excited to have the one and only Ronell Hugh!\n\n9:30-10:45 in W240 TNRB\n\n(If you feel you would have FOMO, you are welcome to join "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2d399a24-6a1c-4c4f-9ef9-8b8e70bb84fc",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LXQCJA81",
+                    "U05BQNKAUSX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0128b465-9f71-4965-bdcf-ffed8bc5fc86",
+        "type": "message",
+        "text": ":rotating_light: Supply Chain &amp; Ops Pro Sem :rotating_light:\n\n*When*: Friday, October 6th @ 11am\n*Who:* Brian Bowers (President of <https:\/\/hypercraftusa.com\/|Hypercraft>, Board Member of 5G Alliance Utah; former SVP of AP Moller - Maersk; 3-time COO)\n*Where*: TNRB W208 (no Zoom this week since our speaker will be here in person)\n\n*Note:* SCOA members are invited to join us for Costa Vida afterward at 12:30 PM at Kiwanis Park. Please <https:\/\/docs.google.com\/spreadsheets\/d\/12ODHsotfoxULkrgzFYcCHMRuKPCLrdcw83eJepV-i_g\/edit#gid=0|sign up> for a potluck assignment here. We will carpool over for those who want rides.",
+        "user": "U03LCGQP0LW",
+        "ts": "1696447232.643399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+TcB6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Supply Chain & Ops Pro Sem "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "When",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Friday, October 6th @ 11am\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Who: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Brian Bowers (President of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hypercraftusa.com\/",
+                                "text": "Hypercraft"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Board Member of 5G Alliance Utah; former SVP of AP Moller - Maersk; 3-time COO)\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Where",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": TNRB W208 (no Zoom this week since our speaker will be here in person)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Note:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " SCOA members are invited to join us for Costa Vida afterward at 12:30 PM at Kiwanis Park. Please "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/12ODHsotfoxULkrgzFYcCHMRuKPCLrdcw83eJepV-i_g\/edit#gid=0",
+                                "text": "sign up"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for a potluck assignment here. We will carpool over for those who want rides."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "854c6c8cafe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-15\/5271050025428_854c6c8cafe5c412a0a5_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Poulton",
+            "display_name": "Tanner Poulton",
+            "team": "T0ZBAEL59",
+            "name": "tannerjpoulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03LG7C9P8V",
+                    "U03LK533VR8",
+                    "U05BBQG8FTJ",
+                    "U05D98WS6FQ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03M8T9K6SU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "198db157-9823-4dbb-8dc1-8844688a18f2",
+        "type": "message",
+        "text": "Office hours: Today 3:30-4:30  W363\nCome stop by and say hi! Happy to help with any questions!",
+        "user": "U03LK4YF3A6",
+        "ts": "1697656503.651489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NSeca",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Office hours: Today 3:30-4:30  W363\nCome stop by and say hi! Happy to help with any questions!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

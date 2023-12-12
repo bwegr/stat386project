@@ -1,0 +1,241 @@
+[
+    {
+        "type": "message",
+        "text": "Hey Everyone! We have a great MBA networking event coming up! Oct 24th at 6pm in the Hinckley Building East Conference room. We are inviting all past MBA SCA Alumni and friends of the program that what to see BYU MBA's get into strategy or consulting roles!\n\nConsulting Companies committed: *McKinsey, Bain, PwC, Slalom, Cicero, Clozd* (looking to get more to come)\nStrategy Roles\/Companies Committed: *Bill, Dees Limited, School Leadership Alliance, Henry Schein One, Security Metrics, BYU TV* (looking to get more to come)\n\nIf you are interested in Consulting it will be a great opportunity!\n\nIf you are interested in Strategic roles or strategy roles this will be a great opportunity!\n\nMany of these companies are looking for interns and full-time roles or have connections to opportunities!\n\nThere will be a soda bar and Hors d'oeuvres\n*NOW FREE for everyone - we have decided to drop the fee (thank you, anonymous supporter)*\nBusiness Casual",
+        "files": [
+            {
+                "id": "F061V775YH3",
+                "created": 1697734976,
+                "timestamp": 1697734976,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 808575,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061V775YH3\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061V775YH3\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061V775YH3-c003e856fd\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061V775YH3-c003e856fd\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061V775YH3-c003e856fd\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 198,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061V775YH3-c003e856fd\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 265,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061V775YH3-c003e856fd\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061V775YH3-c003e856fd\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 397,
+                "original_w": 793,
+                "original_h": 437,
+                "thumb_tiny": "AwAaADBwl+lIHAk3E4B9BUQU+opwjJ71VwJN6n+M\/wDfNHmL\/f79dtQigEjpTJJt6j+PPH92kMi7T82Tjptpm71NBbg0ARhhxkcU4S4\/+tUY5Tn0pT0\/CoKHFgT70gYg8GmnqKU1aEx+8\/3hQS2DzxQgGDxSEcGgR\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F061V775YH3\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061V775YH3-49a37caeb3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03NW11JH19",
+        "display_as_bot": false,
+        "team": "T0ZBAEL59",
+        "ts": "1697734983.369929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+r0do",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Everyone! We have a great MBA networking event coming up! Oct 24th at 6pm in the Hinckley Building East Conference room. We are inviting all past MBA SCA Alumni and friends of the program that what to see BYU MBA's get into strategy or consulting roles!\n\nConsulting Companies committed:"
+                            },
+                            {
+                                "type": "text",
+                                "text": " McKinsey, Bain, PwC, Slalom, Cicero, Clozd",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (looking to get more to come)\nStrategy Roles\/Companies Committed: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Bill, Dees Limited, School Leadership Alliance, Henry Schein One, Security Metrics, BYU TV ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(looking to get more to come)\n\nIf you are interested in Consulting it will be a great opportunity!\n\nIf you are interested in Strategic roles or strategy roles this will be a great opportunity!\n\nMany of these companies are looking for interns and full-time roles or have connections to opportunities!\n\nThere will be a soda bar and Hors d'oeuvres\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "NOW FREE for everyone - we have decided to drop the fee (thank you, anonymous supporter)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBusiness Casual"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2e2ed237-bb26-4acb-8572-b30f37667305",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AK5J04P7",
+                    "U03LXQCJA81"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7c818e4-a5b2-4625-a54b-c84ceedb3f04",
+        "type": "message",
+        "text": "*Tonight*, Tim Pehrson, the CEO of Integris Health, will be hosting an Information Session for Administrative Summer 2024 internships (<https:\/\/integrisok.com\/careers\/career-development\/administrative-fellowship\/administrative-internship-program>).\n\nThe internships roles in finance, operations, strategy, and HR.\n\nThey will also be discussing part-time remote jobs (10+ hours a week; $15-$17 per hour) that begin in January.\n\n*Date: Thursday, October 19th*\nTime: 5:00 - 6:00 PM MT\nLocation: TNRB W-310\n*Crumbl cookies will be provided\n\nPLEASE REGISTER ON HANDSHAKE AHEAD OF TIME:\n\n<https:\/\/byu.joinhandshake.com\/events\/1401428\/share_preview>",
+        "user": "U03LMGXA3FW",
+        "ts": "1697744580.095199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1kb5A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tonight",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Tim Pehrson, the CEO of Integris Health, will be hosting an Information Session for Administrative Summer 2024 internships ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/integrisok.com\/careers\/career-development\/administrative-fellowship\/administrative-internship-program"
+                            },
+                            {
+                                "type": "text",
+                                "text": ").\n\nThe internships roles in finance, operations, strategy, and HR.\n\nThey will also be discussing part-time remote jobs (10+ hours a week; $15-$17 per hour) that begin in January.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Date: Thursday, October 19th",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTime: 5:00 - 6:00 PM MT\nLocation: TNRB W-310\n*Crumbl cookies will be provided\n\nPLEASE REGISTER ON HANDSHAKE AHEAD OF TIME:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.joinhandshake.com\/events\/1401428\/share_preview"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LMGXA3FW",
+            "ts": "1697744628.000000"
+        }
+    },
+    {
+        "client_msg_id": "54E5C30D-6843-4061-AE18-70314D05F578",
+        "type": "message",
+        "text": "Office hours right now in W325! Happy to help with anything recruiting related you guys need",
+        "user": "U03LG7C5QAH",
+        "ts": "1697750533.355789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8+lEl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Office hours right now in W325! Happy to help with anything recruiting related you guys need"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

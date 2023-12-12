@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "D46A5F83-65AA-4091-966C-FDA18BCFC29B",
+        "type": "message",
+        "text": "Finally picked up some Savage Swag (polos)! I’ll pass them out during class time next Tuesday. \n\nETA on north face jackets are about 3 weeks out. Have to get embroidered. \n\nThe rep I work in the supply chain office to order everything has having been having trouble with bulk ordering “customized” shoes and having available sizes. Hope to have an update with the shoes by our class next Tuesday. ",
+        "user": "U03LK385119",
+        "ts": "1697582248.029619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "scmzz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Finally picked up some Savage Swag (polos)! I’ll pass them out during class time next Tuesday. \n\nETA on north face jackets are about 3 weeks out"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Have to get embroidered"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nThe rep I work in the supply chain office to order everything has having been having trouble with bulk ordering “customized” shoes and having available sizes. Hope to have an update with the shoes by our class next Tuesday"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "1b12450db465",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3684886566439_1b12450db465bd81f446_72.jpg",
+            "first_name": "Tangaloa",
+            "real_name": "Tangaloa Kaufusi",
+            "display_name": "tangaloa",
+            "team": "T0ZBAEL59",
+            "name": "tangaloa.kaufusi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LMGX6W1J",
+                    "U03NW11JH19",
+                    "U03LCGQP0LW",
+                    "U03LG779KGD"
+                ],
+                "count": 4
+            },
+            {
+                "name": "parrotfast",
+                "users": [
+                    "U03LMGX6W1J",
+                    "U03LXQCJA81",
+                    "U03NW11JH19",
+                    "U03LG7C9P8V"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LXQCJA81",
+                    "U03LK533VR8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "athletic_shoe",
+                "users": [
+                    "U03LCGQP0LW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

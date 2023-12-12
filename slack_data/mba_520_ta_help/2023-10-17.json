@@ -1,0 +1,176 @@
+[
+    {
+        "client_msg_id": "69988D86-E6D6-471F-9B8C-5B921A86F635",
+        "type": "message",
+        "text": "Holding office hours in W253",
+        "user": "U03M8T9G2GY",
+        "ts": "1697576667.175559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fvNU9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Holding office hours in W253"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e2baaceaa125",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4005743941443_e2baaceaa125ef9a0992_72.png",
+            "first_name": "Preston",
+            "real_name": "Preston Neilson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "preston.neilson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2D8D6FA7-E6C7-4F1E-9677-BB8517F61069",
+        "type": "message",
+        "text": "Text me your last minute questions! I’m also available by appointment tomorrow or some other time this week if you want to\n\n<tel:(818)861-5295|(818)861-5295>",
+        "user": "U03TVL5QZFA",
+        "ts": "1697586618.685339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xycI4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Text me your last minute questions! I’m also available by appointment tomorrow or some other time this week if you want to\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:(818)861-5295",
+                                "text": "(818)861-5295"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03TVL5QZFA",
+            "ts": "1697586649.000000"
+        }
+    },
+    {
+        "client_msg_id": "9ef546f0-76de-497e-87fa-69a28ca61d6c",
+        "type": "message",
+        "text": "Hi Aaron! Just to double check here, is the TA hour finally happening Thursday 19th 11.30am?",
+        "user": "U05AN02C0E7",
+        "ts": "1697591628.768619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0XEml",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Aaron! Just to double check here, is the TA hour finally happening Thursday 19th 11.30am?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c8a8b5ae6726",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5361571737781_c8a8b5ae6726bf382cce_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Antuña",
+            "display_name": "Julian Antuña",
+            "team": "T0ZBAEL59",
+            "name": "julian.rosario93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697422314.798889",
+        "parent_user_id": "U03LK4YJGQJ"
+    },
+    {
+        "client_msg_id": "6f1eedd4-feaf-4ab5-bd16-5945bc57de62",
+        "type": "message",
+        "text": "Yes, that is correct. I might move it earlier to start at 11, but that depends on if I can get a room reserved for that time as well",
+        "user": "U03LK4YJGQJ",
+        "ts": "1697597690.196189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mOkFJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, that is correct. I might move it earlier to start at 11, but that depends on if I can get a room reserved for that time as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4bfa602a3916",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/4026473552256_4bfa602a39169e79a840_72.jpg",
+            "first_name": "Aaron",
+            "real_name": "Aaron Daines",
+            "display_name": "Aaron Daines",
+            "team": "T0ZBAEL59",
+            "name": "aaron.daines",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697422314.798889",
+        "parent_user_id": "U03LK4YJGQJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN02C0E7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

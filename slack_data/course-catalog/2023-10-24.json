@@ -1,0 +1,259 @@
+[
+    {
+        "client_msg_id": "5616123d-490e-452c-90e3-5c0e70045448",
+        "type": "message",
+        "text": "Any thoughts on Quality Management vs Sourcing and Logistics?",
+        "user": "U05B0NFJ1S5",
+        "ts": "1698201571.666739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UZcpG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any thoughts on Quality Management vs Sourcing and Logistics?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "95bddd7b2943",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5813565093446_95bddd7b2943626dbda2_72.jpg",
+            "first_name": "Ben",
+            "real_name": "Ben Crockett",
+            "display_name": "Ben Crockett",
+            "team": "T0ZBAEL59",
+            "name": "bencrockett3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698201571.666739",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1698545066.757689",
+        "reply_users": [
+            "U03L4GP8ZMM",
+            "U03LCGQP0LW",
+            "U05BBQG8FTJ"
+        ],
+        "replies": [
+            {
+                "user": "U03L4GP8ZMM",
+                "ts": "1698205589.966319"
+            },
+            {
+                "user": "U03LCGQP0LW",
+                "ts": "1698205803.559139"
+            },
+            {
+                "user": "U05BBQG8FTJ",
+                "ts": "1698512929.143209"
+            },
+            {
+                "user": "U05BBQG8FTJ",
+                "ts": "1698512995.561339"
+            },
+            {
+                "user": "U03LCGQP0LW",
+                "ts": "1698545066.757689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "536e80c9-fa0a-43ff-9ace-77e12294e36c",
+        "type": "message",
+        "text": "Thank you Kim, it was super helpful!",
+        "user": "U03L4GP8ZMM",
+        "ts": "1698205540.921459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Yh2E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Kim, it was super helpful!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3dcde8b39ef0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-01\/4458988191716_3dcde8b39ef02e43e475_72.png",
+            "first_name": "Laura",
+            "real_name": "Laura Kerey",
+            "display_name": "Laura",
+            "team": "T0ZBAEL59",
+            "name": "laurakerey77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697125384.093819",
+        "parent_user_id": "U03L4GP8ZMM"
+    },
+    {
+        "client_msg_id": "c34f479d-02c6-4afe-8adf-bbb01d84e25a",
+        "type": "message",
+        "text": "Quality Mngt is a nice class! I suggest it!",
+        "user": "U03L4GP8ZMM",
+        "ts": "1698205589.966319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qc34Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quality Mngt is a nice class! I suggest it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3dcde8b39ef0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-01\/4458988191716_3dcde8b39ef02e43e475_72.png",
+            "first_name": "Laura",
+            "real_name": "Laura Kerey",
+            "display_name": "Laura",
+            "team": "T0ZBAEL59",
+            "name": "laurakerey77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698201571.666739",
+        "parent_user_id": "U05B0NFJ1S5"
+    },
+    {
+        "client_msg_id": "3c0a09cd-1273-4fd1-b32c-bb30044d8913",
+        "type": "message",
+        "text": "Logistics is a great class for developing skills around casing and presenting (mostly soft skills). Probably the lighter of the two classes.\n\nI've heard that quality is better for developing hard skills like lean &amp; six sigma. Quality management is also applicable everywhere and not just in supply chain functions.",
+        "user": "U03LCGQP0LW",
+        "ts": "1698205803.559139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I7LWQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Logistics is a great class for developing skills around casing and presenting (mostly soft skills). Probably the lighter of the two classes.\n\nI've heard that quality is better for developing hard skills like lean & six sigma. Quality management is also applicable everywhere and not just in supply chain functions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "854c6c8cafe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-15\/5271050025428_854c6c8cafe5c412a0a5_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Poulton",
+            "display_name": "Tanner Poulton",
+            "team": "T0ZBAEL59",
+            "name": "tannerjpoulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698201571.666739",
+        "parent_user_id": "U05B0NFJ1S5",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U03M8T9K6SU",
+                    "U03L4GP8ZMM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EC59DB0F-1EF3-4581-B397-0547373A788A",
+        "type": "message",
+        "text": "Hold up— religion classes count towards graduation??",
+        "user": "U0171LYGQ2U",
+        "ts": "1698216676.566259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U73so",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hold up"
+                            },
+                            {
+                                "type": "text",
+                                "text": "—"
+                            },
+                            {
+                                "type": "text",
+                                "text": " religion classes count towards graduation"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "05c7c35bc546",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6059841394263_05c7c35bc546fcdc9ca9_72.png",
+            "first_name": "Kim",
+            "real_name": "Kim Taylor",
+            "display_name": "Kim Taylor",
+            "team": "T0ZBAEL59",
+            "name": "kimberly.tamo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1695759822.402919",
+        "parent_user_id": "U03LK52VCQ2"
+    }
+]

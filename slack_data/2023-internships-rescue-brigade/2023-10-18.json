@@ -1,0 +1,154 @@
+[
+    {
+        "client_msg_id": "A3596BA8-FC44-4B86-8236-C9152409AE8F",
+        "type": "message",
+        "text": "Hola muchachones , los créditos de cada semestre CIS cuentan entre los 64 del MBA aunque se repita el código ?",
+        "user": "U03M8T51VUY",
+        "ts": "1697638971.470449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kdJP8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola muchachones , los créditos de cada semestre CIS cuentan entre los 64 del MBA aunque se repita el código ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C141977D-A33B-4169-BC8C-22A78F89D3D3",
+        "type": "message",
+        "text": "Es lo que Christine me dijo. Podés preguntarle cuantos créditos te faltan para graduarte y te lo debería confirmar",
+        "user": "U03LK4ZPZ4J",
+        "ts": "1697639371.761879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8jBTM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Es lo que Christine me dijo. Podés preguntarle cuantos créditos te faltan para graduarte y te lo debería confirmar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "76b3ba4c9ee5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-03\/4893429811013_76b3ba4c9ee5cb7be525_72.png",
+            "first_name": "Jose",
+            "real_name": "Jose Luis Cardozo",
+            "display_name": "Jose Luis",
+            "team": "T0ZBAEL59",
+            "name": "jlcardozoloverde",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5C0F4402-3BF3-42AE-A23F-99A34774D4C5",
+        "type": "message",
+        "text": "Buenísimo ",
+        "user": "U03M8T51VUY",
+        "ts": "1697640042.123329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dh4dY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Buenísimo "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FF5FB03E-48AD-427A-82AB-43DCFFD8E4C5",
+        "type": "message",
+        "text": "Gracias ",
+        "user": "U03M8T51VUY",
+        "ts": "1697640046.220369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8VnI7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gracias "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

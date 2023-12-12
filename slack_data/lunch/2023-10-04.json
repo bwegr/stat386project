@@ -1,0 +1,328 @@
+[
+    {
+        "client_msg_id": "4117f1e9-118d-409e-a5d9-d81e3f793c51",
+        "type": "message",
+        "text": "Anyone want to grab lunch today? I'm thinking either before 12:00 or after 12:30ish",
+        "user": "U03LXQCJA81",
+        "ts": "1696431333.922889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wZKBJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone want to grab lunch today? I'm thinking either before 12:00 or after 12:30ish"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696431333.922889",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1696432648.374559",
+        "reply_users": [
+            "U03NW11JH19",
+            "U03M8TCTA6L",
+            "U03LXQCJA81",
+            "U03LXQE14NM"
+        ],
+        "replies": [
+            {
+                "user": "U03NW11JH19",
+                "ts": "1696431391.269059"
+            },
+            {
+                "user": "U03M8TCTA6L",
+                "ts": "1696431748.282009"
+            },
+            {
+                "user": "U03LXQCJA81",
+                "ts": "1696431886.514859"
+            },
+            {
+                "user": "U03M8TCTA6L",
+                "ts": "1696431964.061449"
+            },
+            {
+                "user": "U03LXQE14NM",
+                "ts": "1696432648.374559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "09565d66-ca5c-4a97-8210-f7fdc5e413ac",
+        "type": "message",
+        "text": "sure! I'm in Dallas lets go to the reunion tower!:stuck_out_tongue_closed_eyes:",
+        "user": "U03NW11JH19",
+        "ts": "1696431391.269059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d2sh+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure! I'm in Dallas lets go to the reunion tower!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_closed_eyes",
+                                "unicode": "1f61d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696431333.922889",
+        "parent_user_id": "U03LXQCJA81",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "510f88e7-cc1f-49a7-b551-393208e87fbd",
+        "type": "message",
+        "text": "I'd be down for after 12:30!",
+        "user": "U03M8TCTA6L",
+        "ts": "1696431748.282009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QNGGb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd be down for after 12:30!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696431333.922889",
+        "parent_user_id": "U03LXQCJA81",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3d4cce80-7c2a-45b1-bc3e-4aa9127c5247",
+        "type": "message",
+        "text": "<@U03M8TCTA6L> want to meet then in the lounge?",
+        "user": "U03LXQCJA81",
+        "ts": "1696431886.514859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F6cIa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03M8TCTA6L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " want to meet then in the lounge?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696431333.922889",
+        "parent_user_id": "U03LXQCJA81",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U03M8TCTA6L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d76b8010-d562-484c-bcff-4e96bf6969c0",
+        "type": "message",
+        "text": "Let's do it!",
+        "user": "U03M8TCTA6L",
+        "ts": "1696431964.061449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h7xaY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's do it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696431333.922889",
+        "parent_user_id": "U03LXQCJA81",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DB819BC4-4487-4082-BA27-94090D76949B",
+        "type": "message",
+        "text": "I might be in",
+        "user": "U03LXQE14NM",
+        "ts": "1696432648.374559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QpJ45",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I might be in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc176dbcf62e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_72.jpg",
+            "first_name": "Austin",
+            "real_name": "Austin Schofield",
+            "display_name": "Austin Schofield",
+            "team": "T0ZBAEL59",
+            "name": "schofieldda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696431333.922889",
+        "parent_user_id": "U03LXQCJA81",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

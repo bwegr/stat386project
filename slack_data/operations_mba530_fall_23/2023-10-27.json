@@ -1,0 +1,267 @@
+[
+    {
+        "client_msg_id": "3ED1354C-E1FC-4DE1-9C23-C75239D82600",
+        "type": "message",
+        "text": "<@U03LMGYLSR2> Do you know what case we are doing Monday?",
+        "user": "U05DD0QU5MK",
+        "ts": "1698415621.692989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JC465",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LMGYLSR2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Do you know what case we are doing Monday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "gc84bb28974b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c84bb28974bdc5d56235247044ed7d1a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Brandon",
+            "real_name": "Brandon Ward",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "wardbrandonc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698415621.692989",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698415853.971809",
+        "reply_users": [
+            "U03LMGYLSR2",
+            "U05DD0QU5MK"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1698415819.859849"
+            },
+            {
+                "user": "U05DD0QU5MK",
+                "ts": "1698415853.971809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "F1111251-A242-43D3-8688-1B3BE9D5A7B2",
+        "type": "message",
+        "text": "I’ve asked Dan, will @ the channel when I get an update ",
+        "user": "U03LMGYLSR2",
+        "ts": "1698415819.859849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+JbeW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " asked Dan, will @ the channel when I get an update "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698415621.692989",
+        "parent_user_id": "U05DD0QU5MK"
+    },
+    {
+        "client_msg_id": "4D9D664D-996F-4363-89AF-32D417014E46",
+        "type": "message",
+        "text": "Thank you",
+        "user": "U05DD0QU5MK",
+        "ts": "1698415853.971809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VNq2X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "gc84bb28974b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c84bb28974bdc5d56235247044ed7d1a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Brandon",
+            "real_name": "Brandon Ward",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "wardbrandonc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698415621.692989",
+        "parent_user_id": "U05DD0QU5MK"
+    },
+    {
+        "client_msg_id": "B1747B7C-E831-4818-9A06-EAEFDC577BF0",
+        "type": "message",
+        "text": "<!channel> no case on Monday, please be sure to bring your laptops to participate in a game for the class. (Required, educational game)",
+        "user": "U03LMGYLSR2",
+        "ts": "1698416504.874959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rvnr7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " no case on Monday, please be sure to bring your laptops to participate in a game for the class. (Required, educational game)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN015NSX",
+                    "U05AK5FTUSZ",
+                    "U05B0NFJ1S5",
+                    "U05AK5HTE77"
+                ],
+                "count": 4
+            },
+            {
+                "name": "dansnow2",
+                "users": [
+                    "U05BBQCRFU0",
+                    "U05D98WS6FQ",
+                    "U05BBQDP59N",
+                    "U05D1CFKBJT",
+                    "U05DD0QU5MK",
+                    "U05B0NFJ1S5",
+                    "U05B0NHD3LZ",
+                    "U05BQNKAUSX",
+                    "U05AN3RHCBC",
+                    "U05GZPFH7SA"
+                ],
+                "count": 10
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U05DD0R44G5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2bd8e8ed-282c-4ac6-a76a-7e30f1122a0d",
+        "type": "message",
+        "text": "Thanks adam",
+        "user": "U03TVL5E0M6",
+        "ts": "1698416614.557489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZshcW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks adam"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

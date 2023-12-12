@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "be04d40f-125a-416c-82dc-5b1f512eff9c",
+        "type": "message",
+        "text": "It's the sweat stains for me! :laughing:",
+        "user": "U05BBQFJ056",
+        "ts": "1696816860.653069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NJ4UO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's the sweat stains for me! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "0114fc285ea5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-13\/5734585427330_0114fc285ea570cdd820_72.png",
+            "first_name": "Jason",
+            "real_name": "Jason Allred",
+            "display_name": "Jason Allred",
+            "team": "T0ZBAEL59",
+            "name": "jasonallred12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696728349.735929",
+        "parent_user_id": "U03LK4YF3A6"
+    },
+    {
+        "client_msg_id": "F6FB1098-9C6E-41AF-A0EF-0E519CF99FC6",
+        "type": "message",
+        "text": "Without the obvious sweat stains, it wouldn’t have fully captured the true experience! ",
+        "user": "U03LK4YF3A6",
+        "ts": "1696818489.757279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qhEgc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Without the obvious sweat stains, it wouldn’t have fully captured the true experience! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696728349.735929",
+        "parent_user_id": "U03LK4YF3A6"
+    }
+]

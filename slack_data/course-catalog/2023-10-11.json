@@ -1,0 +1,1780 @@
+[
+    {
+        "client_msg_id": "981b1250-fc7c-4866-9e1e-60d84862a8f7",
+        "type": "message",
+        "text": "I'm going to entirely contradict Adam here (sorry haha) - I joined the waitlist for the Fin Modeling class within a week of bidding and over the course of several months I was still 11th on the waitlist. I only got in the day before class started, and that was thanks to the time and professor changing last minute. I'd expect that one to fill up again.",
+        "user": "U03SZAWQBM4",
+        "ts": "1697060881.524839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GmDBo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm going to entirely contradict Adam here (sorry haha) - I joined the waitlist for the Fin Modeling class within a week of bidding and over the course of several months I was still 11th on the waitlist. I only got in the day before class started, and that was thanks to the time and professor changing last minute. I'd expect that one to fill up again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696826099.580379",
+        "parent_user_id": "U05B0NFJ1S5"
+    },
+    {
+        "client_msg_id": "3efd20c7-cfd1-4c8d-bb39-aec680dcb050",
+        "type": "message",
+        "text": "For comparison, I'm in ETA right now and I am one of 7 people in the class.",
+        "user": "U03SZAWQBM4",
+        "ts": "1697060939.890779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jA4Iq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For comparison, I'm in ETA right now and I am one of 7 people in the class."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696826099.580379",
+        "parent_user_id": "U05B0NFJ1S5"
+    },
+    {
+        "client_msg_id": "859e6e42-bfac-46aa-9548-23152782b350",
+        "type": "message",
+        "text": "<@U03SZAWQBM4> How are you liking Entrepreneurship through Acquisition?",
+        "user": "U03LYFFN24R",
+        "ts": "1697064144.499009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r0wGA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03SZAWQBM4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " How are you liking Entrepreneurship through Acquisition?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "44781ea78eb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-03\/5713593038736_44781ea78eb0e4725f14_72.png",
+            "first_name": "Karen",
+            "real_name": "Karen Membreno",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "klmembreno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696826099.580379",
+        "parent_user_id": "U05B0NFJ1S5"
+    },
+    {
+        "client_msg_id": "17985E0A-CD0C-43CB-AA74-3F23EEE019F6",
+        "type": "message",
+        "text": "Haha me and Chad have provided two viewpoints on that class in like 3 diff threads. But I agree with him on this one. I still think it’s one of the most subscribed courses and there are limited spots :man-shrugging::skin-tone-4: ",
+        "user": "U03LMGYLSR2",
+        "ts": "1697064361.520689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+WEst",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha me and Chad have provided two viewpoints on that class in like 3 diff threads"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " But I agree with him on this one"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " I still think "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " one of the most subscribed courses and there are limited spots "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-shrugging",
+                                "unicode": "1f937-1f3fd-200d-2642-fe0f",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696826099.580379",
+        "parent_user_id": "U05B0NFJ1S5"
+    },
+    {
+        "client_msg_id": "76efa25a-f49d-4968-aa1f-1bdfc4d6da3b",
+        "type": "message",
+        "text": "I know right? Maybe we just blast a general chat message about it haha",
+        "user": "U03SZAWQBM4",
+        "ts": "1697064480.662209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sldbK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know right? Maybe we just blast a general chat message about it haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696826099.580379",
+        "parent_user_id": "U05B0NFJ1S5"
+    },
+    {
+        "client_msg_id": "C0F6A41D-74FD-4BE2-A485-A2F79C812225",
+        "type": "message",
+        "text": "Do we have a list of which LDB’s have pre-reqs? And what those pre-reqs are?",
+        "user": "U03LK52VCQ2",
+        "ts": "1697067832.518099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p9tRn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we have a list of which LDB’s have pre-reqs? And what those pre-reqs are?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697067832.518099",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1698450278.564579",
+        "reply_users": [
+            "U03LMGXA3FW",
+            "U03LK52VCQ2",
+            "U05AN015NSX",
+            "U05GZPFMAA2",
+            "U05A7HE11LP",
+            "U03LK3AD1V1"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGXA3FW",
+                "ts": "1697070849.697569"
+            },
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1697070957.006119"
+            },
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697071638.124689"
+            },
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1697075585.268259"
+            },
+            {
+                "user": "U05GZPFMAA2",
+                "ts": "1697084226.753299"
+            },
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1697084803.809109"
+            },
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697085590.627769"
+            },
+            {
+                "user": "U03LK3AD1V1",
+                "ts": "1698450278.564579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1698450278.564579"
+    },
+    {
+        "client_msg_id": "33FE0130-4FAB-4E03-B127-74CFB85C49AA",
+        "type": "message",
+        "text": "Silver Fund, you can start the next semester, the requirement is “investments”, but not strictly mandatory, sometimes is case by case , or with the commitment to take the class the last semester (but if you don’t have a background it’s highly recommended to take the class the next winter)",
+        "user": "U03M8T51VUY",
+        "ts": "1697070634.625419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9aaKR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Silver Fund, you can start the next semester, the requirement is “investments”, but not strictly mandatory, sometimes is case by case , or with the commitment to take the class the last semester (but if you don’t have a background it’s highly recommended to take the class the next winter)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697070634.625419",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1697075594.293369",
+        "reply_users": [
+            "U03LK52VCQ2"
+        ],
+        "replies": [
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1697072658.360199"
+            },
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1697075594.293369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pray::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U05AK5HTE77"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E1077B7E-F8F0-4A01-972E-834DA3116A3F",
+        "type": "message",
+        "text": "For Savage: Logistics &amp; sourcing OR Quality Management is required",
+        "user": "U03LMGXA3FW",
+        "ts": "1697070849.697569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V+sn5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For Savage: Logistics & sourcing OR Quality Management is required"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697067832.518099",
+        "parent_user_id": "U03LK52VCQ2",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22438BF7-06BB-478B-8550-129B887E0C5C",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U03LK52VCQ2",
+        "ts": "1697070957.006119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B+CwO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697067832.518099",
+        "parent_user_id": "U03LK52VCQ2"
+    },
+    {
+        "client_msg_id": "325230f4-29b4-4c0d-9cdf-07980b474b89",
+        "type": "message",
+        "text": "<https:\/\/www.notion.so\/byumba\/LDB-Prerequisite-Courses-ed9b975993e24948ace1f0fef1f113f3|This page> on Notion contains a table of pre-reqs, but you might want to see if the pre-reqs have changed since the page was last updated in Nov. 2022.\n\nSome, but not all, of the pages at this link on the <https:\/\/marriott.byu.edu\/mba\/career\/accelerated-learning\/|MBA website> and this link on <https:\/\/www.notion.so\/byumba\/160adbe37f4d4f77843051d76b200257?v=ca59cd6d55f7493ab77e677a26ce297d|Notion> explain the pre-reqs\/application process.",
+        "user": "U05AN015NSX",
+        "ts": "1697071638.124689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K63OX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/byumba\/LDB-Prerequisite-Courses-ed9b975993e24948ace1f0fef1f113f3",
+                                "text": "This page"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on Notion contains a table of pre-reqs, but you might want to see if the pre-reqs have changed since the page was last updated in Nov. 2022.\n\nSome, but not all, of the pages at this "
+                            },
+                            {
+                                "type": "text",
+                                "text": "link",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " on the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/marriott.byu.edu\/mba\/career\/accelerated-learning\/",
+                                "text": "MBA website"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and this link on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/byumba\/160adbe37f4d4f77843051d76b200257?v=ca59cd6d55f7493ab77e677a26ce297d",
+                                "text": "Notion"
+                            },
+                            {
+                                "type": "text",
+                                "text": " explain the pre-reqs\/application process."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05AN015NSX",
+            "ts": "1697071667.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/marriott.byu.edu\/mba\/career\/accelerated-learning\/",
+                "service_icon": "https:\/\/marriott.byu.edu\/msm\/theme\/variant\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/marriott.byu.edu\/mba\/career\/accelerated-learning\/",
+                "fallback": "MBA Program: Experiential Learning - MBA Program",
+                "text": "Make real business decisions that have real consequences through the BYU MBA experiential learning programs. Students who earn a place in these highly competitive venture capital, big data analytics, or global supply chain courses spend one semester learning concepts and principles from world-class faculty and the next semester managing corporate projects, making the buy\/sell and go\/no-go […]",
+                "title": "Experiential Learning - MBA Program",
+                "title_link": "https:\/\/marriott.byu.edu\/mba\/career\/accelerated-learning\/",
+                "service_name": "MBA Program"
+            }
+        ],
+        "thread_ts": "1697067832.518099",
+        "parent_user_id": "U03LK52VCQ2",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U05H8SL2HFE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d3e4dade-52ab-48bd-9868-4b5399c6c4b5",
+        "type": "message",
+        "text": "Anyone taken real estate analysis?",
+        "user": "U03LK3D5N2X",
+        "ts": "1697072357.437609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8XsoN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone taken real estate analysis?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697072357.437609",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1697082987.178309",
+        "reply_users": [
+            "U03LK533VR8",
+            "U03LK3D5N2X",
+            "U03LG7C5QAH",
+            "U03SZAWQBM4"
+        ],
+        "replies": [
+            {
+                "user": "U03LK533VR8",
+                "ts": "1697073160.290199"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1697073447.760709"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697074502.751739"
+            },
+            {
+                "user": "U03LK533VR8",
+                "ts": "1697074628.623809"
+            },
+            {
+                "user": "U03SZAWQBM4",
+                "ts": "1697074992.035509"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1697082987.178309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5A0058B7-7FB4-4CD5-AF14-C9FDAD900F03",
+        "type": "message",
+        "text": "Thanks, Jesus!",
+        "user": "U03LK52VCQ2",
+        "ts": "1697072658.360199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ny9Sg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Jesus!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697070634.625419",
+        "parent_user_id": "U03M8T51VUY"
+    },
+    {
+        "client_msg_id": "aabd0c6a-542b-4eb0-932b-c4e8ef2c9e0d",
+        "type": "message",
+        "text": "Yes! It's pretty straightforward and interesting but definitely on the chiller side of MBA classes. More for preparing to buy your own home\/investment properties than any sort of commercial real estate &amp; development.",
+        "user": "U03LK533VR8",
+        "ts": "1697073160.290199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4kN5\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes! It's pretty straightforward and interesting but definitely on the chiller side of MBA classes. More for preparing to buy your own home\/investment properties than any sort of commercial real estate & development."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697072357.437609",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "c08497f3-488d-4023-826f-edcb3aed3c05",
+        "type": "message",
+        "text": "Has it been worth the time in your opinion? Or do you feel significantly more prepared to buy a house?",
+        "user": "U03LK3D5N2X",
+        "ts": "1697073447.760709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L\/uAh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has it been worth the time in your opinion? Or do you feel significantly more prepared to buy a house?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697072357.437609",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "7efe5fd4-622b-4538-a56d-d242bc0e6411",
+        "type": "message",
+        "text": "Anyone Taken Advance spreadsheets for business analysis?",
+        "user": "U03TVL5E0M6",
+        "ts": "1697074292.981439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ITCHh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone Taken Advance spreadsheets for business analysis?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03TVL5E0M6",
+            "ts": "1697074984.000000"
+        },
+        "thread_ts": "1697074292.981439",
+        "reply_count": 11,
+        "reply_users_count": 4,
+        "latest_reply": "1697076318.724899",
+        "reply_users": [
+            "U03SZAWQBM4",
+            "U03TVL5E0M6",
+            "U05AN015NSX",
+            "U03LK52VCQ2"
+        ],
+        "replies": [
+            {
+                "user": "U03SZAWQBM4",
+                "ts": "1697074926.256799"
+            },
+            {
+                "user": "U03TVL5E0M6",
+                "ts": "1697075011.949829"
+            },
+            {
+                "user": "U03SZAWQBM4",
+                "ts": "1697075092.468519"
+            },
+            {
+                "user": "U03TVL5E0M6",
+                "ts": "1697075208.738399"
+            },
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697075270.707019"
+            },
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1697075536.830859"
+            },
+            {
+                "user": "U03TVL5E0M6",
+                "ts": "1697075665.304869"
+            },
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697075997.428039"
+            },
+            {
+                "user": "U03TVL5E0M6",
+                "ts": "1697076131.607739"
+            },
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697076220.697449"
+            },
+            {
+                "user": "U03TVL5E0M6",
+                "ts": "1697076318.724899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D278DDF0-F222-49D4-9101-5E9BC3A79A92",
+        "type": "message",
+        "text": "Not to point fingers but I believe <@U03LG776WFP> told us we could learn most of the class in two hours from youtube",
+        "user": "U03LG7C5QAH",
+        "ts": "1697074502.751739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GxT3+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not to point fingers but I believe "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LG776WFP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " told us we could learn most of the class in two hours from youtube"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697072357.437609",
+        "parent_user_id": "U03LK3D5N2X",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U05GZPFMAA2"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06777814-9bfc-4880-a287-85bf00bd470d",
+        "type": "message",
+        "text": "Nothing lifechanging - but interesting enough if you're looking for credits. Really the only work you have is a MT and then a final project about an actual property.",
+        "user": "U03LK533VR8",
+        "ts": "1697074628.623809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kup3M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nothing lifechanging - but interesting enough if you're looking for credits. Really the only work you have is a MT and then a final project about an actual property."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697072357.437609",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "03183df4-1e13-4fbc-89e9-0166971ef792",
+        "type": "message",
+        "text": "Course id?",
+        "user": "U03SZAWQBM4",
+        "ts": "1697074926.256799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "blZQ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Course id?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697074292.981439",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "7fc79b4b-c116-4c5b-879e-6371282624a5",
+        "type": "message",
+        "text": "It's actually one of my favorite classes this semester. Super chill, yet still good info for buying a house.",
+        "user": "U03SZAWQBM4",
+        "ts": "1697074992.035509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7NsEM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's actually one of my favorite classes this semester. Super chill, yet still good info for buying a house."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697072357.437609",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "90248182-4958-4c5a-a33e-55c55d61d5f5",
+        "type": "message",
+        "text": "IS 515",
+        "user": "U03TVL5E0M6",
+        "ts": "1697075011.949829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W\/iqz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IS 515"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697074292.981439",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "3743ec1a-6af0-4676-83c5-58ee19d62d10",
+        "type": "message",
+        "text": "I took that as an undergrad. It teaches you all about Excel on the front end. Then IS 520 teaches VBA. If you're looking to just learn Excel, IS 515 is the class. If you want financial excel skills, take the Financial Modeling MBA class.",
+        "user": "U03SZAWQBM4",
+        "ts": "1697075092.468519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bHi2r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I took that as an undergrad. It teaches you all about Excel on the front end. Then IS 520 teaches VBA. If you're looking to just learn Excel, IS 515 is the class. If you want financial excel skills, take the Financial Modeling MBA class."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697074292.981439",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "c07ed9d2-1eeb-465e-858e-ccbb59333fdf",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U03TVL5E0M6",
+        "ts": "1697075208.738399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcxlo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697074292.981439",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "b22da6c9-abf0-4495-a730-2ed0dab5f49d",
+        "type": "message",
+        "text": "I took IS 515 (Meservy) and 520 (Gove). They structure the classes so you don't need prior programming skills. They were some of the most practical and useful classes I took and gave me several skills that boosted my resume's technical skills section.",
+        "user": "U05AN015NSX",
+        "ts": "1697075270.707019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l\/OtC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I took IS 515 (Meservy) and 520 (Gove). They structure the classes so you don't need prior programming skills. They were some of the most practical and useful classes I took and gave me several skills that boosted my resume's technical skills section."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05AN015NSX",
+            "ts": "1697075298.000000"
+        },
+        "thread_ts": "1697074292.981439",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "15459182-612D-4211-AB7D-147400233D24",
+        "type": "message",
+        "text": "<@U05H8SL2HFE> ",
+        "user": "U03LK52VCQ2",
+        "ts": "1697075536.830859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yY3dB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05H8SL2HFE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697074292.981439",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "4C90E732-1ECD-4CE2-AAA5-64994C78FF71",
+        "type": "message",
+        "text": "<@U05H8SL2HFE> ",
+        "user": "U03LK52VCQ2",
+        "ts": "1697075585.268259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yY3dB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05H8SL2HFE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697067832.518099",
+        "parent_user_id": "U03LK52VCQ2",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U05H8SL2HFE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0103B25F-7E02-49DC-9DFB-B8EA3FE636B7",
+        "type": "message",
+        "text": "<@U05H8SL2HFE> ",
+        "user": "U03LK52VCQ2",
+        "ts": "1697075594.293369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yY3dB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05H8SL2HFE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697070634.625419",
+        "parent_user_id": "U03M8T51VUY"
+    },
+    {
+        "client_msg_id": "185b833c-41cd-4ddb-b2dc-96d00ab8868c",
+        "type": "message",
+        "text": "IS 515 and 520, are they very basic?",
+        "user": "U03TVL5E0M6",
+        "ts": "1697075665.304869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Ad3M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IS 515 and 520, are they very basic?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697074292.981439",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "e0e05531-5a39-4537-8e92-f37c6d0526ac",
+        "type": "message",
+        "text": "I got A's in both classes, but I had prior Excel\/VBA experience. In many ways, the classes are like learning a new language. You don't need to know the language beforehand, but it makes life easier since the classes do get pretty advanced by the end of the semester. If you utilize the TA hours a lot, you will be okay if you don't have prior Excel\/VBA experience. If you want to establish a stronger foundation, IS 501 can help.",
+        "user": "U05AN015NSX",
+        "ts": "1697075997.428039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RQa0K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I got A's in both classes, but I had prior Excel\/VBA experience. In many ways, the classes are like learning a new language. You don't need to know the language beforehand, but it makes life easier since the classes do get pretty advanced by the end of the semester. If you utilize the TA hours a lot, you will be okay if you don't have prior Excel\/VBA experience. If you want to establish a stronger foundation, IS 501 can help."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05AN015NSX",
+            "ts": "1697076100.000000"
+        },
+        "thread_ts": "1697074292.981439",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "b5795dc7-0a35-42a2-970d-9c6d4a7a30db",
+        "type": "message",
+        "text": "I also had this kind of classes as a undergrad in my country, but I wanted to improve in macros for example.",
+        "user": "U03TVL5E0M6",
+        "ts": "1697076131.607739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QmWDf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also had this kind of classes as a undergrad in my country, but I wanted to improve in macros for example."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697074292.981439",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "fa43caf0-7a2b-4367-a197-41b38b8911a4",
+        "type": "message",
+        "text": "Then I would do IS 520.",
+        "user": "U05AN015NSX",
+        "ts": "1697076220.697449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Ab+f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then I would do IS 520."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697074292.981439",
+        "parent_user_id": "U03TVL5E0M6",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U03SZAWQBM4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9ea0b64-741c-4e8b-b5b6-af4427c3b8df",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U03TVL5E0M6",
+        "ts": "1697076318.724899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcxlo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697074292.981439",
+        "parent_user_id": "U03TVL5E0M6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c4957ab1-114a-4526-9f1c-be5f9438681b",
+        "type": "message",
+        "text": "Any one happen to have also taken real estate development? If so, got an opinion between the 2?",
+        "user": "U03LK3D5N2X",
+        "ts": "1697082987.178309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WRX8r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any one happen to have also taken real estate development? If so, got an opinion between the 2?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697072357.437609",
+        "parent_user_id": "U03LK3D5N2X",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U03LK39EPB5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9ee403b-2ad7-4931-982a-54b9054cd5aa",
+        "type": "message",
+        "text": "<@U05AN3RHCBC>",
+        "user": "U05GZPFMAA2",
+        "ts": "1697084226.753299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AR\/xM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05AN3RHCBC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dae6d1b7129e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-25\/6099646149092_dae6d1b7129ed59f3cd8_72.png",
+            "first_name": "Val",
+            "real_name": "Val Fulton",
+            "display_name": "Val",
+            "team": "T0ZBAEL59",
+            "name": "valeriam.fulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697067832.518099",
+        "parent_user_id": "U03LK52VCQ2"
+    },
+    {
+        "client_msg_id": "191cd9ff-9686-4662-b163-a7eaaafa0111",
+        "type": "message",
+        "text": "There is no pre-req for blue forge (it’s not on the notion page)",
+        "user": "U05A7HE11LP",
+        "ts": "1697084803.809109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nGiwE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is no pre-req for blue forge (it’s not on the notion page)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697067832.518099",
+        "parent_user_id": "U03LK52VCQ2",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34085e97-66b3-4742-a342-58a89b23a06e",
+        "type": "message",
+        "text": "<@U05A7HE11LP> You could join <#C01BD1G954Y|club-blue-forge> and see if the people in the group know.",
+        "user": "U05AN015NSX",
+        "ts": "1697085590.627769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rhebo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05A7HE11LP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You could join "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01BD1G954Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and see if the people in the group know."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697067832.518099",
+        "parent_user_id": "U03LK52VCQ2"
+    }
+]

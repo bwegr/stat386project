@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "d746352b-8647-4e44-acbd-e24859523fa2",
+        "type": "message",
+        "text": "Hey Everyone, I sent out an email invite for the MBA Network Event on the 24th. Each of you should have received this email. Can you please send this email out to anyone that you believe would add value to the event?",
+        "user": "U03NW11JH19",
+        "ts": "1697078032.973529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JbokQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Everyone, I sent out an email invite for the MBA Network Event on the 24th. Each of you should have received this email. Can you please send this email out to anyone that you believe would add value to the event?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "134752d1-70e9-43f9-a73a-b2d230eb3886",
+        "type": "message",
+        "text": "Also, Please hype the event up for the 1st and 2nd year students. This will be a great event!",
+        "user": "U03NW11JH19",
+        "ts": "1697078099.919189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hWXKm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, Please hype the event up for the 1st and 2nd year students. This will be a great event!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

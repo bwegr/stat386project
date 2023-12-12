@@ -1,0 +1,347 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697328411.072579",
+        "user": "U03PKR5881E",
+        "text": "<@U03PKR5881E> has joined the channel"
+    },
+    {
+        "client_msg_id": "FA4958DF-8725-418F-8AC6-DF7BC802C6C4",
+        "type": "message",
+        "text": "FYI I just got a flight from SLC to Bentonville on morning of November 8th for $49 on frontier.  ",
+        "user": "U03PKR5881E",
+        "ts": "1697328462.480699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ht1LJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI I just got a flight from SLC to Bentonville on morning of November 8th for $49 on frontier"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697328462.480699",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1697338569.368179",
+        "reply_users": [
+            "U03LK4YF3A6",
+            "U03PKR5881E",
+            "U05AK5GQJ5B"
+        ],
+        "replies": [
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1697329373.592949"
+            },
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1697329486.462549"
+            },
+            {
+                "user": "U03PKR5881E",
+                "ts": "1697330676.121619"
+            },
+            {
+                "user": "U05AK5GQJ5B",
+                "ts": "1697331526.661459"
+            },
+            {
+                "user": "U03PKR5881E",
+                "ts": "1697338569.368179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "676ae7a8-7ca7-4a1a-875f-8d752101895b",
+        "type": "message",
+        "text": "Which one?! that's amazing",
+        "user": "U03LK4YF3A6",
+        "ts": "1697329373.592949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+a9r6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Which one?! that's amazing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697328462.480699",
+        "parent_user_id": "U03PKR5881E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697329377.515669",
+        "user": "U05AFDRH8AJ",
+        "text": "<@U05AFDRH8AJ> has joined the channel"
+    },
+    {
+        "client_msg_id": "7acc6a3d-8da3-4385-807f-2cef264fcb05",
+        "type": "message",
+        "text": "Also are you worried about making it on time? Or no worries there at all? I'm so unfamiliar with the Bentonville city!",
+        "user": "U03LK4YF3A6",
+        "ts": "1697329486.462549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LV1wA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also are you worried about making it on time? Or no worries there at all? I'm so unfamiliar with the Bentonville city!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LK4YF3A6",
+            "ts": "1697329496.000000"
+        },
+        "thread_ts": "1697328462.480699",
+        "parent_user_id": "U03PKR5881E"
+    },
+    {
+        "client_msg_id": "0ACD2028-3584-4F1C-913C-5086DB9AC759",
+        "type": "message",
+        "text": "I think the event is at 1 or 2.  We would get in about noon and the airport is small and 15 minutes away.  I’m trying to save one night of a hotel and I think we can make it ",
+        "user": "U03PKR5881E",
+        "ts": "1697330676.121619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Ss+3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think the event is at 1 or 2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": "  We would get in about noon and the airport is small and 15 minutes away"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " trying to save one night of a hotel and I think we can make it "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697328462.480699",
+        "parent_user_id": "U03PKR5881E"
+    },
+    {
+        "client_msg_id": "8C10376F-778C-406B-B1AF-CEF99F891B0D",
+        "type": "message",
+        "text": "I was looking at that flight as well, but I wasn’t sure about the short window to get to Walmart. Pretty sure the event is at 1pm so it would be tight.",
+        "user": "U05AK5GQJ5B",
+        "ts": "1697331526.661459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f7PTo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was looking at that flight as well, but I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "wasn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sure about the short window to get to Walmart. Pretty sure the event is at 1pm so it would be tight."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21974fb52c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-13\/5916046228688_21974fb52c299059b822_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Nelson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mdnelson07",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697328462.480699",
+        "parent_user_id": "U03PKR5881E"
+    },
+    {
+        "client_msg_id": "958D73C0-078C-4AB4-9FBD-CEB49E493958",
+        "type": "message",
+        "text": "If the majority of the flights do not get in until 1pm I can ask Walmart to start the event at 2 pm ",
+        "user": "U03PKR5881E",
+        "ts": "1697338569.368179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e4NN4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If the majority of the flights do not get in until 1pm I can ask Walmart to start the event at 2 pm "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697328462.480699",
+        "parent_user_id": "U03PKR5881E"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697349056.131289",
+        "user": "U05B0NFT057",
+        "text": "<@U05B0NFT057> has joined the channel"
+    }
+]

@@ -1,0 +1,247 @@
+[
+    {
+        "client_msg_id": "021c155c-e6b7-426a-9577-741cedeaed28",
+        "type": "message",
+        "text": "For those who haven't experienced the testing center before, here are some resources:\n• <https:\/\/testing.byu.edu\/testing-hours|Testing center hours and the forecasted number of people taking tests on each day> (Yesterday was a red day, which means that I would have needed to plan to wait in lines longer; during my undergrad, there were several times where I waited in line 1.5+ hours, here is a <https:\/\/www.youtube.com\/watch?v=z_bfkOZRAJw|7 minute video> of a person walking from start to finish of a testing center line in 2016)\n•  Camera of the testing center lines, both in the BYU app and on the <https:\/\/testing.byu.edu\/|testing center homepage>\n• <https:\/\/testing.byu.edu\/taking-tests|FAQ> \n    ◦ Dress and Grooming Standards are enforced pretty stringently. Haha, they even have razors guys can buy if they forgot to shave and don't have a Beard Waiver. \n• Here is the page of <https:\/\/testing.byu.edu\/my-exams|when late fees happen for each test>. Normally, if you take a test on one of the last days, you are given a $5 fee because the testing center wants to incentivize people to not all take the exam on the last day at the last hour. Our test is due on next Saturday, but Professor Snow told the testing center that the test closes on Tuesday, so currently, the testing center says we won't need to pay a late fee. ",
+        "user": "U05AN015NSX",
+        "ts": "1696617962.322159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1\/ghu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For those who haven't experienced the testing center before, here are some resources:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/testing.byu.edu\/testing-hours",
+                                        "text": "Testing center hours and the forecasted number of people taking tests on each day"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (Yesterday was a red day, which means that I would have needed to plan to wait in lines longer; during my undergrad, there were several times where I waited in line 1.5+ hours, here is a "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/watch?v=z_bfkOZRAJw",
+                                        "text": "7 minute video"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " of a person walking from start to finish of a testing center line in 2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " Camera of the testing center lines, both in the BYU app and on the "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/testing.byu.edu\/",
+                                        "text": "testing center homepage"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/testing.byu.edu\/taking-tests",
+                                        "text": "FAQ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dress and Grooming Standards are enforced pretty stringently. Haha, they even have razors guys can buy if they forgot to shave and don't have a Beard Waiver. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Here is the page of "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/testing.byu.edu\/my-exams",
+                                        "text": "when late fees happen for each test"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". Normally, if you take a test on one of the last days, you are given a $5 fee because the testing center wants to incentivize people to not all take the exam on the last day at the last hour. Our test is due on next Saturday, but Professor Snow told the testing center that the test closes on Tuesday, so currently, the testing center says we won't need to pay a late fee. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05AN015NSX",
+            "ts": "1696618036.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=z_bfkOZRAJw",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/z_bfkOZRAJw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/z_bfkOZRAJw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"INSANE BYU testing center line (2000+ people in line)\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=z_bfkOZRAJw",
+                "fallback": "YouTube Video: INSANE BYU testing center line (2000+ people in line)",
+                "title": "INSANE BYU testing center line (2000+ people in line)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=z_bfkOZRAJw",
+                "author_name": "Robert Bodily",
+                "author_link": "https:\/\/www.youtube.com\/@RobertBodily11",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "thread_ts": "1696617962.322159",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696687255.100369",
+        "reply_users": [
+            "U05BBQDP59N",
+            "U05HW4UU20Y"
+        ],
+        "replies": [
+            {
+                "user": "U05BBQDP59N",
+                "ts": "1696620043.261319"
+            },
+            {
+                "user": "U05HW4UU20Y",
+                "ts": "1696687255.100369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05AN02C0E7",
+                    "U05GZPFBQ7Q"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3FD0CA87-595E-457E-8112-5A51139A5DB9",
+        "type": "message",
+        "text": "As a heads up, if you go in the morning (typically before 10am), it’s usually pretty mellow!",
+        "user": "U05BBQDP59N",
+        "ts": "1696620043.261319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4oxLc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As a heads up, if you go in the morning (typically before 10am), it’s usually pretty mellow!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9d365c02ed39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-08\/5714397176628_9d365c02ed398a6d3fb4_72.png",
+            "first_name": "Kjerstin",
+            "real_name": "Kjerstin Roberts",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "robertskjerstin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696617962.322159",
+        "parent_user_id": "U05AN015NSX",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN015NSX",
+                    "U05AN02C0E7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

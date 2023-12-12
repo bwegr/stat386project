@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "E824961B-AE0B-4BC7-9272-E818DB52522E",
+        "type": "message",
+        "text": "I’m holding office hours right now in room W357",
+        "user": "U03SRBYBAET",
+        "ts": "1696878724.937409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5aF9a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m holding office hours right now in room W357"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6d964c44b7d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3918205904550_6d964c44b7d5cc71f366_72.jpg",
+            "first_name": "Coralee",
+            "real_name": "Coralee Choules",
+            "display_name": "Coralee Choules",
+            "team": "T0ZBAEL59",
+            "name": "coralee.choules",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a33fa2bf-4d68-4af4-a147-1c2790033cee",
+        "type": "message",
+        "text": "I'll be holding my office hours in W261, starting about ~3:45pm",
+        "user": "U03NW11HA9H",
+        "ts": "1696886776.352389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XIn1l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll be holding my office hours in W261, starting about ~3:45pm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6a130392200c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4505166801655_6a130392200ca475659a_72.png",
+            "first_name": "Richie",
+            "real_name": "Richie Connolly",
+            "display_name": "Richie Connolly",
+            "team": "T0ZBAEL59",
+            "name": "richardkconnolly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "user": "U03LMGSGBQC",
+        "ts": "1697048021.618829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCn+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "76a8dfc4bba0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-28\/4574292020339_76a8dfc4bba0c824500d_72.jpg",
+            "first_name": "Caio",
+            "real_name": "Caio Andrezzo",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andrezzocorp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1697047916.655229",
+                "author_id": "U03LMGSGBQC",
+                "channel_id": "CKZ3F37N3",
+                "channel_team": "T0ZBAEL59",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T0ZBAEL59",
+                        "channel": "CKZ3F37N3",
+                        "ts": "1697047916.655229",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "Ndjgg",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Sensiba is here in the atrium today until 2pm!\nThis is a tax and audit consulting company, and they have internships and full time opportunities! They consider international talent "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "wink",
+                                                    "unicode": "1f609"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/byumba.slack.com\/archives\/CKZ3F37N3\/p1697047916655229",
+                "is_share": true,
+                "fallback": "[October 11th, 2023 12:11 PM] andrezzocorp: Sensiba is here in the atrium today until 2pm!\nThis is a tax and audit consulting company, and they have internships and full time opportunities! They consider international talent :wink:",
+                "text": "Sensiba is here in the atrium today until 2pm!\nThis is a tax and audit consulting company, and they have internships and full time opportunities! They consider international talent :wink:",
+                "author_name": "Caio Andrezzo",
+                "author_link": "https:\/\/byumba.slack.com\/team\/U03LMGSGBQC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-12-28\/4574292020339_76a8dfc4bba0c824500d_48.jpg",
+                "author_subname": "Caio Andrezzo",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ]
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "bot_id": "B01ASAAC249",
+        "type": "message",
+        "text": "Which day works best for you?",
+        "user": "U01ADTASMMZ",
+        "ts": "1696377137.405559",
+        "app_id": "A0HFW7MR6",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-2ad2b8fd-f346-4998-a5cf-d7897cad58bb-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Which day works best for you?*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: Edit Poll",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":lock: Close Poll",
+                                "emoji": true
+                            },
+                            "value": "close_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":recycle: Recreate this Poll",
+                                "emoji": true
+                            },
+                            "value": "create_poll_from_recent_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":arrow_heading_down: Promote Poll",
+                                "emoji": true
+                            },
+                            "value": "promote_poll"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-2ad2b8fd-f346-4998-a5cf-d7897cad58bb-vote-46784903",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Monday    `7`\n<@U03M8TCTA6L>, <@U05AK5GQJ5B>, <@U03LXQCJA81>, <@U03LK56AUHG>, <@U03LG75NYSZ>, <@U03LK52CR7U>, <@U05B0NHGDG9>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-46784903",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-2ad2b8fd-f346-4998-a5cf-d7897cad58bb-vote-46784904",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: Tuesday    `3`\n<@U03LK56AUHG>, <@U03LG75NYSZ>, <@U03LK52CR7U>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-46784904",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-2ad2b8fd-f346-4998-a5cf-d7897cad58bb-vote-46784905",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: Wednesday    `6`\n<@U03M8TCTA6L>, <@U05AK5GQJ5B>, <@U05B0NHGDG9>, <@U03LXQCJA81>, <@U03LK56AUHG>, <@U03LK52CR7U>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-46784905",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-2ad2b8fd-f346-4998-a5cf-d7897cad58bb-vote-46784906",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":four: Thursday    `1`\n<@U03LK52CR7U>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-46784906",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":four:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-2ad2b8fd-f346-4998-a5cf-d7897cad58bb-vote-46784907",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":five: Friday    `12`\n<@U03M8TCTA6L>, <@U05AK5GQJ5B>, <@U05BBQD8SKS>, <@U03LXQCEVKK>, <@U05B0NHGDG9>, <@U03LCGQ9L6S>, <@U03LXQCJA81>, <@U03LK56AUHG>, <@U03LG75NYSZ>, <@U03LK52CR7U>, <@U05DW80RSQM>, <@U05AFDSJH70>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-46784907",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":five:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "7CkqK",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Respondents:* `12`",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "add_option_to_poll&2ad2b8fd-f346-4998-a5cf-d7897cad58bb",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "open_unified_modal",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Respond \/ Results",
+                            "emoji": true
+                        },
+                        "style": "primary"
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "8d601",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U03M8TCTA6L> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "bot_profile": {
+            "id": "B01ASAAC249",
+            "app_id": "A0HFW7MR6",
+            "name": "Simple Poll",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_72.png"
+            },
+            "deleted": false,
+            "updated": 1599699711,
+            "team_id": "T0ZBAEL59"
+        },
+        "edited": {
+            "user": "B01ASAAC249",
+            "ts": "1697149025.000000"
+        }
+    },
+    {
+        "client_msg_id": "d2a24266-2cf0-477d-9548-a2c511cc50b1",
+        "type": "message",
+        "text": "Sweet! It looks like we have enough interest. Last semester they usually started at 6:15 AM. I am not married to that time but for those who have morning classes this might be the best time?\n\n You should be allowed to vote more than once. I would love to start next week if we're able to figure everything out this week. <!here>",
+        "user": "U03M8TCTA6L",
+        "ts": "1696377270.623009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DG5qC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sweet! It looks like we have enough interest. Last semester they usually started at 6:15 AM. I am not married to that time but for those who have morning classes this might be the best time?\n\n You should be allowed to vote more than once. I would love to start next week if we're able to figure everything out this week. "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696377270.623009",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696383048.893059",
+        "reply_users": [
+            "U03LXQCJA81",
+            "U03M8TCTA6L"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQCJA81",
+                "ts": "1696381591.187069"
+            },
+            {
+                "user": "U03M8TCTA6L",
+                "ts": "1696383048.893059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a7af2c6f-6c67-4eb0-98ac-a13dafe2b3f8",
+        "type": "message",
+        "text": "If I remember correctly, we started that early because of the 8:00 SWELL classes and the later we get there, the less court availability",
+        "user": "U03LXQCJA81",
+        "ts": "1696381591.187069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V3mF1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If I remember correctly, we started that early because of the 8:00 SWELL classes and the later we get there, the less court availability"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696377270.623009",
+        "parent_user_id": "U03M8TCTA6L",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U03M8TCTA6L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6EF3D96E-6FDE-4641-BEA4-E04FC1246BE4",
+        "type": "message",
+        "text": "Oh yes, that is correct! ",
+        "user": "U03M8TCTA6L",
+        "ts": "1696383048.893059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zem2s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh yes, that is correct! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696377270.623009",
+        "parent_user_id": "U03M8TCTA6L"
+    }
+]

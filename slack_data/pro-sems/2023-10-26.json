@@ -1,0 +1,181 @@
+[
+    {
+        "client_msg_id": "857d394c-eee9-46aa-86ec-463640f2e576",
+        "type": "message",
+        "text": ":fire::fire: Entrepreneurship Pro-Sem :fire::fire:\nThis week's Pro-Sem for entrepreneurship is with <https:\/\/www.linkedin.com\/in\/john-koelliker\/|John Koelliker>. He is the founder+CEO of Leland, a marketplace for ambitious people to access the coaching, classes, and community they need to reach career and educational goals. Join us tomorrow in W308 at 11 am! Prior to business school, he worked in several tech companies, both growth venture and more established (LinkedIn). He started Leland as a student and since graduating, has raised $4m+ and nailed product market fit.",
+        "user": "U03LG776WFP",
+        "ts": "1698348957.499399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "URtYz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Entrepreneurship Pro-Sem "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThis week's Pro-Sem for entrepreneurship is with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/john-koelliker\/",
+                                "text": "John Koelliker"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". He is the founder+CEO of Leland, a marketplace for ambitious people to access the coaching, classes, and community they need to reach career and educational goals. Join us tomorrow in W308 at 11 am! Prior to business school, he worked in several tech companies, both growth venture and more established (LinkedIn). He started Leland as a student and since graduating, has raised $4m+ and nailed product market fit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "ab1623974cd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-09\/4767396297015_ab1623974cd0a9d234d2_72.jpg",
+            "first_name": "Hunter",
+            "real_name": "Hunter Schenewark",
+            "display_name": "Hunter Schenewark",
+            "team": "T0ZBAEL59",
+            "name": "hunterschenewark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LG7BV35K",
+                    "U03LG776WFP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03L4GT3B55"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":alert: REMINDER! :alert:\n\nAaron Robinson from Kodiak Cakes!\n\n9:30-10:45 in W240 TNRB, but Aaron will be cooking flapjacks starting at 9, so come early!!!",
+        "files": [
+            {
+                "id": "F062MCTRMAT",
+                "created": 1698373813,
+                "timestamp": 1698373813,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LCGM9XML",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 255649,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062MCTRMAT\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062MCTRMAT\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062MCTRMAT-b1820540d4\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062MCTRMAT-b1820540d4\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062MCTRMAT-b1820540d4\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 204,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062MCTRMAT-b1820540d4\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 272,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062MCTRMAT-b1820540d4\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "original_w": 719,
+                "original_h": 408,
+                "thumb_tiny": "AwAbADC3c3Ig4A3Oe1Q\/aZyp3xDaRziobj\/j7fd61IjfIwLHA9uvFJsaVyuyBCDksjdDnFIXj\/un\/vqpzby\/Z2GznIIGearKK2TujJ6Dt8f9xv8AvqkLoQcKwPruoxSEHFMRqT2yyncOG9ajhtmjK7myqnJyat02X\/VP\/umsTUz1S4FyHKtjdnPtUUzKZ5CvQtxUe9tu3c230zxTa0jGxnKVx+f85ppJx2pKKok\/\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LCGM9XML\/F062MCTRMAT\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F062MCTRMAT-7466c87ba1",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LCGM9XML",
+        "display_as_bot": false,
+        "ts": "1698373820.128309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f8jg0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "text",
+                                "text": " REMINDER! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAaron Robinson from Kodiak Cakes!\n\n9:30-10:45 in W240 TNRB, but Aaron will be cooking flapjacks starting at 9, so come early!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0bdbd545-5de9-4d78-9c85-c3d4556bfc7f",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03L57R4HN3",
+                    "U05DD0R44G5"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

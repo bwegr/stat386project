@@ -1,0 +1,131 @@
+[
+    {
+        "client_msg_id": "BB91F54E-3E77-40CB-9ED9-2DA95B7E80C2",
+        "type": "message",
+        "text": "<@U05BQNKAUSX> and I are doing an endowment session next Friday (Oct. 20) at 7am at the Provo temple if anyone wants to join!",
+        "user": "U05BBQDP59N",
+        "ts": "1696858766.288219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v4vUj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05BQNKAUSX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I are doing an endowment session next Friday (Oct"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " 20) at 7am at the Provo temple if anyone wants to join!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9d365c02ed39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-08\/5714397176628_9d365c02ed398a6d3fb4_72.png",
+            "first_name": "Kjerstin",
+            "real_name": "Kjerstin Roberts",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "robertskjerstin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03L57R4HN3",
+                    "U05BBQFJ056",
+                    "U03PKR5881E"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U03LK4YBK7C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FE319654-27FB-4777-A556-DDB8EA97ED9A",
+        "type": "message",
+        "text": "<@U03LK4YF3A6> and I are going to be going to the 4pm endowment session at Provo this Friday. :) Anyone welcome to join! :heart: ",
+        "user": "U03LK4YBK7C",
+        "ts": "1696915957.035359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZVTZ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK4YF3A6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I are going to be going to the 4pm endowment session at Provo this Friday. :) Anyone welcome to join! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9269f939505a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-09\/5895560464112_9269f939505a8d44f86b_72.png",
+            "first_name": "Kirsi",
+            "real_name": "Kirsi Jarvis",
+            "display_name": "Kirsi Jarvis",
+            "team": "T0ZBAEL59",
+            "name": "kirsijarvis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05BBQDP59N",
+                    "U03LK4YF3A6"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

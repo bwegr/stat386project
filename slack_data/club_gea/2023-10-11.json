@@ -1,0 +1,392 @@
+[
+    {
+        "client_msg_id": "3E8D0EB7-0989-4EB7-92C2-E58BB84CFA0A",
+        "type": "message",
+        "text": "Hi! I’m working on my class schedule for next semester and wondering what’s the difference btwn Advanced Studio Venture and Venture Studio Practicum? They are on the same day and at the time. The Practicum class said it’s priority for second years, but that’s the requirement for Blue Forge? Am I missing something?! :woman-facepalming::skin-tone-4: ",
+        "user": "U05B0NHD3LZ",
+        "ts": "1697052837.021679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZKjpP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " working on my class schedule for next semester and wondering "
+                            },
+                            {
+                                "type": "text",
+                                "text": "what’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the difference btwn Advanced Studio Venture and Venture Studio Practicum? They are on the same day and at the time. The Practicum class said "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " priority for second years, but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "that’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the requirement for Blue Forge? Am I missing something?! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-facepalming",
+                                "unicode": "1f926-1f3fd-200d-2640-fe0f",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dbbf1fbb3088",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-22\/5930352146870_dbbf1fbb3088d1bed2d7_72.png",
+            "first_name": "Kalie",
+            "real_name": "Kalie Johnson",
+            "display_name": "Kalie Johnson",
+            "team": "T0ZBAEL59",
+            "name": "kaliej424",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697052837.021679",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1697059656.557019",
+        "reply_users": [
+            "U03NW11HA9H",
+            "U03LCGL1GK0",
+            "U03M8T8358Q",
+            "U05A7HE11LP"
+        ],
+        "replies": [
+            {
+                "user": "U03NW11HA9H",
+                "ts": "1697055131.759399"
+            },
+            {
+                "user": "U03LCGL1GK0",
+                "ts": "1697057517.019839"
+            },
+            {
+                "user": "U03M8T8358Q",
+                "ts": "1697058236.033869"
+            },
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1697059586.156769"
+            },
+            {
+                "user": "U03M8T8358Q",
+                "ts": "1697059656.557019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "531c495b-2d54-47a8-b48f-67afb23baf6c",
+        "type": "message",
+        "text": "I think they are both \"Blue Forge\" and it probably won't matter which you pick -- but maybe <@U03M8T8358Q> can confirm?",
+        "user": "U03NW11HA9H",
+        "ts": "1697055131.759399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZgsUO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think they are both \"Blue Forge\" and it probably won't matter which you pick -- but maybe "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03M8T8358Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can confirm?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6a130392200c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4505166801655_6a130392200ca475659a_72.png",
+            "first_name": "Richie",
+            "real_name": "Richie Connolly",
+            "display_name": "Richie Connolly",
+            "team": "T0ZBAEL59",
+            "name": "richardkconnolly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697052837.021679",
+        "parent_user_id": "U05B0NHD3LZ"
+    },
+    {
+        "client_msg_id": "34fe9886-c6a3-41aa-9599-f97417a28de8",
+        "type": "message",
+        "text": "I think the system is just a little funny. Typically practicum would be the first semester of your second year, and the advanced venture studio would be the second semester. I would ask Tom Peterson. You'll need to talk to him anyway if you want into the class.",
+        "user": "U03LCGL1GK0",
+        "ts": "1697057517.019839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UP7mX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think the system is just a little funny. Typically practicum would be the first semester of your second year, and the advanced venture studio would be the second semester. I would ask Tom Peterson. You'll need to talk to him anyway if you want into the class."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9e5d4c92387a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3684719193415_9e5d4c92387a9ab3fd0b_72.jpg",
+            "first_name": "S.",
+            "real_name": "S. Kirk Tompkinson",
+            "display_name": "S. Kirk Tompkinson",
+            "team": "T0ZBAEL59",
+            "name": "kirk.tompkinson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697052837.021679",
+        "parent_user_id": "U05B0NHD3LZ"
+    },
+    {
+        "client_msg_id": "C3F8F56E-71D9-4B1A-A06C-95035BB19EF5",
+        "type": "message",
+        "text": "They’re both the same thing <@U05B0NHD3LZ>. Talk with Tom and you should get in just fine. Might be an add code erroneously needed. ",
+        "user": "U03M8T8358Q",
+        "ts": "1697058236.033869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wFYDo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " both the same thing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05B0NHD3LZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Talk with Tom and you should get in just fine"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Might be an add code erroneously needed"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "ff3f537d623a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3685033028583_ff3f537d623a81b81d8e_72.png",
+            "first_name": "Ben",
+            "real_name": "Ben Rasmussen",
+            "display_name": "Ben Rasmussen",
+            "team": "T0ZBAEL59",
+            "name": "benrasmus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697052837.021679",
+        "parent_user_id": "U05B0NHD3LZ"
+    },
+    {
+        "client_msg_id": "C14A2219-6D57-4F63-BC93-E0DC2448F499",
+        "type": "message",
+        "text": "Can you do blue forge and cougar capital? Guessing no… ",
+        "user": "U05A7HE11LP",
+        "ts": "1697059586.156769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zEMtS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you do blue forge and cougar capital? Guessing no"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697052837.021679",
+        "parent_user_id": "U05B0NHD3LZ"
+    },
+    {
+        "client_msg_id": "78BFE730-F0BE-4312-A205-AA300CE9FC24",
+        "type": "message",
+        "text": "You can do both prereq classes unless there’s a time conflict. If so, I’ll get Tom to move his class. ",
+        "user": "U03M8T8358Q",
+        "ts": "1697059656.557019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XDMgB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can do both prereq classes unless "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a time conflict"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " If so, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " get Tom to move his class"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "ff3f537d623a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3685033028583_ff3f537d623a81b81d8e_72.png",
+            "first_name": "Ben",
+            "real_name": "Ben Rasmussen",
+            "display_name": "Ben Rasmussen",
+            "team": "T0ZBAEL59",
+            "name": "benrasmus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697052837.021679",
+        "parent_user_id": "U05B0NHD3LZ"
+    }
+]

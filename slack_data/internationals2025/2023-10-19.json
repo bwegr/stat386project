@@ -1,0 +1,154 @@
+[
+    {
+        "client_msg_id": "5114b6b9-894e-46e9-9211-02089f2f0669",
+        "type": "message",
+        "text": "Hey, I know we have the Lunch &amp; Learn scheduled for tomorrow, but the Alumni event happening is also very important.\nShawna will cancel tomorrow's Lunch &amp; Learn so you can prioritize the Alumni event. Check your emails for her message on that!",
+        "user": "U03LMGSGBQC",
+        "ts": "1697750908.852179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2UVB1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, I know we have the Lunch & Learn scheduled for tomorrow, but the Alumni event happening is also very important.\nShawna will cancel tomorrow's Lunch & Learn so you can prioritize the Alumni event. Check your emails for her message on that!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "76a8dfc4bba0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-28\/4574292020339_76a8dfc4bba0c824500d_72.jpg",
+            "first_name": "Caio",
+            "real_name": "Caio Andrezzo",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andrezzocorp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fa3fa73a-8e98-4417-be0a-bd95076f5f47",
+        "type": "message",
+        "text": "Do you have the link to register for tomorrow?",
+        "user": "U03TVL5E0M6",
+        "ts": "1697753943.852909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y9JU3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you have the link to register for tomorrow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "40a94804-09c3-4d02-b1a2-38aed2a13963",
+        "type": "message",
+        "text": "I believe the registration is closed. If you are not registered, talk to Kirsten from the MBA office, she is the best!",
+        "user": "U03LMGSGBQC",
+        "ts": "1697754239.526519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rt4s9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe the registration is closed. If you are not registered, talk to Kirsten from the MBA office, she is the best!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "76a8dfc4bba0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-28\/4574292020339_76a8dfc4bba0c824500d_72.jpg",
+            "first_name": "Caio",
+            "real_name": "Caio Andrezzo",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andrezzocorp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "282fc0be-696e-4fde-b001-feac018ab1cd",
+        "type": "message",
+        "text": "Thanks caio!",
+        "user": "U03TVL5E0M6",
+        "ts": "1697766421.398219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ksHJT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks caio!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

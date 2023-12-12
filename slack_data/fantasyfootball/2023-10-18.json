@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "acfdce34-92b7-4ccf-85ea-083ce23860a1",
+        "type": "message",
+        "text": "The real question to ponder is whether I had a late night or early morning haha.",
+        "user": "U05DD0R2J6R",
+        "ts": "1697652642.537219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7w2hB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The real question to ponder is whether I had a late night or early morning haha."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9f2aa0222f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-23\/5782069155622_9f2aa0222f3469b2f8ea_72.jpg",
+            "first_name": "Danny",
+            "real_name": "Danny Gundersen",
+            "display_name": "Danny Gundersen",
+            "team": "T0ZBAEL59",
+            "name": "gundydc1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697539345.740059",
+        "parent_user_id": "U05DD0R2J6R",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK533VR8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

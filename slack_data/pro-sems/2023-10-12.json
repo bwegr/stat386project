@@ -1,0 +1,103 @@
+[
+    {
+        "type": "message",
+        "text": "Here's the deck that was presented during this pro sem if anyone is interested",
+        "files": [
+            {
+                "id": "F060RDXQ4K0",
+                "created": 1697141349,
+                "timestamp": 1697141349,
+                "name": "Creating Your MBA Experience Pro Sem (1).pptx",
+                "title": "Creating Your MBA Experience Pro Sem (1).pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "U03LK52VCQ2",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 3689965,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060RDXQ4K0\/creating_your_mba_experience_pro_sem__1_.pptx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060RDXQ4K0\/download\/creating_your_mba_experience_pro_sem__1_.pptx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060RDXQ4K0-67b8b52ac2\/creating_your_mba_experience_pro_sem__1__converted.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060RDXQ4K0-67b8b52ac2\/creating_your_mba_experience_pro_sem__1__thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 619,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK52VCQ2\/F060RDXQ4K0\/creating_your_mba_experience_pro_sem__1_.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060RDXQ4K0-ee5a254a11",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LK52VCQ2",
+        "display_as_bot": false,
+        "ts": "1697141360.241329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y\/0Uz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's the deck that was presented during this pro sem if anyone is interested"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9cb234bf-6a4a-4dbc-8283-583a1a3cb641",
+        "thread_ts": "1696543873.261019",
+        "parent_user_id": "U03LK52VCQ2"
+    },
+    {
+        "client_msg_id": "c3c8e9b6-55e8-44b4-b672-71a607dd4303",
+        "type": "message",
+        "text": "Reminder that there are NO pro sems tomorrow, just the MBA-wide party above ^^^",
+        "user": "U03LK52VCQ2",
+        "ts": "1697145221.787069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IoUDV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reminder that there are NO pro sems tomorrow, just the MBA-wide party above ^^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

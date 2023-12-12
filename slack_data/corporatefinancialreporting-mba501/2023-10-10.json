@@ -1,0 +1,156 @@
+[
+    {
+        "client_msg_id": "3A54C23F-F044-407B-84EF-F06BED636FF8",
+        "type": "message",
+        "text": "Any TAs available to meet today and tomorrow for a bit?",
+        "user": "U05A7HE11LP",
+        "ts": "1696958083.040139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DKrhF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any TAs available to meet today and tomorrow for a bit?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0001d577-f5f7-4c08-985b-6fdcfa293d5a",
+        "type": "message",
+        "text": "TA hours now in the lounge",
+        "user": "U03LK39EPB5",
+        "ts": "1696973431.672519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xNweN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TA hours now in the lounge"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e0115ac8-18cd-4486-a578-2d96488b4a95",
+        "type": "message",
+        "text": "Nope, but it will just be every Tuesday from 3:15 and I'll post the room right before",
+        "user": "U03LK39EPB5",
+        "ts": "1696974698.931349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tiRUL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nope, but it will just be every Tuesday from 3:15 and I'll post the room right before"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1695054250.849449",
+        "parent_user_id": "U03LK39EPB5"
+    },
+    {
+        "client_msg_id": "8A71B007-7940-4693-ADD5-CFC7E3EF2324",
+        "type": "message",
+        "text": "TA hours in room W357",
+        "user": "U03SRBYBAET",
+        "ts": "1696979342.406029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lwT2\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TA hours in room W357"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6d964c44b7d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3918205904550_6d964c44b7d5cc71f366_72.jpg",
+            "first_name": "Coralee",
+            "real_name": "Coralee Choules",
+            "display_name": "Coralee Choules",
+            "team": "T0ZBAEL59",
+            "name": "coralee.choules",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

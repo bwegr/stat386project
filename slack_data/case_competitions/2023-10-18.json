@@ -1,0 +1,175 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "user": "U03LCGM9XML",
+        "ts": "1697658259.453779",
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe4a9879d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Parry",
+            "display_name": "Evan Parry",
+            "team": "T0ZBAEL59",
+            "name": "evanparry13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1697037444.678519",
+                "author_id": "U03LCGM9XML",
+                "channel_id": "D0434792GDP",
+                "channel_team": "T0ZBAEL59",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T0ZBAEL59",
+                        "channel": "D0434792GDP",
+                        "ts": "1697037444.678519",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "B0Ylg",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "alert"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Dell Case Competition"
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "alert"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nThe Dell case competition is fast approaching. Get your favorite people together to take down your foes and win some sweet prizes!\n\nDeadline to sign up will be "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "10\/27, ",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "kickoff will be "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "10\/30",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nDM me if you have any specific questions!\n\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfSiD80dRWXnJlho3jKO0PjVwJ8unJRnF5TuVaPJ_QDlaasaw\/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link",
+                                                    "text": "Case Competition Sign-up Form"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F0612KZ114H",
+                        "created": 1697037359,
+                        "timestamp": 1697037359,
+                        "name": "image.png",
+                        "title": "image.png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U03LCGM9XML",
+                        "user_team": "T0ZBAEL59",
+                        "editable": false,
+                        "size": 1010909,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0612KZ114H\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0612KZ114H\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KZ114H-3e66ccb3b1\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KZ114H-3e66ccb3b1\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KZ114H-3e66ccb3b1\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 200,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KZ114H-3e66ccb3b1\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 267,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KZ114H-3e66ccb3b1\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KZ114H-3e66ccb3b1\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 401,
+                        "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KZ114H-3e66ccb3b1\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 445,
+                        "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KZ114H-3e66ccb3b1\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 534,
+                        "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KZ114H-3e66ccb3b1\/image_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_1024_w": 1024,
+                        "thumb_1024_h": 570,
+                        "original_w": 2026,
+                        "original_h": 1127,
+                        "thumb_tiny": "AwAaADC35nPNJLKokjBPTLUtyApDDv2qtIjMBIuTgYYe1AF4HzI8q2Ce\/pTVOf8AlqCfpTLIEQ8+tPIwen04oAT94Sf3m0dsqKULJn\/XA+20Uvzen6UqZzQBnyu91cFYhkDp7e9X0j2xBTyR1plkALZcADPWp6AGRqETavApp256mnjrQfvCgAH3etIv40rdKaB81AH\/2Q==",
+                        "permalink": "https:\/\/byumba.slack.com\/files\/U03LCGM9XML\/F0612KZ114H\/image.png",
+                        "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0612KZ114H-a014a44e0c",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/byumba.slack.com\/archives\/D0434792GDP\/p1697037444678519",
+                "is_share": true,
+                "fallback": "[October 11th, 2023 9:17 AM] evanparry13: :alert:Dell Case Competition:alert:\n\nThe Dell case competition is fast approaching. Get your favorite people together to take down your foes and win some sweet prizes!\n\nDeadline to sign up will be *10\/27,* kickoff will be *10\/30*\n\nDM me if you have any specific questions!\n\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfSiD80dRWXnJlho3jKO0PjVwJ8unJRnF5TuVaPJ_QDlaasaw\/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link|Case Competition Sign-up Form>",
+                "text": ":alert:Dell Case Competition:alert:\n\nThe Dell case competition is fast approaching. Get your favorite people together to take down your foes and win some sweet prizes!\n\nDeadline to sign up will be *10\/27,* kickoff will be *10\/30*\n\nDM me if you have any specific questions!\n\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfSiD80dRWXnJlho3jKO0PjVwJ8unJRnF5TuVaPJ_QDlaasaw\/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link|Case Competition Sign-up Form>",
+                "author_name": "Evan Parry",
+                "author_link": "https:\/\/byumba.slack.com\/team\/U03LCGM9XML",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_48.jpg",
+                "author_subname": "Evan Parry",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrotfast",
+                "users": [
+                    "U03LK4YF3A6",
+                    "U03LMGYLSR2"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

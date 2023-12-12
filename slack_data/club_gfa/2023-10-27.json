@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "text": "For those coming to this morning's exciting financial modeling preview, Professor Muirhead would like us to have this file for some exercises he will do with us. See you soon!",
+        "files": [
+            {
+                "id": "F0631J89B8V",
+                "created": 1698413355,
+                "timestamp": 1698413355,
+                "name": "Formatting Exercises 2023 (clean).xlsx",
+                "title": "Formatting Exercises 2023 (clean).xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U03L4GN325D",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 16992,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0631J89B8V\/formatting_exercises_2023__clean_.xlsx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0631J89B8V\/download\/formatting_exercises_2023__clean_.xlsx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0631J89B8V-4ffa6cfca7\/formatting_exercises_2023__clean__converted.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0631J89B8V-4ffa6cfca7\/formatting_exercises_2023__clean__thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03L4GN325D\/F0631J89B8V\/formatting_exercises_2023__clean_.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0631J89B8V-2d3ec9e464",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03L4GN325D",
+        "display_as_bot": false,
+        "ts": "1698413366.703529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cEtz1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For those coming to this morning's exciting financial modeling preview, Professor Muirhead would like us to have this file for some exercises he will do with us. See you soon!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8458b40e-5d60-4a6b-b74a-76fa4105c62b"
+    }
+]

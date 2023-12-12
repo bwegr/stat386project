@@ -1,0 +1,470 @@
+[
+    {
+        "client_msg_id": "5f23eef6-6623-48b5-9367-d5d2c8bf572e",
+        "type": "message",
+        "text": "Do you know if SFL - 110 Food Preparation in the Home counts as an MBA elective?",
+        "user": "U03LG763EKF",
+        "ts": "1697476047.675289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LpHrg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you know if SFL - 110 Food Preparation in the Home counts as an MBA elective?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "03e5b59a8e77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-24\/5789663321062_03e5b59a8e771db2ddf3_72.jpg",
+            "first_name": "Ricardo",
+            "real_name": "Ricardo Rodriguez",
+            "display_name": "Ricardo Rodriguez",
+            "team": "T0ZBAEL59",
+            "name": "wricrod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697476047.675289",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1697480418.527449",
+        "reply_users": [
+            "U03SZAWQBM4",
+            "U03LK52VCQ2",
+            "U03LG763EKF"
+        ],
+        "replies": [
+            {
+                "user": "U03SZAWQBM4",
+                "ts": "1697476183.196529"
+            },
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1697476793.798659"
+            },
+            {
+                "user": "U03LG763EKF",
+                "ts": "1697476820.387069"
+            },
+            {
+                "user": "U03SZAWQBM4",
+                "ts": "1697480418.527449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "03d9c511-ed7d-453f-9f65-cff760470ccc",
+        "type": "message",
+        "text": "You get 9 credits max of non-MBA courses, they need to be 300 or 400 level and you need prior approval from Christine. I'd be very surprised if that counted.",
+        "user": "U03SZAWQBM4",
+        "ts": "1697476183.196529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0iSd0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You get 9 credits max of non-MBA courses, they need to be 300 or 400 level and you need prior approval from Christine. I'd be very surprised if that counted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697476047.675289",
+        "parent_user_id": "U03LG763EKF",
+        "reactions": [
+            {
+                "name": "point_up_2::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "777b0292-9432-4530-90eb-ce6d121ab2b0",
+        "type": "message",
+        "text": "It also needs to be related to your post-graduate profession.",
+        "user": "U03LK52VCQ2",
+        "ts": "1697476793.798659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8LWFL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It also needs to be related to your post-graduate profession."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697476047.675289",
+        "parent_user_id": "U03LG763EKF"
+    },
+    {
+        "client_msg_id": "38ddac08-8004-434f-9a99-16a3e1fbb35a",
+        "type": "message",
+        "text": "aaaw :disappointed:",
+        "user": "U03LG763EKF",
+        "ts": "1697476820.387069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e+r\/S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aaaw "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "03e5b59a8e77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-24\/5789663321062_03e5b59a8e771db2ddf3_72.jpg",
+            "first_name": "Ricardo",
+            "real_name": "Ricardo Rodriguez",
+            "display_name": "Ricardo Rodriguez",
+            "team": "T0ZBAEL59",
+            "name": "wricrod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697476047.675289",
+        "parent_user_id": "U03LG763EKF"
+    },
+    {
+        "client_msg_id": "d4479386-f693-4b3f-a72e-4c4e61297428",
+        "type": "message",
+        "text": "Is anyone in Adv Strategy Analytics (MBA 593R) and can shed some light on it?",
+        "user": "U03LG7C5QAH",
+        "ts": "1697480226.020479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bYzy8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is anyone in Adv Strategy Analytics (MBA 593R) and can shed some light on it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697480226.020479",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1697599570.074279",
+        "reply_users": [
+            "U03LK39PKRR",
+            "U03LCGQP0LW",
+            "U03L4GP8ZMM",
+            "U05DD0R2J6R",
+            "U03LG7C5QAH"
+        ],
+        "replies": [
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1697480896.556969"
+            },
+            {
+                "user": "U03LCGQP0LW",
+                "ts": "1697493439.874429"
+            },
+            {
+                "user": "U03L4GP8ZMM",
+                "ts": "1697497737.482469"
+            },
+            {
+                "user": "U05DD0R2J6R",
+                "ts": "1697539197.010779"
+            },
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1697589835.024389"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697599570.074279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e9f9f470-56ce-4287-9959-f6a6702004dc",
+        "type": "message",
+        "text": "Pretty sure you can still take it - it just doesn't count towards graduation credit requirements",
+        "user": "U03SZAWQBM4",
+        "ts": "1697480418.527449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hpX+C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pretty sure you can still take it - it just doesn't count towards graduation credit requirements"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697476047.675289",
+        "parent_user_id": "U03LG763EKF",
+        "reactions": [
+            {
+                "name": "point_up_2::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U03M8T51VUY",
+                    "U0171LYGQ2U"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba12e8d1-7f0e-4d9c-b601-679e091deafa",
+        "type": "message",
+        "text": "<@U03LG7C5QAH> Yes! I took it last semester and am currently the TA for it. Happy to shed light on anything!",
+        "user": "U03LK39PKRR",
+        "ts": "1697480896.556969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W6iH5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LG7C5QAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes! I took it last semester and am currently the TA for it. Happy to shed light on anything!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697480226.020479",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "cbf7ddcd-820c-4f44-a17f-c62803c2ba9c",
+        "type": "message",
+        "text": "Do it!",
+        "user": "U03LCGQP0LW",
+        "ts": "1697493439.874429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WEDBb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "854c6c8cafe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-15\/5271050025428_854c6c8cafe5c412a0a5_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Poulton",
+            "display_name": "Tanner Poulton",
+            "team": "T0ZBAEL59",
+            "name": "tannerjpoulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697480226.020479",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "906E4C9A-48C0-4B79-947D-0F060375DA4B",
+        "type": "message",
+        "text": "I’m thinking about it too!",
+        "user": "U03L4GP8ZMM",
+        "ts": "1697497737.482469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H\/naK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m thinking about it too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3dcde8b39ef0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-01\/4458988191716_3dcde8b39ef02e43e475_72.png",
+            "first_name": "Laura",
+            "real_name": "Laura Kerey",
+            "display_name": "Laura",
+            "team": "T0ZBAEL59",
+            "name": "laurakerey77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697480226.020479",
+        "parent_user_id": "U03LG7C5QAH",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7C5QAH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

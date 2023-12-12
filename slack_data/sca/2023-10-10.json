@@ -1,0 +1,181 @@
+[
+    {
+        "client_msg_id": "a0deb5a7-2ff9-441b-bb6c-31b0b27ba80d",
+        "type": "message",
+        "text": "Attention everyone! Slalom Consulting is coming to do an info session on *Wednesday 18th at 6 p.m*. in room TNBR W122. Slalom is an international based consulting firm that does all sorts of consulting. Slalom in Salt Lake focuses on Workforce Transformation. Slalom is SLC is open to full-time students and slalom in the US and globally is looking for interns and full-time.\n\n <https:\/\/www.slalom.com\/>\n<https:\/\/www.linkedin.com\/company\/slalom-consulting\/>",
+        "user": "U03NW11JH19",
+        "ts": "1697000865.266209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Jhel",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Attention everyone! Slalom Consulting is coming to do an info session on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Wednesday 18th at 6 p.m",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". in room TNBR W122. Slalom is an international based consulting firm that does all sorts of consulting. Slalom in Salt Lake focuses on Workforce Transformation. Slalom is SLC is open to full-time students and slalom in the US and globally is looking for interns and full-time.\n\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.slalom.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.slalom.com\/",
+                "thumb_url": "https:\/\/www.slalom.com\/sites\/default\/files\/2022-10\/refresh22-home-seo-810x560.jpg",
+                "thumb_width": 810,
+                "thumb_height": 560,
+                "id": 1,
+                "original_url": "https:\/\/www.slalom.com\/",
+                "fallback": "Slalom",
+                "text": "Slalom is a global consulting firm focused on strategy, technology, and business transformation.",
+                "title": "Slalom",
+                "title_link": "https:\/\/www.slalom.com\/",
+                "service_name": "Slalom"
+            },
+            {
+                "from_url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/D560BAQF1_gvyfp0Djg\/company-logo_200_200\/0\/1688224371804\/slalom_consulting_logo?e=2147483647&v=beta&t=WFzLMihDKb_z6gFJmX2nec239mgAECDB4i1p3cL73xg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 2,
+                "original_url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "fallback": "Slalom | LinkedIn",
+                "text": "Slalom | 218,807 followers on LinkedIn. We help people and organizations dream bigger, move faster, and build better tomorrows for all. | Slalom is a purpose-led, global business and technology consulting company. Our purpose—to help people and organizations dream bigger, move faster, and build better tomorrows for all—guides everything we do. And our north star is our vision of a world in which each person has the opportunity to love their life and work.",
+                "title": "Slalom | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "service_name": "linkedin.com"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hey Everyone! We have a great MBA networking event coming up! Oct 24th at 6pm in the Hinckley Building East Conference room. There will be all sorts of great companies represented there! Including but not limited to McKinsey, Bain, PWC, Slalom, Cicero, Bill, and many more! We are inviting all past MBA SCA Alumni and friends of the program that what to see BYU MBA's get into strategy or consulting roles!\n\nThere will be a soda bar and Hors d'oeuvres\nFree for SCA members and $3 for non-members\nBusiness Casual",
+        "files": [
+            {
+                "id": "F0606E6KRSB",
+                "created": 1697001292,
+                "timestamp": 1697001292,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 672413,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0606E6KRSB\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0606E6KRSB\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0606E6KRSB-691b3b5a82\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0606E6KRSB-691b3b5a82\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0606E6KRSB-691b3b5a82\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0606E6KRSB-691b3b5a82\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 269,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0606E6KRSB-691b3b5a82\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0606E6KRSB-691b3b5a82\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 404,
+                "original_w": 793,
+                "original_h": 445,
+                "thumb_tiny": "AwAaADBwl+lIHAk3E4B9BUQU+opwjLd6q4EnmKf4z\/3zR5i\/3j167ahHFAJHTNUSTb1H8eeP7tIZF2n5iTj+7Tdx7k0hbg0gIwwGCV496cJSKiz8v4UEnnntUFEhYE4PWkDEdDTfSirQmSbz\/eoycH5uKRaQ9DTEf\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F0606E6KRSB\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0606E6KRSB-7c11a29de0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03NW11JH19",
+        "display_as_bot": false,
+        "ts": "1697001800.140409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gYpC8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Everyone! We have a great MBA networking event coming up! Oct 24th at 6pm in the Hinckley Building East Conference room. There will be all sorts of great companies represented there! Including but not limited to McKinsey, Bain, PWC, Slalom, Cicero, Bill, and many more! We are inviting all past MBA SCA Alumni and friends of the program that what to see BYU MBA's get into strategy or consulting roles!\n\nThere will be a soda bar and Hors d'oeuvres\nFree for SCA members and $3 for non-members\nBusiness Casual"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "de194b63-045c-428e-a9a1-4e498b97709d",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05AN3TCTSN",
+                    "U05AK5HTE77"
+                ],
+                "count": 2
+            },
+            {
+                "name": "call_me_hand",
+                "users": [
+                    "U03UV6770V9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,1778 @@
+[
+    {
+        "client_msg_id": "f6135dd2-0837-4a8f-8165-7ad307cac9f3",
+        "type": "message",
+        "text": "More surveys! :businessparrot: <!channel>\n\nPlease take a few minutes to fill out this form regarding projects for next semester: <https:\/\/forms.gle\/PgPcRFZSjpnBYdxy7>\n\nI'll keep the survey open through this weekend. Thanks!",
+        "user": "U03LCGQP0LW",
+        "ts": "1698244590.871879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0+43K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "More surveys! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "businessparrot"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPlease take a few minutes to fill out this form regarding projects for next semester: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/PgPcRFZSjpnBYdxy7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI'll keep the survey open through this weekend. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "854c6c8cafe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-15\/5271050025428_854c6c8cafe5c412a0a5_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Poulton",
+            "display_name": "Tanner Poulton",
+            "team": "T0ZBAEL59",
+            "name": "tannerjpoulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh5.googleusercontent.com\/pCwU99MBJ9FsgMniwBmgWy3cPsH4y67Tm47RU-RENnESGE3P65930qyivgquT_hd8rMsoN_tf3E",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 47419,
+                "from_url": "https:\/\/forms.gle\/PgPcRFZSjpnBYdxy7",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/PgPcRFZSjpnBYdxy7",
+                "fallback": "Google Docs: Savage Winter Semester Projects",
+                "text": "Brainstorming opportunity for winter semester (Jan. - Apr. 2024) projects.",
+                "title": "Savage Winter Semester Projects",
+                "title_link": "https:\/\/forms.gle\/PgPcRFZSjpnBYdxy7",
+                "service_name": "Google Docs"
+            }
+        ],
+        "thread_ts": "1698244590.871879",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698700622.750139",
+        "reply_users": [
+            "U03LK551XFU"
+        ],
+        "replies": [
+            {
+                "user": "U03LK551XFU",
+                "ts": "1698700622.750139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U023PGS313M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F3E9690A-FED1-4B80-9DA0-95F43ECCCCEA",
+        "type": "message",
+        "text": "Just a reminder, I don’t know about you guys but I am down to cut the extra shirt we would get for our presentation (just use the one we got yesterday). If I remember it right that would already save $100 . Just a thought of a place to cut",
+        "user": "U03LG779KGD",
+        "ts": "1698244814.313429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LVg4N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just a reminder"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "text",
+                                "text": " I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " know about you guys but I am down to cut the extra shirt we would get for our presentation (just use the one we got yesterday"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")."
+                            },
+                            {
+                                "type": "text",
+                                "text": " If I remember it right that would already save $100 . Just a thought of a place to cut"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4c81f56cddb5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4055541249281_4c81f56cddb58a01ad12_72.jpg",
+            "first_name": "Marcos",
+            "real_name": "Marcos Orfila",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mmarcosgoog",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698191458.567159",
+        "parent_user_id": "U03L4GLKLTZ",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U03LKPR8N75"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D561102A-8B2D-4B7F-8A5E-57901ACFEE67",
+        "type": "message",
+        "text": "I thought they already purchased all the swag",
+        "user": "U03NW11JH19",
+        "ts": "1698244905.848379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f3K79",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought they already purchased all the swag"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698191458.567159",
+        "parent_user_id": "U03L4GLKLTZ"
+    },
+    {
+        "client_msg_id": "52575790-497B-4109-B90F-536FDF291A84",
+        "type": "message",
+        "text": "Good question, I just remembered Scott mentioning something about not getting the presentation shirts ",
+        "user": "U03LG779KGD",
+        "ts": "1698244961.920599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Yq6z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good question, I just remembered Scott mentioning something about not getting the presentation shirts "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4c81f56cddb5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4055541249281_4c81f56cddb58a01ad12_72.jpg",
+            "first_name": "Marcos",
+            "real_name": "Marcos Orfila",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mmarcosgoog",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698191458.567159",
+        "parent_user_id": "U03L4GLKLTZ"
+    },
+    {
+        "client_msg_id": "464349cc-9b96-490b-9d95-936cf2afc689",
+        "type": "message",
+        "text": "There are a lot of moving parts at this point on the travel side so don't internalize any numbers yet :sweat_smile:\n\nOnce we get flights booked and a better idea of hotels and excursions at those locations, it will be easier to see remaining budget for additional nice-to-haves. (the additional shirt Scott mentioned is about a potential second polo for our presentations).",
+        "user": "U03LK533VR8",
+        "ts": "1698245093.896079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "syHI+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are a lot of moving parts at this point on the travel side so don't internalize any numbers yet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOnce we get flights booked and a better idea of hotels and excursions at those locations, it will be easier to see remaining budget for additional nice-to-haves. (the additional shirt Scott mentioned is about a potential second polo for our presentations)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698191458.567159",
+        "parent_user_id": "U03L4GLKLTZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LK551XFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67479687-9e19-4f6a-b613-f0b9deee98b1",
+        "type": "message",
+        "text": "And while doing Tanner's survey, vote on one more travel related question below! :airplane:\n\nIf we were to fly out in two different groups (but still fly home on same flight together), which option below would you be more interested in? You're not committed to your vote at this point, just polling!\n\n&gt; :one: - Fly out of SLC on morning of Jan 1 and get an extra day in the Philippines.\n&gt; :two: - Fly out of SLC on morning of Jan 2.\n&gt; :no_entry_sign: - Neither are great. Something else, please (add a comment)",
+        "user": "U03LK533VR8",
+        "ts": "1698245177.865919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0VcCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And while doing Tanner's survey, vote on one more travel related question below! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "airplane",
+                                "unicode": "2708-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIf we were to fly out in two different groups (but still fly home on same flight together), which option below would you be more interested in? You're not committed to your vote at this point, just polling!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Fly out of SLC on morning of Jan 1 and get an extra day in the Philippines.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Fly out of SLC on morning of Jan 2.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "no_entry_sign",
+                                "unicode": "1f6ab"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Neither are great. Something else, please (add a comment)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698245177.865919",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698247228.227979",
+        "reply_users": [
+            "U03LKPR8N75",
+            "U03LK533VR8"
+        ],
+        "replies": [
+            {
+                "user": "U03LKPR8N75",
+                "ts": "1698247181.892239"
+            },
+            {
+                "user": "U03LK533VR8",
+                "ts": "1698247228.227979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U03LK533VR8",
+                    "U03NW11JH19",
+                    "U03LXQFQS3B",
+                    "U03LG7C9P8V",
+                    "U03LMGX6W1J",
+                    "U03LN7VEH2Q",
+                    "U03LG779KGD",
+                    "U03LMGXA3FW",
+                    "U023PGS313M",
+                    "U03LG7DG3TP",
+                    "U03L4GLKLTZ",
+                    "U03LK39EPB5"
+                ],
+                "count": 12
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U03LK4ZPZ4J",
+                    "U03LCGQP0LW",
+                    "U03L4GN325D",
+                    "U03M8T9K6SU",
+                    "U03LK39LQ2F",
+                    "U03LG779KGD",
+                    "U03LXQCJA81",
+                    "U03LKPR8N75",
+                    "U03LK551XFU",
+                    "U03LMGTRFN0",
+                    "U03LK385119"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8FB396F5-4677-4267-AA35-0482C1530C81",
+        "type": "message",
+        "text": "Is one cheaper than the other at this moment? I know you’ve said there are so many moving parts and it’s probably impossible to tell",
+        "user": "U03LKPR8N75",
+        "ts": "1698247181.892239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZuM6I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is one cheaper than the other at this moment? I know "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " said there are so many moving parts and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " probably impossible to tell"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67476f8f74f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-27\/3730625234548_67476f8f74f9500769f9_72.jpg",
+            "first_name": "Orson",
+            "real_name": "Orson Ellsworth",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "orson.ells",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698245177.865919",
+        "parent_user_id": "U03LK533VR8"
+    },
+    {
+        "client_msg_id": "1620AF55-E730-4430-A004-7BB2DF04F4DC",
+        "type": "message",
+        "text": "About the same price - and at the individual level it won’t matter as these sorts of costs are bundled across the group",
+        "user": "U03LK533VR8",
+        "ts": "1698247228.227979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oTggj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "About the same price - and at the individual level it "
+                            },
+                            {
+                                "type": "text",
+                                "text": "won’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " matter as these sorts of costs are bundled across the group"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698245177.865919",
+        "parent_user_id": "U03LK533VR8"
+    },
+    {
+        "client_msg_id": "4E05803B-8F83-46F8-9EC4-97C8D71303D8",
+        "type": "message",
+        "text": "There is a uniform budget that we have not used yet. ",
+        "user": "U03LK551XFU",
+        "ts": "1698248030.373529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gx\/ne",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is a uniform budget that we have not used yet. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698191458.567159",
+        "parent_user_id": "U03L4GLKLTZ"
+    },
+    {
+        "client_msg_id": "8CE15D72-1A7C-4C48-90E1-F378E6D715BF",
+        "type": "message",
+        "text": "Is the scholarship money supposed to be deposited before our study abroad payment is due? ",
+        "user": "U03LK39LQ2F",
+        "ts": "1698272925.920079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pPQE7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is the scholarship money supposed to be deposited before our study abroad payment is due? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "127e7339b511",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4045053911267_127e7339b511c9e7bfca_72.png",
+            "first_name": "Ashli",
+            "real_name": "Ashli Asay",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ashliasay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698272925.920079",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698282395.473879",
+        "reply_users": [
+            "U03LK551XFU"
+        ],
+        "replies": [
+            {
+                "user": "U03LK551XFU",
+                "ts": "1698282395.473879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "68179471-30F4-4FFF-BC7F-ACD52534F289",
+        "type": "message",
+        "text": "My understanding is we never get the money in our accounts. ",
+        "user": "U03LK551XFU",
+        "ts": "1698282395.473879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pMMPt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My understanding is we never get the money in our accounts"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698272925.920079",
+        "parent_user_id": "U03LK39LQ2F"
+    },
+    {
+        "client_msg_id": "683f1618-80a7-4f73-9e7a-09e76dca98ac",
+        "type": "message",
+        "text": "Jazz Game Details:\n*If you can no longer come, please let me know ASAP so we can find someone else to fill your spot*\n\nDate\/Time: Thursday Nov 2, 7pm (this is next Thursday)\nLogistics: *We are going to have a group taking the 5:16pm FrontRunner (free with your BYU ID) from Provo.* If you would like to drive yourself to the Delta Center, you are responsible for your own parking.\n\n*Please message me (or comment in this thread) the email address you would like your ticket sent to.* You will be prompted to create (or sign into) a SeatGeek account to access the ticket, so if you have a SeatGeek account already send me the email associated with it.",
+        "user": "U03LMGXA3FW",
+        "ts": "1698285541.747149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n64lc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jazz Game Details:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "If you can no longer come, please let me know ASAP so we can find someone else to fill your spot",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDate\/Time: Thursday Nov 2, 7pm (this is next Thursday)\nLogistics: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "We are going to have a group taking the 5:16pm FrontRunner (free with your BYU ID) from Provo.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " If you would like to drive yourself to the Delta Center, you are responsible for your own parking.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Please message me (or comment in this thread) the email address you would like your ticket sent to.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " You will be prompted to create (or sign into) a SeatGeek account to access the ticket, so if you have a SeatGeek account already send me the email associated with it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "reply_count": 16,
+        "reply_users_count": 16,
+        "latest_reply": "1698690162.885719",
+        "reply_users": [
+            "U03LK533VR8",
+            "U03L4GLKLTZ",
+            "U03LK385119",
+            "U03LG7C9P8V",
+            "U03LXQFQS3B",
+            "U03L4GN325D",
+            "U03M8T9K6SU",
+            "U03LCGQP0LW",
+            "U03LXQCJA81",
+            "U023PGS313M",
+            "U03LG779KGD",
+            "U03LK4ZPZ4J",
+            "U03LMGXA3FW",
+            "U03LMGX6W1J",
+            "U03LMGTRFN0",
+            "U03LG7DG3TP"
+        ],
+        "replies": [
+            {
+                "user": "U03LK533VR8",
+                "ts": "1698285573.426289"
+            },
+            {
+                "user": "U03L4GLKLTZ",
+                "ts": "1698286035.878709"
+            },
+            {
+                "user": "U03LK385119",
+                "ts": "1698287663.542279"
+            },
+            {
+                "user": "U03LG7C9P8V",
+                "ts": "1698288119.291179"
+            },
+            {
+                "user": "U03LXQFQS3B",
+                "ts": "1698288590.597819"
+            },
+            {
+                "user": "U03L4GN325D",
+                "ts": "1698292735.374409"
+            },
+            {
+                "user": "U03M8T9K6SU",
+                "ts": "1698292926.632839"
+            },
+            {
+                "user": "U03LCGQP0LW",
+                "ts": "1698293297.868869"
+            },
+            {
+                "user": "U03LXQCJA81",
+                "ts": "1698298463.948669"
+            },
+            {
+                "user": "U023PGS313M",
+                "ts": "1698328787.108899"
+            },
+            {
+                "user": "U03LG779KGD",
+                "ts": "1698332608.311629"
+            },
+            {
+                "user": "U03LK4ZPZ4J",
+                "ts": "1698333283.593029"
+            },
+            {
+                "user": "U03LMGXA3FW",
+                "ts": "1698680832.162779"
+            },
+            {
+                "user": "U03LMGX6W1J",
+                "ts": "1698681744.903429"
+            },
+            {
+                "user": "U03LMGTRFN0",
+                "ts": "1698684693.107619"
+            },
+            {
+                "user": "U03LG7DG3TP",
+                "ts": "1698690162.885719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1698690162.885719",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03LK533VR8",
+                    "U03L4GN325D",
+                    "U03LXQCJA81",
+                    "U023PGS313M",
+                    "U03LXQFQS3B",
+                    "U03LMGX6W1J"
+                ],
+                "count": 6
+            },
+            {
+                "name": "jazz",
+                "users": [
+                    "U03LK533VR8",
+                    "U03LG7C9P8V",
+                    "U03L4GN325D",
+                    "U03LCGQP0LW",
+                    "U03LXQCJA81",
+                    "U03LXQFQS3B",
+                    "U03LMGX6W1J"
+                ],
+                "count": 7
+            },
+            {
+                "name": "the_horns::skin-tone-4",
+                "users": [
+                    "U03LK385119"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f4393fd-5ae7-4e36-bcbf-4c1d282c63ed",
+        "type": "message",
+        "text": "<mailto:dyer.jaredj@gmail.com|dyer.jaredj@gmail.com>",
+        "user": "U03LK533VR8",
+        "ts": "1698285573.426289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GUHLJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:dyer.jaredj@gmail.com",
+                                "text": "dyer.jaredj@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "4232caf8-1d7e-4ba8-8cac-060685a66e58",
+        "type": "message",
+        "text": "<mailto:greteltam@gmail.com|greteltam@gmail.com>",
+        "user": "U03L4GLKLTZ",
+        "ts": "1698286035.878709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xPK7a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:greteltam@gmail.com",
+                                "text": "greteltam@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4e7196d104cf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-11\/3933734501588_4e7196d104cf80cb4cab_72.png",
+            "first_name": "Gretel",
+            "real_name": "Gretel Tam",
+            "display_name": "Gretel",
+            "team": "T0ZBAEL59",
+            "name": "greteltam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "F3D5387E-E93B-48C2-9AA2-E5ACDADC350A",
+        "type": "message",
+        "text": "<mailto:tangaloa.kaufusi@gmail.com|tangaloa.kaufusi@gmail.com>",
+        "user": "U03LK385119",
+        "ts": "1698287663.542279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lntj2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:tangaloa.kaufusi@gmail.com",
+                                "text": "tangaloa.kaufusi@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "1b12450db465",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3684886566439_1b12450db465bd81f446_72.jpg",
+            "first_name": "Tangaloa",
+            "real_name": "Tangaloa Kaufusi",
+            "display_name": "tangaloa",
+            "team": "T0ZBAEL59",
+            "name": "tangaloa.kaufusi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "1C8E3D82-F7F0-4BE2-85C2-3BDCA66B8B48",
+        "type": "message",
+        "text": "<mailto:Hyrum.dean@gmail.com|Hyrum.dean@gmail.com>",
+        "user": "U03LG7C9P8V",
+        "ts": "1698288119.291179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oNelU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:Hyrum.dean@gmail.com",
+                                "text": "Hyrum.dean@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4f3bd79ef29c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-26\/5487388985763_4f3bd79ef29c7560553f_72.png",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Dean",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.dean",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "66caf67f-1f96-4538-87da-c936aa4cf094",
+        "type": "message",
+        "text": "<mailto:jhcrandall@gmail.com|jhcrandall@gmail.com>",
+        "user": "U03LXQFQS3B",
+        "ts": "1698288590.597819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2fPCT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:jhcrandall@gmail.com",
+                                "text": "jhcrandall@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3bfb7137657e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-07\/4063615469025_3bfb7137657ec172494c_72.jpg",
+            "first_name": "Justin",
+            "real_name": "Justin Crandall",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jhcrandall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1698292515.254619",
+        "thread_ts": "1698292515.254619",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1698294978.968009",
+        "reply_users": [
+            "U03LMGTRFN0",
+            "U03LK533VR8",
+            "U03M8T9K6SU",
+            "U03NW11JH19",
+            "U03LK551XFU"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGTRFN0",
+                "ts": "1698292562.688959"
+            },
+            {
+                "user": "U03LK533VR8",
+                "ts": "1698292708.464049"
+            },
+            {
+                "user": "U03LMGTRFN0",
+                "ts": "1698292766.680369"
+            },
+            {
+                "user": "U03M8T9K6SU",
+                "ts": "1698292852.901789"
+            },
+            {
+                "user": "U03NW11JH19",
+                "ts": "1698293809.381259"
+            },
+            {
+                "user": "U03LK551XFU",
+                "ts": "1698294978.968009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0132BF9B-0BEC-477A-84E9-0B16F3E4E304",
+        "type": "message",
+        "text": "Interested. ",
+        "user": "U03LMGTRFN0",
+        "ts": "1698292562.688959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YeDc4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interested. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698292515.254619",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "0EC3EFB0-5EB9-4527-9BBD-5A81E2ED7EA6",
+        "type": "message",
+        "text": "I believe that’s when SCOA is hoping to host an alumni event with the advisory board being in town. 11am-1pm I think - we were just discussing today.",
+        "user": "U03LK533VR8",
+        "ts": "1698292708.464049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3lRm9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe that’s when SCOA is hoping to host an alumni event with the advisory board being in town. 11am-1pm I think - we were just discussing today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698292515.254619",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U03LCGQP0LW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13A52ED6-372B-458A-A163-B11831AD098A",
+        "type": "message",
+        "text": "<mailto:mecham.devin@gmail.com|mecham.devin@gmail.com>",
+        "user": "U03L4GN325D",
+        "ts": "1698292735.374409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ceLaB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:mecham.devin@gmail.com",
+                                "text": "mecham.devin@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "F5F3B246-F3D9-4D71-B5A7-E1DB298558B0",
+        "type": "message",
+        "text": "We’ll “shoot” that’s just too bad… :rolling_on_the_floor_laughing: ",
+        "user": "U03LMGTRFN0",
+        "ts": "1698292766.680369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o+kbp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " “shoot” "
+                            },
+                            {
+                                "type": "text",
+                                "text": "that’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just too bad"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698292515.254619",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK533VR8",
+                    "U03M8T9K6SU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BBDFBC93-9722-47D8-888C-F8A0E7C578FC",
+        "type": "message",
+        "text": "Interested too! It's been far too long...",
+        "user": "U03M8T9K6SU",
+        "ts": "1698292852.901789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SKy8R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interested too! It's been far too long..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bb5517fdae8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6005443083891_7bb5517fdae8974e301c_72.png",
+            "first_name": "Chris",
+            "real_name": "Chris Lundy",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "lundycw09",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698292515.254619",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "87BE2998-0B94-44C4-961A-1537B4112401",
+        "type": "message",
+        "text": "<mailto:lundycw09@gmail.com|lundycw09@gmail.com>",
+        "user": "U03M8T9K6SU",
+        "ts": "1698292926.632839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G5dfb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:lundycw09@gmail.com",
+                                "text": "lundycw09@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bb5517fdae8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6005443083891_7bb5517fdae8974e301c_72.png",
+            "first_name": "Chris",
+            "real_name": "Chris Lundy",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "lundycw09",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "cf269e4d-d883-43fd-92d3-75a7224bcff5",
+        "type": "message",
+        "text": "<mailto:t.poulton95@gmail.com|t.poulton95@gmail.com>",
+        "user": "U03LCGQP0LW",
+        "ts": "1698293297.868869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eAGbY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:t.poulton95@gmail.com",
+                                "text": "t.poulton95@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "854c6c8cafe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-15\/5271050025428_854c6c8cafe5c412a0a5_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Poulton",
+            "display_name": "Tanner Poulton",
+            "team": "T0ZBAEL59",
+            "name": "tannerjpoulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "14A64F13-ABBE-49D1-8625-5ED8166472D2",
+        "type": "message",
+        "text": "Jared is correct there is an event that day which Scott and Barry should be at. They want to the one last year",
+        "user": "U03NW11JH19",
+        "ts": "1698293809.381259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hHQ7C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jared is correct there is an event that day which Scott and Barry should be at. They want to the one last year"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698292515.254619",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "0d216c12-c5a9-402c-b793-9d8e9e15a6bd",
+        "type": "message",
+        "text": "Sorry I meant November 4th at 11:30, Scott, Barry, and others will be going shooting, and if anyone wants to join, you're welcome to do so. This is not an official event by BYU. Please let me know if you are interested.",
+        "user": "U03LK551XFU",
+        "ts": "1698294978.968009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRpEE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry I meant November 4th at 11:30, Scott, Barry, and others will be going shooting, and if anyone wants to join, you're welcome to do so. This is not an official event by BYU. Please let me know if you are interested."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698292515.254619",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "dd503bb4-77ab-4ea4-bb02-27cb8fc6303c",
+        "type": "message",
+        "text": "Sorry I meant November 4th at 11:30, Scott, Barry, and others will be going shooting, and if anyone wants to join, you're welcome to do so. This is not an official event by BYU. Please let me know if you are interested.",
+        "user": "U03LK551XFU",
+        "ts": "1698294980.078479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRpEE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry I meant November 4th at 11:30, Scott, Barry, and others will be going shooting, and if anyone wants to join, you're welcome to do so. This is not an official event by BYU. Please let me know if you are interested."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698294980.078479",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698295026.814289",
+        "reply_users": [
+            "U03M8T9K6SU"
+        ],
+        "replies": [
+            {
+                "user": "U03M8T9K6SU",
+                "ts": "1698295026.814289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LMGX6W1J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92693CC3-EA08-42EA-96C3-19015054CAAF",
+        "type": "message",
+        "text": "Again, interested! :slightly_smiling_face: ",
+        "user": "U03M8T9K6SU",
+        "ts": "1698295026.814289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1HizN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Again"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", interested! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bb5517fdae8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6005443083891_7bb5517fdae8974e301c_72.png",
+            "first_name": "Chris",
+            "real_name": "Chris Lundy",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "lundycw09",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698294980.078479",
+        "parent_user_id": "U03LK551XFU"
+    },
+    {
+        "client_msg_id": "15455b35-8d55-497a-a1b4-44bcb7fe6b37",
+        "type": "message",
+        "text": "<mailto:andersen.zach@gmail.com|andersen.zach@gmail.com>",
+        "user": "U03LXQCJA81",
+        "ts": "1698298463.948669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogtX9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:andersen.zach@gmail.com",
+                                "text": "andersen.zach@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "92de5315-0d4d-4776-9fd7-ac8fe070cea6",
+        "type": "message",
+        "text": "Hey does any one have the $3000 dollar charge on there BYU account still?",
+        "user": "U03LK551XFU",
+        "ts": "1698303589.070459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iuUUX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey does any one have the $3000 dollar charge on there BYU account still?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698303589.070459",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698326050.298849",
+        "reply_users": [
+            "U03NW11JH19",
+            "U03M8T9K6SU"
+        ],
+        "replies": [
+            {
+                "user": "U03NW11JH19",
+                "ts": "1698320784.011869"
+            },
+            {
+                "user": "U03M8T9K6SU",
+                "ts": "1698326050.298849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

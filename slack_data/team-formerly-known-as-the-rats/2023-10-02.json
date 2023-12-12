@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "5A6128F1-CB44-4F44-9617-F21ADC12BB07",
+        "type": "message",
+        "text": "I’m wearing my Rat shirt today… just a heads up. So nobody else wear theirs :wink: !",
+        "user": "U03LMGTRFN0",
+        "ts": "1696250487.925329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nmvmp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " wearing my Rat shirt today"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just a heads up. So nobody else wear theirs "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LCGM9XML"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "3c60f4b8-a227-4856-9b6e-08240ecfbafe",
+        "type": "message",
+        "text": "TA office hours in the lounge now",
+        "user": "U03LK39EPB5",
+        "ts": "1696366802.160169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kO+Tj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TA office hours in the lounge now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B365A01A-1743-469D-B5EC-D25F196B182E",
+        "type": "message",
+        "text": "I’m not able to hold my usual office hours due to an event tonight. Feel free to slack me with any questions! ",
+        "user": "U03SRBYBAET",
+        "ts": "1696377230.753919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/xDjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not able to hold my usual office hours due to an event tonight"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Feel free to slack me with any questions! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6d964c44b7d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3918205904550_6d964c44b7d5cc71f366_72.jpg",
+            "first_name": "Coralee",
+            "real_name": "Coralee Choules",
+            "display_name": "Coralee Choules",
+            "team": "T0ZBAEL59",
+            "name": "coralee.choules",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697034015.674539",
+        "user": "U05A7HCQPDM",
+        "text": "<@U05A7HCQPDM> has joined the channel"
+    },
+    {
+        "client_msg_id": "0177e37e-6c7c-4084-959f-40ceb81302f3",
+        "type": "message",
+        "text": "Hi Everyone!\nIf any of you have heard Lee discuss his relationship with the Kennedy Center, it will come as no surprise that we still haven't heard back from them about a registration link. I promise we are following up. Stay tuned.",
+        "user": "U03L4GT3B55",
+        "ts": "1697035518.760049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yMfx9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Everyone!\nIf any of you have heard Lee discuss his relationship with the Kennedy Center, it will come as no surprise that we still haven't heard back from them about a registration link. I promise we are following up. Stay tuned."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03L57R4HN3",
+                    "U03LK39PKRR",
+                    "U03LK3D5N2X",
+                    "U03LXQLBGCR",
+                    "U03PKR5GQUQ",
+                    "U05DFQNU4EP"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

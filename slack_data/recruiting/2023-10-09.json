@@ -1,0 +1,232 @@
+[
+    {
+        "client_msg_id": "d8f59228-4697-4e91-8b8c-2ef80910247f",
+        "type": "message",
+        "text": "Is there a room yet <@U03LXQH9QMP>?",
+        "user": "U03LXQE14NM",
+        "ts": "1696869724.884369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N+7pi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there a room yet "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LXQH9QMP"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc176dbcf62e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_72.jpg",
+            "first_name": "Austin",
+            "real_name": "Austin Schofield",
+            "display_name": "Austin Schofield",
+            "team": "T0ZBAEL59",
+            "name": "schofieldda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696629981.048089",
+        "parent_user_id": "U03LXQH9QMP"
+    },
+    {
+        "client_msg_id": "E98C0104-6070-426C-B227-E86903E78DCE",
+        "type": "message",
+        "text": "Still TBD but Al least plan on joining the zoom if there isn’t a room",
+        "user": "U03LXQH9QMP",
+        "ts": "1696876318.941109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jjgWU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Still TBD but Al least plan on joining the zoom if there "
+                            },
+                            {
+                                "type": "text",
+                                "text": "isn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a room"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cb5054046f89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693679244662_cb5054046f89b6a31324_72.png",
+            "first_name": "Nate",
+            "real_name": "Nate Vance",
+            "display_name": "Nate Vance",
+            "team": "T0ZBAEL59",
+            "name": "nathanvance12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696629981.048089",
+        "parent_user_id": "U03LXQH9QMP"
+    },
+    {
+        "client_msg_id": "3b12a0ce-d379-4f04-bede-42dd52090ad2",
+        "type": "message",
+        "text": "AT&amp;T info session at 4pm in the Eccles conference room! That room is within the undergrad career services area - north-east corner of the 4th floor in the TNRB.\n\nPizza provided!:pizza:\n\nAgain, this is about AT&amp;T's Finance Leadership Development Program, and they are recruiting interns and FT!",
+        "user": "U03LXQH9QMP",
+        "ts": "1696881557.520269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NUJcp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AT&T info session at 4pm in the Eccles conference room! That room is within the undergrad career services area - north-east corner of the 4th floor in the TNRB.\n\nPizza provided!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pizza",
+                                "unicode": "1f355"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAgain, this is about AT&T's Finance Leadership Development Program, and they are recruiting interns and FT!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cb5054046f89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693679244662_cb5054046f89b6a31324_72.png",
+            "first_name": "Nate",
+            "real_name": "Nate Vance",
+            "display_name": "Nate Vance",
+            "team": "T0ZBAEL59",
+            "name": "nathanvance12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "iphone",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Amazon internship applications are now open! \n<https:\/\/amazonmbarecruiting.splashthat.com\/>",
+        "user": "U03PKR5881E",
+        "ts": "1696909268.165889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EAld",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazon internship applications are now open! \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/amazonmbarecruiting.splashthat.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/amazonmbarecruiting.splashthat.com\/",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/s3.clients.splashthat.com\/img\/events\/splash\/cards\/458400804.x3.69737371.png",
+                "thumb_width": 750,
+                "thumb_height": 1050,
+                "service_icon": "https:\/\/d24wuq6o951i2g.cloudfront.net\/img\/events\/id\/305\/3056092\/assets\/765.favicon-0.png",
+                "id": 1,
+                "original_url": "https:\/\/amazonmbarecruiting.splashthat.com\/",
+                "fallback": "Amazon MBA Opportunities (North America)",
+                "text": "At Amazon, we are excited to offer MBA students the opportunity to launch into big careers with limitless possibilities. We know searching for an internship or full-time role is as much about finding a company where you can picture yourself being successful as it is about finding the right role.From the start, you’ll do meaningful work alongside peers and leaders – diving deep into projects, programs, and services that impact millions of customers. At Amazon, you're given the opportunity to chart your own path by owning your development, your career, and your future.Come build the future with us.",
+                "title": "Amazon MBA Opportunities (North America)",
+                "title_link": "https:\/\/amazonmbarecruiting.splashthat.com\/",
+                "service_name": "amazonmbarecruiting.splashthat.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U05GRT17A87",
+                    "U03M8TCTA6L",
+                    "U05AFDSJH70",
+                    "U05BBQDBU3S",
+                    "U05BBQFJ056"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

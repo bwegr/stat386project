@@ -1,0 +1,479 @@
+[
+    {
+        "client_msg_id": "9BE97A04-A58D-45F8-97DB-D377984AE836",
+        "type": "message",
+        "text": "Listo, ya confirme con Christine mis créditos , una preguntita Max, el mínimo por semestre es 12?",
+        "user": "U03M8T51VUY",
+        "ts": "1697728452.642489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X0wyY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Listo, ya confirme con Christine mis créditos , una preguntita Max, el mínimo por semestre es 12?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697728452.642489",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697736402.514019",
+        "reply_users": [
+            "U022KBV79MH",
+            "U03LMGXDFB6"
+        ],
+        "replies": [
+            {
+                "user": "U022KBV79MH",
+                "ts": "1697734215.284579"
+            },
+            {
+                "user": "U03LMGXDFB6",
+                "ts": "1697736402.514019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "A69659D2-30D0-47A4-B3AF-9C33CCAC6025",
+        "type": "message",
+        "text": "Me faltan 4.5 para graduarme :face_with_monocle: :zany_face: ",
+        "user": "U03M8T51VUY",
+        "ts": "1697728473.238449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pBdqr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me faltan 4.5 para graduarme "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_monocle",
+                                "unicode": "1f9d0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "zany_face",
+                                "unicode": "1f92a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A52DDB8E-9794-41F5-9985-F79D27C2BB90",
+        "type": "message",
+        "text": "Genial! Según recuerdo, si, son 12",
+        "user": "U03LK4ZPZ4J",
+        "ts": "1697730232.858399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jiDvv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Genial! Según recuerdo, si, son 12"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "76b3ba4c9ee5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-03\/4893429811013_76b3ba4c9ee5cb7be525_72.png",
+            "first_name": "Jose",
+            "real_name": "Jose Luis Cardozo",
+            "display_name": "Jose Luis",
+            "team": "T0ZBAEL59",
+            "name": "jlcardozoloverde",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3FE00904-2181-41F2-99EE-623B0D6F7ADD",
+        "type": "message",
+        "text": "Estás en el horno :joy: ",
+        "user": "U03LK4ZPZ4J",
+        "ts": "1697730256.042639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "byXla",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Estás en el horno "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "76b3ba4c9ee5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-03\/4893429811013_76b3ba4c9ee5cb7be525_72.png",
+            "first_name": "Jose",
+            "real_name": "Jose Luis Cardozo",
+            "display_name": "Jose Luis",
+            "team": "T0ZBAEL59",
+            "name": "jlcardozoloverde",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9DF2562D-D276-44BB-8F3C-B0ED4F087024",
+        "type": "message",
+        "text": ":sunglasses: ",
+        "user": "U03M8T51VUY",
+        "ts": "1697730783.797089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "klZNL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses",
+                                "unicode": "1f60e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "20C1C62B-B8C5-45A7-B4E5-4912953FCE47",
+        "type": "message",
+        "text": "Muchachos también pido un consejo , estoy indeciso entre una clase de real estate pero es a la misma hora de una clase de inglés para mejorar pronunciación (supuestamente ), quiero tener en mi toolbox conocimiento de real estate , pero aún no me siento fluido o con un buen inglés . Que harían ustedes ? Sabiendo que quizá ambas cosas se puedan igual mejorar con el tiempo sea con otros cursos etc ",
+        "user": "U03M8T51VUY",
+        "ts": "1697730970.406249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n8X+A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Muchachos también pido un consejo , estoy indeciso entre una clase de real estate pero es a la misma hora de una clase de inglés para mejorar pronunciación (supuestamente ), quiero tener en mi toolbox conocimiento de real estate , pero aún no me siento fluido o con un buen inglés . Que harían ustedes ? Sabiendo que quizá ambas cosas se puedan igual mejorar con el tiempo sea con otros cursos etc "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9D29249D-718F-468D-B6AA-8817B8904171",
+        "type": "message",
+        "text": "Yo le hice esa misma pregunta a Christine y me dijo que el mínimo es 9 créditos para ser considerado full time student ",
+        "user": "U022KBV79MH",
+        "ts": "1697734215.284579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ICYJe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo le hice esa misma pregunta a Christine y me dijo que el mínimo es 9 créditos para ser considerado full time student "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "af76c6f7624c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-06\/2378897901648_af76c6f7624c14f1ff75_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Navarro",
+            "display_name": "Alex",
+            "team": "T0ZBAEL59",
+            "name": "alexander.navarro56",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697728452.642489",
+        "parent_user_id": "U03M8T51VUY"
+    },
+    {
+        "client_msg_id": "C3BAC1B4-F672-4A94-8893-4E1C31182D86",
+        "type": "message",
+        "text": "Yo le daria al inglés :grinning: ",
+        "user": "U022KBV79MH",
+        "ts": "1697734250.447749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ee+zD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo le daria al inglés "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning",
+                                "unicode": "1f600"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "af76c6f7624c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-06\/2378897901648_af76c6f7624c14f1ff75_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Navarro",
+            "display_name": "Alex",
+            "team": "T0ZBAEL59",
+            "name": "alexander.navarro56",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03M8T51VUY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U03M8T51VUY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DC74BA54-74E0-4074-96A1-767B0A08F375",
+        "type": "message",
+        "text": "Yo creo que da lo mismo. Vas a aprender cualquiera de las dos cosas cuando veas que las necesites. La única diferencia es cual de las dos necesitás ahora y cuál puede esperar un poco más o quizás no necesites tanto",
+        "user": "U03LK4ZPZ4J",
+        "ts": "1697735624.121639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BxnqS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo creo que da lo mismo. Vas a aprender cualquiera de las dos cosas cuando veas que las necesites. La única diferencia es cual de las dos necesitás ahora y cuál puede esperar un poco más o quizás no necesites tanto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "76b3ba4c9ee5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-03\/4893429811013_76b3ba4c9ee5cb7be525_72.png",
+            "first_name": "Jose",
+            "real_name": "Jose Luis Cardozo",
+            "display_name": "Jose Luis",
+            "team": "T0ZBAEL59",
+            "name": "jlcardozoloverde",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03M8T51VUY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cool-doge",
+                "users": [
+                    "U03M8T51VUY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1250c478-aea7-4afd-934b-7bcf599a8976",
+        "type": "message",
+        "text": "También entendía que eran 9 créditos para la gente de post-grado. Entendía que 12 era para los de pre-grado",
+        "user": "U03LMGXDFB6",
+        "ts": "1697736402.514019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HXROQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "También entendía que eran 9 créditos para la gente de post-grado. Entendía que 12 era para los de pre-grado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697728452.642489",
+        "parent_user_id": "U03M8T51VUY"
+    }
+]

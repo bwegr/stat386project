@@ -1,0 +1,187 @@
+[
+    {
+        "client_msg_id": "3bbe40ef-93c1-4a96-a4ab-cf5e67c59eee",
+        "type": "message",
+        "text": "Will you be at any room?",
+        "user": "U03TVL5E0M6",
+        "ts": "1697475679.279529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cmSzC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will you be at any room?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697421446.020999",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "DB95E6AD-4103-4AB2-BDF2-355EA3E1F780",
+        "type": "message",
+        "text": "I may have to do it virtually; is that alright?",
+        "user": "U03TVL5QZFA",
+        "ts": "1697475847.599789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0MzIj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I may have to do it virtually"
+                            },
+                            {
+                                "type": "text",
+                                "text": ";"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is that alright"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697421446.020999",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "2ecccaa4-c61d-41e5-a9ea-434e146154e6",
+        "type": "message",
+        "text": "Of course!",
+        "user": "U03TVL5E0M6",
+        "ts": "1697475860.988849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FnQ6m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Of course!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697421446.020999",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "045AEAC2-D340-4B16-8B49-E57DAFBB2D55",
+        "type": "message",
+        "text": "<https:\/\/byu.zoom.us\/j\/2131230123|https:\/\/byu.zoom.us\/j\/2131230123> great, here’s my zoom link to use",
+        "user": "U03TVL5QZFA",
+        "ts": "1697476639.508669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jFNbA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.zoom.us\/j\/2131230123",
+                                "text": "https:\/\/byu.zoom.us\/j\/2131230123"
+                            },
+                            {
+                                "type": "text",
+                                "text": " great, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "here’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " my zoom link to use"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697421446.020999",
+        "parent_user_id": "U03TVL5E0M6"
+    }
+]

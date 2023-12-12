@@ -1,0 +1,401 @@
+[
+    {
+        "client_msg_id": "F8321C20-9C51-4339-BC78-FDFEE48BF5D8",
+        "type": "message",
+        "text": "Anyone who’s planing on playing bball tomorrow morning will pass by Lehi and could possibly give me a ride? Or perhaps a ride from Provo frontrunner station?",
+        "user": "U05BBQD8SKS",
+        "ts": "1697755096.219269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iplPX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone who’s planing on playing bball tomorrow morning will pass by Lehi and could possibly give me a ride? Or perhaps a ride from Provo frontrunner station?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "ec40b14452d1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-01\/5364887686372_ec40b14452d1f2aad20d_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Yang",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jakeyangch",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05BBQD8SKS",
+            "ts": "1697755181.000000"
+        },
+        "thread_ts": "1697755096.219269",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1697818991.989929",
+        "reply_users": [
+            "U03M8TCTA6L",
+            "U05BBQD8SKS",
+            "U05AK5GQJ5B",
+            "U03LXQCJA81",
+            "U05AN3R7398"
+        ],
+        "replies": [
+            {
+                "user": "U03M8TCTA6L",
+                "ts": "1697760450.984149"
+            },
+            {
+                "user": "U05BBQD8SKS",
+                "ts": "1697760834.327009"
+            },
+            {
+                "user": "U05AK5GQJ5B",
+                "ts": "1697767249.155439"
+            },
+            {
+                "user": "U03LXQCJA81",
+                "ts": "1697772594.665189"
+            },
+            {
+                "user": "U05AN3R7398",
+                "ts": "1697818991.989929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5eafbfa6-1040-4a1d-9375-3dbaafc162db",
+        "type": "message",
+        "text": "I don't know if we'll have enough to get a full game going tomorrow... let's try next week. I'm going to message people individually to get commits. I think that's more effective ha. Sorry Jake!",
+        "user": "U03M8TCTA6L",
+        "ts": "1697760450.984149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WVFul",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know if we'll have enough to get a full game going tomorrow... let's try next week. I'm going to message people individually to get commits. I think that's more effective ha. Sorry Jake!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697755096.219269",
+        "parent_user_id": "U05BBQD8SKS",
+        "reactions": [
+            {
+                "name": "call_me_hand",
+                "users": [
+                    "U05BBQD8SKS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f16da0d0-aba5-4fa2-89a5-109002045e87",
+        "type": "message",
+        "text": "Let's try next week! I think I'll message people individually to get commits. I think that is more effective ha. Sorry y'all!",
+        "user": "U03M8TCTA6L",
+        "ts": "1697760478.742639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jk+Bu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's try next week! I think I'll message people individually to get commits. I think that is more effective ha. Sorry y'all!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697470681.609949",
+        "parent_user_id": "U03M8TCTA6L"
+    },
+    {
+        "client_msg_id": "47081AC4-29CD-4653-8258-754DE63C9E1E",
+        "type": "message",
+        "text": "Sounds good! Thanks Moses. Half-court might be fun too tho :laughing: ",
+        "user": "U05BBQD8SKS",
+        "ts": "1697760834.327009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vgx9A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good! Thanks Moses. Half-court might be fun too tho "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "satisfied",
+                                "unicode": "1f606"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "ec40b14452d1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-01\/5364887686372_ec40b14452d1f2aad20d_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Yang",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jakeyangch",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05BBQD8SKS",
+            "ts": "1697761657.000000"
+        },
+        "thread_ts": "1697755096.219269",
+        "parent_user_id": "U05BBQD8SKS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AK5GQJ5B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8050A858-62B9-4F32-874B-072658275337",
+        "type": "message",
+        "text": "For reals though —I don’t mind half court. It’s just fun playing.",
+        "user": "U05AK5GQJ5B",
+        "ts": "1697767249.155439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C8d8z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For reals though "
+                            },
+                            {
+                                "type": "text",
+                                "text": "—"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mind half court. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "It’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just fun playing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21974fb52c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-13\/5916046228688_21974fb52c299059b822_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Nelson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mdnelson07",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697755096.219269",
+        "parent_user_id": "U05BBQD8SKS"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "I’ll be there regardless, in case anyone wants to play half court or just shoot around :sweat_smile: ",
+        "user": "U03LXQCJA81",
+        "ts": "1697772594.665189",
+        "thread_ts": "1697755096.219269",
+        "root": {
+            "client_msg_id": "F8321C20-9C51-4339-BC78-FDFEE48BF5D8",
+            "type": "message",
+            "text": "Anyone who’s planing on playing bball tomorrow morning will pass by Lehi and could possibly give me a ride? Or perhaps a ride from Provo frontrunner station?",
+            "user": "U05BBQD8SKS",
+            "ts": "1697755096.219269",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "iplPX",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Anyone who’s planing on playing bball tomorrow morning will pass by Lehi and could possibly give me a ride? Or perhaps a ride from Provo frontrunner station?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0ZBAEL59",
+            "edited": {
+                "user": "U05BBQD8SKS",
+                "ts": "1697755181.000000"
+            },
+            "thread_ts": "1697755096.219269",
+            "reply_count": 5,
+            "reply_users_count": 5,
+            "latest_reply": "1697818991.989929",
+            "reply_users": [
+                "U03M8TCTA6L",
+                "U05BBQD8SKS",
+                "U05AK5GQJ5B",
+                "U03LXQCJA81",
+                "U05AN3R7398"
+            ],
+            "replies": [
+                {
+                    "user": "U03M8TCTA6L",
+                    "ts": "1697760450.984149"
+                },
+                {
+                    "user": "U05BBQD8SKS",
+                    "ts": "1697760834.327009"
+                },
+                {
+                    "user": "U05AK5GQJ5B",
+                    "ts": "1697767249.155439"
+                },
+                {
+                    "user": "U03LXQCJA81",
+                    "ts": "1697772594.665189"
+                },
+                {
+                    "user": "U05AN3R7398",
+                    "ts": "1697818991.989929"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lD0VS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ll be there regardless, in case anyone wants to play half court or just shoot around "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2D0FF877-2A5E-489B-8F00-53053F5930DB"
+    }
+]

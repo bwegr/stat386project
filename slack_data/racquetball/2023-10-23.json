@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Sorry, I can’t make those times :( maybe Friday morning? ",
+        "user": "U05H6A4184T",
+        "ts": "1698067332.730739",
+        "thread_ts": "1698018951.767819",
+        "root": {
+            "client_msg_id": "4966FCA5-EF63-4F19-9856-342F5809BB6A",
+            "type": "message",
+            "text": "Any chance we could get a game together late Monday or Tuesday night? ",
+            "user": "U05BBQG8FTJ",
+            "ts": "1698018951.767819",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "F5yFU",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Any chance we could get a game together late Monday or Tuesday night? "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0ZBAEL59",
+            "thread_ts": "1698018951.767819",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1698067332.730739",
+            "reply_users": [
+                "U05H6A4184T"
+            ],
+            "replies": [
+                {
+                    "user": "U05H6A4184T",
+                    "ts": "1698067332.730739"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n5AHR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry, I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "can’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " make those times :( maybe Friday morning? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "F4B46FB7-9B32-4C3E-B59D-31BE782EE705"
+    }
+]

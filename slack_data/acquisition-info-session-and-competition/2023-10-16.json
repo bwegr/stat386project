@@ -1,0 +1,335 @@
+[
+    {
+        "client_msg_id": "FF8F386F-6D45-43E5-9221-FD81D1891751",
+        "type": "message",
+        "text": "<!channel> last reminder for headcount. Let us know if you’ll be there ",
+        "user": "U03LKPR602X",
+        "ts": "1697467826.826489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bWWbV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " last reminder for headcount"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Let us know if "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be there "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e44703c70bf5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-19\/3960224283206_e44703c70bf5c3980b3d_72.jpg",
+            "first_name": "James",
+            "real_name": "James Lincoln",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "james.lincoln1995",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467826.826489",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697512301.698429",
+        "reply_users": [
+            "U03LK5045V0"
+        ],
+        "replies": [
+            {
+                "user": "U03LK5045V0",
+                "ts": "1697512301.698429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "08cbb980-714a-4ad8-8130-0e7203407c5f",
+        "type": "message",
+        "text": "Just added my thumbs up FYI",
+        "user": "U03LK5045V0",
+        "ts": "1697512301.698429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1mACZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just added my thumbs up FYI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b0a4fbd21f41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-25\/3705740993831_b0a4fbd21f41527354e8_72.jpg",
+            "first_name": "Cristian",
+            "real_name": "Cristian Torres",
+            "display_name": "Cristian Torres",
+            "team": "T0ZBAEL59",
+            "name": "cntorres",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467826.826489",
+        "parent_user_id": "U03LKPR602X"
+    },
+    {
+        "client_msg_id": "f1d3424f-4f96-43c0-93ca-952da071b233",
+        "type": "message",
+        "text": "Are there already groups assigned for the competition?",
+        "user": "U05A7HE11LP",
+        "ts": "1697518144.783489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T2akc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are there already groups assigned for the competition?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697518144.783489",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1697522003.717029",
+        "reply_users": [
+            "U03L4GT3B55",
+            "U03LG776WFP",
+            "U05A7HE11LP"
+        ],
+        "replies": [
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1697519445.499859"
+            },
+            {
+                "user": "U03LG776WFP",
+                "ts": "1697520638.265289"
+            },
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1697522003.717029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "bb47f2da-1bba-4be0-b6f2-ffc68cca439a",
+        "type": "message",
+        "text": "This isn't a group competition. You can partner up with someone, but its self-select. <@U03LKPR602X> correct me if I am wrong.",
+        "user": "U03L4GT3B55",
+        "ts": "1697519445.499859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f3Bn1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This isn't a group competition. You can partner up with someone, but its self-select. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LKPR602X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " correct me if I am wrong."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697518144.783489",
+        "parent_user_id": "U05A7HE11LP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05A7HE11LP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "500D3F73-818F-4D8B-876A-6D1D92040BD4",
+        "type": "message",
+        "text": "That’s right ",
+        "user": "U03LG776WFP",
+        "ts": "1697520638.265289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PL00O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " right "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "ab1623974cd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-09\/4767396297015_ab1623974cd0a9d234d2_72.jpg",
+            "first_name": "Hunter",
+            "real_name": "Hunter Schenewark",
+            "display_name": "Hunter Schenewark",
+            "team": "T0ZBAEL59",
+            "name": "hunterschenewark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697518144.783489",
+        "parent_user_id": "U05A7HE11LP"
+    },
+    {
+        "client_msg_id": "6EF95F13-CC6E-44C5-9701-929C4D2403E5",
+        "type": "message",
+        "text": "Ok! I’m open to partnering up if anyone is looking for someone to join forces. ",
+        "user": "U05A7HE11LP",
+        "ts": "1697522003.717029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z5Y01",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " open to partnering up if anyone is looking for someone to join forces"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697518144.783489",
+        "parent_user_id": "U05A7HE11LP"
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "client_msg_id": "e3c2418b-bbb5-4347-92d3-5c0617eb691c",
+        "type": "message",
+        "text": "Is the AI assignment to be done as individuals or teams?",
+        "user": "U05BQNKAUSX",
+        "ts": "1698334827.627839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5cYea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is the AI assignment to be done as individuals or teams?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c3c9cdb85b6d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-10\/5718448374262_c3c9cdb85b6d5a330ee5_72.png",
+            "first_name": "Madeleine",
+            "real_name": "Madeleine Reber",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mlreber95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698334827.627839",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698353364.992499",
+        "reply_users": [
+            "U05H8SL2HFE"
+        ],
+        "replies": [
+            {
+                "user": "U05H8SL2HFE",
+                "ts": "1698353364.992499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U05BBQDP59N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "The assignment name says Individual, but you do have to use your group number when you submit via email!",
+        "files": [
+            {
+                "id": "F06339NPS20",
+                "created": 1698353320,
+                "timestamp": 1698353320,
+                "name": "Screen Shot 2023-10-26 at 2.48.22 PM.png",
+                "title": "Screen Shot 2023-10-26 at 2.48.22 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05H8SL2HFE",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 346659,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F06339NPS20\/screen_shot_2023-10-26_at_2.48.22_pm.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F06339NPS20\/download\/screen_shot_2023-10-26_at_2.48.22_pm.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06339NPS20-f22cc4d4b7\/screen_shot_2023-10-26_at_2.48.22_pm_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06339NPS20-f22cc4d4b7\/screen_shot_2023-10-26_at_2.48.22_pm_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06339NPS20-f22cc4d4b7\/screen_shot_2023-10-26_at_2.48.22_pm_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 119,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06339NPS20-f22cc4d4b7\/screen_shot_2023-10-26_at_2.48.22_pm_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 159,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06339NPS20-f22cc4d4b7\/screen_shot_2023-10-26_at_2.48.22_pm_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06339NPS20-f22cc4d4b7\/screen_shot_2023-10-26_at_2.48.22_pm_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 238,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06339NPS20-f22cc4d4b7\/screen_shot_2023-10-26_at_2.48.22_pm_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 265,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06339NPS20-f22cc4d4b7\/screen_shot_2023-10-26_at_2.48.22_pm_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 318,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06339NPS20-f22cc4d4b7\/screen_shot_2023-10-26_at_2.48.22_pm_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 339,
+                "original_w": 1576,
+                "original_h": 522,
+                "thumb_tiny": "AwAPADDRx7tRj3akz7\/rRn3\/AFoAXHuaXH+0aTj+8aMj1NADhxRTcj+8aAQO5oA\/\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05H8SL2HFE\/F06339NPS20\/screen_shot_2023-10-26_at_2.48.22_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F06339NPS20-86ddda31c4",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05H8SL2HFE",
+        "display_as_bot": false,
+        "ts": "1698353364.992499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y0Jq2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The assignment name says Individual, but you do have to use your group number when you submit via email!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "fea23838-0957-455b-a83e-7dbdd470b81b",
+        "thread_ts": "1698334827.627839",
+        "parent_user_id": "U05BQNKAUSX",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03L57R4HN3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U03L57R4HN3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

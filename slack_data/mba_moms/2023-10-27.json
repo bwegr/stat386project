@@ -1,0 +1,228 @@
+[
+    {
+        "client_msg_id": "F4C75E22-25B8-48EF-AD79-BDEAD219713D",
+        "type": "message",
+        "text": "Does anyone have some game\/activity ideas for keeping approximately a dozen 9year old girls busy during a birthday party? I’m hosting my daughter’s birthday party this Saturday and I’m at a loss, all suggestions would be appreciated! ",
+        "user": "U05DD0R44G5",
+        "ts": "1698412381.940729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0CqC4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have some game\/activity ideas for keeping approximately a dozen 9year old girls busy during a birthday "
+                            },
+                            {
+                                "type": "text",
+                                "text": "party"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hosting my "
+                            },
+                            {
+                                "type": "text",
+                                "text": "daughter’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " birthday party this Saturday and I’m at a loss, all suggestions would be appreciated"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g1a32db1c729",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a32db1c729f89e1f3e02e7ed5b3ab36.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Nikki",
+            "real_name": "Nikki Maxon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nmaxon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698412381.940729",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698417033.972309",
+        "reply_users": [
+            "U03L4GT3B55"
+        ],
+        "replies": [
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1698417033.972309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "05f3706e-a2a1-4513-ac45-dedf9b712dcd",
+        "type": "message",
+        "text": "My daughter will be 9 in January. One of her favorite birthdays was decorating cakes ( but 12 cakes is a lot!)\n\nWe have also done painting- just bought blank canvases and supplies at a craft store. I have done it with YW and we had them take turns painting one of the other girls. That was fun.\n\nYou could also do friendship bracelet making. \n\nServe some type of food where they are in charge of making in it\/assembling (candy kabobs or necklaces, caramel apples, even a waffle bar or nacho bar) ",
+        "user": "U03LK39LQ2F",
+        "ts": "1698413742.708159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CmXCC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My daughter will be 9 in January. One of her favorite birthdays was decorating cakes ( but 12 cakes is a lot!)\n\nWe have also done painting- just bought blank canvases and supplies at a craft store. I have done it with YW and we had them take turns painting one of the other girls. That was fun.\n\nYou could also do friendship bracelet making. \n\nServe some type of food where they are in charge of making in it\/assembling (candy kabobs or necklaces, caramel apples, even a waffle bar or nacho bar) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "127e7339b511",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4045053911267_127e7339b511c9e7bfca_72.png",
+            "first_name": "Ashli",
+            "real_name": "Ashli Asay",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ashliasay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698413742.708159",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698416649.633449",
+        "reply_users": [
+            "U05DD0R44G5"
+        ],
+        "replies": [
+            {
+                "user": "U05DD0R44G5",
+                "ts": "1698416649.633449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "EF263013-7AD3-4C1A-8BC9-E8C14FED0EBD",
+        "type": "message",
+        "text": "These are fantastic, thanks! ",
+        "user": "U05DD0R44G5",
+        "ts": "1698416649.633449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gO8v0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "These are fantastic"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g1a32db1c729",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a32db1c729f89e1f3e02e7ed5b3ab36.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Nikki",
+            "real_name": "Nikki Maxon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nmaxon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698413742.708159",
+        "parent_user_id": "U03LK39LQ2F"
+    },
+    {
+        "client_msg_id": "98dda9b9-43b3-48ac-a7db-39aae3bb5022",
+        "type": "message",
+        "text": "In my experience, ChatGPT is a champ in helping come up with a.) ideas b.) the details of how to execute. I have planned a murder mystery party, scavenger hunt, science experiment, and a craft station--with all the things I needed to make different crafts.",
+        "user": "U03L4GT3B55",
+        "ts": "1698417033.972309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sNzhy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In my experience, ChatGPT is a champ in helping come up with a.) ideas b.) the details of how to execute. I have planned a murder mystery party, scavenger hunt, science experiment, and a craft station--with all the things I needed to make different crafts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698412381.940729",
+        "parent_user_id": "U05DD0R44G5"
+    }
+]

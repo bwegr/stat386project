@@ -1,0 +1,594 @@
+[
+    {
+        "client_msg_id": "81551228-F8BB-45A9-AB18-AF2CF916BF31",
+        "type": "message",
+        "text": "For all the guys looking to go in together on housing, let’s hop on a call tomorrow to make some decisions. 1pm work for everyone? ",
+        "user": "U05BBQG8FTJ",
+        "ts": "1697857675.816439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m3Hyr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For all the guys looking to go in together on housing, let’s hop on a call tomorrow to make some decisions. 1pm work for everyone? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697857675.816439",
+        "reply_count": 11,
+        "reply_users_count": 5,
+        "latest_reply": "1697899000.413299",
+        "reply_users": [
+            "U05B0NHGDG9",
+            "U05AN3TCTSN",
+            "U05BBQG8FTJ",
+            "U05AN3R7398",
+            "U03LXQE14NM"
+        ],
+        "replies": [
+            {
+                "user": "U05B0NHGDG9",
+                "ts": "1697857799.026839"
+            },
+            {
+                "user": "U05AN3TCTSN",
+                "ts": "1697858058.337579"
+            },
+            {
+                "user": "U05BBQG8FTJ",
+                "ts": "1697858252.743529"
+            },
+            {
+                "user": "U05AN3TCTSN",
+                "ts": "1697859101.151529"
+            },
+            {
+                "user": "U05AN3R7398",
+                "ts": "1697861045.498599"
+            },
+            {
+                "user": "U05AN3R7398",
+                "ts": "1697861138.190949"
+            },
+            {
+                "user": "U05BBQG8FTJ",
+                "ts": "1697861232.027479"
+            },
+            {
+                "user": "U05AN3R7398",
+                "ts": "1697861410.441639"
+            },
+            {
+                "user": "U05AN3R7398",
+                "ts": "1697861480.589229"
+            },
+            {
+                "user": "U05AN3TCTSN",
+                "ts": "1697862417.242019"
+            },
+            {
+                "user": "U03LXQE14NM",
+                "ts": "1697899000.413299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AMVCTLRZ",
+                    "U05AN02C0E7",
+                    "U05A7HD4XE3",
+                    "U03M8T6EJ8G"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U05B0NHGDG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7F0208A2-CB84-4DFB-A3B7-45DD44F38AA2",
+        "type": "message",
+        "text": "<@U05AN3R7398> ",
+        "user": "U05B0NHGDG9",
+        "ts": "1697857799.026839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ywG9M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05AN3R7398"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6aef7af62a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-13\/5893313366019_6aef7af62a81961b3c25_72.png",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Castro",
+            "display_name": "Hyrum Castro",
+            "team": "T0ZBAEL59",
+            "name": "castrohyrums",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697857675.816439",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "fe4c3bfa-42ee-436d-9040-ab139e18d173",
+        "type": "message",
+        "text": "Does not work for me. I can do later in the day, like 4 pm. But you can do it without me, as long as you include me in your thoughts :slightly_smiling_face:",
+        "user": "U05AN3TCTSN",
+        "ts": "1697858058.337579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+cDA8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does not work for me. I can do later in the day, like 4 pm. But you can do it without me, as long as you include me in your thoughts "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697857675.816439",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "684CDC67-2A41-401E-A0A3-552393147A74",
+        "type": "message",
+        "text": "How about earlier? Football game starts at 5",
+        "user": "U05BBQG8FTJ",
+        "ts": "1697858252.743529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4tQtC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How about earlier? Football game starts at 5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697857675.816439",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "9c83a205-23e5-486a-b029-cfb9f8a0d4e8",
+        "type": "message",
+        "text": "sorry, I'm busy from morning until 4 pm",
+        "user": "U05AN3TCTSN",
+        "ts": "1697859101.151529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ttqno",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry, I'm busy from morning until 4 pm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697857675.816439",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "7327C11F-B904-486A-A195-D8BF90CCB8CB",
+        "type": "message",
+        "text": "What decision do we have to make?",
+        "user": "U05AN3R7398",
+        "ts": "1697861045.498599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/dEUy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What decision do we have to make?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697857675.816439",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "2FF367D7-7D5F-43B7-9647-2A477938247C",
+        "type": "message",
+        "text": "Should we list all the questions? For example, if we already have the price and place, we can decide or vote on slack.",
+        "user": "U05AN3R7398",
+        "ts": "1697861138.190949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ce5hL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should we list all the questions? For example, if we already have the price and place, we can decide or vote on slack."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697857675.816439",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "DDB4B669-305F-440A-A155-22823684A8D5",
+        "type": "message",
+        "text": "We don’t have the price and place until we know who all actually wants to go in on things. We need to know who is going to be in Portland on Tuesday and then who wants to stay together in Seattle through Saturday. ",
+        "user": "U05BBQG8FTJ",
+        "ts": "1697861232.027479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wY95e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have the price and place until we know who all actually wants to go in on things"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " We need to know who is going to be in Portland on Tuesday and then who wants to stay together in Seattle through Saturday"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697857675.816439",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "503E2FA0-AAF3-421B-894F-0D74D83185AC",
+        "type": "message",
+        "text": ":sweat: I think it might be hard to find a time that a large group of people can hop on zoom",
+        "user": "U05AN3R7398",
+        "ts": "1697861410.441639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dCGYi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "sweat",
+                                "unicode": "1f613"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think it might be hard to find a time that a large group of people can hop on zoom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697857675.816439",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "B74A2F7C-E537-492E-99D1-D6D6E922C6E0",
+        "type": "message",
+        "text": "But it is nice if everyone can join the discussion ",
+        "user": "U05AN3R7398",
+        "ts": "1697861480.589229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y883S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But it is nice if everyone can join the discussion "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697857675.816439",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "f65ad313-3e0f-436f-8bd0-36e532146dac",
+        "type": "message",
+        "text": "or we could meet for 30 min after classes next week. Whatever is easiest",
+        "user": "U05AN3TCTSN",
+        "ts": "1697862417.242019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v2E4p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or we could meet for 30 min after classes next week. Whatever is easiest"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697857675.816439",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "B7EBAAEF-F3CF-4876-85FB-0585FF666D4A",
+        "type": "message",
+        "text": "Agree! ",
+        "user": "U03M8T6EJ8G",
+        "ts": "1697865834.262689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YLhYc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agree! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4dad93fa6dcf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-27\/5491285165794_4dad93fa6dcf57d01702_72.png",
+            "first_name": "Glenn",
+            "real_name": "Glenn Davalos",
+            "display_name": "Glenn Davalos",
+            "team": "T0ZBAEL59",
+            "name": "glenndavalos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

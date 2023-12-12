@@ -1,0 +1,1557 @@
+[
+    {
+        "client_msg_id": "D06D7B4B-D3F8-4D3B-B827-388185E97E48",
+        "type": "message",
+        "text": "<@U03LGTR0KV3> This is crazy how tight it is!!",
+        "user": "U03LG7C5QAH",
+        "ts": "1697506372.593359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IVpZg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LGTR0KV3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This is crazy how tight it is!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "reply_count": 29,
+        "reply_users_count": 3,
+        "latest_reply": "1697513124.199559",
+        "reply_users": [
+            "U03LGTR0KV3",
+            "U03LG7C5QAH",
+            "U03LK533VR8"
+        ],
+        "replies": [
+            {
+                "user": "U03LGTR0KV3",
+                "ts": "1697507306.689199"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697507499.447099"
+            },
+            {
+                "user": "U03LGTR0KV3",
+                "ts": "1697507552.340829"
+            },
+            {
+                "user": "U03LGTR0KV3",
+                "ts": "1697507656.221149"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697507689.209739"
+            },
+            {
+                "user": "U03LK533VR8",
+                "ts": "1697508019.683299"
+            },
+            {
+                "user": "U03LGTR0KV3",
+                "ts": "1697509283.795869"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697509336.039999"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697510341.380409"
+            },
+            {
+                "user": "U03LGTR0KV3",
+                "ts": "1697510382.979609"
+            },
+            {
+                "user": "U03LGTR0KV3",
+                "ts": "1697510612.583269"
+            },
+            {
+                "user": "U03LK533VR8",
+                "ts": "1697510777.433139"
+            },
+            {
+                "user": "U03LK533VR8",
+                "ts": "1697510846.695529"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697510868.438429"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697510877.275819"
+            },
+            {
+                "user": "U03LGTR0KV3",
+                "ts": "1697510899.472189"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697511495.129469"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697511496.541869"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697511627.545719"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697511638.661809"
+            },
+            {
+                "user": "U03LK533VR8",
+                "ts": "1697511683.889539"
+            },
+            {
+                "user": "U03LK533VR8",
+                "ts": "1697512076.792029"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697512153.860269"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697512678.740079"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697512983.973729"
+            },
+            {
+                "user": "U03LGTR0KV3",
+                "ts": "1697513019.803759"
+            },
+            {
+                "user": "U03LGTR0KV3",
+                "ts": "1697513036.560209"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697513092.711529"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697513124.199559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03LK533VR8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E813AFC9-8BBE-4FF8-B1A5-A093A08DBD84",
+        "type": "message",
+        "text": "I’m actually tired of these mnf sweats, so could you please just forfeit or something?",
+        "user": "U03LGTR0KV3",
+        "ts": "1697507306.689199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iV\/tz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " actually tired of these mnf sweats, so could you please just forfeit or something?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "df557ad2-e2e0-40e3-8639-f924176100ae",
+        "type": "message",
+        "text": "Nope I’m here to win!",
+        "user": "U03LG7C5QAH",
+        "ts": "1697507499.447099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HPDmW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nope I’m here to win!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F061GP92X8C",
+                "created": 1697507549,
+                "timestamp": 1697507549,
+                "name": "Image from iOS.gif",
+                "title": "Image from iOS",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U03LGTR0KV3",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 263688,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061GP92X8C\/image_from_ios.gif?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061GP92X8C\/download\/image_from_ios.gif?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061GP92X8C-ead4b7b03e\/image_from_ios_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061GP92X8C-ead4b7b03e\/image_from_ios_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061GP92X8C-ead4b7b03e\/image_from_ios_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 220,
+                "thumb_360_h": 124,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061GP92X8C-ead4b7b03e\/image_from_ios_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061GP92X8C-ead4b7b03e\/image_from_ios_360.gif?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "original_w": 220,
+                "original_h": 124,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061GP92X8C-ead4b7b03e\/image_from_ios_deanimate.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061GP92X8C-ead4b7b03e\/image_from_ios_deanimate_gif.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_tiny": "AwAbADCFCflOBjOT70b+vJyKiM7nqB9cUsLFpTnnIp2C5OCCOTUE78gdfrU2044FQ3K42nFJAyH9KeGcsAKeLZ8A5UZ7GnfZ2XBDjd7dqoQRWrOu5m2r+tSR+WsZA456nqae5I6Uw\/0pk3AsQOCDSrIccjPp7U2ihKwnK4u\/Kk9DUPmE9TSydTUXai1ir3P\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LGTR0KV3\/F061GP92X8C\/image_from_ios.gif",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061GP92X8C-49d91e7374",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LGTR0KV3",
+        "display_as_bot": false,
+        "ts": "1697507552.340829",
+        "client_msg_id": "87CDCD77-44E4-4E29-8F0A-9EAAB1947D5B",
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "212E7AE5-E1A9-47D4-B430-E15C52142AFC",
+        "type": "message",
+        "text": "Ok I guess we can just agree that whoever has the highest projection right now is the winner",
+        "user": "U03LGTR0KV3",
+        "ts": "1697507656.221149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IaFl0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok I guess we can just agree that whoever has the highest projection right now is the winner"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "8441891A-DFAD-4AE4-ABB0-366E1F64F62A",
+        "type": "message",
+        "text": "Not how it works, Herbert’s rushing for 3 TDs in the second half",
+        "user": "U03LG7C5QAH",
+        "ts": "1697507689.209739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4F7OC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not how it works, Herbert’s rushing for 3 TDs in the second half"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "2ba9c002-d1ee-4849-a2cc-5b04e2a799cc",
+        "type": "message",
+        "text": "Tyler's over here like \"Please throw the deep ball for a TD. But also please not to Keenan Allen\" :joy:",
+        "user": "U03LK533VR8",
+        "ts": "1697508019.683299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FwhwI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tyler's over here like \"Please throw the deep ball for a TD. But also please not to Keenan Allen\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "F7CC74C8-4EFC-4E7F-A1C4-4047F0C12CA4",
+        "type": "message",
+        "text": "And I’d be good with a wildcat ekeler to Allen td",
+        "user": "U03LGTR0KV3",
+        "ts": "1697509283.795869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hDLij",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be good with a wildcat ekeler to Allen td"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK533VR8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "731c489f-b197-49b0-9dff-f2317533a2c3",
+        "type": "message",
+        "text": "As long as Allen doesn’t score a TD I’m happy",
+        "user": "U03LG7C5QAH",
+        "ts": "1697509336.039999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "slqyn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As long as Allen doesn’t score a TD I’m happy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "2ac3ee5f-8239-4806-824a-9e7c4be2c9f8",
+        "type": "message",
+        "text": "Agh that one Lamb catch could be the difference",
+        "user": "U03LG7C5QAH",
+        "ts": "1697510341.380409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+pLMb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agh that one Lamb catch could be the difference"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "B24B2D31-8A20-4BDB-9C63-BC32A3CBEBBE",
+        "type": "message",
+        "text": ":cd: :sheep: ",
+        "user": "U03LGTR0KV3",
+        "ts": "1697510382.979609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PEm1Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "cd",
+                                "unicode": "1f4bf"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sheep",
+                                "unicode": "1f411"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK533VR8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78411984-D791-485C-BD07-12FFE4866AA5",
+        "type": "message",
+        "text": "Duuuude tell Herbert to get it together when my guy makes a move like that!",
+        "user": "U03LGTR0KV3",
+        "ts": "1697510612.583269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oyfXC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Duuuude tell Herbert to get it together when my guy makes a move like that!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK533VR8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47f44d2e-92c8-4311-962f-504d90f08ea1",
+        "type": "message",
+        "text": "23 yarder to Allen",
+        "user": "U03LK533VR8",
+        "ts": "1697510777.433139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+qbZu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "23 yarder to Allen"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "4cf4401c-82c0-4485-a153-4ac72f34e410",
+        "type": "message",
+        "text": "Also the number of holds on the LA line is criminal.",
+        "user": "U03LK533VR8",
+        "ts": "1697510846.695529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "weBBk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also the number of holds on the LA line is criminal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "912066ba-98dd-4c19-8860-d89075906552",
+        "type": "message",
+        "text": "Someone please explain how WRs get like 5x the points for every yard",
+        "user": "U03LG7C5QAH",
+        "ts": "1697510868.438429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MNr6y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Someone please explain how WRs get like 5x the points for every yard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "ccefb121-abe8-49d9-ac5c-6c3b2eb80633",
+        "type": "message",
+        "text": "The throw is way harder than the catch",
+        "user": "U03LG7C5QAH",
+        "ts": "1697510877.275819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sMqUH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The throw is way harder than the catch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK533VR8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CE32586A-95BE-45F1-B228-C3C2AA559162",
+        "type": "message",
+        "text": ":rolling_on_the_floor_laughing: ",
+        "user": "U03LGTR0KV3",
+        "ts": "1697510899.472189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ElyYV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "df6392c4-5cbf-4dd1-977d-20dc8fff27b7",
+        "type": "message",
+        "text": "FINALLY Herbert",
+        "user": "U03LG7C5QAH",
+        "ts": "1697511495.129469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wbwAa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FINALLY Herbert"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "e482af7c-e162-4cd7-96c3-6b3fdb0b6fc7",
+        "type": "message",
+        "text": "Sheesh",
+        "user": "U03LG7C5QAH",
+        "ts": "1697511496.541869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3CCz5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sheesh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "31657d58-c9d3-45e0-8c23-3bcacfaa295b",
+        "type": "message",
+        "text": "Just need the cowboys to run the ball all the way down to 0:00",
+        "user": "U03LG7C5QAH",
+        "ts": "1697511627.545719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A7Vvu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just need the cowboys to run the ball all the way down to 0:00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "c2700179-de7f-4d37-93f6-58a3e325c12e",
+        "type": "message",
+        "text": "And kick a FG lol",
+        "user": "U03LG7C5QAH",
+        "ts": "1697511638.661809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W7HEB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And kick a FG lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "5036aeae-eda4-44e6-b8d2-2ec5d545f730",
+        "type": "message",
+        "text": "4th and 1 and a pass?! As a Seahawks fan, I do not approve of any passes on the goal line :joy:",
+        "user": "U03LK533VR8",
+        "ts": "1697511683.889539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ksQGU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "4th and 1 and a pass?! As a Seahawks fan, I do not approve of any passes on the goal line "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "4ca3acbe-67d4-4c5b-bd1c-15c6935a0b8c",
+        "type": "message",
+        "text": "CD!! :skull::joy:",
+        "user": "U03LK533VR8",
+        "ts": "1697512076.792029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h7vU7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CD!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "skull",
+                                "unicode": "1f480"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "96e2c83b-a405-4eaf-9c6f-d2070d62716a",
+        "type": "message",
+        "text": "That was not what the doctor ordered smh",
+        "user": "U03LG7C5QAH",
+        "ts": "1697512153.860269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kYnr\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That was not what the doctor ordered smh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "911D09B8-520D-4EEB-AEDF-82D6D34B04EA",
+        "type": "message",
+        "text": "Need Allen to get ejected",
+        "user": "U03LG7C5QAH",
+        "ts": "1697512678.740079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CGlss",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Need Allen to get ejected"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "C761EEA7-EDBB-4112-B5B8-B267B6413032",
+        "type": "message",
+        "text": "Well played Brett",
+        "user": "U03LG7C5QAH",
+        "ts": "1697512983.973729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lxRee",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ll played Brett"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "862ac63c-0079-43a3-837a-ca178b769d51",
+        "type": "message",
+        "text": "Man that was a nailbiter!",
+        "user": "U03LGTR0KV3",
+        "ts": "1697513019.803759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "71c+b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Man that was a nailbiter!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "d1c1f271-710b-49ab-8468-fbe2d0f6a6b7",
+        "type": "message",
+        "text": "I really thought i would lose when LA got the ball back",
+        "user": "U03LGTR0KV3",
+        "ts": "1697513036.560209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FU\/s3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I really thought i would lose when LA got the ball back"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "FF0504DC-4ECD-4375-8E00-7FA86A7BC202",
+        "type": "message",
+        "text": "Somehow espn had me as a 1% chance….",
+        "user": "U03LG7C5QAH",
+        "ts": "1697513092.711529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1N4KV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Somehow espn had me as a 1% chance"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "3AA70B41-4E83-4F99-A4CC-E5A38615BADC",
+        "type": "message",
+        "text": "Just needed a couple good throws to someone else. But man Herbert looks at Allen for a good three seconds every single play",
+        "user": "U03LG7C5QAH",
+        "ts": "1697513124.199559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nhoxF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just needed a couple good throws to someone else. But man Herbert looks at Allen for a good three seconds every single play"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506372.593359",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "36de4f37-b1e4-4153-803f-43d70fab22eb",
+        "type": "message",
+        "text": "Congrats to <@U05DD0R0XHB> on his first win by .18!",
+        "user": "U03M8TCTA6L",
+        "ts": "1697514459.432429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7LwIJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05DD0R0XHB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on his first win by .18!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03LG7C5QAH",
+                    "U05DD0R0XHB",
+                    "U03LCGQ9L6S"
+                ],
+                "count": 3
+            },
+            {
+                "name": "disappointed_relieved",
+                "users": [
+                    "U05DD0R2J6R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89867898-79dc-4994-a89c-f47c3b5d9e0a",
+        "type": "message",
+        "text": "That's if the current score stands and they don't adjust anything ha.",
+        "user": "U03M8TCTA6L",
+        "ts": "1697514527.757979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LavdZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's if the current score stands and they don't adjust anything ha."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

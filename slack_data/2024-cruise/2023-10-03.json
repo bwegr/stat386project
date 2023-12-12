@@ -1,0 +1,244 @@
+[
+    {
+        "client_msg_id": "ef804289-eb87-447f-a365-4f9d05312e9f",
+        "type": "message",
+        "text": "<!channel> devotional time (or just before) is a great time to make your voice be heard on which cruise we go on :passenger_ship: :pray:!  Please take this 5 min survey (if you haven't already) below ASAP as the survey closes this week :calendar:!!\n\n<https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_b4n575CNsqUuQM6>",
+        "user": "U03LXQE14NM",
+        "ts": "1696350718.796609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kVjZ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " devotional time (or just before) is a great time to make your voice be heard on which cruise we go on "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "passenger_ship",
+                                "unicode": "1f6f3-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!  Please take this 5 min survey (if you haven't already) below ASAP as the survey closes this week "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "calendar",
+                                "unicode": "1f4c6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_b4n575CNsqUuQM6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc176dbcf62e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_72.jpg",
+            "first_name": "Austin",
+            "real_name": "Austin Schofield",
+            "display_name": "Austin Schofield",
+            "team": "T0ZBAEL59",
+            "name": "schofieldda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_b4n575CNsqUuQM6",
+                "service_icon": "https:\/\/byu.az1.qualtrics.com\/brand-management\/apple-touch-icon",
+                "id": 1,
+                "original_url": "https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_b4n575CNsqUuQM6",
+                "fallback": "Qualtrics Survey | Qualtrics Experience Management",
+                "text": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.",
+                "title": "Qualtrics Survey | Qualtrics Experience Management",
+                "title_link": "https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_b4n575CNsqUuQM6",
+                "service_name": "byu.az1.qualtrics.com"
+            }
+        ],
+        "thread_ts": "1696350718.796609",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696350881.125169",
+        "reply_users": [
+            "U03LMGYLSR2",
+            "U03LXQE14NM"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1696350772.113629"
+            },
+            {
+                "user": "U03LXQE14NM",
+                "ts": "1696350881.125169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U03LXQFQS3B",
+                    "U03LXQE14NM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B089A5F2-5890-4DB8-8485-8C30CBD0CF87",
+        "type": "message",
+        "text": "Austin you’re a great task manager",
+        "user": "U03LMGYLSR2",
+        "ts": "1696350772.113629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uEr5y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Austin"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you’re a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " great task manager"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696350718.796609",
+        "parent_user_id": "U03LXQE14NM",
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03TVL5QZFA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "BQ1LN3JTY",
+        "type": "message",
+        "text": "blush",
+        "user": "U03LXQE14NM",
+        "ts": "1696350881.125169",
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "KTs38",
+                "image_url": "https:\/\/media3.giphy.com\/media\/DxqLrg8cINwnS\/giphy.gif?cid=6104955e05ic7f14c5ia1u5cgpiiz6qo84xcg9nh5u9iy3er&ep=v1_gifs_translate&rid=giphy.gif&ct=g",
+                "alt_text": "blush",
+                "title": {
+                    "type": "plain_text",
+                    "text": "blush",
+                    "emoji": true
+                },
+                "image_width": 480,
+                "image_height": 360,
+                "image_bytes": 449352,
+                "is_animated": true,
+                "fallback": "480x360px image"
+            },
+            {
+                "type": "context",
+                "block_id": "Tsajv",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "bot_profile": {
+            "id": "BQ1LN3JTY",
+            "app_id": "A0F827J2C",
+            "name": "giphy",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1572462548,
+            "team_id": "T0ZBAEL59"
+        },
+        "thread_ts": "1696350718.796609",
+        "parent_user_id": "U03LXQE14NM",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LMGYLSR2",
+                    "U03TVL5QZFA",
+                    "U03LK3D5N2X",
+                    "U03LXQCJA81"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

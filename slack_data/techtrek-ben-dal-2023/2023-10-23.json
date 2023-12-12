@@ -1,0 +1,290 @@
+[
+    {
+        "client_msg_id": "a1decd97-f7f0-4534-9ee3-a24d3692f5fc",
+        "type": "message",
+        "text": "I'd love to hear about vertical and lateral movement experiences within Walmart\/Sam's and how Walmart facilitates those.",
+        "user": "U05BBQFJ056",
+        "ts": "1698075370.923069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qo+nm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd love to hear about vertical and lateral movement experiences within Walmart\/Sam's and how Walmart facilitates those."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "0114fc285ea5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-13\/5734585427330_0114fc285ea570cdd820_72.png",
+            "first_name": "Jason",
+            "real_name": "Jason Allred",
+            "display_name": "Jason Allred",
+            "team": "T0ZBAEL59",
+            "name": "jasonallred12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918437.675079",
+        "parent_user_id": "U03PKR5881E"
+    },
+    {
+        "client_msg_id": "60fbe475-abef-45b3-bbf7-560b2cb6503a",
+        "type": "message",
+        "text": "How are you planning on getting from Bentonville to Dallas?",
+        "user": "U03LXQFQS3B",
+        "ts": "1698079207.035369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jf3D2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How are you planning on getting from Bentonville to Dallas?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3bfb7137657e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-07\/4063615469025_3bfb7137657ec172494c_72.jpg",
+            "first_name": "Justin",
+            "real_name": "Justin Crandall",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jhcrandall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696995981.934279",
+        "parent_user_id": "U03LK39PKRR"
+    },
+    {
+        "client_msg_id": "8f534a32-2992-4951-8595-b66d8bc6dad2",
+        "type": "message",
+        "text": "Rental car. I'll pick it up at XNA and return it at DFW.",
+        "user": "U03LK39PKRR",
+        "ts": "1698079259.741359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jT2Y6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Rental car. I'll pick it up at XNA and return it at DFW."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696995981.934279",
+        "parent_user_id": "U03LK39PKRR"
+    },
+    {
+        "client_msg_id": "466a6daf-bced-4a7a-91ab-b351e77b7c95",
+        "type": "message",
+        "text": "I would love to hear about different career paths into and within Walmart\/Sams that don't involve the leadership program",
+        "user": "U03LXQFQS3B",
+        "ts": "1698079462.228249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "geHva",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would love to hear about different career paths into and within Walmart\/Sams that don't involve the leadership program"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3bfb7137657e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-07\/4063615469025_3bfb7137657ec172494c_72.jpg",
+            "first_name": "Justin",
+            "real_name": "Justin Crandall",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jhcrandall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918437.675079",
+        "parent_user_id": "U03PKR5881E"
+    },
+    {
+        "client_msg_id": "23bf5083-9bc2-4d06-85b0-93be5ad9d40a",
+        "type": "message",
+        "text": "Awesome, could <@U03LN7VEH2Q> and I join you? However, we'll be arriving on Wednesday and leaving Friday night",
+        "user": "U03LXQFQS3B",
+        "ts": "1698079568.099569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "52QRh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, could "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LN7VEH2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I join you? However, we'll be arriving on Wednesday and leaving Friday night"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3bfb7137657e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-07\/4063615469025_3bfb7137657ec172494c_72.jpg",
+            "first_name": "Justin",
+            "real_name": "Justin Crandall",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jhcrandall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696995981.934279",
+        "parent_user_id": "U03LK39PKRR"
+    },
+    {
+        "client_msg_id": "135e0483-8396-4564-8318-49c6ed06f383",
+        "type": "message",
+        "text": "Totally!",
+        "user": "U03LK39PKRR",
+        "ts": "1698079697.880469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nf\/t1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Totally!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696995981.934279",
+        "parent_user_id": "U03LK39PKRR"
+    },
+    {
+        "client_msg_id": "9e82bccd-f095-4437-845f-4e2b9d627c93",
+        "type": "message",
+        "text": "Awesome!",
+        "user": "U03LXQFQS3B",
+        "ts": "1698079894.312689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xl3Ae",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3bfb7137657e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-07\/4063615469025_3bfb7137657ec172494c_72.jpg",
+            "first_name": "Justin",
+            "real_name": "Justin Crandall",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jhcrandall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696995981.934279",
+        "parent_user_id": "U03LK39PKRR"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "F31E1E35-1E4A-45F7-B5C4-7B9A91B1D4BF",
+        "type": "message",
+        "text": "Reminder: We are playing Volleyball in SFH building this friday at 6pm. We have courts reserved for us. Please spread the word. ",
+        "user": "U03L4GQK4KZ",
+        "ts": "1698162926.499979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Riwrp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reminder: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "e are playing Volleyball in SFH building this friday at 6pm. We have courts reserved for us. Please spread the word. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b307be7eedc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3709097130420_4b307be7eedc4338b292_72.png",
+            "first_name": "Tulga",
+            "real_name": "Tulga Enkhbold",
+            "display_name": "Tulga",
+            "team": "T0ZBAEL59",
+            "name": "lukautah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U05MZL07Q78",
+                    "U03LXQCEVKK"
+                ],
+                "count": 2
+            },
+            {
+                "name": "muscle::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "volleyball",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

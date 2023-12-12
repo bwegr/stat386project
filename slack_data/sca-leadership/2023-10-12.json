@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "e3ebb88c-8622-4fac-9b50-8b176b2d1f66",
+        "type": "message",
+        "text": "I invited first year finance students who're interested in consulting",
+        "user": "U03LCGQCM2S",
+        "ts": "1697141124.714019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k6r3X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I invited first year finance students who're interested in consulting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "gacc00d45238",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/acc00d45238a6ceb3a20d35313d42684.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Christina",
+            "real_name": "Christina Yadan Zhang",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "christinaydz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "parrotfast",
+                "users": [
+                    "U03NW11JH19"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

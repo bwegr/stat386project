@@ -1,0 +1,273 @@
+[
+    {
+        "client_msg_id": "E3575F9A-1CB9-4374-BD3C-268652D5694F",
+        "type": "message",
+        "text": "<@U05BBQG8FTJ> <@U05H6A4184T> You guys down for tomorrow morning at 7? ",
+        "user": "U05DD0QU5MK",
+        "ts": "1696551355.756699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tr5W7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQG8FTJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05H6A4184T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You guys down for tomorrow morning at 7? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "gc84bb28974b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c84bb28974bdc5d56235247044ed7d1a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Brandon",
+            "real_name": "Brandon Ward",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "wardbrandonc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696551358.386949",
+        "user": "U05H6A4184T",
+        "text": "<@U05H6A4184T> has joined the channel",
+        "inviter": "U05DD0QU5MK"
+    },
+    {
+        "client_msg_id": "866B1957-93BF-484C-B8A1-3D14E564CA1B",
+        "type": "message",
+        "text": "I’m in! ",
+        "user": "U05H6A4184T",
+        "ts": "1696553338.676079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "poUHi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "79606dd47c09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5802269160551_79606dd47c09b377ebdf_72.png",
+            "first_name": "Carl",
+            "real_name": "Carl Majors",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "carlmajors",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "165cc744-c89e-46ef-851d-a7497eb498ef",
+        "type": "message",
+        "text": "<@U05DD0QU5MK> <@U05H6A4184T> I anticipate getting an email in the next couple hours about an interview with Delta. If I don't get it, or its not too close to 7, then I'm in.",
+        "user": "U05BBQG8FTJ",
+        "ts": "1696558067.664849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pOL\/O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05DD0QU5MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05H6A4184T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I anticipate getting an email in the next couple hours about an interview with Delta. If I don't get it, or its not too close to 7, then I'm in."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05BBQG8FTJ",
+            "ts": "1696558095.000000"
+        }
+    },
+    {
+        "client_msg_id": "D041054B-B36D-470F-BCEF-F605D388C715",
+        "type": "message",
+        "text": "Good luck JJ!! ",
+        "user": "U05H6A4184T",
+        "ts": "1696561350.132619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OmMev",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good luck JJ!! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "79606dd47c09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5802269160551_79606dd47c09b377ebdf_72.png",
+            "first_name": "Carl",
+            "real_name": "Carl Majors",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "carlmajors",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1F2CA4AE-4BB1-41EE-982D-192ADBCCF934",
+        "type": "message",
+        "text": "I got the interview at 8 so I’ll have to pass tomorrow! Let’s try again. I’d love to get in a game or two every week. ",
+        "user": "U05BBQG8FTJ",
+        "ts": "1696568219.499939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "anSkJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I got the interview at 8 so I’ll have to pass tomorrow! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Let’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " try again"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " love to get in a game or two every week"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U05H6A4184T"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

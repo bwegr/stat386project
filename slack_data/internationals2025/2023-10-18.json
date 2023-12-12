@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "ddf0e093-6c1b-40a6-97f2-b82c9d660dfd",
+        "type": "message",
+        "text": "I have heard that Amgen sponsors and this seems like an awesome internship plus Thousand Oaks is an awesome place to live.\n<https:\/\/www.amgen.jobs\/thousand-oaks-ca\/commercial-leadership-program-mba-summer-internship-2024\/D047AC627563453BBED50490EC5595E2\/job\/>",
+        "user": "U03PKR5881E",
+        "ts": "1697671958.270139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2KqiJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have heard that Amgen sponsors and this seems like an awesome internship plus Thousand Oaks is an awesome place to live.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amgen.jobs\/thousand-oaks-ca\/commercial-leadership-program-mba-summer-internship-2024\/D047AC627563453BBED50490EC5595E2\/job\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AQGJMMT6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

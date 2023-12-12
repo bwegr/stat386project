@@ -1,0 +1,488 @@
+[
+    {
+        "client_msg_id": "b27095b2-71dd-4e80-a93f-ebf0b79620b2",
+        "type": "message",
+        "text": "The application for the MBA Latin America study abroad is open.  Students can access the applications by going to Home - ISP (<http:\/\/byu.edu|byu.edu>) (<https:\/\/isp.byu.edu\/>) or through the Kennedy Center website at Apply Now (<http:\/\/byu.edu|byu.edu>) (<https:\/\/kennedy.byu.edu\/isp-apply>).\n\nThe application deadline is 10 November.\n.\n*There is a $35 application fee. Students do not require an essay or references but will need to write N\/A in those areas or the application will show as incomplete.*\n\nThe cost of the 14 day program will be approximately $4000-$4200. The Kennedy Center will charge $3000 and we will pay for the international flight tickets (to and from SLC) individually since there are some flights with longer layovers that save a few hundred dollars that some students may prefer.\n\nWe plan to have another meeting next week for all of the registered students to finalize the itinerary ( Easter Island, Patagonia or the Galapagos).\n\nAlthough this trip is normally reserved for the second year students, since we are all traveling on our personal time off from school, 1st year students can also participate.",
+        "user": "U03L4GT3B55",
+        "ts": "1698250026.057599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JgxBa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The application for the MBA Latin America study abroad is open.  Students can access the applications by going to Home - ISP ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/byu.edu",
+                                "text": "byu.edu"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/isp.byu.edu\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") or through the Kennedy Center website at Apply Now ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/byu.edu",
+                                "text": "byu.edu"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kennedy.byu.edu\/isp-apply"
+                            },
+                            {
+                                "type": "text",
+                                "text": ").\n\nThe application deadline is 10 November.\n.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "There is a $35 application fee. Students do not require an essay or references but will need to write N\/A in those areas or the application will show as incomplete.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThe cost of the 14 day program will be approximately $4000-$4200. The Kennedy Center will charge $3000 and we will pay for the international flight tickets (to and from SLC) individually since there are some flights with longer layovers that save a few hundred dollars that some students may prefer.\n\nWe plan to have another meeting next week for all of the registered students to finalize the itinerary ( Easter Island, Patagonia or the Galapagos).\n\nAlthough this trip is normally reserved for the second year students, since we are all traveling on our personal time off from school, 1st year students can also participate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/isp.byu.edu\/",
+                "service_icon": "https:\/\/cdn.byu.edu\/shared-icons\/latest\/favicons\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/isp.byu.edu\/",
+                "fallback": "ISP",
+                "text": "ISP UI for applicants",
+                "title": "ISP",
+                "title_link": "https:\/\/isp.byu.edu\/",
+                "service_name": "isp.byu.edu"
+            },
+            {
+                "image_url": "https:\/\/brightspotcdn.byu.edu\/dims4\/default\/205b087\/2147483647\/strip\/true\/crop\/2050x2050+2095+0\/resize\/1200x1200!\/quality\/90\/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2F0f%2Fa9%2Fe4646daf43be97fdc34b71706f95%2Fshutterstock-786576373.jpg",
+                "image_width": 1200,
+                "image_height": 1200,
+                "image_bytes": 315104,
+                "from_url": "https:\/\/kennedy.byu.edu\/isp-apply",
+                "service_icon": "https:\/\/kennedy.byu.edu\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/kennedy.byu.edu\/isp-apply",
+                "fallback": "Kennedy Center: Apply Now",
+                "title": "Apply Now",
+                "title_link": "https:\/\/kennedy.byu.edu\/isp-apply",
+                "service_name": "Kennedy Center"
+            }
+        ],
+        "thread_ts": "1698250026.057599",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1698290162.567539",
+        "reply_users": [
+            "U03LK39PKRR",
+            "U03L4GT3B55"
+        ],
+        "replies": [
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1698253488.160699"
+            },
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1698256260.651109"
+            },
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1698273468.420019"
+            },
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1698273487.364919"
+            },
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1698284179.861119"
+            },
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1698290162.567539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "flag-cl",
+                "users": [
+                    "U05AMVCTLRZ",
+                    "U03LK39PKRR",
+                    "U03PKR5GQUQ",
+                    "U03LXQLBGCR"
+                ],
+                "count": 4
+            },
+            {
+                "name": "flag-pe",
+                "users": [
+                    "U05AMVCTLRZ",
+                    "U03LK39PKRR",
+                    "U03PKR5GQUQ",
+                    "U03LXQLBGCR"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U03LK5045V0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03PKR5GQUQ",
+                    "U03LXQLBGCR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrotfast",
+                "users": [
+                    "U03LXQLBGCR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698253073.355419",
+        "user": "U05HK2S6TLZ",
+        "text": "<@U05HK2S6TLZ> has joined the channel"
+    },
+    {
+        "client_msg_id": "7b9a799f-8a22-46e6-a6ad-9f30d868f88c",
+        "type": "message",
+        "text": "<@U03L4GT3B55> What is the name of the program? I've searched for both 'MBA' and 'South America' and don't see it anywhere.",
+        "user": "U03LK39PKRR",
+        "ts": "1698253488.160699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B3Zsn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L4GT3B55"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What is the name of the program? I've searched for both 'MBA' and 'South America' and don't see it anywhere."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LK39PKRR",
+            "ts": "1698254308.000000"
+        },
+        "thread_ts": "1698250026.057599",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "FD90BA85-54C9-48B0-B71D-5041B7CFC560",
+        "type": "message",
+        "text": "I’ll find out. Sorry about the confusion ",
+        "user": "U03L4GT3B55",
+        "ts": "1698256260.651109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5KHg5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " find out. Sorry about the confusion "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698250026.057599",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "94929509-b938-4bc6-8113-d0378ee12fd5",
+        "type": "message",
+        "text": "Looks like it's not listed under the 'Find My Program' page, but it will come up if you go under 'My Applications' (<https:\/\/isp.byu.edu\/|https:\/\/isp.byu.edu\/>) and search for it there.",
+        "user": "U03LK39PKRR",
+        "ts": "1698273468.420019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DxUST",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like it's not listed under the 'Find My Program' page, but it will come up if you go under 'My Applications' ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/isp.byu.edu\/",
+                                "text": "https:\/\/isp.byu.edu\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") and search for it there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/isp.byu.edu\/",
+                "service_icon": "https:\/\/cdn.byu.edu\/shared-icons\/latest\/favicons\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/isp.byu.edu\/",
+                "fallback": "ISP",
+                "text": "ISP UI for applicants",
+                "title": "ISP",
+                "title_link": "https:\/\/isp.byu.edu\/",
+                "service_name": "isp.byu.edu"
+            }
+        ],
+        "thread_ts": "1698250026.057599",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "c5c39a9f-b56e-40a9-810f-877137f19756",
+        "type": "message",
+        "text": "Kudos to <@U03LXQLBGCR> for showing me",
+        "user": "U03LK39PKRR",
+        "ts": "1698273487.364919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qvYBc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kudos to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LXQLBGCR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for showing me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698250026.057599",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "dcf9c89d-86f6-4884-b2b8-a7a7d2fa9d3f",
+        "type": "message",
+        "text": "Thank you for posting.",
+        "user": "U03L4GT3B55",
+        "ts": "1698284179.861119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uCeLW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for posting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698250026.057599",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "4f634030-cc86-490f-b7c8-7616c60296c2",
+        "type": "message",
+        "text": "<https:\/\/isp.byu.edu\/application\/new\/?programId=04712d9f-024d-44e9-99d1-febc4820620c>",
+        "user": "U03L4GT3B55",
+        "ts": "1698290162.567539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SZvih",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/isp.byu.edu\/application\/new\/?programId=04712d9f-024d-44e9-99d1-febc4820620c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698250026.057599",
+        "parent_user_id": "U03L4GT3B55"
+    }
+]

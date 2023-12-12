@@ -1,0 +1,153 @@
+[
+    {
+        "type": "message",
+        "text": "The range in Points Against for <@U03LCGQ9L6S> &amp; <@U03LMGV8Y12> is crazy. Condolences, Aaron",
+        "files": [
+            {
+                "id": "F0613FPAYEM",
+                "created": 1697045271,
+                "timestamp": 1697045271,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LK533VR8",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 43591,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0613FPAYEM\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0613FPAYEM\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0613FPAYEM-edd6ac257a\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0613FPAYEM-edd6ac257a\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0613FPAYEM-edd6ac257a\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 268,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0613FPAYEM-edd6ac257a\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 357,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0613FPAYEM-edd6ac257a\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "original_w": 646,
+                "original_h": 481,
+                "thumb_tiny": "AwAjADDRIx69fU0uaRiBjJ7+tH+etADqKQf55oPSgBaO9JQOpoAG\/HrRz70N\/X0pP89KAFFBoH+eKD0oAWkB56GlpBnPakAEA9aMClopgJiilooASiiigD\/\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK533VR8\/F0613FPAYEM\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0613FPAYEM-115bcd9884",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LK533VR8",
+        "display_as_bot": false,
+        "ts": "1697045409.039339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yJSbi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The range in Points Against for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LCGQ9L6S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LMGV8Y12"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is crazy. Condolences, Aaron"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d5baa026-cc19-406d-849e-42f436f9d39c",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LCGQ9L6S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B8FE84EE-4EC5-4A06-A2B0-B625F98F9FB6",
+        "type": "message",
+        "text": "Time to turn around my season. Some big, juicy RBs. interesting trades considered. ",
+        "user": "U03LMGV8Y12",
+        "ts": "1697045643.187659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gr4Wv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Time to turn around my season"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Some big, juicy RBs. interesting trades considered. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "11faedfd4201",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-16\/4093144696930_11faedfd42013ff3c8c3_72.png",
+            "first_name": "Aaron",
+            "real_name": "Aaron Ranger",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "aarontranger",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK533VR8",
+                    "U05DJBMDG0L",
+                    "U03LG7C5QAH"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

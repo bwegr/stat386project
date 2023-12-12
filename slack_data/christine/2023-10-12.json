@@ -1,0 +1,415 @@
+[
+    {
+        "client_msg_id": "27eb2ec1-5372-43a4-9ac6-244ff839c936",
+        "type": "message",
+        "text": "<#C040A6FLQUV|christine> Don't forget to make sure you put your preferences and save them within the bidding system by 10:50a.  We will be in W240 at 11am for the bidding if you want to see behind the scenes.  It won't take more than 10 minutes.  <https:\/\/services.byu.edu\/mba\/>",
+        "user": "U03AVEWPUQN",
+        "ts": "1697124249.909179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gUmAA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C040A6FLQUV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Don't forget to make sure you put your preferences and save them within the bidding system by 10:50a.  We will be in W240 at 11am for the bidding if you want to see behind the scenes.  It won't take more than 10 minutes.  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/services.byu.edu\/mba\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03AVEWPUQN",
+            "ts": "1697124799.000000"
+        },
+        "reactions": [
+            {
+                "name": "pray::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U03L4GP8ZMM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef20e517-86eb-4d88-9b81-dd2432459f70",
+        "type": "message",
+        "text": "Hey Christine! I was checking out the global management certificate yesterday, and it looks like the pre-req course is only offered during our core class hours next semester. Can we start that certificate Fall 2025? Is there a place I can go for more information about the certificate?",
+        "user": "U05GZPFH7SA",
+        "ts": "1697128061.257359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wsQBO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Christine! I was checking out the global management certificate yesterday, and it looks like the pre-req course is only offered during our core class hours next semester. Can we start that certificate Fall 2025? Is there a place I can go for more information about the certificate?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2b948b9ac7ab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-24\/5793748341381_2b948b9ac7ab18f4c292_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Johnson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "tylerkennethjohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697128061.257359",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1697129218.822099",
+        "reply_users": [
+            "U03AVEWPUQN",
+            "U03LMGXDFB6"
+        ],
+        "replies": [
+            {
+                "user": "U03AVEWPUQN",
+                "ts": "1697128179.681319"
+            },
+            {
+                "user": "U03LMGXDFB6",
+                "ts": "1697128980.924509"
+            },
+            {
+                "user": "U03AVEWPUQN",
+                "ts": "1697129218.822099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5881f62b-b636-49ff-8168-61dfce9d0517",
+        "type": "message",
+        "text": "This is ran out of the Global Business Center and the only information I have is on their website:  <https:\/\/marriott.byu.edu\/gbc\/academics\/certificate\/>\n\nYou can reach to Professor Bruce Money or Jonathon Wood if you can't find your answer on the website.",
+        "user": "U03AVEWPUQN",
+        "ts": "1697128179.681319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YG2O2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is ran out of the Global Business Center and the only information I have is on their website:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/marriott.byu.edu\/gbc\/academics\/certificate\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nYou can reach to Professor Bruce Money or Jonathon Wood if you can't find your answer on the website."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/marriott.byu.edu\/gbc\/academics\/certificate\/",
+                "service_icon": "https:\/\/marriott.byu.edu\/msm\/theme\/variant\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/marriott.byu.edu\/gbc\/academics\/certificate\/",
+                "fallback": "Global Business Center: Global Business Certificate — Global Business Center",
+                "text": "The Global Business Certificate is the highest form of academic achievement in international business that the BYU Marriott School of Business awards. The certificate is visible, concise evidence that you have successfully integrated classroom learning with rigorous international experience, thereby increasing your value as a potential employee or associate. It is an opportunity to illustrate […]",
+                "title": "Global Business Certificate — Global Business Center",
+                "title_link": "https:\/\/marriott.byu.edu\/gbc\/academics\/certificate\/",
+                "service_name": "Global Business Center",
+                "fields": [
+                    {
+                        "value": "10 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1697128061.257359",
+        "parent_user_id": "U05GZPFH7SA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05GZPFH7SA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "af528d5b-6497-4f6f-b615-ccd911c68956",
+        "type": "message",
+        "text": "Hey <@U05GZPFH7SA>, the pre-req class is actually one of your core classes (the one with Prof Money)",
+        "user": "U03LMGXDFB6",
+        "ts": "1697128980.924509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M1FJc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05GZPFH7SA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", the pre-req class is actually one of your core classes (the one with Prof Money)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697128061.257359",
+        "parent_user_id": "U05GZPFH7SA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05GZPFH7SA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58168fd5-70eb-4c36-ad2b-46fa42f03e6a",
+        "type": "message",
+        "text": "<@U03LMGXDFB6>  Thanks!",
+        "user": "U03AVEWPUQN",
+        "ts": "1697129218.822099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wiff6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LMGXDFB6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697128061.257359",
+        "parent_user_id": "U05GZPFH7SA"
+    },
+    {
+        "client_msg_id": "2f7edc18-9b00-4d91-a675-54e38a0c368a",
+        "type": "message",
+        "text": "Will someone please explain to me how the class registration works? I won a few classes on the bidding and went ahead and added them to my cart, but apparently, I can add any class I want to my cart, so what is the bidding for? Also, I'm trying to add the envelope for the winter semester, but it doesn't show up.",
+        "user": "U05AN3TCTSN",
+        "ts": "1697154707.836279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PQ6Ap",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will someone please explain to me how the class registration works? I won a few classes on the bidding and went ahead and added them to my cart, but apparently, I can add any class I want to my cart, so what is the bidding for? Also, I'm trying to add the envelope for the winter semester, but it doesn't show up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697154707.836279",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1697227195.738629",
+        "reply_users": [
+            "U03SZAWQBM4",
+            "U03LK3AD1V1",
+            "U05AN3TCTSN"
+        ],
+        "replies": [
+            {
+                "user": "U03SZAWQBM4",
+                "ts": "1697154881.641129"
+            },
+            {
+                "user": "U03LK3AD1V1",
+                "ts": "1697219790.193049"
+            },
+            {
+                "user": "U05AN3TCTSN",
+                "ts": "1697221728.908679"
+            },
+            {
+                "user": "U03LK3AD1V1",
+                "ts": "1697227195.738629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b85dd416-ec1d-496c-a190-60b095fa066e",
+        "type": "message",
+        "text": "The initial email spells out how it works. Next week you can register, a few days before registration opens to everyone. If you fail to sign up in that period, you can lose your bid spot in the class",
+        "user": "U03SZAWQBM4",
+        "ts": "1697154881.641129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ygW20",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The initial email spells out how it works. Next week you can register, a few days before registration opens to everyone. If you fail to sign up in that period, you can lose your bid spot in the class"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697154707.836279",
+        "parent_user_id": "U05AN3TCTSN"
+    }
+]

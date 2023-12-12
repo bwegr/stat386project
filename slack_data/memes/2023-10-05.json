@@ -1,0 +1,85 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F060BAHPDTK",
+                "created": 1696532077,
+                "timestamp": 1696532077,
+                "name": "IMG_8556.jpg",
+                "title": "IMG_8556",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03L4GUGBF1",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 77093,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060BAHPDTK\/img_8556.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060BAHPDTK\/download\/img_8556.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060BAHPDTK-7872eaaec9\/img_8556_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060BAHPDTK-7872eaaec9\/img_8556_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060BAHPDTK-7872eaaec9\/img_8556_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 330,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060BAHPDTK-7872eaaec9\/img_8556_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 440,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060BAHPDTK-7872eaaec9\/img_8556_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060BAHPDTK-7872eaaec9\/img_8556_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 660,
+                "original_w": 750,
+                "original_h": 687,
+                "thumb_tiny": "AwArADC+VfPynj6\/\/Wpvz5xuI\/H\/AOtT5DgZqjJM\/mbgDsU4b3oAuruzy36\/\/WpXYbeSR9KgR8OPQ1I7qqlm4FADS4x8rMT705clsbj+dMjlSUAqfwqVRzmgBJ22gn0rPLl0fJwSeMdsVcuiCrBjgY5qsJYSCBFIRjkDFADY5yB8xBYHrjrVmbEsWRjgdTVZXiBJ8uTOcg46U5ZQV2KjnHY0AMgkaLcUGVPr3q\/DIJEVh37VmSzu4CfKqjn5Rip9MfjaR1OaALF1bvKco2Kq\/ZnVdioSerHPWtSigDIFtIH5iYDHXNBkjU7UUljxiteopIIn5ZAT60AZkdupOWYLntUtqmy6254B4PrVr7PEP4B61NHEiKNqgcelAH\/\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03L4GUGBF1\/F060BAHPDTK\/img_8556.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060BAHPDTK-35e69b7376",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03L4GUGBF1",
+        "display_as_bot": false,
+        "ts": "1696532081.720119",
+        "client_msg_id": "C434DB63-4D22-4FA8-A5AA-5EDD419BBD38",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LCGM9XML",
+                    "U03LXQLBGCR",
+                    "U03LK4YF3A6",
+                    "U03LCGQP0LW",
+                    "U03LK52VCQ2",
+                    "U03M8T9K6SU",
+                    "U03LMGSGBQC",
+                    "U03LG776WFP",
+                    "U03LXQCJA81",
+                    "U05AFDRH8AJ",
+                    "U03LK56AUHG",
+                    "U03LK5045V0"
+                ],
+                "count": 12
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U03LK56EXJN",
+                    "U03LG776WFP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

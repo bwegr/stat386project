@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "3E38A594-1735-455D-8E4B-5B29192DE7FD",
+        "type": "message",
+        "text": "Anyone down for lunch today?",
+        "user": "U03LXQE14NM",
+        "ts": "1696613189.022709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eLyOI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone down for lunch today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc176dbcf62e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_72.jpg",
+            "first_name": "Austin",
+            "real_name": "Austin Schofield",
+            "display_name": "Austin Schofield",
+            "team": "T0ZBAEL59",
+            "name": "schofieldda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

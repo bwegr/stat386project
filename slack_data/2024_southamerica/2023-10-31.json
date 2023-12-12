@@ -1,0 +1,1194 @@
+[
+    {
+        "client_msg_id": "43e4a51b-1737-4cbf-9785-d1342a93a300",
+        "type": "message",
+        "text": "Would some kind soul be willing to take notes today? For some strange reason I have TWO professors who have booked the same time for meetings.",
+        "user": "U03L4GT3B55",
+        "ts": "1698764364.560109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IWT+m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would some kind soul be willing to take notes today? For some strange reason I have TWO professors who have booked the same time for meetings."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698764364.560109",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698806672.530609",
+        "reply_users": [
+            "U05BBQFJ056",
+            "U03LK39PKRR"
+        ],
+        "replies": [
+            {
+                "user": "U05BBQFJ056",
+                "ts": "1698764656.556109"
+            },
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1698806672.530609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05BBQFJ056",
+                    "U03PKR5GQUQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85D2286A-2081-423E-A34B-071BD78F915C",
+        "type": "message",
+        "text": "Anything for you!!",
+        "user": "U05BBQFJ056",
+        "ts": "1698764656.556109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xJ3Vx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anything for you!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "0114fc285ea5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-13\/5734585427330_0114fc285ea570cdd820_72.png",
+            "first_name": "Jason",
+            "real_name": "Jason Allred",
+            "display_name": "Jason Allred",
+            "team": "T0ZBAEL59",
+            "name": "jasonallred12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698764364.560109",
+        "parent_user_id": "U03L4GT3B55",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03L4GT3B55"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4E68257F-6E54-4B77-B29C-5A3688B744B1",
+        "type": "message",
+        "text": "<@U03LK39PKRR> if you need a zoom link, I can hop on a zoom call with you. ",
+        "user": "U03PKR5GQUQ",
+        "ts": "1698769276.139639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CRPG\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK39PKRR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you need a zoom link, I can hop on a zoom call with you. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dc8df7de893c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/3999803606982_dc8df7de893c145463cc_72.png",
+            "first_name": "Ashlee",
+            "real_name": "Ashlee Love",
+            "display_name": "Ashlee",
+            "team": "T0ZBAEL59",
+            "name": "ashleelove2017",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698698872.896749",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "e3633a26-bf62-4b5b-afca-c3ed61d1f6db",
+        "type": "message",
+        "text": "I already drove to campus, but thank you!",
+        "user": "U03LK39PKRR",
+        "ts": "1698769323.979749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hWcjw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I already drove to campus, but thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698698872.896749",
+        "parent_user_id": "U03L4GT3B55",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03PKR5GQUQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03L4GT3B55"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dac926f3-a034-4e1f-b96b-e47aa85a0a53",
+        "type": "message",
+        "text": "<!channel>\nPlease fill out the two question survey about the trip ASAP. Lee wants to make a final decision by tomorrow.\n<https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_71YZFCTVUfQRN5A>",
+        "user": "U03L4GT3B55",
+        "ts": "1698804806.070119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6SapA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPlease fill out the two question survey about the trip ASAP. Lee wants to make a final decision by tomorrow.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_71YZFCTVUfQRN5A"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_71YZFCTVUfQRN5A",
+                "service_icon": "https:\/\/byu.az1.qualtrics.com\/brand-management\/apple-touch-icon",
+                "id": 1,
+                "original_url": "https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_71YZFCTVUfQRN5A",
+                "fallback": "Qualtrics Survey | Qualtrics Experience Management",
+                "text": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.",
+                "title": "Qualtrics Survey | Qualtrics Experience Management",
+                "title_link": "https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_71YZFCTVUfQRN5A",
+                "service_name": "byu.az1.qualtrics.com"
+            }
+        ],
+        "thread_ts": "1698804806.070119",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1698810284.129379",
+        "reply_users": [
+            "U03LK39PKRR",
+            "U03L4GT3B55",
+            "U05BBQFJ056",
+            "U05B0NHD3LZ"
+        ],
+        "replies": [
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1698806314.185949"
+            },
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1698806353.264849"
+            },
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1698806376.227439"
+            },
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1698806413.844159"
+            },
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1698806479.646529"
+            },
+            {
+                "user": "U05BBQFJ056",
+                "ts": "1698808405.927199"
+            },
+            {
+                "user": "U05B0NHD3LZ",
+                "ts": "1698810284.129379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03PKR5GQUQ",
+                    "U03LK56AUHG",
+                    "U05AMVCTLRZ",
+                    "U05BBQFJ056",
+                    "U03LK3D5N2X",
+                    "U03LK39PKRR",
+                    "U03L4GUGBF1",
+                    "U05MZL0DLVC"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "376d9029-7180-443e-bdee-c9edc3a1790a",
+        "type": "message",
+        "text": "Some more details on your options...\n• Easter Island: a few large, inanimate, frowning faces made of stone on a single, mostly treeless, very remote, patch of ground.\n• Galapagos Islands: multiple beautiful islands filled with hundreds of endemic species that don't exist anywhere else in the world, including giant tortoises (up to 900 lbs, 4'3'' long) :turtle:, marine iguanas (basically just small godzillas) :lizard:, lava lizards :volcano:, flightless cormorants :eagle:, blue-footed boobys :bird:, and tropical penguins:penguin:(the only penguins in the northern hemisphere :dancing-penguin:). Also dolphins :dolphin:, sharks :shark:, coral :coral:, and snorkeling :diving_mask:. And it's the #3 destination in Central\/South America (<https:\/\/travel.usnews.com\/rankings\/best-central-and-south-american-vacations\/>)!!!",
+        "user": "U03LK39PKRR",
+        "ts": "1698806314.185949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XEfbX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Some more details on your options...\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Easter Island: a few large, inanimate, frowning faces made of stone on a single, mostly treeless, very remote, patch of ground."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Galapagos Islands: multiple beautiful islands filled with hundreds of endemic species that don't exist anywhere else in the world, including giant tortoises (up to 900 lbs, 4'3'' long) "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "turtle",
+                                        "unicode": "1f422"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", marine iguanas (basically just small godzillas) "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "lizard",
+                                        "unicode": "1f98e"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", lava lizards "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "volcano",
+                                        "unicode": "1f30b"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", flightless cormorants "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "eagle",
+                                        "unicode": "1f985"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", blue-footed boobys "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "bird",
+                                        "unicode": "1f426"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", and tropical penguins"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "penguin",
+                                        "unicode": "1f427"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "(the only penguins in the northern hemisphere "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "dancing-penguin"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "). Also dolphins "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "dolphin",
+                                        "unicode": "1f42c"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", sharks "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "shark",
+                                        "unicode": "1f988"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", coral "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "coral",
+                                        "unicode": "1fab8"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", and snorkeling "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "diving_mask",
+                                        "unicode": "1f93f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". And it's the #3 destination in Central\/South America ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/travel.usnews.com\/rankings\/best-central-and-south-american-vacations\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")!!!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/travel.usnews.com\/dims4\/USNEWS\/b97666c\/2147483647\/resize\/255x255^&gt;\/crop\/255x255\/quality\/85\/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2Fmain_image_lOUOzDh.jpg",
+                "image_width": 350,
+                "image_height": 350,
+                "image_bytes": 1869,
+                "from_url": "https:\/\/travel.usnews.com\/rankings\/best-central-and-south-american-vacations\/",
+                "service_icon": "https:\/\/travel.usnews.com\/static-atlas\/assets\/img\/social-logo-world-report.png",
+                "id": 1,
+                "original_url": "https:\/\/travel.usnews.com\/rankings\/best-central-and-south-american-vacations\/",
+                "fallback": "The 15 Best Places to Visit in Central and South America in 2023.",
+                "text": "We rank the 15 Best Places to Visit in Central and South America in 2023. See which places our readers like the best, and vote for your favorites.",
+                "title": "The 15 Best Places to Visit in Central and South America in 2023.",
+                "title_link": "https:\/\/travel.usnews.com\/rankings\/best-central-and-south-american-vacations\/",
+                "service_name": "travel.usnews.com"
+            }
+        ],
+        "thread_ts": "1698804806.070119",
+        "parent_user_id": "U03L4GT3B55",
+        "reactions": [
+            {
+                "name": "turtle",
+                "users": [
+                    "U03LK39PKRR",
+                    "U03L4GT3B55"
+                ],
+                "count": 2
+            },
+            {
+                "name": "volcano",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "lizard",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eagle",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bird",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "penguin",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dolphin",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "shark",
+                "users": [
+                    "U03LK39PKRR",
+                    "U05BBQFJ056"
+                ],
+                "count": 2
+            },
+            {
+                "name": "coral",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "diving_mask",
+                "users": [
+                    "U03LK39PKRR",
+                    "U05BBQFJ056",
+                    "U05B0NHD3LZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "dancing-penguin",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK5045V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd0e08fa-be24-4445-acc2-71de6d932d44",
+        "type": "message",
+        "text": "Brandon. There isn't any bias here, is there?",
+        "user": "U03L4GT3B55",
+        "ts": "1698806353.264849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U+l9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brandon. There isn't any bias here, is there?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698804806.070119",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "cf7bfdc0-37bc-4f52-88fb-8d3023e22a49",
+        "type": "message",
+        "text": "None at all. Why do you ask?",
+        "user": "U03LK39PKRR",
+        "ts": "1698806376.227439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SjfQT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "None at all. Why do you ask?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698804806.070119",
+        "parent_user_id": "U03L4GT3B55",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03L4GT3B55",
+                    "U03LK5045V0",
+                    "U05BBQFJ056",
+                    "U03LXQBTQJV",
+                    "U05B0NHD3LZ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9814cb28-a0b6-4a98-bc25-0997c94db8a5",
+        "type": "message",
+        "text": "I choose turtles, all the way down.",
+        "user": "U03L4GT3B55",
+        "ts": "1698806413.844159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TkOmF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I choose turtles, all the way down."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698804806.070119",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "731127b4-fb08-472b-b8b8-38b22a3dd8f7",
+        "type": "message",
+        "text": "No guarantees, but the penguins may even be dancing :dancing-penguin:. And how could you not want to see that?",
+        "user": "U03LK39PKRR",
+        "ts": "1698806479.646529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GnCMl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No guarantees, but the penguins may even be dancing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dancing-penguin"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". And how could you not want to see that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698804806.070119",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F063Q9S3HA7",
+                "created": 1698806640,
+                "timestamp": 1698806640,
+                "name": "IMG_20231031_112525.jpg",
+                "title": "IMG_20231031_112525.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03LK39PKRR",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 324860,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F063Q9S3HA7\/img_20231031_112525.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F063Q9S3HA7\/download\/img_20231031_112525.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063Q9S3HA7-e566cba504\/img_20231031_112525_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063Q9S3HA7-e566cba504\/img_20231031_112525_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063Q9S3HA7-e566cba504\/img_20231031_112525_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 269,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063Q9S3HA7-e566cba504\/img_20231031_112525_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 359,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063Q9S3HA7-e566cba504\/img_20231031_112525_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063Q9S3HA7-e566cba504\/img_20231031_112525_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 539,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063Q9S3HA7-e566cba504\/img_20231031_112525_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 599,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063Q9S3HA7-e566cba504\/img_20231031_112525_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 718,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063Q9S3HA7-e566cba504\/img_20231031_112525_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 766,
+                "original_w": 4640,
+                "original_h": 3472,
+                "thumb_tiny": "AwAjADCCAZf8KtRD97+H9ajjjCMSD1qWL\/WH\/d\/rU9RkuKXFFGaokMUYpaKAKwIBx3pYP9Y\/0\/rUJkTIIJ9+KdDMisxLdfapRTLdApqOrrlTkU6qJFooooAxs0tJSigZftD+4H1NT1XtP9SPqasUCFopKWgD\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK39PKRR\/F063Q9S3HA7\/img_20231031_112525.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F063Q9S3HA7-9f87509db3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F063HP23LNA",
+                "created": 1698806641,
+                "timestamp": 1698806641,
+                "name": "IMG_20231031_111841.jpg",
+                "title": "IMG_20231031_111841.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03LK39PKRR",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 369568,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F063HP23LNA\/img_20231031_111841.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F063HP23LNA\/download\/img_20231031_111841.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063HP23LNA-cdd12c6ff6\/img_20231031_111841_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063HP23LNA-cdd12c6ff6\/img_20231031_111841_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063HP23LNA-cdd12c6ff6\/img_20231031_111841_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 269,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063HP23LNA-cdd12c6ff6\/img_20231031_111841_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 359,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063HP23LNA-cdd12c6ff6\/img_20231031_111841_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063HP23LNA-cdd12c6ff6\/img_20231031_111841_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 539,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063HP23LNA-cdd12c6ff6\/img_20231031_111841_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 599,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063HP23LNA-cdd12c6ff6\/img_20231031_111841_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 718,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063HP23LNA-cdd12c6ff6\/img_20231031_111841_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 766,
+                "original_w": 4640,
+                "original_h": 3472,
+                "thumb_tiny": "AwAjADCsqbmUepqcW49TTEHzp9atihAyHyF9TS+Qnoal70tOwrkXkp\/dpREn90VJRQFyju2upOcCrinIzWcZMjGKt2829SCMY4pIGT0uabuHrRuHrTAdRTdwo3CgDNIpMlehxTqaalFMXe3940eY\/wDeNNopiH+Y\/wDeo8x\/WmUtAH\/\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK39PKRR\/F063HP23LNA\/img_20231031_111841.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F063HP23LNA-6cfe98db93",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F064DCBHMJL",
+                "created": 1698806644,
+                "timestamp": 1698806644,
+                "name": "IMG_20231031_111734.jpg",
+                "title": "IMG_20231031_111734.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03LK39PKRR",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 308760,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F064DCBHMJL\/img_20231031_111734.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F064DCBHMJL\/download\/img_20231031_111734.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBHMJL-0ac484aec4\/img_20231031_111734_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBHMJL-0ac484aec4\/img_20231031_111734_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBHMJL-0ac484aec4\/img_20231031_111734_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 269,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBHMJL-0ac484aec4\/img_20231031_111734_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 359,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBHMJL-0ac484aec4\/img_20231031_111734_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBHMJL-0ac484aec4\/img_20231031_111734_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 539,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBHMJL-0ac484aec4\/img_20231031_111734_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 599,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBHMJL-0ac484aec4\/img_20231031_111734_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 718,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBHMJL-0ac484aec4\/img_20231031_111734_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 766,
+                "original_w": 4640,
+                "original_h": 3472,
+                "thumb_tiny": "AwAjADAVR5q\/X+lThR6Coh\/rE+v9KnoQmJgUUtFUIMUAUUtAyoDideuBVqqp2Fgdw4PrVhXVujAn61KBsdRRRTEFLSUUwMmrFl\/rW+lVzViy\/wBa3+7UlF2iiimSFFFFAz\/\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK39PKRR\/F064DCBHMJL\/img_20231031_111734.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F064DCBHMJL-11a5e2f7f7",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F064DCBJU64",
+                "created": 1698806645,
+                "timestamp": 1698806645,
+                "name": "IMG_20231031_111517.jpg",
+                "title": "IMG_20231031_111517.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03LK39PKRR",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 268479,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F064DCBJU64\/img_20231031_111517.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F064DCBJU64\/download\/img_20231031_111517.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBJU64-5a5ad5789f\/img_20231031_111517_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBJU64-5a5ad5789f\/img_20231031_111517_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBJU64-5a5ad5789f\/img_20231031_111517_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 269,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBJU64-5a5ad5789f\/img_20231031_111517_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 359,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBJU64-5a5ad5789f\/img_20231031_111517_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBJU64-5a5ad5789f\/img_20231031_111517_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 539,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBJU64-5a5ad5789f\/img_20231031_111517_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 599,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBJU64-5a5ad5789f\/img_20231031_111517_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 718,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F064DCBJU64-5a5ad5789f\/img_20231031_111517_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 766,
+                "original_w": 4640,
+                "original_h": 3472,
+                "thumb_tiny": "AwAjADBEjBlAPoam8pfSmJ\/rR9D\/AEqehAxnlL6Uvlr\/AHRThS07Cuxnlr6Cl2D0H5U6iiwXKsbYuOfTFWapiWLeGzyKsxyLIuVORSQMfS0lFMBaKKKYGLmr1oSIePU1RFXbX\/U\/iakZY3H1pdx9abS0AOyaM0gpaYj\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK39PKRR\/F064DCBJU64\/img_20231031_111517.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F064DCBJU64-6655d0f920",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0639S85RV5",
+                "created": 1698806646,
+                "timestamp": 1698806646,
+                "name": "IMG_20231031_110651.jpg",
+                "title": "IMG_20231031_110651.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03LK39PKRR",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 587941,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0639S85RV5\/img_20231031_110651.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0639S85RV5\/download\/img_20231031_110651.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0639S85RV5-4c2ffef37e\/img_20231031_110651_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0639S85RV5-4c2ffef37e\/img_20231031_110651_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0639S85RV5-4c2ffef37e\/img_20231031_110651_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 269,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0639S85RV5-4c2ffef37e\/img_20231031_110651_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 359,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0639S85RV5-4c2ffef37e\/img_20231031_110651_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0639S85RV5-4c2ffef37e\/img_20231031_110651_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 539,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0639S85RV5-4c2ffef37e\/img_20231031_110651_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 599,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0639S85RV5-4c2ffef37e\/img_20231031_110651_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 718,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0639S85RV5-4c2ffef37e\/img_20231031_110651_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 766,
+                "original_w": 4640,
+                "original_h": 3472,
+                "thumb_tiny": "AwAjADBscSmNSR2p\/lJ\/dp0X3F+gpx6UxDBGnoKcI19B+VAp1OwhNg9B+VG0U6igZHH9xfoKcelQR3CMVQZz06VPSAT6U6kwKWmIKWkooAy4jiVcetW97epqnH\/rF+tWqkodvb1NL5jetMpaQDvMb1pd7etMpaYH\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK39PKRR\/F0639S85RV5\/img_20231031_110651.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0639S85RV5-7195cf3c84",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LK39PKRR",
+        "ts": "1698806672.530609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCn+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "96852b9a-0367-46ba-adc7-0e3da38630fd",
+        "thread_ts": "1698764364.560109",
+        "parent_user_id": "U03L4GT3B55",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03L4GT3B55"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e4f1d36-4741-41a3-a2ae-f9aea90029e8",
+        "type": "message",
+        "text": "Galapagos all the way!",
+        "user": "U05BBQFJ056",
+        "ts": "1698808405.927199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uA2EJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Galapagos all the way!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "0114fc285ea5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-13\/5734585427330_0114fc285ea570cdd820_72.png",
+            "first_name": "Jason",
+            "real_name": "Jason Allred",
+            "display_name": "Jason Allred",
+            "team": "T0ZBAEL59",
+            "name": "jasonallred12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698804806.070119",
+        "parent_user_id": "U03L4GT3B55",
+        "reactions": [
+            {
+                "name": "dancing-penguin",
+                "users": [
+                    "U03LK39PKRR",
+                    "U05B0NHD3LZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33df82c0-ae9c-4e99-a1ea-34b8bcab081d",
+        "type": "message",
+        "text": "After researching more on Easter, Brandon does have a point, there is a ton more to do in the Galapagos! It looks awesome!",
+        "user": "U05B0NHD3LZ",
+        "ts": "1698810284.129379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z4eBp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "After researching more on Easter, Brandon does have a point, there is a ton more to do in the Galapagos! It looks awesome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dbbf1fbb3088",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-22\/5930352146870_dbbf1fbb3088d1bed2d7_72.png",
+            "first_name": "Kalie",
+            "real_name": "Kalie Johnson",
+            "display_name": "Kalie Johnson",
+            "team": "T0ZBAEL59",
+            "name": "kaliej424",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698804806.070119",
+        "parent_user_id": "U03L4GT3B55",
+        "reactions": [
+            {
+                "name": "turtle",
+                "users": [
+                    "U03LK39PKRR",
+                    "U05BBQFJ056"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

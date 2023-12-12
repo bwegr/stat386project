@@ -1,0 +1,2351 @@
+[
+    {
+        "client_msg_id": "2FB7961C-8A6D-43B4-BF04-47C6313C8B87",
+        "type": "message",
+        "text": ":birthday: :tada: HAPPY BIRTHDAY TO THE AMAZING AND INCREDIBLE <@U03LMGXA3FW>!! :tada: :birthday: ",
+        "user": "U03L4GT3B55",
+        "ts": "1697706186.724619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7eTWm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "birthday",
+                                "unicode": "1f382"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": " HAPPY BIRTHDAY TO THE AMAZING AND INCREDIBLE "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LMGXA3FW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "birthday",
+                                "unicode": "1f382"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697706186.724619",
+        "reply_count": 11,
+        "reply_users_count": 11,
+        "latest_reply": "1697813189.107539",
+        "reply_users": [
+            "U03LK3D5N2X",
+            "U03LK4YF3A6",
+            "U03LK39PKRR",
+            "U03LK56EXJN",
+            "U03LG7C5QAH",
+            "U03LXQCEVKK",
+            "U03PKR5GQUQ",
+            "U05GZPFMAA2",
+            "U03LK551XFU",
+            "U03LKPR8N75",
+            "U03LMGXA3FW"
+        ],
+        "replies": [
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1697719880.716859"
+            },
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1697720961.671719"
+            },
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1697721201.253179"
+            },
+            {
+                "user": "U03LK56EXJN",
+                "ts": "1697721950.226779"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697723282.534969"
+            },
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1697724182.472789"
+            },
+            {
+                "user": "U03PKR5GQUQ",
+                "ts": "1697730671.165849"
+            },
+            {
+                "user": "U05GZPFMAA2",
+                "ts": "1697735049.214019"
+            },
+            {
+                "user": "U03LK551XFU",
+                "ts": "1697745286.734059"
+            },
+            {
+                "user": "U03LKPR8N75",
+                "ts": "1697811432.294559"
+            },
+            {
+                "user": "U03LMGXA3FW",
+                "ts": "1697813189.107539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1697813189.107539",
+        "reactions": [
+            {
+                "name": "partywizard",
+                "users": [
+                    "U03LCGM9XML",
+                    "U03LXQHD7T3",
+                    "U05A7HF1DJB",
+                    "U03LMGXDFB6",
+                    "U05AK5GQJ5B",
+                    "U03LG7BV35K",
+                    "U05A7HEQV71",
+                    "U03LK3D5N2X",
+                    "U03LK39PKRR",
+                    "U03NW11JH19",
+                    "U05BBQCRFU0",
+                    "U03LMGX6W1J",
+                    "U03LK56EXJN",
+                    "U03LG7C5QAH",
+                    "U03L4GUGBF1",
+                    "U05AFDS264E",
+                    "U05B0NFQNHX",
+                    "U03LMGYLSR2",
+                    "U05BBQG8FTJ",
+                    "U03M8TCTA6L",
+                    "U03LXQBTQJV",
+                    "U03M8T9K6SU",
+                    "U03LXQLBGCR",
+                    "U03PKR5GQUQ",
+                    "U03LXQFQS3B",
+                    "U05D98WS6FQ",
+                    "U03LK5045V0",
+                    "U03LK56AUHG",
+                    "U03LCGQP0LW",
+                    "U03LXQE14NM",
+                    "U03LXQCJA81",
+                    "U03LKPR8N75",
+                    "U05BBQFJ056"
+                ],
+                "count": 33
+            },
+            {
+                "name": "the_horns::skin-tone-3",
+                "users": [
+                    "U03LCGM9XML",
+                    "U03LXQCJA81"
+                ],
+                "count": 2
+            },
+            {
+                "name": "alert",
+                "users": [
+                    "U03LCGM9XML",
+                    "U03LXQHD7T3",
+                    "U05AK5GQJ5B",
+                    "U03LG7BV35K",
+                    "U03NW11JH19",
+                    "U03LMGX6W1J",
+                    "U03LG7C5QAH",
+                    "U03L4GUGBF1",
+                    "U03LXQBTQJV",
+                    "U03LXQLBGCR",
+                    "U03PKR5GQUQ",
+                    "U05D98WS6FQ",
+                    "U03LK5045V0"
+                ],
+                "count": 13
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U03LCGM9XML",
+                    "U03LXQHD7T3",
+                    "U05AK5GQJ5B",
+                    "U05AFDRH8AJ",
+                    "U03LG7BV35K",
+                    "U03NW11JH19",
+                    "U03LMGX6W1J",
+                    "U03LG7C5QAH",
+                    "U03LK3EKMNF",
+                    "U03L4GUGBF1",
+                    "U03LXQBTQJV",
+                    "U03LXQLBGCR",
+                    "U03PKR5GQUQ",
+                    "U03LK5045V0",
+                    "U03LK56AUHG"
+                ],
+                "count": 15
+            },
+            {
+                "name": "birthday",
+                "users": [
+                    "U03LCGM9XML",
+                    "U03LXQHD7T3",
+                    "U03LMGXDFB6",
+                    "U03L4GN325D",
+                    "U05AK5GQJ5B",
+                    "U03LG7BV35K",
+                    "U03LK39PKRR",
+                    "U03NW11JH19",
+                    "U05BBQDBU3S",
+                    "U03LMGX6W1J",
+                    "U03LG7C5QAH",
+                    "U05MZL0CBF0",
+                    "U03L4GUGBF1",
+                    "U05HW4UU20Y",
+                    "U03M8T9K6SU",
+                    "U03LXQLBGCR",
+                    "U03PKR5GQUQ",
+                    "U03LK5045V0",
+                    "U03LK56AUHG",
+                    "U03LXQE14NM"
+                ],
+                "count": 20
+            },
+            {
+                "name": "the_horns",
+                "users": [
+                    "U03LXQHD7T3",
+                    "U03LMGXDFB6",
+                    "U05AK5GQJ5B",
+                    "U03LG7BV35K",
+                    "U05AMVCV3RR",
+                    "U03LK3D5N2X",
+                    "U03NW11JH19",
+                    "U03LK56EXJN",
+                    "U03LG7C5QAH",
+                    "U03L4GUGBF1",
+                    "U03LMGYLSR2",
+                    "U03LXQLBGCR",
+                    "U03PKR5GQUQ",
+                    "U03LXQFQS3B",
+                    "U03LK56AUHG",
+                    "U03LXQE14NM"
+                ],
+                "count": 16
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U03L4GN325D",
+                    "U05AK5GQJ5B",
+                    "U03LG7BV35K",
+                    "U03LK3D5N2X",
+                    "U03LK39PKRR",
+                    "U03NW11JH19",
+                    "U03LG7C5QAH",
+                    "U03L4GUGBF1",
+                    "U03LG7C9P8V",
+                    "U03M8T9K6SU",
+                    "U03L4GLKLTZ",
+                    "U03LXQLBGCR",
+                    "U03PKR5GQUQ",
+                    "U03LK5045V0",
+                    "U03LK56AUHG",
+                    "U03LKPR8N75"
+                ],
+                "count": 16
+            },
+            {
+                "name": "the_horns::skin-tone-2",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "the_horns::skin-tone-6",
+                "users": [
+                    "U03LXQBTQJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "the_horns::skin-tone-4",
+                "users": [
+                    "U03LK5045V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1556829f-f297-4114-abe8-aa5dd617ce43",
+        "type": "message",
+        "text": "Happy birthday Sam!!!",
+        "user": "U03LK3D5N2X",
+        "ts": "1697719880.716859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HyVCq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy birthday Sam!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697706186.724619",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "14C12E08-37E6-4C86-8477-A5BEC39A6F5E",
+        "type": "message",
+        "text": "Our fearless OPS leader and true friend!! We love you, Sam! ",
+        "user": "U03LK4YF3A6",
+        "ts": "1697720961.671719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kEF+s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our fearless OPS leader and true friend!! We love you, Sam! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697706186.724619",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "3e926751-95c7-4e29-b49b-836f4ecd9fb6",
+        "type": "message",
+        "text": "Happy Birthday Sam!!",
+        "user": "U03LK39PKRR",
+        "ts": "1697721201.253179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "212r7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Birthday Sam!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697706186.724619",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "04cf0ad4-ba44-41b7-bb0b-ac1aa6b32ef7",
+        "type": "message",
+        "text": "Happy birthday Sam! :tada:",
+        "user": "U03LK56EXJN",
+        "ts": "1697721950.226779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+WOPO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy birthday Sam! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "f0fa35dd6a38",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-29\/3740115766211_f0fa35dd6a387887760a_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Clement",
+            "display_name": "tanman",
+            "team": "T0ZBAEL59",
+            "name": "scariotjc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697706186.724619",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "0FF2A551-F01A-47E7-9AE7-2C99606FC505",
+        "type": "message",
+        "text": "Happy birthday Sam!!",
+        "user": "U03LG7C5QAH",
+        "ts": "1697723282.534969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zjzzd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy birthday Sam!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697706186.724619",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "82f86289-5dca-40a0-a1f1-88a6c72cd70c",
+        "type": "message",
+        "text": "We sang to her in class! She says she loves it when people sing to her, especially without being asked and impropmtu!",
+        "user": "U03LXQCEVKK",
+        "ts": "1697724182.472789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jq4Xt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We sang to her in class! She says she loves it when people sing to her, especially without being asked and impropmtu!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697706186.724619",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "type": "message",
+        "text": "(updated poster with the RIGHT date - sorry about that :see_no_evil: but if you were sad you missed it, you didn't! See you all next wednesday :D)",
+        "files": [
+            {
+                "id": "F061ZUQN63E",
+                "created": 1697729413,
+                "timestamp": 1697729413,
+                "name": "Talk-Oct (2).png",
+                "title": "Talk-Oct (2).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03L4GLKLTZ",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 1629496,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061ZUQN63E\/talk-oct__2_.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061ZUQN63E\/download\/talk-oct__2_.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZUQN63E-1fc29e5a51\/talk-oct__2__64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZUQN63E-1fc29e5a51\/talk-oct__2__80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZUQN63E-1fc29e5a51\/talk-oct__2__360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZUQN63E-1fc29e5a51\/talk-oct__2__480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZUQN63E-1fc29e5a51\/talk-oct__2__160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZUQN63E-1fc29e5a51\/talk-oct__2__720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZUQN63E-1fc29e5a51\/talk-oct__2__800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZUQN63E-1fc29e5a51\/talk-oct__2__960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZUQN63E-1fc29e5a51\/talk-oct__2__1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 1728,
+                "original_h": 2304,
+                "thumb_tiny": "AwAwACSAY7nFO2L\/AHxTcZOB3NT+Rk7Qx3fpmrZqRbV\/vCnIoB+8Py6VES2do60Bju9CPSk+1wTVyQo7HOGPuaPLf+4aZ15J\/Ol\/KmAAkdOuam8853Y+b9KgHJ46mpzGobZuP3tpb3oduomQAZbJzSttDgqCOO5pVRmcrnBzg0SxmM4JzRpcBvWlpAcdqM+1FhiDg04Y+YkZLHPJ4p80JjPrTDx0ajRgLG218kZ9eaWZ\/MIO0CmfjQOSM9KdluISirkduCuSD1p32dP7pqOdDP\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03L4GLKLTZ\/F061ZUQN63E\/talk-oct__2_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061ZUQN63E-7e2d4cf487",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03L4GLKLTZ",
+        "display_as_bot": false,
+        "ts": "1697729473.184479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HcqSw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(updated poster with the RIGHT date - sorry about that "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil",
+                                "unicode": "1f648"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but if you were sad you missed it, you didn't! See you all next wednesday :D)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "07ce145a-0e1f-49e3-8e63-8ffed6976c71",
+        "thread_ts": "1697729473.184479",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697731345.889699",
+        "reply_users": [
+            "U03LXQH9QMP"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQH9QMP",
+                "ts": "1697731345.889699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "face_with_cowboy_hat",
+                "users": [
+                    "U05H6DGRMRQ",
+                    "U03L4GUGBF1",
+                    "U03LK52VCQ2",
+                    "U05AK5FTUSZ",
+                    "U03L4GT3B55",
+                    "U05BBQDP59N",
+                    "U03L4GLKLTZ",
+                    "U03LN7V9M0U",
+                    "U05HW4UU20Y",
+                    "U05AN02C0E7"
+                ],
+                "count": 10
+            },
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U03LK551XFU",
+                    "U03LN7V9M0U"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77C63BAC-D55D-49C7-B205-52E4FD5109FA",
+        "type": "message",
+        "text": "Happy Birthday, Sam!!!! :heart: :heart: :heart: ",
+        "user": "U03PKR5GQUQ",
+        "ts": "1697730671.165849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X3Zei",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Birthday, Sam!!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dc8df7de893c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/3999803606982_dc8df7de893c145463cc_72.png",
+            "first_name": "Ashlee",
+            "real_name": "Ashlee Love",
+            "display_name": "Ashlee",
+            "team": "T0ZBAEL59",
+            "name": "ashleelove2017",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697706186.724619",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "6a247f5d-7f0b-4369-a1bc-f736434958b3",
+        "type": "message",
+        "text": "Great lineup! Looking forward to it!",
+        "user": "U03LXQH9QMP",
+        "ts": "1697731345.889699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zbg60",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great lineup! Looking forward to it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cb5054046f89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693679244662_cb5054046f89b6a31324_72.png",
+            "first_name": "Nate",
+            "real_name": "Nate Vance",
+            "display_name": "Nate Vance",
+            "team": "T0ZBAEL59",
+            "name": "nathanvance12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697729473.184479",
+        "parent_user_id": "U03L4GLKLTZ",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U03L4GLKLTZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hey Everyone! We have a great MBA networking event coming up! Oct 24th at 6pm in the Hinckley Building East Conference room. We are inviting all past MBA SCA Alumni and friends of the program that what to see BYU MBA's get into strategy or consulting roles!\n\nConsulting Companies committed: *McKinsey, Bain, PwC, Slalom, Cicero, Clozd* (looking to get more to come)\nStrategy Roles\/Companies Committed: *Bill, Dees Limited, School Leadership Alliance, Henry Schein One, Security Metrics, BYU TV* (looking to get more to come)\n\nIf you are interested in Consulting it will be a great opportunity!\n\nIf you are interested in Strategic roles or strategy roles this will be a great opportunity!\n\nMany of these companies are looking for interns and full-time roles or have connections to opportunities!\n\nThere will be a soda bar and Hors d'oeuvres\n*NOW FREE for everyone - we have decided to drop the fee (thank you, anonymous supporter)*\nBusiness Casual",
+        "files": [
+            {
+                "id": "F061XUCE8MR",
+                "created": 1697734045,
+                "timestamp": 1697734045,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 808575,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061XUCE8MR\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061XUCE8MR\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061XUCE8MR-c632077de3\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061XUCE8MR-c632077de3\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061XUCE8MR-c632077de3\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 198,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061XUCE8MR-c632077de3\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 265,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061XUCE8MR-c632077de3\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061XUCE8MR-c632077de3\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 397,
+                "original_w": 793,
+                "original_h": 437,
+                "thumb_tiny": "AwAaADBwl+lIHAk3E4B9BUQU+opwjJ71VwJN6n+M\/wDfNHmL\/f79dtQigEjpTJJt6j+PPH92kMi7T82Tjptpm71NBbg0ARhhxkcU4S4\/+tUY5Tn0pT0\/CoKHFgT70gYg8GmnqKU1aEx+8\/3hQS2DzxQgGDxSEcGgR\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F061XUCE8MR\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061XUCE8MR-11165ecae5",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03NW11JH19",
+        "display_as_bot": false,
+        "ts": "1697734905.043179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+r0do",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Everyone! We have a great MBA networking event coming up! Oct 24th at 6pm in the Hinckley Building East Conference room. We are inviting all past MBA SCA Alumni and friends of the program that what to see BYU MBA's get into strategy or consulting roles!\n\nConsulting Companies committed:"
+                            },
+                            {
+                                "type": "text",
+                                "text": " McKinsey, Bain, PwC, Slalom, Cicero, Clozd",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (looking to get more to come)\nStrategy Roles\/Companies Committed: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Bill, Dees Limited, School Leadership Alliance, Henry Schein One, Security Metrics, BYU TV ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(looking to get more to come)\n\nIf you are interested in Consulting it will be a great opportunity!\n\nIf you are interested in Strategic roles or strategy roles this will be a great opportunity!\n\nMany of these companies are looking for interns and full-time roles or have connections to opportunities!\n\nThere will be a soda bar and Hors d'oeuvres\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "NOW FREE for everyone - we have decided to drop the fee (thank you, anonymous supporter)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBusiness Casual"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9da642a0-b28f-4688-be10-4cb9a49542ae",
+        "thread_ts": "1697734905.043179",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697739914.932609",
+        "reply_users": [
+            "U03LK52VCQ2"
+        ],
+        "replies": [
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1697739914.932609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05BBQDP59N",
+                    "U03PKR5GQUQ",
+                    "U03LK39PKRR",
+                    "U05AK5FTUSZ",
+                    "U03TVL5QZFA",
+                    "U03LXQCJA81"
+                ],
+                "count": 6
+            },
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U03L4GLKLTZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DD980E8F-BF62-424E-9E04-B39280E06F8E",
+        "type": "message",
+        "text": "Happy birthday Sam!! ",
+        "user": "U05GZPFMAA2",
+        "ts": "1697735049.214019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYGU0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy birthday Sam!! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dae6d1b7129e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-25\/6099646149092_dae6d1b7129ed59f3cd8_72.png",
+            "first_name": "Val",
+            "real_name": "Val Fulton",
+            "display_name": "Val",
+            "team": "T0ZBAEL59",
+            "name": "valeriam.fulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697706186.724619",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "BEAFCFBA-8618-4AE0-9C2D-0D2443521C34",
+        "type": "message",
+        "text": "<@U05BBQDP59N> <@U05B0NFT057> ",
+        "user": "U03LK52VCQ2",
+        "ts": "1697739914.932609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UrXR4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQDP59N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05B0NFT057"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697734905.043179",
+        "parent_user_id": "U03NW11JH19",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05B0NFT057"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "406a3d8f-69fb-44d4-8c03-501d83553ea8",
+        "type": "message",
+        "text": "Happy Birthday!",
+        "user": "U03LK551XFU",
+        "ts": "1697745286.734059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M8TR7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Birthday!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697706186.724619",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "type": "message",
+        "text": "Reminder about Homecoming Lunch\/Pro Sems\/Connecting with Alumni all happening *tomorrow* from 12-5pm! Dress is business casual. Just passed the MBA office and they’ve got all the name tags and signage ready to go. Should be a great event!",
+        "files": [
+            {
+                "id": "F061Z075A0K",
+                "created": 1697744515,
+                "timestamp": 1697744515,
+                "name": "MBA Multi-Year Reunion.png",
+                "title": "MBA Multi-Year Reunion.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LG7C5QAH",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 212896,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061Z075A0K\/mba_multi-year_reunion.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061Z075A0K\/download\/mba_multi-year_reunion.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z075A0K-1335662aa9\/mba_multi-year_reunion_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z075A0K-1335662aa9\/mba_multi-year_reunion_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z075A0K-1335662aa9\/mba_multi-year_reunion_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z075A0K-1335662aa9\/mba_multi-year_reunion_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z075A0K-1335662aa9\/mba_multi-year_reunion_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z075A0K-1335662aa9\/mba_multi-year_reunion_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z075A0K-1335662aa9\/mba_multi-year_reunion_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1422,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z075A0K-1335662aa9\/mba_multi-year_reunion_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z075A0K-1335662aa9\/mba_multi-year_reunion_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1920,
+                "thumb_tiny": "AwAwABtkaqxO444p7RoOjZ\/GoUmK8qOtO+0yen6Ct2zFIGAHTrTaV52YYYcfhUfmj0NNMTTGLgjFLgdh+tIoPX+tLz6frWZoNIHakpxPPT86SgQ4KcfdNBBP8JFTDFGRnpV8pHMQFG9DRsb0NWSy4OF5plHKHMf\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LG7C5QAH\/F061Z075A0K\/mba_multi-year_reunion.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061Z075A0K-870174334f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LG7C5QAH",
+        "display_as_bot": false,
+        "ts": "1697745921.090209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zYh18",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reminder about Homecoming Lunch\/Pro Sems\/Connecting with Alumni all happening "
+                            },
+                            {
+                                "type": "text",
+                                "text": "tomorrow ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "from 12-5pm! Dress is business casual. Just passed the MBA office and they’ve got all the name tags and signage ready to go. Should be a great event!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ea36f87f-6893-45b7-bee9-60fdc5207179",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U03LG7C9P8V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05AN015NSX",
+                    "U05AFDRFJ3Y"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "All you entrepreneurs out there, I’ve got a great business pitch for you to start\n",
+        "files": [
+            {
+                "id": "F061Z7P4PJN",
+                "created": 1697746190,
+                "timestamp": 1697746190,
+                "name": "IMG_0021.jpg",
+                "title": "IMG_0021",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03TVL5QZFA",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 36168,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061Z7P4PJN\/img_0021.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061Z7P4PJN\/download\/img_0021.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z7P4PJN-fa4671f1da\/img_0021_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z7P4PJN-fa4671f1da\/img_0021_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z7P4PJN-fa4671f1da\/img_0021_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 82,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z7P4PJN-fa4671f1da\/img_0021_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 109,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z7P4PJN-fa4671f1da\/img_0021_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z7P4PJN-fa4671f1da\/img_0021_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 164,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z7P4PJN-fa4671f1da\/img_0021_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 182,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z7P4PJN-fa4671f1da\/img_0021_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 218,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061Z7P4PJN-fa4671f1da\/img_0021_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 233,
+                "original_w": 1284,
+                "original_h": 292,
+                "thumb_tiny": "AwAKADDRf7ppmPr+tSmkwPSgBoJAwP60bj\/kGnYHpRgelADdx\/yDTuoowKUUAf\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03TVL5QZFA\/F061Z7P4PJN\/img_0021.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061Z7P4PJN-b63319fbb5",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03TVL5QZFA",
+        "display_as_bot": false,
+        "ts": "1697746192.308249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gt96L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All you entrepreneurs out there, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " got a great business pitch for you to start\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1D9789F3-89F1-4BB8-8C86-FCE381B3D2F2",
+        "thread_ts": "1697746192.308249",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1697771764.186069",
+        "reply_users": [
+            "U03TVL5QZFA",
+            "U03LG7C5QAH",
+            "U03LK4YF3A6"
+        ],
+        "replies": [
+            {
+                "user": "U03TVL5QZFA",
+                "ts": "1697746275.433139"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697746489.913199"
+            },
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1697746929.806069"
+            },
+            {
+                "user": "U03TVL5QZFA",
+                "ts": "1697765754.022639"
+            },
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1697769597.281129"
+            },
+            {
+                "user": "U03TVL5QZFA",
+                "ts": "1697771764.186069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03PKR5GQUQ",
+                    "U03LK3D5N2X",
+                    "U03LXQHD7T3",
+                    "U03LXQLBGCR",
+                    "U05H8SL2HFE",
+                    "U05AFDTJEUW",
+                    "U03LK4YBK7C",
+                    "U03LK56EXJN",
+                    "U03LG7C9P8V",
+                    "U05A7HE11LP",
+                    "U05BBQEJNTA",
+                    "U05AN015NSX",
+                    "U03LXQBTQJV",
+                    "U03LK5295DY",
+                    "U03LXQCJA81",
+                    "U03LK39EPB5",
+                    "U03UV6770V9",
+                    "U03L4GT3B55"
+                ],
+                "count": 18
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DA674974-90AC-45DA-9AA6-F8EDE899EC0B",
+        "type": "message",
+        "text": "But it doesn’t have to just be for single people!",
+        "user": "U03TVL5QZFA",
+        "ts": "1697746275.433139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n+HGI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But it "
+                            },
+                            {
+                                "type": "text",
+                                "text": "doesn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have to just be for single people!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697746192.308249",
+        "parent_user_id": "U03TVL5QZFA"
+    },
+    {
+        "client_msg_id": "64290D19-8EF0-4C3B-B442-D2C149BF9E59",
+        "type": "message",
+        "text": "Ahh I’ve wanted this kind of thing forever",
+        "user": "U03LG7C5QAH",
+        "ts": "1697746489.913199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5MDod",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahh "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " wanted this kind of thing forever"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697746192.308249",
+        "parent_user_id": "U03TVL5QZFA"
+    },
+    {
+        "client_msg_id": "4c9129fb-a725-4250-9fda-236d6c1dff23",
+        "type": "message",
+        "text": "WINCO!",
+        "user": "U03LK4YF3A6",
+        "ts": "1697746929.806069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n0X6O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "WINCO!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697746192.308249",
+        "parent_user_id": "U03TVL5QZFA",
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U03LXQCEVKK",
+                    "U03LG7C5QAH",
+                    "U03LK3D5N2X"
+                ],
+                "count": 3
+            },
+            {
+                "name": "point_up",
+                "users": [
+                    "U03LXQLBGCR",
+                    "U05M4TRTJHY",
+                    "U03LK3D5N2X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Are you a women in management? Do you support women in management? Want to avoid having major FOMO?! Then come to the WIM opening social tonight! All MBAs are welcome! Come network and support our women in the program! ",
+        "files": [
+            {
+                "id": "F061ZMFLR35",
+                "created": 1697753456,
+                "timestamp": 1697753456,
+                "name": "IMG_0700.png",
+                "title": "IMG_0700",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 358116,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061ZMFLR35\/img_0700.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061ZMFLR35\/download\/img_0700.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZMFLR35-8cbd7517f1\/img_0700_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZMFLR35-8cbd7517f1\/img_0700_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZMFLR35-8cbd7517f1\/img_0700_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZMFLR35-8cbd7517f1\/img_0700_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZMFLR35-8cbd7517f1\/img_0700_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ZMFLR35-8cbd7517f1\/img_0700_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "original_w": 720,
+                "original_h": 720,
+                "thumb_tiny": "AwAwADCzBEVJLcEVPRUcm4HIOBU7ItvmYrSBWxg5pBLuIA4OaYd2fvA8Ug3dQRU3ZXKiVolY5PXIpThFOAMDt0pI93O7p2p5APUVRD7BSMAwwaiuT8g+ZkwQcilklAhMgHT1outgs9x3lDjk8dPamsgB6n86WOVXhEmQR3xTUfe21s88ik7DVxyvgY6\/jTt\/PT9aTafX9TQQV5LDFPUNCveDduyMqqcD\/aJwKklAWFYeMEYyenFKwV5MFl+8CRjk46U6dBJER37UbiWj1G7N1theCV7etQWLsPlY7gU3g9x6irMJ2RhWIJHXApkMaRE854xn2z\/9emlYHdku8ehpGAlUryKdhcZwMU0Ou\/aBzkil6h6H\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F061ZMFLR35\/img_0700.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061ZMFLR35-50e677a30c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03NW11JH19",
+        "display_as_bot": false,
+        "ts": "1697753805.587119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OLaAc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you a women in management? Do you support women in management? Want to avoid having major FOMO?! Then come to the WIM opening social tonight! All MBAs are welcome! Come network and support our women in the program! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "33A70B5F-D95F-4669-A78F-72DBEB20DE0C",
+        "thread_ts": "1697753805.587119",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697767619.257919",
+        "reply_users": [
+            "U03LK551XFU"
+        ],
+        "replies": [
+            {
+                "user": "U03LK551XFU",
+                "ts": "1697767619.257919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03LG7C5QAH",
+                    "U03LMGSGBQC",
+                    "U03LK39PKRR",
+                    "U03LK3D5N2X",
+                    "U03LK4YBK7C",
+                    "U03PKR5GQUQ",
+                    "U03L4GUGBF1",
+                    "U05DD0R44G5",
+                    "U03LN7V9M0U",
+                    "U03LMGXDFB6",
+                    "U03LXQCJA81"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32E7C919-6E59-48F3-A49B-CB7BE2B8A839",
+        "type": "message",
+        "text": "<@U05A7HEQV71> <@U03LN7V9M0U> It’s my understanding that it’s only MBA students. Brenna can you confirm?",
+        "user": "U03NW11JH19",
+        "ts": "1697753927.636579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jwNAs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05A7HEQV71"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LN7V9M0U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "It’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " my understanding that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " only MBA students. Brenna can you confirm?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697647023.747159",
+        "parent_user_id": "U03LN7V9M0U",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05A7HEQV71"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LN7V9M0U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hi everybody! If you're still looking for full-time opportunities or internships, think about going to the *SHPE* conference this year. It's a conference as big as National Black, but this year is going to be  in Salt Lake City between 1-5 Nov. The career fair will be Friday and Saturday that week. Be mindful:\n\n• SHPE is the Society of Hispanic Professional Engineers. What does it mean?\n    ◦ Many of the companies are looking for engineers, but I've seen also roles related to operations, finance, and marketing. Take a look at the companies, which in my opinion I like <https:\/\/web.cvent.com\/event\/17a1aac6-42d1-4323-a534-1a8db35a2187\/websitePage:61ab3099-32e7-4e56-96e1-27a86adeca63|better> than the ones this year at National Black.\n    ◦ Do you have to be Hispanic to be part of SHPE? Absolutely not! Please come!\n    ◦ It's for professionals and students (undergrads and graduate students), so MBA roles might be limited",
+        "files": [
+            {
+                "id": "F062CSL2WGH",
+                "created": 1697762410,
+                "timestamp": 1697762410,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LMGXDFB6",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 1170500,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062CSL2WGH\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062CSL2WGH\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062CSL2WGH-d278dc748e\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062CSL2WGH-d278dc748e\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062CSL2WGH-d278dc748e\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 191,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062CSL2WGH-d278dc748e\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 255,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062CSL2WGH-d278dc748e\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062CSL2WGH-d278dc748e\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 382,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062CSL2WGH-d278dc748e\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 424,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062CSL2WGH-d278dc748e\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 509,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062CSL2WGH-d278dc748e\/image_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 543,
+                "original_w": 2752,
+                "original_h": 1460,
+                "thumb_tiny": "AwAZADDRJOev6UA88n9KR+opKAH7h\/kUbh7\/AJU3j0o6dM0AO3D3\/Klpo57mnUANYE9KTafT9afRQAzZ64pdv0\/KnUUAN2\/T8qqiaX7RjB27sYq5UP8Ay9fhSY0f\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LMGXDFB6\/F062CSL2WGH\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F062CSL2WGH-2316f1e5ed",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LMGXDFB6",
+        "display_as_bot": false,
+        "ts": "1697762551.685289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6lVa0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everybody! If you're still looking for full-time opportunities or internships, think about going to the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "SHPE",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " conference this year. It's a conference as big as National Black, but this year is going to be  in Salt Lake City between 1-5 Nov. The career fair will be Friday and Saturday that week. Be mindful:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "SHPE is the Society of Hispanic Professional Engineers. What does it mean?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Many of the companies are looking for engineers, but I've seen also roles related to operations, finance, and marketing. Take a look at the companies, which in my opinion I like "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/web.cvent.com\/event\/17a1aac6-42d1-4323-a534-1a8db35a2187\/websitePage:61ab3099-32e7-4e56-96e1-27a86adeca63",
+                                        "text": "better"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " than the ones this year at National Black."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do you have to be Hispanic to be part of SHPE? Absolutely not! Please come!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It's for professionals and students (undergrads and graduate students), so MBA roles might be limited"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4ca62e21-e069-48d6-a0de-c1b32ea8f61f",
+        "attachments": [
+            {
+                "from_url": "https:\/\/web.cvent.com\/event\/17a1aac6-42d1-4323-a534-1a8db35a2187\/websitePage:61ab3099-32e7-4e56-96e1-27a86adeca63",
+                "service_icon": "https:\/\/www.cvent-assets.com\/event-guestside-site\/assets\/images\/favicon.v2.ico",
+                "id": 1,
+                "original_url": "https:\/\/web.cvent.com\/event\/17a1aac6-42d1-4323-a534-1a8db35a2187\/websitePage:61ab3099-32e7-4e56-96e1-27a86adeca63",
+                "fallback": "Meet The Sponsors - 2023 SHPE National Convention",
+                "text": "Join us November 1-5 in Salt Lake City for the largest gathering of Hispanic students and professionals in STEM!",
+                "title": "Meet The Sponsors - 2023 SHPE National Convention",
+                "title_link": "https:\/\/web.cvent.com\/event\/17a1aac6-42d1-4323-a534-1a8db35a2187\/websitePage:61ab3099-32e7-4e56-96e1-27a86adeca63",
+                "service_name": "web.cvent.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03LK39PKRR",
+                    "U03LG7C9P8V",
+                    "U03LCGQP0LW",
+                    "U05A7HD4XE3",
+                    "U03LK52VCQ2",
+                    "U03PKR5GQUQ",
+                    "U05D98WQKFG"
+                ],
+                "count": 7
+            },
+            {
+                "name": "ticket",
+                "users": [
+                    "U03LK39PKRR",
+                    "U03PKR5GQUQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03PKR5GQUQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7634CDF0-0EFE-4FF1-B5CC-26A31960DD46",
+        "type": "message",
+        "text": "Haha I’ve never been, but doesn’t Winco sell food in bulk? That’s the OPPOSITE of a tablespoon :sweat_smile: ",
+        "user": "U03TVL5QZFA",
+        "ts": "1697765754.022639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zF6yD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " never been, but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "doesn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Winco sell food in bulk? "
+                            },
+                            {
+                                "type": "text",
+                                "text": "That’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the OPPOSITE of a tablespoon"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697746192.308249",
+        "parent_user_id": "U03TVL5QZFA"
+    },
+    {
+        "client_msg_id": "f4fbc78f-3ef1-4cb6-bdee-5b6b9fe32f22",
+        "type": "message",
+        "text": "when does it end?",
+        "user": "U03LK551XFU",
+        "ts": "1697767619.257919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G8sbV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when does it end?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697753805.587119",
+        "parent_user_id": "U03NW11JH19"
+    },
+    {
+        "client_msg_id": "bb61f436-c9bf-4acc-bbe6-e62ec741190d",
+        "type": "message",
+        "text": "haha no! You can buy a teaspoon of flour if you wanted!!!! Winco will change your life Johnny- GO NOW!",
+        "user": "U03LK4YF3A6",
+        "ts": "1697769597.281129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZ9AH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha no! You can buy a teaspoon of flour if you wanted!!!! Winco will change your life Johnny- GO NOW!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697746192.308249",
+        "parent_user_id": "U03TVL5QZFA"
+    },
+    {
+        "client_msg_id": "2E6B0D90-9087-41D8-B701-32EDF5DE91E3",
+        "type": "message",
+        "text": ":exploding_head: ",
+        "user": "U03TVL5QZFA",
+        "ts": "1697771764.186069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jqzIg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head",
+                                "unicode": "1f92f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697746192.308249",
+        "parent_user_id": "U03TVL5QZFA"
+    },
+    {
+        "client_msg_id": "34020063-eccc-4146-9c36-c6edc6695dc7",
+        "type": "message",
+        "text": "I have one ticket to the BYU Football game this Saturday in the ROC (student section), but won't be going. Let me know if you're interested and you can have it!",
+        "user": "U03LXQCJA81",
+        "ts": "1697776869.972549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RIJGJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have one ticket to the BYU Football game this Saturday in the ROC (student section), but won't be going. Let me know if you're interested and you can have it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697776869.972549",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697818904.367369",
+        "reply_users": [
+            "U05AN3R7398"
+        ],
+        "replies": [
+            {
+                "user": "U05AN3R7398",
+                "ts": "1697818904.367369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6faaf41b-21bd-49df-8bf2-2a9cc5761997",
+        "type": "message",
+        "text": "Still available? <@U03LXQCJA81>",
+        "user": "U05DW80RSQM",
+        "ts": "1697777282.093379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mf5s0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Still available? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LXQCJA81"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "06ecd2c8c90a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-12\/5872838161127_06ecd2c8c90a8c31dc52_72.jpg",
+            "first_name": "Edgar",
+            "real_name": "Edgar Pu",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "abm.elp90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697777282.093379",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1697922854.976679",
+        "reply_users": [
+            "U03LXQCJA81",
+            "U05DW80RSQM",
+            "U05BBQG6MKJ"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQCJA81",
+                "ts": "1697777363.449589"
+            },
+            {
+                "user": "U05DW80RSQM",
+                "ts": "1697777479.644109"
+            },
+            {
+                "user": "U05BBQG6MKJ",
+                "ts": "1697916851.829939"
+            },
+            {
+                "user": "U05DW80RSQM",
+                "ts": "1697922854.976679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "thread",
+                "users": [
+                    "U03LXQLBGCR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67beea58-a898-4207-83c4-3f65fdb1c97e",
+        "type": "message",
+        "text": "Yessir, it's yours!",
+        "user": "U03LXQCJA81",
+        "ts": "1697777363.449589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bXIOv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yessir, it's yours!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697777282.093379",
+        "parent_user_id": "U05DW80RSQM"
+    },
+    {
+        "client_msg_id": "809410dc-750a-4420-b487-8322f0f2e982",
+        "type": "message",
+        "text": "Thx so much:face_with_cowboy_hat: . Will contact you tomorrow!",
+        "user": "U05DW80RSQM",
+        "ts": "1697777479.644109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qxs+i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thx so much"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_cowboy_hat",
+                                "unicode": "1f920"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . Will contact you tomorrow!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "06ecd2c8c90a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-12\/5872838161127_06ecd2c8c90a8c31dc52_72.jpg",
+            "first_name": "Edgar",
+            "real_name": "Edgar Pu",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "abm.elp90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697777282.093379",
+        "parent_user_id": "U05DW80RSQM",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "4DE8C241-17D4-4826-A0B8-4DDEE1703288",
+        "type": "message",
+        "text": "Holding office hours in W329",
+        "user": "U03SRBYBAET",
+        "ts": "1697655730.727339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lhS2P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Holding office hours in W329"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6d964c44b7d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3918205904550_6d964c44b7d5cc71f366_72.jpg",
+            "first_name": "Coralee",
+            "real_name": "Coralee Choules",
+            "display_name": "Coralee Choules",
+            "team": "T0ZBAEL59",
+            "name": "coralee.choules",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

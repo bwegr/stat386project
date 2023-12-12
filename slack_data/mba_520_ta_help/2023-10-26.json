@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "81B46CA8-C2AF-42BC-8F5F-A946E81E660C",
+        "type": "message",
+        "text": "I’ll be late for office hours but will be in the blue lounge. Message me if you have a time-sensitive issue that needs to be answered before I get there",
+        "user": "U03LK4YJGQJ",
+        "ts": "1698341306.376259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+zmWf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be late for office hours but will be in the blue lounge"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Message me if you have a time-sensitive issue that needs to be answered before I get there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4bfa602a3916",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/4026473552256_4bfa602a39169e79a840_72.jpg",
+            "first_name": "Aaron",
+            "real_name": "Aaron Daines",
+            "display_name": "Aaron Daines",
+            "team": "T0ZBAEL59",
+            "name": "aaron.daines",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

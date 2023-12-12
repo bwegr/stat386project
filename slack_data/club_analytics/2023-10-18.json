@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "75023578-8369-4d71-aa70-bc4bd8fa5d08",
+        "type": "message",
+        "text": "Hey everybody! Y-Metrics is hosting Nate Barnes tomorrow at 3:30 PM in TNRB W242. Nate works as a Chief Data Scientist for PwC's US deals and will be talking about analytics in general. All are welcome and we'd love to see you there!",
+        "user": "U03L4HB0BM5",
+        "ts": "1697687883.319799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PfZiv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everybody! Y-Metrics is hosting Nate Barnes tomorrow at 3:30 PM in TNRB W242. Nate works as a Chief Data Scientist for PwC's US deals and will be talking about analytics in general. All are welcome and we'd love to see you there!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b8e2be55e92a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-13\/4217060934309_b8e2be55e92a91910f26_72.jpg",
+            "first_name": "Kurt",
+            "real_name": "Kurt Jensen",
+            "display_name": "Kurt Jensen",
+            "team": "T0ZBAEL59",
+            "name": "kurtjen1995968",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "bar_chart",
+                "users": [
+                    "U03LK39PKRR",
+                    "U03LXQCEVKK",
+                    "U03LG763EKF",
+                    "U05BBQD8SKS",
+                    "U03LMGYLSR2",
+                    "U05D98WS6FQ",
+                    "U05DD0R2J6R"
+                ],
+                "count": 7
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U03LK39PKRR",
+                    "U03LXQCEVKK",
+                    "U03LMGYLSR2"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

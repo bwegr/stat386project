@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "0AB56A03-5EB0-4867-89AF-1A2295B0032D",
+        "type": "message",
+        "text": "I’m currently outside of the lounge for the next hour if anyone needs TA help",
+        "user": "U03LKPRD403",
+        "ts": "1696959561.912099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u\/YB8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m currently outside of the lounge for the next hour if anyone needs TA help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3713f7e206fb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-27\/3723723290418_3713f7e206fb82b542cb_72.png",
+            "first_name": "Micah",
+            "real_name": "Micah Perry",
+            "display_name": "Micah",
+            "team": "T0ZBAEL59",
+            "name": "micahfperry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d30dbc40-23fc-4768-8a46-829678a3a387",
+        "type": "message",
+        "text": "Quick question. Our team (section 3 team 3) has the word \"late\" next to our World-Com Case. We turned it in on time so we wanted to make sure there wasn't a mistake and make sure our grade wasn't affected because of it. Thank you!",
+        "user": "U05DFQNU4EP",
+        "ts": "1696959571.817939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "klaLv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quick question. Our team (section 3 team 3) has the word \"late\" next to our World-Com Case. We turned it in on time so we wanted to make sure there wasn't a mistake and make sure our grade wasn't affected because of it. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe53c672847",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-21\/5455152209798_fbe53c672847250a8ed4_72.png",
+            "first_name": "Hunter",
+            "real_name": "Hunter Blalack",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "blalackhunter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696959571.817939",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696968108.965439",
+        "reply_users": [
+            "U03LKPRD403"
+        ],
+        "replies": [
+            {
+                "user": "U03LKPRD403",
+                "ts": "1696968108.965439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f8223314-d9c1-4599-b7b3-08659893d884",
+        "type": "message",
+        "text": "Hey Hunter. I'm following up with Ben on this and will get back with you. Thanks for checking in!",
+        "user": "U03LKPRD403",
+        "ts": "1696968108.965439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Nine",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Hunter. I'm following up with Ben on this and will get back with you. Thanks for checking in!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3713f7e206fb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-27\/3723723290418_3713f7e206fb82b542cb_72.png",
+            "first_name": "Micah",
+            "real_name": "Micah Perry",
+            "display_name": "Micah",
+            "team": "T0ZBAEL59",
+            "name": "micahfperry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696959571.817939",
+        "parent_user_id": "U05DFQNU4EP"
+    }
+]

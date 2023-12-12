@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "9c0c7656-6388-4190-b34a-9c6dffd517be",
+        "type": "message",
+        "text": "<!channel> If you haven’t yet reacted to the above event, please do so as we’ll need to get numbers on attendance in by the end of today!",
+        "user": "U03LXQCEVKK",
+        "ts": "1697486324.339149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1kL7H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " If you haven’t yet reacted to the above event, please do so as we’ll need to get numbers on attendance in by the end of today!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

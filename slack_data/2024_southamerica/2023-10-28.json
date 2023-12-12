@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "8f19adb7-587a-4d61-919c-6dff2624d4ef",
+        "type": "message",
+        "text": "<@U03L4GT3B55> Update on when the meting will be this upcoming week?",
+        "user": "U03LK5045V0",
+        "ts": "1698525500.233269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IFrdc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L4GT3B55"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Update on when the meting will be this upcoming week?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b0a4fbd21f41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-25\/3705740993831_b0a4fbd21f41527354e8_72.jpg",
+            "first_name": "Cristian",
+            "real_name": "Cristian Torres",
+            "display_name": "Cristian Torres",
+            "team": "T0ZBAEL59",
+            "name": "cntorres",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698525500.233269",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698532569.814449",
+        "reply_users": [
+            "U03L4GT3B55"
+        ],
+        "replies": [
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1698532569.814449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d77df263-0af6-4aad-8444-1d4b20762f10",
+        "type": "message",
+        "text": "Nope. Lee went to Texas for the BYU game, so I will let you know when I know.",
+        "user": "U03L4GT3B55",
+        "ts": "1698532569.814449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pAWSi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nope. Lee went to Texas for the BYU game, so I will let you know when I know."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698525500.233269",
+        "parent_user_id": "U03LK5045V0"
+    }
+]

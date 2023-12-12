@@ -1,0 +1,226 @@
+[
+    {
+        "client_msg_id": "afeb3920-754b-4999-badf-645566ec1573",
+        "type": "message",
+        "text": "it should say in the footnotes in the documents that Christine has sent out",
+        "user": "U05AN3TCTSN",
+        "ts": "1696470214.553789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pH\/Mb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it should say in the footnotes in the documents that Christine has sent out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696351728.463919",
+        "parent_user_id": "U03LK56EXJN",
+        "reactions": [
+            {
+                "name": "question",
+                "users": [
+                    "U03LK56EXJN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hi Christine, are these the correct times for the finance courses next semester? It seems very odd that Investments with Boyer and Advanced Corporate Finance with Nadauld (probably two of the most foundational\/important electives for the finance track) would be at the same time. Thanks!",
+        "files": [
+            {
+                "id": "F060HCJ3KR6",
+                "created": 1696483368,
+                "timestamp": 1696483368,
+                "name": "1696483368534.jpeg",
+                "title": "1696483368534.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03SZAWQBM4",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 440226,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060HCJ3KR6\/1696483368534.jpeg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060HCJ3KR6\/download\/1696483368534.jpeg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060HCJ3KR6-e341a60ae8\/1696483368534_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060HCJ3KR6-e341a60ae8\/1696483368534_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060HCJ3KR6-e341a60ae8\/1696483368534_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 168,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060HCJ3KR6-e341a60ae8\/1696483368534_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 224,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060HCJ3KR6-e341a60ae8\/1696483368534_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060HCJ3KR6-e341a60ae8\/1696483368534_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 336,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060HCJ3KR6-e341a60ae8\/1696483368534_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1716,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060HCJ3KR6-e341a60ae8\/1696483368534_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 448,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060HCJ3KR6-e341a60ae8\/1696483368534_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 478,
+                "thumb_1024_h": 1024,
+                "original_w": 1440,
+                "original_h": 3088,
+                "thumb_tiny": "AwAwABZGsTuI3Lx9aT7Cf7y\/rWgT8xAFAz3U0DKP9nSHkSJj8aP7Ol\/56J+taK9On50tAiNj8x4pAfVaVidx44pMn0zQMkGMDH60tIMY4paBEbZ3HjikBOeg\/Gsv7bOed\/6Cl+2zjHz\/AKCgZrjGOKWsf7dcAffH\/fIo+33H98f98igR\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03SZAWQBM4\/F060HCJ3KR6\/1696483368534.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060HCJ3KR6-d450185291",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03SZAWQBM4",
+        "display_as_bot": false,
+        "team": "T0ZBAEL59",
+        "ts": "1696483527.609989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xek6b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Christine, are these the correct times for the finance courses next semester? It seems very odd that Investments with Boyer and Advanced Corporate Finance with Nadauld (probably two of the most foundational\/important electives for the finance track) would be at the same time. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6b27fbcb-7923-4089-84d1-3f86b83bbbcd",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696483527.609989",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696628258.031899",
+        "reply_users": [
+            "U05PQ5BK2R2",
+            "U05GZPFMAA2"
+        ],
+        "replies": [
+            {
+                "user": "U05PQ5BK2R2",
+                "ts": "1696487773.425289"
+            },
+            {
+                "user": "U05GZPFMAA2",
+                "ts": "1696628258.031899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LXQHD7T3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EB94F3F7-0DBA-433C-8919-0D706985F6D1",
+        "type": "message",
+        "text": "Both classes Chad brings up also conflict with the combined sourcing and logistics class- makes it hard for supply chain students take relevant finance class- nadauld ",
+        "user": "U05PQ5BK2R2",
+        "ts": "1696487773.425289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B0Vr+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Both classes Chad brings up also conflict with the combined sourcing and logistics class- makes it hard for supply chain students take relevant finance class- nadauld "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8c595b84f1a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-12\/5899814021649_8c595b84f1a53a659196_72.png",
+            "first_name": "Judy",
+            "real_name": "Judy Newman",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "sjudy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696483527.609989",
+        "parent_user_id": "U03SZAWQBM4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LCGQP0LW",
+                    "U05GZPFMAA2",
+                    "U03TVL5QZFA"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "46ed73aa-27a3-4ecd-b501-08568a07ad73",
+        "type": "message",
+        "text": "I'm flying to Seattle on Tuesday (depart 5:22 pm). Has anyone planned transportation and accommodation already for that itinerary? Those who have the same itinerary, please respond to this thread and we can plan something out.",
+        "user": "U05AN3TCTSN",
+        "ts": "1697293138.269339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dNgAM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm flying to Seattle on Tuesday (depart 5:22 pm). Has anyone planned transportation and accommodation already for that itinerary? Those who have the same itinerary, please respond to this thread and we can plan something out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e84ee570-f833-4a09-8f2d-593aa69df5fe",
+        "type": "message",
+        "text": "Amraj and I are looking at an Airbnb in Portland for $250\/night. It sleeps 10 people (some being on air mattresses\/ couch) anyone interested?",
+        "user": "U05B0NHD3LZ",
+        "ts": "1697322580.667889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U4p7b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amraj and I are looking at an Airbnb in Portland for $250\/night. It sleeps 10 people (some being on air mattresses\/ couch) anyone interested?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dbbf1fbb3088",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-22\/5930352146870_dbbf1fbb3088d1bed2d7_72.png",
+            "first_name": "Kalie",
+            "real_name": "Kalie Johnson",
+            "display_name": "Kalie Johnson",
+            "team": "T0ZBAEL59",
+            "name": "kaliej424",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c1776dc0-a2a9-4a5e-aa9b-25e7c1b0185d",
+        "type": "message",
+        "text": "<https:\/\/www.airbnb.com\/rooms\/16572315?adults=7&amp;location=Beaverton%2C%20Oregon%2C%20United%20States&amp;check_in=2023-11-07&amp;check_out=2023-11-08&amp;source_impression_id=p3_1697306335_Bf7tyu0j4vfsNUGV&amp;previous_page_section_name=1001&amp;federated_search_id=3397d1f8-9067-4193-b1b3-71b922349d58|https:\/\/www.airbnb.com\/rooms\/16572315?adults=7&amp;location=Beaverton%2C%20Oregon%2C%20U[…]1001&amp;federated_search_id=3397d1f8-9067-4193-b1b3-71b922349d58>",
+        "user": "U05B0NHD3LZ",
+        "ts": "1697322583.572789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kRoxk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.airbnb.com\/rooms\/16572315?adults=7&location=Beaverton%2C%20Oregon%2C%20United%20States&check_in=2023-11-07&check_out=2023-11-08&source_impression_id=p3_1697306335_Bf7tyu0j4vfsNUGV&previous_page_section_name=1001&federated_search_id=3397d1f8-9067-4193-b1b3-71b922349d58",
+                                "text": "https:\/\/www.airbnb.com\/rooms\/16572315?adults=7&location=Beaverton%2C%20Oregon%2C%20U[…]1001&federated_search_id=3397d1f8-9067-4193-b1b3-71b922349d58"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dbbf1fbb3088",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-22\/5930352146870_dbbf1fbb3088d1bed2d7_72.png",
+            "first_name": "Kalie",
+            "real_name": "Kalie Johnson",
+            "display_name": "Kalie Johnson",
+            "team": "T0ZBAEL59",
+            "name": "kaliej424",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/a0.muscache.com\/im\/pictures\/48e1b621-4a8f-4ae5-b5ab-5d2bf03bd02a.jpg?im_w=720",
+                "image_width": 720,
+                "image_height": 480,
+                "image_bytes": 33091,
+                "from_url": "https:\/\/www.airbnb.com\/rooms\/16572315?adults=7&location=Beaverton%2C%20Oregon%2C%20United%20States&check_in=2023-11-07&check_out=2023-11-08&source_impression_id=p3_1697306335_Bf7tyu0j4vfsNUGV&previous_page_section_name=1001&federated_search_id=3397d1f8-9067-4193-b1b3-71b922349d58",
+                "service_icon": "https:\/\/a0.muscache.com\/airbnb\/static\/icons\/apple-touch-icon-76x76-3b313d93b1b5823293524b9764352ac9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.airbnb.com\/rooms\/16572315?adults=7&amp;location=Beaverton%2C%20Oregon%2C%20United%20States&amp;check_in=2023-11-07&amp;check_out=2023-11-08&amp;source_impression_id=p3_1697306335_Bf7tyu0j4vfsNUGV&amp;previous_page_section_name=1001&amp;federated_search_id=3397d1f8-9067-4193-b1b3-71b922349d58",
+                "fallback": "Airbnb: Home in Portland · ★4.90 · 3 bedrooms · 5 beds · 2 baths",
+                "text": "Family Friendly Home in Portland",
+                "title": "Home in Portland · ★4.90 · 3 bedrooms · 5 beds · 2 baths",
+                "title_link": "https:\/\/www.airbnb.com\/rooms\/16572315?adults=7&location=Beaverton%2C%20Oregon%2C%20United%20States&check_in=2023-11-07&check_out=2023-11-08&source_impression_id=p3_1697306335_Bf7tyu0j4vfsNUGV&previous_page_section_name=1001&federated_search_id=3397d1f8-9067-4193-b1b3-71b922349d58",
+                "service_name": "Airbnb"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05B0NFQNHX",
+                    "U03PKR5GQUQ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

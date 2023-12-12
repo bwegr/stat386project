@@ -1,0 +1,136 @@
+[
+    {
+        "client_msg_id": "17DB1F95-7E87-4B82-A394-562E76B35BA1",
+        "type": "message",
+        "text": "Hey what are you all doing for flights coming home from Dallas? Is everyone flying back Friday evening or are some planning to hang out in Dallas that evening then fly back in the morning?",
+        "user": "U05AK5GQJ5B",
+        "ts": "1698415424.466139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CabYl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey what are you all doing for flights coming home from Dallas? Is everyone flying back Friday evening or are some planning to hang out in Dallas that evening then fly back in the morning?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21974fb52c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-13\/5916046228688_21974fb52c299059b822_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Nelson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mdnelson07",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698415424.466139",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698540013.222229",
+        "reply_users": [
+            "U05BBQDP59N",
+            "U03LK4YF3A6"
+        ],
+        "replies": [
+            {
+                "user": "U05BBQDP59N",
+                "ts": "1698417413.755949"
+            },
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1698540013.222229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "304A2390-AC43-4C83-9AE1-697EC2ECD98C",
+        "type": "message",
+        "text": "I’m taking the bus to go see my sister in Houston Friday night, so I’m headed out. I know <@U05B0NFT057> is flying to Austin that night. Not sure about anyone else",
+        "user": "U05BBQDP59N",
+        "ts": "1698417413.755949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XrPkh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m "
+                            },
+                            {
+                                "type": "text",
+                                "text": "taking the bus to go see my sister in Houston Friday night, so "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " headed out"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " I know "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05B0NFT057"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is flying to Austin that night"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Not sure about anyone else"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9d365c02ed39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-08\/5714397176628_9d365c02ed398a6d3fb4_72.png",
+            "first_name": "Kjerstin",
+            "real_name": "Kjerstin Roberts",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "robertskjerstin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698415424.466139",
+        "parent_user_id": "U05AK5GQJ5B"
+    }
+]

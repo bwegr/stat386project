@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "483a89ec-968e-41bb-b170-a719ff05f42d",
+        "type": "message",
+        "text": "<!channel> everyone in GFA should come be a part of this, I promise after your internships you'll be thinking \"how can I get a more meaningful job\" and this is it:\n\nWe're having an info session on *buying a business* on October 17th, 5p -6p, room TBD.\n• What the economics of buying a business look like\n• What the benefits to buying a business are\n• How to start looking for a business to buy\n• Listen to experiences from a few BYU MBA grads that have bought businesses\n• Intro to the Acquisition Case Competition that will take place in November ($1000 cash prize to the winner) -- 1st\/2nd years can enter\n^^The Acquisition Case Comp will be on Saturday, November 18th at the Kiln in Provo. It will be an awesome chance to pitch your acquisition idea(s) to potential investors.\n\nIt's open to anybody 1st or 2nd years -- just give us a thumbs up so we have a headcount for food.\n\nIt's also the only time I'll use the @ channel so whoever moderates don't shoot me.",
+        "user": "U03LKPR602X",
+        "ts": "1696964710.626529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3iIDJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " everyone in GFA should come be a part of this, I promise after your internships you'll be thinking \"how can I get a more meaningful job\" and this is it:\n\nWe're having an info session on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "buying a business ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "on October 17th, 5p -6p, room TBD.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What the economics of buying a business look like"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What the benefits to buying a business are"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How to start looking for a business to buy"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Listen to experiences from a few BYU MBA grads that have bought businesses"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Intro to the Acquisition Case Competition that will take place in November ($1000 cash prize to the winner) -- 1st\/2nd years can enter"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n^^The Acquisition Case Comp will be on Saturday, November 18th at the Kiln in Provo. It will be an awesome chance to pitch your acquisition idea(s) to potential investors.\n\nIt's open to anybody 1st or 2nd years -- just give us a thumbs up so we have a headcount for food.\n\nIt's also the only time I'll use the @ channel so whoever moderates don't shoot me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e44703c70bf5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-19\/3960224283206_e44703c70bf5c3980b3d_72.jpg",
+            "first_name": "James",
+            "real_name": "James Lincoln",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "james.lincoln1995",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05DJBMDG0L",
+                    "U05AK5HTE77",
+                    "U03LMGV8Y12"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

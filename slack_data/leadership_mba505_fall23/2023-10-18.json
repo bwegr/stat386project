@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "D8D212ED-2840-4250-A3A3-9EF7E6C9ADEA",
+        "type": "message",
+        "text": "<@U05A7HE2M8X> <@U05H8SL2HFE> I just noticed that my PDF says B, so since three people will be on a team, I’m assuming there might be three versions of the PDF and then we’ll have to collaborate to fill in missing pieces to get a complete picture. The email was Leadership: Week 7 on last Friday around 12:30 pm.",
+        "user": "U05AN015NSX",
+        "ts": "1697671426.757549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wRXZ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05A7HE2M8X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05H8SL2HFE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I just noticed that my PDF says B, so since three people will be on a team, I’m assuming there might be three versions of the PDF and then we’ll have to collaborate to fill in missing pieces to get a complete picture. The email was Leadership: Week 7 on last Friday around 12:30 pm."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697496500.154359",
+        "parent_user_id": "U05A7HE2M8X"
+    }
+]

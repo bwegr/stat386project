@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "7A680E47-464C-44FB-98AB-CDFB769DAC8B",
+        "type": "message",
+        "text": "<https:\/\/www.instagram.com\/reel\/CxL2hN4vZkG\/?igshid=MzRlODBiNWFlZA==|https:\/\/www.instagram.com\/reel\/CxL2hN4vZkG\/?igshid=MzRlODBiNWFlZA==>",
+        "user": "U03LCGM9XML",
+        "ts": "1696990951.731609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ToGTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/reel\/CxL2hN4vZkG\/?igshid=MzRlODBiNWFlZA==",
+                                "text": "https:\/\/www.instagram.com\/reel\/CxL2hN4vZkG\/?igshid=MzRlODBiNWFlZA=="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe4a9879d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Parry",
+            "display_name": "Evan Parry",
+            "team": "T0ZBAEL59",
+            "name": "evanparry13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LCGQP0LW",
+                    "U03LG776WFP",
+                    "U03LK5045V0",
+                    "U03LK56EXJN"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "A5E789BB-B500-46A0-AAAE-24A56B9A1BFE",
+        "type": "message",
+        "text": "Did anyone see a Mac charger lying on the barstool table this evening?",
+        "user": "U03LG7C5QAH",
+        "ts": "1697079922.592949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LXHGu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did anyone see a Mac charger lying on the barstool table this evening?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697079922.592949",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697082806.229409",
+        "reply_users": [
+            "U03LK533VR8"
+        ],
+        "replies": [
+            {
+                "user": "U03LK533VR8",
+                "ts": "1697082806.229409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2bd700bc-7745-4100-b2b8-b0882131df16",
+        "type": "message",
+        "text": "It was there when I left a bit after you.",
+        "user": "U03LK533VR8",
+        "ts": "1697082806.229409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8K2ua",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It was there when I left a bit after you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697079922.592949",
+        "parent_user_id": "U03LG7C5QAH"
+    }
+]

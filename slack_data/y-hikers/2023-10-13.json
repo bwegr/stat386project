@@ -1,0 +1,437 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697224050.165499",
+        "user": "U03LK4YF3A6",
+        "text": "<@U03LK4YF3A6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697224104.902369",
+        "user": "U03LK4YBK7C",
+        "text": "<@U03LK4YBK7C> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697224105.033429",
+        "user": "U03LK39PKRR",
+        "text": "<@U03LK39PKRR> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697224105.096559",
+        "user": "U05AN3TCTSN",
+        "text": "<@U05AN3TCTSN> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697224105.177219",
+        "user": "U03PKR5881E",
+        "text": "<@U03PKR5881E> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697224105.245059",
+        "user": "U05B0NHD3LZ",
+        "text": "<@U05B0NHD3LZ> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697224105.316649",
+        "user": "U05AMVCTLRZ",
+        "text": "<@U05AMVCTLRZ> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697224105.394189",
+        "user": "U05AFDSCK4N",
+        "text": "<@U05AFDSCK4N> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697224105.483089",
+        "user": "U03LXQCM22D",
+        "text": "<@U03LXQCM22D> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697224105.557399",
+        "user": "U05GZPF8ZGW",
+        "text": "<@U05GZPF8ZGW> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "client_msg_id": "C34E70CD-E930-4D8B-B787-E3774B38E0A4",
+        "type": "message",
+        "text": "Hi Y-hikers :wave: \nI’m excited to hike with y’all tonight! \nI was a little off on my estimation and looks like sunset is at 6:50, would y’all be opposed at meeting at the trailhead at 6:50? \n\n<@U05AN3TCTSN> and <@U05GZPF8ZGW> I can pick you up! <@U05GZPF8ZGW> can you text me your address 4358405733? \n\nBring a jacket and a headlamp\/flashlight \n\nAny questions?! \n<!channel> ",
+        "user": "U03LK4YF3A6",
+        "ts": "1697224461.566769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oz2DB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Y-hikers "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nI’m excited to hike with y’all tonight! \nI was a little off on my estimation and looks like sunset is at 6:50, would y’all be opposed at meeting at the trailhead at 6:50? \n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AN3TCTSN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05GZPF8ZGW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I can pick you up! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05GZPF8ZGW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you text me your address 4358405733? \n\nBring a jacket and a headlamp\/flashlight \n\nAny questions?! \n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LK4YF3A6",
+            "ts": "1697224502.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AMVCTLRZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a031ca2-5562-4788-a42b-f0da6f245c33",
+        "type": "message",
+        "text": "Yay! Will you bring a headlamp for me? :innocent:",
+        "user": "U05AN3TCTSN",
+        "ts": "1697224550.948509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ma5M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yay! Will you bring a headlamp for me? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent",
+                                "unicode": "1f607"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CC924825-8AED-4251-AE8F-41BD2D6A2E5F",
+        "type": "message",
+        "text": "<@U03LK4YF3A6> Brandon and I will be there around 6:55pm!",
+        "user": "U05AMVCTLRZ",
+        "ts": "1697244040.272689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cV0w4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK4YF3A6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Brandon and I will be there around 6:55pm!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21cea2f50db5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5357074088198_21cea2f50db509542cea_72.png",
+            "first_name": "Travis",
+            "real_name": "Travis Crosby",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "crosbytrc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2480C1C8-1CE2-4455-B3DB-E72B07A78AB0",
+        "type": "message",
+        "text": "Thanks for the update! ",
+        "user": "U03LK4YF3A6",
+        "ts": "1697244174.523839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VSUE8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the update! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "A primer on everyone's favorite oyster idiom...",
+        "files": [
+            {
+                "id": "F0614MQAC3V",
+                "created": 1697254208,
+                "timestamp": 1697254208,
+                "name": "The World is Your Oyster.pdf",
+                "title": "The World is Your Oyster.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03LK39PKRR",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 139087,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0614MQAC3V\/the_world_is_your_oyster.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0614MQAC3V\/download\/the_world_is_your_oyster.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0614MQAC3V-174005f737\/the_world_is_your_oyster_thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK39PKRR\/F0614MQAC3V\/the_world_is_your_oyster.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0614MQAC3V-4dc76cd1c7",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LK39PKRR",
+        "display_as_bot": false,
+        "ts": "1697254243.607489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LIV48",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A primer on everyone's favorite oyster idiom..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "002216f5-e7a3-44af-933d-535d5b470c71",
+        "thread_ts": "1697254243.607489",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1697312010.513359",
+        "reply_users": [
+            "U03LK4YBK7C",
+            "U03LK39PKRR"
+        ],
+        "replies": [
+            {
+                "user": "U03LK4YBK7C",
+                "ts": "1697259168.559909"
+            },
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1697298660.387479"
+            },
+            {
+                "user": "U03LK4YBK7C",
+                "ts": "1697312010.513359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK4YF3A6",
+                    "U05B0NHD3LZ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "kirsipurejoy",
+                "users": [
+                    "U03LK4YBK7C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EFCEABA8-CC03-456E-9353-DDCEAA0D020A",
+        "type": "message",
+        "text": "Wow. Phenomenal ",
+        "user": "U03LK4YBK7C",
+        "ts": "1697259168.559909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oqmt0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow. Phenomenal "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9269f939505a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-09\/5895560464112_9269f939505a8d44f86b_72.png",
+            "first_name": "Kirsi",
+            "real_name": "Kirsi Jarvis",
+            "display_name": "Kirsi Jarvis",
+            "team": "T0ZBAEL59",
+            "name": "kirsijarvis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697254243.607489",
+        "parent_user_id": "U03LK39PKRR"
+    }
+]

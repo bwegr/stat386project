@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "bcd08eda-f372-4528-8ec3-a901a7d31de0",
+        "type": "message",
+        "text": "Do you have an ETA on when Problem Set #4 (Oct. 31) and Case Analysis - Teuer (Nov. 2) will be posted?",
+        "user": "U05AN015NSX",
+        "ts": "1697919770.059849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "41Jwt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you have an ETA on when Problem Set #4 (Oct. 31) and Case Analysis - Teuer (Nov. 2) will be posted?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697919770.059849",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697994268.163849",
+        "reply_users": [
+            "U03TVL5QZFA"
+        ],
+        "replies": [
+            {
+                "user": "U03TVL5QZFA",
+                "ts": "1697994268.163849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

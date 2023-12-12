@@ -1,0 +1,201 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696465458.584869",
+        "user": "U03LK4YF3A6",
+        "text": "<@U03LK4YF3A6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696465565.207479",
+        "user": "U03LMGYLSR2",
+        "text": "<@U03LMGYLSR2> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696465565.302259",
+        "user": "U03LK39PKRR",
+        "text": "<@U03LK39PKRR> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696465565.367969",
+        "user": "U03LMGSGBQC",
+        "text": "<@U03LMGSGBQC> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696465565.431199",
+        "user": "U05A7HD4XE3",
+        "text": "<@U05A7HD4XE3> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696465565.498109",
+        "user": "U03LK39EPB5",
+        "text": "<@U03LK39EPB5> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696465565.565669",
+        "user": "U05AN3TCTSN",
+        "text": "<@U05AN3TCTSN> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696465565.652239",
+        "user": "U05BBQFJ056",
+        "text": "<@U05BBQFJ056> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696465565.721149",
+        "user": "U05B0NHD3LZ",
+        "text": "<@U05B0NHD3LZ> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696465565.796399",
+        "user": "U03L4HB0BM5",
+        "text": "<@U03L4HB0BM5> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696465565.858649",
+        "user": "U05BBQCRFU0",
+        "text": "<@U05BBQCRFU0> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    },
+    {
+        "client_msg_id": "F481A2A0-9AC7-4D81-8885-BE03E9F2C1D1",
+        "type": "message",
+        "text": "Hello friends! Thank you so much for being willing to help on Saturday! I talked with my mom today and she was almost in tears because of your willingness to help! :pray::skin-tone-2:\n\nThis probably won’t be the most fun activity you have participated in, so keep that in mind :) west long sleeves or a flannel to prevent scratches and if you have work gloves, bring them (and extras too if you have them) \n\nI would love to set up a carpool, with 12 of us, are there about 2 others who would be willing to help drive? It’s about 1 hour 15 mins away from Provo. \n\nMy mom would like to feed everyone dinner but I also know I don’t want to monopolize your precious Saturday…  :joy: so we’ll work something out, but there will be food after! \n\nOnce again thank you! May God bless all you wonderful, kind people!! \n:heart: :heart: :heart: ",
+        "user": "U03LK4YF3A6",
+        "ts": "1696466104.788759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W2LO4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello friends! Thank you so much for being willing to help on Saturday! I talked with my mom today and she was almost in tears because of your willingness to help! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis probably won’t be the most fun activity you have participated in, so keep that in mind :) west long sleeves or a flannel to prevent scratches and if you have work gloves, bring them (and extras too if you have them) \n\nI would love to set up a carpool, with 12 of us, are there about 2 others who would be willing to help drive? It’s about 1 hour 15 mins away from Provo. \n\nMy mom would like to feed everyone dinner but I also know I don’t want to monopolize your precious Saturday…  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so we’ll work something out, but there will be food after! \n\nOnce again thank you! May God bless all you wonderful, kind people!! \n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LK4YF3A6",
+            "ts": "1696466223.000000"
+        },
+        "reactions": [
+            {
+                "name": "male-farmer::skin-tone-2",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "male-farmer",
+                "users": [
+                    "U03LK39EPB5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696466187.974619",
+        "user": "U03LXQCJA81",
+        "text": "<@U03LXQCJA81> has joined the channel",
+        "inviter": "U03LK4YF3A6"
+    }
+]

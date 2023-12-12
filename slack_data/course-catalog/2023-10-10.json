@@ -1,0 +1,694 @@
+[
+    {
+        "client_msg_id": "d1aec449-14b2-4e1b-a999-c777e8f26b14",
+        "type": "message",
+        "text": "Does anyone have any favorite 1.5 credit classes? Thanks!",
+        "user": "U03LK56EXJN",
+        "ts": "1696969097.374519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IAMVI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have any favorite 1.5 credit classes? Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "f0fa35dd6a38",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-29\/3740115766211_f0fa35dd6a387887760a_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Clement",
+            "display_name": "tanman",
+            "team": "T0ZBAEL59",
+            "name": "scariotjc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696969097.374519",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1696984898.716289",
+        "reply_users": [
+            "U03LK52VCQ2",
+            "U03LXQCEVKK",
+            "U03LK56EXJN",
+            "U03LK533VR8",
+            "U03LMGYLSR2"
+        ],
+        "replies": [
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1696969389.267579"
+            },
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1696973544.940819"
+            },
+            {
+                "user": "U03LK56EXJN",
+                "ts": "1696973650.055329"
+            },
+            {
+                "user": "U03LK533VR8",
+                "ts": "1696976685.913899"
+            },
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1696984898.716289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "414474E5-D227-42F4-A5CF-2402784F0764",
+        "type": "message",
+        "text": "Fin modeling in past years have filled up, but last year did not cause we have fewer people in it and people were unsure about the new professor. I loved it though, but that’s in another thread somewhere",
+        "user": "U03LMGYLSR2",
+        "ts": "1696969229.684549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gr3v6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fin modeling in past years have filled up, but last year did not cause we have fewer people in it and people were unsure about the new professor"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " I loved it though, but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "that’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in another thread somewhere"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696826099.580379",
+        "parent_user_id": "U05B0NFJ1S5"
+    },
+    {
+        "client_msg_id": "0334e27c-8d71-47ee-8334-4f7d84c27064",
+        "type": "message",
+        "text": "I hear Oral Comm is good",
+        "user": "U03LK52VCQ2",
+        "ts": "1696969389.267579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qZg9x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hear Oral Comm is good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696969097.374519",
+        "parent_user_id": "U03LK56EXJN"
+    },
+    {
+        "client_msg_id": "b173a1ca-06dc-47d2-b196-cb88065e38aa",
+        "type": "message",
+        "text": "I’ve heard it’s good but you shouldn’t bid 1000 points on it, maybe bid like a couple hundred points less than me and Megan are bidding",
+        "user": "U03LXQCEVKK",
+        "ts": "1696973544.940819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rloA0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve heard it’s good but you shouldn’t bid 1000 points on it, maybe bid like a couple hundred points less than me and Megan are bidding"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696969097.374519",
+        "parent_user_id": "U03LK56EXJN",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U03LK56EXJN",
+                    "U03LXQCEVKK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad75b0b4-846a-48d6-a1a4-32e5fccfe648",
+        "type": "message",
+        "text": "Haha Oral Comms is probably on my list. I'm hoping to discover some other cool 1.5 credits but I haven't found many online.",
+        "user": "U03LK56EXJN",
+        "ts": "1696973650.055329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f6nsB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha Oral Comms is probably on my list. I'm hoping to discover some other cool 1.5 credits but I haven't found many online."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "f0fa35dd6a38",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-29\/3740115766211_f0fa35dd6a387887760a_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Clement",
+            "display_name": "tanman",
+            "team": "T0ZBAEL59",
+            "name": "scariotjc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696969097.374519",
+        "parent_user_id": "U03LK56EXJN"
+    },
+    {
+        "client_msg_id": "81138a0b-84b9-4f75-99cc-46bd6228eb12",
+        "type": "message",
+        "text": "Anybody have any comments on the Social Impact classes? How do they work? What are the differences between the different sections?",
+        "user": "U03LK56AUHG",
+        "ts": "1696975945.381779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UEpvo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anybody have any comments on the Social Impact classes? How do they work? What are the differences between the different sections?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "31bde1eb93cb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3961752105911_31bde1eb93cb41b675c1_72.jpg",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Dowdy",
+            "display_name": "Benjamin",
+            "team": "T0ZBAEL59",
+            "name": "dowdy.benjamin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696975945.381779",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696981736.316249",
+        "reply_users": [
+            "U03LK4YBK7C"
+        ],
+        "replies": [
+            {
+                "user": "U03LK4YBK7C",
+                "ts": "1696981736.316249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "838aa41a-5740-4a87-b6d3-c90b3008325c",
+        "type": "message",
+        "text": "I hear decent things about Lee's 2 credit gospel\/business class MBA 536.",
+        "user": "U03LK533VR8",
+        "ts": "1696976685.913899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NMUmp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hear decent things about Lee's 2 credit gospel\/business class MBA 536."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696969097.374519",
+        "parent_user_id": "U03LK56EXJN",
+        "reactions": [
+            {
+                "name": "yes",
+                "users": [
+                    "U03LK56EXJN",
+                    "U03LK52VCQ2",
+                    "U0171LYGQ2U"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03513984-0395-4309-A0FE-1442FEE72A86",
+        "type": "message",
+        "text": "I don’t think these have been shared- there are two pre-PhD classes offered in the winter if you are even considering the thought or want to know more about different types of research in management. A lot easier to figure out now if you are interested or not. :)\n\nThere is one for OB and one for strategy. They were immensely helpful for me- small groups with faculty from each of those departments coming in to speak each week. You get a lot of personal interaction and time to deep dive into all the facets of the profession. Great exposure if even considering the path. \n\nBoth 3 credits. Message me if interested! \n\n",
+        "user": "U03LK4YBK7C",
+        "ts": "1696981564.467729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PbHkg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t think these have been shared- there are two pre-PhD classes offered in the winter if you are even considering the thought or want to know more about different types of research in management. A lot easier to figure out now if you are interested or not. :)\n\nThere is one for OB and one for strategy. They were immensely helpful for me- small groups with faculty from each of those departments coming in to speak each week. You get a lot of personal interaction and time to deep dive into all the facets of the profession. Great exposure if even considering the path. \n\nBoth 3 credits. Message me if interested! \n\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9269f939505a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-09\/5895560464112_9269f939505a8d44f86b_72.png",
+            "first_name": "Kirsi",
+            "real_name": "Kirsi Jarvis",
+            "display_name": "Kirsi Jarvis",
+            "team": "T0ZBAEL59",
+            "name": "kirsijarvis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LK4YBK7C",
+            "ts": "1696981649.000000"
+        },
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03L4GP8ZMM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B8C8D2EE-CA8E-47FC-97B5-0376C294333B",
+        "type": "message",
+        "text": "Yes! One is building out your own issue brief\/social impact project and one is joining a project already in place with an organization. I have loved the class this semester- come find me tomorrow and I can share more! ",
+        "user": "U03LK4YBK7C",
+        "ts": "1696981736.316249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NekVE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes! One is building out your own issue brief\/social impact project and one is joining a project already in place with an organization. I have loved the class this semester- come find me tomorrow and I can share more! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9269f939505a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-09\/5895560464112_9269f939505a8d44f86b_72.png",
+            "first_name": "Kirsi",
+            "real_name": "Kirsi Jarvis",
+            "display_name": "Kirsi Jarvis",
+            "team": "T0ZBAEL59",
+            "name": "kirsijarvis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696975945.381779",
+        "parent_user_id": "U03LK56AUHG",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LK56AUHG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ABC6BAE6-C2D9-4056-B408-118BA19D9664",
+        "type": "message",
+        "text": "<@U03LK3AD1V1> I’m considering this class, did you find more info about it ?",
+        "user": "U03M8T51VUY",
+        "ts": "1696983277.419309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZnDfx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK3AD1V1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " considering this class, did you find more info about it ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696604894.529359",
+        "parent_user_id": "U03LK3AD1V1"
+    },
+    {
+        "client_msg_id": "c3c8184c-1d88-4d71-8d45-85e34d087f25",
+        "type": "message",
+        "text": "No, I want planning on it",
+        "user": "U03LK3AD1V1",
+        "ts": "1696983800.774959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gqTyV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, I want planning on it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b31fd5fbeeee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-10\/4633719656865_b31fd5fbeeeea29df80a_72.jpg",
+            "first_name": "Kevin",
+            "real_name": "Kevin James",
+            "display_name": "Kevin James",
+            "team": "T0ZBAEL59",
+            "name": "kevinjames1985",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696604894.529359",
+        "parent_user_id": "U03LK3AD1V1"
+    },
+    {
+        "client_msg_id": "5cdc2a09-296e-4a43-9692-e67b3180e8ca",
+        "type": "message",
+        "text": "*wasnt",
+        "user": "U03LK3AD1V1",
+        "ts": "1696983808.203849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QdzZf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*wasnt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b31fd5fbeeee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-10\/4633719656865_b31fd5fbeeeea29df80a_72.jpg",
+            "first_name": "Kevin",
+            "real_name": "Kevin James",
+            "display_name": "Kevin James",
+            "team": "T0ZBAEL59",
+            "name": "kevinjames1985",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696604894.529359",
+        "parent_user_id": "U03LK3AD1V1"
+    },
+    {
+        "client_msg_id": "EEEEA2A9-1694-4C68-A012-DFFBA64438BD",
+        "type": "message",
+        "text": "Gotcha ",
+        "user": "U03M8T51VUY",
+        "ts": "1696983845.003849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kuFTn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gotcha "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696604894.529359",
+        "parent_user_id": "U03LK3AD1V1"
+    },
+    {
+        "client_msg_id": "5E8D0CAD-A006-46D8-B183-8202F3F848CA",
+        "type": "message",
+        "text": "Scaling new ventures!",
+        "user": "U03LMGYLSR2",
+        "ts": "1696984898.716289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QYfuG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Scaling new ventures!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696969097.374519",
+        "parent_user_id": "U03LK56EXJN",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LK56EXJN",
+                    "U05RSF4NN49"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

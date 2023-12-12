@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "43F696B4-8828-4BAD-9F45-DE249410C9C1",
+        "type": "message",
+        "text": "Nope me neither",
+        "user": "U03LG7C5QAH",
+        "ts": "1697287083.172579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MZpq6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nope me neither"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697249388.366399",
+        "parent_user_id": "U03LG7C5QAH"
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "f00e8531-cd76-4b44-b876-240d98cf4096",
+        "type": "message",
+        "text": "For those that don't know how to find the answers you selected for the Operations midterm, go to this <https:\/\/testing.byu.edu\/my-exams|link> and then click 'View', which answers you can then cross-compare with the correct answers at this <https:\/\/byu.instructure.com\/courses\/21411\/files\/7463059?wrap=1|link>.",
+        "user": "U05AN015NSX",
+        "ts": "1697672743.660649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "060nq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For those that don't know how to find the answers you selected for the Operations midterm, go to this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/testing.byu.edu\/my-exams",
+                                "text": "link"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and then click 'View', which answers you can then cross-compare with the correct answers at this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.instructure.com\/courses\/21411\/files\/7463059?wrap=1",
+                                "text": "link"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05AFDSJH70",
+                    "U05AN02C0E7",
+                    "U05GZPFMAA2"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

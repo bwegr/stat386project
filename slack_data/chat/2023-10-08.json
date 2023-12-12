@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "E554A1CA-EA43-4F1C-9B05-8DA01CE75139",
+        "type": "message",
+        "text": "*Attention 1st Years- Cougar Capital Info Session 10\/10*\n\nCome join us on Tuesday evening to hear more about one of the MBA’s LDBs, Cougar Capital! Cougar Capital is an investment fund modeled after VC\/PE firms where students get the chance to research, present, and ultimately invest in companies alongside some of the top investment firms in the state\/nation. There will be multiple members of the current Cougar Capital class there to share their experiences and backgrounds. We will also go over important dates\/requirements to get into Cougar Capital. See below for a little more information:\n\nWhen: This Tuesday (10\/10) from 5-6 PM\nWhere: W208\n\nAny and everyone is welcome! Please come with questions, and we will try to answer all of them!\n",
+        "user": "U03LK4YJGQJ",
+        "ts": "1696810835.823289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yErMO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Attention 1st Years- Cougar Capital Info Session 10\/10\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCome join us on Tuesday evening to hear more about one of the MBA’s LDBs, Cougar Capital! Cougar Capital is an investment fund modeled after VC\/PE firms where students get the chance to research, present, and ultimately invest in companies alongside some of the top investment firms in the state\/nation"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " There will be multiple members of the current Cougar Capital class there to share their experiences and backgrounds"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " We will also go over important dates\/requirements to get into Cougar Capital"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " See below for a little more information:\n\nWhen: This Tuesday (10\/10) from 5-6 PM\nWhere: W208\n\nAny and everyone is welcome! Please come with questions, and we will try to answer all of them!\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4bfa602a3916",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/4026473552256_4bfa602a39169e79a840_72.jpg",
+            "first_name": "Aaron",
+            "real_name": "Aaron Daines",
+            "display_name": "Aaron Daines",
+            "team": "T0ZBAEL59",
+            "name": "aaron.daines",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03L4GP8ZMM",
+                    "U05DJBMDG0L",
+                    "U03L4GN325D",
+                    "U03LG7BV35K",
+                    "U05B0NFJ1S5",
+                    "U05MZL0CBF0",
+                    "U05D98WS6FQ",
+                    "U05GZPFBQ7Q",
+                    "U05A7HC8FF1",
+                    "U05BBQFJ056",
+                    "U05B0NFQNHX",
+                    "U05BBQD8SKS",
+                    "U05A7HE9NG7"
+                ],
+                "count": 13
+            },
+            {
+                "name": "us",
+                "users": [
+                    "U03M9J7V2RE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

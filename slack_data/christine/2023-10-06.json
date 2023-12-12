@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "B51EF22F-7CD3-47AA-B634-7E27DE2C47F5",
+        "type": "message",
+        "text": "Having this same issue. ",
+        "user": "U05GZPFMAA2",
+        "ts": "1696628258.031899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZB0KO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Having this same issue"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dae6d1b7129e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-25\/6099646149092_dae6d1b7129ed59f3cd8_72.png",
+            "first_name": "Val",
+            "real_name": "Val Fulton",
+            "display_name": "Val",
+            "team": "T0ZBAEL59",
+            "name": "valeriam.fulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696483527.609989",
+        "parent_user_id": "U03SZAWQBM4"
+    }
+]

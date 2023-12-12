@@ -1,0 +1,164 @@
+[
+    {
+        "type": "message",
+        "text": "Reminder of the SHPE career fair between Nov 1-5. The career fair will be during Friday and Saturday in Salt Lake City",
+        "files": [
+            {
+                "id": "F061TH6K9CN",
+                "created": 1697761535,
+                "timestamp": 1697761535,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LMGXDFB6",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 889270,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061TH6K9CN\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061TH6K9CN\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061TH6K9CN-2c9d7711a4\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061TH6K9CN-2c9d7711a4\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061TH6K9CN-2c9d7711a4\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 199,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061TH6K9CN-2c9d7711a4\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 266,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061TH6K9CN-2c9d7711a4\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061TH6K9CN-2c9d7711a4\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 398,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061TH6K9CN-2c9d7711a4\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 443,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061TH6K9CN-2c9d7711a4\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 531,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061TH6K9CN-2c9d7711a4\/image_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 567,
+                "original_w": 2432,
+                "original_h": 1346,
+                "thumb_tiny": "AwAaADDQPB7flSjrzj8qH6im0APyv+RSZX\/IpOPejOOmaAFyuP8A61LgelIOe5p1ADWBPSk2n0\/Wn0UAM2Uu36U6igBuD7VVWeUz4IO3OMYq5SbRuzgZ9aBo\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LMGXDFB6\/F061TH6K9CN\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061TH6K9CN-77ae94b137",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LMGXDFB6",
+        "display_as_bot": false,
+        "ts": "1697761541.557309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UNMDH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reminder of the SHPE career fair between Nov 1-5. The career fair will be during Friday and Saturday in Salt Lake City"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ab1e6d3e-8e45-444d-bae5-9053af26ac7f",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AQGJMMT6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b19646b4-a33a-4b0c-8204-568b7ec89bf2",
+        "type": "message",
+        "text": "Who else is coming? leave a :+1: if you are. It would be interesting to find colleagues to support each other.",
+        "user": "U05AQGJMMT6",
+        "ts": "1697762707.116579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MYdL0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who else is coming? leave a "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you are. It would be interesting to find colleagues to support each other."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05AQGJMMT6",
+            "ts": "1697762774.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AQGJMMT6",
+                    "U03LMGXDFB6",
+                    "U03M8T51VUY",
+                    "U05BBQCRFU0",
+                    "U05BBQD8SKS"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697765115.864709",
+        "user": "U023GGYV37G",
+        "text": "<@U023GGYV37G> has joined the channel",
+        "inviter": "U026ANC3WH1"
+    }
+]

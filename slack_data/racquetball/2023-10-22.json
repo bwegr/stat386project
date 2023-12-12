@@ -1,0 +1,105 @@
+[
+    {
+        "client_msg_id": "4966FCA5-EF63-4F19-9856-342F5809BB6A",
+        "type": "message",
+        "text": "Any chance we could get a game together late Monday or Tuesday night? ",
+        "user": "U05BBQG8FTJ",
+        "ts": "1698018951.767819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F5yFU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any chance we could get a game together late Monday or Tuesday night? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698018951.767819",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698067332.730739",
+        "reply_users": [
+            "U05H6A4184T"
+        ],
+        "replies": [
+            {
+                "user": "U05H6A4184T",
+                "ts": "1698067332.730739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "85C706B5-AF87-41AF-973F-11013473C095",
+        "type": "message",
+        "text": "<@U05H6A4184T> <@U05DD0QU5MK> ",
+        "user": "U05BBQG8FTJ",
+        "ts": "1698018986.476509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h5XCy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05H6A4184T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05DD0QU5MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

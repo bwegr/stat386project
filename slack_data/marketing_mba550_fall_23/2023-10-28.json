@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "E0558505-209A-48D5-BB0E-C9513D626256",
+        "type": "message",
+        "text": "Does anyone know if the stratsim presentation next Wed is 7mins including or excluding questions time?",
+        "user": "U05AN3R7398",
+        "ts": "1698538411.778289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0FdwR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone know if the stratsim presentation next Wed is 7mins including or excluding questions time?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698538411.778289",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698602063.452479",
+        "reply_users": [
+            "U03L57R4HN3"
+        ],
+        "replies": [
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1698602063.452479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

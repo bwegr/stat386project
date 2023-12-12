@@ -1,0 +1,226 @@
+[
+    {
+        "client_msg_id": "c59514bb-e0d1-46d7-a2bc-be4dcf3d5cd5",
+        "type": "message",
+        "text": ":alert:WOMEN!!:alert: Tomorrow (Wednesday 25) will be the last day to sign up for *VCIC* @ 11:59 pm. PLEASE SIGN UP! It is an amazing opportunity to learn and to make great connections! Go to <mailto:conferences@byucougarcapital.org|conferences@byucougarcapital.org> to send an email with your resume to sign up!!",
+        "user": "U03LN7V9M0U",
+        "ts": "1698187704.281429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o8YeG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "text",
+                                "text": "WOMEN!!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Tomorrow (Wednesday 25) will be the last day to sign up for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "VCIC",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " @ 11:59 pm. PLEASE SIGN UP! It is an amazing opportunity to learn and to make great connections! Go to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:conferences@byucougarcapital.org",
+                                "text": "conferences@byucougarcapital.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to send an email with your resume to sign up!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8cac14895c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3697224317173_8cac14895c8164615ff9_72.png",
+            "first_name": "Brenna",
+            "real_name": "Brenna Porter",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "brennaporter1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05A7HE11LP",
+                    "U03LK4YF3A6",
+                    "U05BBQDP59N"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FF0406DF-BD89-47D9-A16A-D13F2F4AFB25",
+        "type": "message",
+        "text": "I want to join the Dell golf event. How do I register ?",
+        "user": "U05AN3R7398",
+        "ts": "1698199228.702359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w5J41",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want to join the Dell golf event. How do I register ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698199228.702359",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698200304.559829",
+        "reply_users": [
+            "U03LN7V9M0U",
+            "U05AN3R7398"
+        ],
+        "replies": [
+            {
+                "user": "U03LN7V9M0U",
+                "ts": "1698200218.212129"
+            },
+            {
+                "user": "U05AN3R7398",
+                "ts": "1698200304.559829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "530eda87-0b29-4329-8ce8-fb961eb3b8b3",
+        "type": "message",
+        "text": "Hi Helaman! This event is for women that are members of the Women in Management Club and have paid their dues. Thank you for expressing interest though.",
+        "user": "U03LN7V9M0U",
+        "ts": "1698200218.212129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1P577",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Helaman! This event is for women that are members of the Women in Management Club and have paid their dues. Thank you for expressing interest though."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8cac14895c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3697224317173_8cac14895c8164615ff9_72.png",
+            "first_name": "Brenna",
+            "real_name": "Brenna Porter",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "brennaporter1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698199228.702359",
+        "parent_user_id": "U05AN3R7398"
+    },
+    {
+        "client_msg_id": "D40D4773-5950-4D16-8BD7-3279D16B4FA7",
+        "type": "message",
+        "text": ":cry: how much is the due?",
+        "user": "U05AN3R7398",
+        "ts": "1698200304.559829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sUXvc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": " how much is the due?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698199228.702359",
+        "parent_user_id": "U05AN3R7398"
+    }
+]

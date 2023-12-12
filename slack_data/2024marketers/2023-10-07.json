@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "5609b409-b861-41b8-926a-17ab45da643b",
+        "type": "message",
+        "text": "<!channel> Nike is hiring full-time people into their Marketing Vanguard Rotational Program.  Application deadline is October 20th\n\n<https:\/\/byu.joinhandshake.com\/stu\/jobs\/8266050>",
+        "user": "U03LXQE14NM",
+        "ts": "1696713386.260939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q6i3+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nike is hiring full-time people into their Marketing Vanguard Rotational Program.  Application deadline is October 20th\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.joinhandshake.com\/stu\/jobs\/8266050"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc176dbcf62e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_72.jpg",
+            "first_name": "Austin",
+            "real_name": "Austin Schofield",
+            "display_name": "Austin Schofield",
+            "team": "T0ZBAEL59",
+            "name": "schofieldda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U03LK3D5N2X",
+                    "U03LK56EXJN",
+                    "U03LCGQ9L6S"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

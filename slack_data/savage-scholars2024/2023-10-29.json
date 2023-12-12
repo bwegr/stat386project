@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "26CDD61E-DC91-4DEF-80B4-D558107023F3",
+        "type": "message",
+        "text": "<@U03LKPR8N75> <@U03LXQFQS3B> You two are our last hold outs for drawing names for the Secret Santa. Please do this asap",
+        "user": "U03NW11JH19",
+        "ts": "1698606643.832159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t\/1ni",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LKPR8N75"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LXQFQS3B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You two are our last hold outs for drawing names for the Secret Santa. Please do this asap"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698606643.832159",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698608455.317839",
+        "reply_users": [
+            "U03LXQFQS3B"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQFQS3B",
+                "ts": "1698608455.317839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4e125e1a-6b05-4400-ac7c-c2173136c74a",
+        "type": "message",
+        "text": "I thought I did it, already...but I'm good now!",
+        "user": "U03LXQFQS3B",
+        "ts": "1698608455.317839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NwsmU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought I did it, already...but I'm good now!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3bfb7137657e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-07\/4063615469025_3bfb7137657ec172494c_72.jpg",
+            "first_name": "Justin",
+            "real_name": "Justin Crandall",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jhcrandall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698606643.832159",
+        "parent_user_id": "U03NW11JH19"
+    }
+]

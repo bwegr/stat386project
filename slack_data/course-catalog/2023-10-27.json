@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "55eee827-f928-4dc4-a5d4-85daae554b87",
+        "type": "message",
+        "text": "Would anyone be willing to speak to MBA 654 Strategic Client Acq\/Retention?  Does it have big projects or is it class based learning?",
+        "user": "U03LK3AD1V1",
+        "ts": "1698450278.564579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FXl8k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would anyone be willing to speak to MBA 654 Strategic Client Acq\/Retention?  Does it have big projects or is it class based learning?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b31fd5fbeeee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-10\/4633719656865_b31fd5fbeeeea29df80a_72.jpg",
+            "first_name": "Kevin",
+            "real_name": "Kevin James",
+            "display_name": "Kevin James",
+            "team": "T0ZBAEL59",
+            "name": "kevinjames1985",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697067832.518099",
+        "parent_user_id": "U03LK52VCQ2"
+    },
+    {
+        "client_msg_id": "DD151938-89D2-4D01-962B-F36A7D5192D1",
+        "type": "message",
+        "text": "Would anyone be willing to speak to MBA 654 Strategic Client Acq\/Retention?  Does it have big projects or is it class based learning?",
+        "user": "U03LK3AD1V1",
+        "ts": "1698476038.602899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HW4N+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would anyone be willing to speak to MBA 654 Strategic Client Acq\/Retention?  Does it have big projects or is it class based learning?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b31fd5fbeeee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-10\/4633719656865_b31fd5fbeeeea29df80a_72.jpg",
+            "first_name": "Kevin",
+            "real_name": "Kevin James",
+            "display_name": "Kevin James",
+            "team": "T0ZBAEL59",
+            "name": "kevinjames1985",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

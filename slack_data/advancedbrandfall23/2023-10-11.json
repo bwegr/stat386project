@@ -1,0 +1,205 @@
+[
+    {
+        "client_msg_id": "17975778-7467-4f3f-9919-364b9f83c297",
+        "type": "message",
+        "text": "Did anybody leave behind their Wrigley's Gum Case papers today?",
+        "user": "U03LK56AUHG",
+        "ts": "1697061784.760569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qkb1C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did anybody leave behind their Wrigley's Gum Case papers today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "31bde1eb93cb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3961752105911_31bde1eb93cb41b675c1_72.jpg",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Dowdy",
+            "display_name": "Benjamin",
+            "team": "T0ZBAEL59",
+            "name": "dowdy.benjamin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "43d1140c-df46-49b5-a52c-95890a5cf400",
+        "type": "message",
+        "text": "<!here> - I've got one lonely Case waiting to be claimed :disappointed:",
+        "user": "U03LK56AUHG",
+        "ts": "1697062074.680129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N0PJw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I've got one lonely Case waiting to be claimed "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "31bde1eb93cb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3961752105911_31bde1eb93cb41b675c1_72.jpg",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Dowdy",
+            "display_name": "Benjamin",
+            "team": "T0ZBAEL59",
+            "name": "dowdy.benjamin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697062074.680129",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697067538.996919",
+        "reply_users": [
+            "U03LXQCM22D",
+            "U03LK3D5N2X"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQCM22D",
+                "ts": "1697066378.796049"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1697067538.996919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pleading_face",
+                "users": [
+                    "U03LK4YF3A6",
+                    "U03L4GUGBF1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E0B1C350-7BC1-41E4-8B42-301C7DC9D3CF",
+        "type": "message",
+        "text": "I think its <@U03LK3D5N2X> ",
+        "user": "U03LXQCM22D",
+        "ts": "1697066378.796049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "djS+8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think its "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LK3D5N2X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9503006ea617",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4075282164805_9503006ea6173bf3fdea_72.png",
+            "first_name": "Cheryl",
+            "real_name": "Cheryl Wong",
+            "display_name": "Cheryl Wong",
+            "team": "T0ZBAEL59",
+            "name": "cheryl.wong419",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697062074.680129",
+        "parent_user_id": "U03LK56AUHG"
+    },
+    {
+        "client_msg_id": "617bac9f-4c7d-4bf1-9adc-0e523d367a42",
+        "type": "message",
+        "text": "Pretty sure I have mine or at least most of it haha",
+        "user": "U03LK3D5N2X",
+        "ts": "1697067538.996919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HJuGP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pretty sure I have mine or at least most of it haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697062074.680129",
+        "parent_user_id": "U03LK56AUHG"
+    }
+]

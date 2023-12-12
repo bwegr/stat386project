@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "F31104BE-C7F7-4A95-B90A-2887C984393D",
+        "type": "message",
+        "text": "Any team willing to take one more person for the DELL case competition?",
+        "user": "U05AQGJ30BE",
+        "ts": "1698198017.579879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "97kcI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any team willing to take one more person for the DELL case competition"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c15903bfb069",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-17\/5428763610807_c15903bfb069762d8fbd_72.jpg",
+            "first_name": "Emmanuel",
+            "real_name": "Emmanuel Ezookwa Quaisie",
+            "display_name": "Emmanuel Ezookwa Quaisie",
+            "team": "T0ZBAEL59",
+            "name": "eequaisie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

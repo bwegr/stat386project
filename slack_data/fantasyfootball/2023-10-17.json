@@ -1,0 +1,185 @@
+[
+    {
+        "client_msg_id": "7fd37582-45e4-4ba4-994e-ac607c554120",
+        "type": "message",
+        "text": "I don't know how I can score 190 last week and only 90 this week lol.",
+        "user": "U05DD0R2J6R",
+        "ts": "1697539345.740059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Azyd0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know how I can score 190 last week and only 90 this week lol."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9f2aa0222f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-23\/5782069155622_9f2aa0222f3469b2f8ea_72.jpg",
+            "first_name": "Danny",
+            "real_name": "Danny Gundersen",
+            "display_name": "Danny Gundersen",
+            "team": "T0ZBAEL59",
+            "name": "gundydc1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697539345.740059",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697652642.537219",
+        "reply_users": [
+            "U03LK533VR8",
+            "U05DD0R2J6R"
+        ],
+        "replies": [
+            {
+                "user": "U03LK533VR8",
+                "ts": "1697555882.267089"
+            },
+            {
+                "user": "U05DD0R2J6R",
+                "ts": "1697652642.537219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "shrug",
+                "users": [
+                    "U03LG7C5QAH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK533VR8",
+                    "U03M8TCTA6L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0DB69A6C-EE6F-442C-8E75-B33B90E6105E",
+        "type": "message",
+        "text": "These are the kinds of questions Danny ponders at 4:42 in the morning :joy: ",
+        "user": "U03LK533VR8",
+        "ts": "1697555882.267089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "blKQW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "These are the kinds of questions Danny ponders at 4:42 in the morning "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697539345.740059",
+        "parent_user_id": "U05DD0R2J6R",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03M8TCTA6L",
+                    "U05DD0R2J6R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e2285f7-f3c9-43a0-bea9-848f8ae6b774",
+        "type": "message",
+        "text": "oh how the turn tables have turned",
+        "user": "U05DD0R0XHB",
+        "ts": "1697562813.378179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kme4G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh how the turn tables have turned"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "23dac54074ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-20\/5457943659283_23dac54074acb6724c3b_72.jpg",
+            "first_name": "Riggs",
+            "real_name": "Riggs Powell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "riggspowell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "chart_with_upwards_trend",
+                "users": [
+                    "U03LK533VR8",
+                    "U03LG7C5QAH",
+                    "U03M8TCTA6L"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "0B6D0F64-E4D8-4E20-8594-35E4BB14A0E1",
+        "type": "message",
+        "text": "Hi Chad! I’m looking for the 400 Q Guide and I am seeing a lot of versions. Which one would you recommend?",
+        "user": "U05DFQNU4EP",
+        "ts": "1696644649.102449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/yHcn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Chad! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " looking for the 400 Q Guide and I am seeing a lot of versions. Which one would you recommend?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe53c672847",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-21\/5455152209798_fbe53c672847250a8ed4_72.png",
+            "first_name": "Hunter",
+            "real_name": "Hunter Blalack",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "blalackhunter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696286162.363169",
+        "parent_user_id": "U03SZAWQBM4"
+    },
+    {
+        "client_msg_id": "bf0af7d1-59ca-46bf-a27d-d0ba1be114b7",
+        "type": "message",
+        "text": "Honestly, not sure. I nabbed one from the undergrads last year. Any of them should work as long as it's recent. As far as I know, the interviewers aren't likely going to ask you the exact questions off the guide, but they will ask things similar to those questions. I would recommend studying the book, then using the 400 Q guide to test your knowledge\/practice interviews, if you have the time. If limited on time, focus on ch 1-3 of the book (valuation section) and the \"basic\" (not \"advanced\") technical sections of the 400 Q guide. I'll look into it a bit more next week and get back to you. Ping me if I don't by Tuesday night.",
+        "user": "U03SZAWQBM4",
+        "ts": "1696649721.853689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ei0AR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Honestly, not sure. I nabbed one from the undergrads last year. Any of them should work as long as it's recent. As far as I know, the interviewers aren't likely going to ask you the exact questions off the guide, but they will ask things similar to those questions. I would recommend studying the book, then using the 400 Q guide to test your knowledge\/practice interviews, if you have the time. If limited on time, focus on ch 1-3 of the book (valuation section) and the \"basic\" (not \"advanced\") technical sections of the 400 Q guide. I'll look into it a bit more next week and get back to you. Ping me if I don't by Tuesday night."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696286162.363169",
+        "parent_user_id": "U03SZAWQBM4"
+    },
+    {
+        "client_msg_id": "84FA43C2-859E-48C4-86B0-1C3D9CAF4B48",
+        "type": "message",
+        "text": "Sounds good! Thanks for all the advice",
+        "user": "U05DFQNU4EP",
+        "ts": "1696654648.636319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yNpmi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good! Thanks for all the advice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe53c672847",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-21\/5455152209798_fbe53c672847250a8ed4_72.png",
+            "first_name": "Hunter",
+            "real_name": "Hunter Blalack",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "blalackhunter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696286162.363169",
+        "parent_user_id": "U03SZAWQBM4"
+    }
+]

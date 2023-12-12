@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "5B8E76B2-42A7-4886-B044-8AFCF55CAF75",
+        "type": "message",
+        "text": "*Case Overview Pro-Sem* \n\nThis Friday, the finance Pro-Sem will be a “how to” lesson in casing.\n\nCome learn from the outstanding finance professor himself, Ben Iverson, about how to handle quantitative cases and what he looks for in a case. Then, get a student perspective from VCIC competition champion Adam Navar as he talks about tips for cases and case competitions.\n\nOnce again, this will be 9:30-10:45am in w208. A light breakfast will be provided. We look forward to seeing you there!",
+        "user": "U03L4GN325D",
+        "ts": "1696386690.174849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1vCtV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Case Overview Pro-Sem ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis Friday, the finance Pro-Sem will be a “how to” lesson in casing.\n\nCome learn from the outstanding finance professor himself, Ben Iverson, about how to handle quantitative cases and what he looks for in a case. Then, get a student perspective from VCIC competition champion Adam Navar as he talks about tips for cases and case competitions.\n\nOnce again, this will be 9:30-10:45am in w208. A light breakfast will be provided. We look forward to seeing you there!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03L4GN325D",
+            "ts": "1696386912.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN3R7398",
+                    "U03LXQCJA81",
+                    "U05GZPFMAA2",
+                    "U05D98WS6FQ",
+                    "U03SZAWQBM4",
+                    "U05BBQG6MKJ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U03L4GT3B55"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

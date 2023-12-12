@@ -1,0 +1,206 @@
+[
+    {
+        "type": "message",
+        "text": "Is this the Bolman and Deal chapter 9 reading due tomorrow? This “power conflict and coalition” course packet said chapter 9 on it but I didn’t see bolman &amp; Deal. ",
+        "files": [
+            {
+                "id": "F05UTF7JTCK",
+                "created": 1696272048,
+                "timestamp": 1696272048,
+                "name": "File.jpg",
+                "title": "File",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U05A7HE11LP",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 166633,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05UTF7JTCK\/file.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05UTF7JTCK\/download\/file.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UTF7JTCK-897ae8f717\/file_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UTF7JTCK-897ae8f717\/file_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UTF7JTCK-897ae8f717\/file_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 306,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UTF7JTCK-897ae8f717\/file_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 409,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UTF7JTCK-897ae8f717\/file_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UTF7JTCK-897ae8f717\/file_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 613,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UTF7JTCK-897ae8f717\/file_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 681,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UTF7JTCK-897ae8f717\/file_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 817,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UTF7JTCK-897ae8f717\/file_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 872,
+                "original_w": 1170,
+                "original_h": 996,
+                "thumb_tiny": "AwAoADDTHSm7Oc7m\/OnDpUW9s9vyoAfs\/wBpvzo2f7TfnTPMb2\/KjzG9vyoAeEwfvN+Jpx6VFvbI6flUp6UAA6VCduTwfzqYdKgPWgBePQ\/nRkeh\/OkooAduXP3f1qU9KgHUVOelAAOlM8se9PHSigBnlj3pfLHvTqKAE2L6Uc4OaWg9KAP\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05A7HE11LP\/F05UTF7JTCK\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05UTF7JTCK-388ff38433",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05A7HE11LP",
+        "display_as_bot": false,
+        "ts": "1696272154.805349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7sw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is this the Bolman and Deal chapter 9 reading due tomorrow? This “power conflict and coalition” course packet said chapter 9 on it but I didn’t see bolman & Deal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1696272154.805349",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696273562.881669",
+        "reply_users": [
+            "U05AN015NSX",
+            "U05A7HE11LP"
+        ],
+        "replies": [
+            {
+                "user": "U05AN015NSX",
+                "ts": "1696272204.782869"
+            },
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1696273562.881669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2E46DF9D-FB06-42D0-8B07-D311CADC9BEE",
+        "type": "message",
+        "text": "Correct. I googled it and the author names match the title in the packet",
+        "user": "U05AN015NSX",
+        "ts": "1696272204.782869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5jxK2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Correct. I googled it and the author names match the title in the packet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696272154.805349",
+        "parent_user_id": "U05A7HE11LP",
+        "reactions": [
+            {
+                "name": "cool-doge",
+                "users": [
+                    "U05AN3R7398",
+                    "U05A7HEQV71",
+                    "U05AN01UD1R"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85F000F0-4E58-4E2F-AF0C-28B73D1AB1CB",
+        "type": "message",
+        "text": "Perfect. Good thinking to google it! ",
+        "user": "U05A7HE11LP",
+        "ts": "1696273562.881669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xAjZy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "erfect. Good thinking to google it! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696272154.805349",
+        "parent_user_id": "U05A7HE11LP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,3055 @@
+[
+    {
+        "client_msg_id": "7d75ab8f-e616-4b2d-844f-b1e73adb6aa8",
+        "type": "message",
+        "text": "Has the Zoom recording for the study abroad info session been posted yet? I want to go to Asia and was hoping for more info:)",
+        "user": "U05BBQDP59N",
+        "ts": "1696507870.798779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YCCEG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has the Zoom recording for the study abroad info session been posted yet? I want to go to Asia and was hoping for more info:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9d365c02ed39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-08\/5714397176628_9d365c02ed398a6d3fb4_72.png",
+            "first_name": "Kjerstin",
+            "real_name": "Kjerstin Roberts",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "robertskjerstin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696507870.798779",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1696520805.598449",
+        "reply_users": [
+            "U03LMGXA3FW",
+            "U03L4GT3B55",
+            "U05BBQDP59N"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGXA3FW",
+                "ts": "1696510104.057659"
+            },
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1696520288.266819"
+            },
+            {
+                "user": "U05BBQDP59N",
+                "ts": "1696520759.704959"
+            },
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1696520805.598449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1696520805.598449"
+    },
+    {
+        "client_msg_id": "948D3F51-5C08-4713-AECF-9D353FA99A9F",
+        "type": "message",
+        "text": "<@U03L4GT3B55> ",
+        "user": "U03LMGXA3FW",
+        "ts": "1696510104.057659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fpMIN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L4GT3B55"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696507870.798779",
+        "parent_user_id": "U05BBQDP59N"
+    },
+    {
+        "client_msg_id": "b693cab3-8b65-4fe3-9a8b-019f5ebb31e9",
+        "type": "message",
+        "text": "Cake is in the left fridge on the top shelf!",
+        "user": "U03LXQLBGCR",
+        "ts": "1696514608.156659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L\/FHR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cake is in the left fridge on the top shelf!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "df4db093e9fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-21\/3834694788083_df4db093e9fa68b16c9d_72.jpg",
+            "first_name": "Matt",
+            "real_name": "Matt Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mbenson358",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696475399.252259",
+        "parent_user_id": "U03LK3D5N2X",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03L4GT3B55"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Thank you Sam! <@U05BBQDP59N> No! Lee hasn't gotten it to me. BUT, there is a document I uploaded that gives you all the info you need. I will post it here again.",
+        "files": [
+            {
+                "id": "F05V8JA8SLV",
+                "created": 1696520284,
+                "timestamp": 1696520284,
+                "name": "Latin America MBA Trip.pdf",
+                "title": "Latin America MBA Trip.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03L4GT3B55",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 164053,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V8JA8SLV\/latin_america_mba_trip.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V8JA8SLV\/download\/latin_america_mba_trip.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V8JA8SLV-f4166f84ed\/latin_america_mba_trip_thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03L4GT3B55\/F05V8JA8SLV\/latin_america_mba_trip.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05V8JA8SLV-0bbeafc6e9",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03L4GT3B55",
+        "display_as_bot": false,
+        "ts": "1696520288.266819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q\/Zbj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Sam! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQDP59N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " No! Lee hasn't gotten it to me. BUT, there is a document I uploaded that gives you all the info you need. I will post it here again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b5c76195-2686-4d34-84c0-9c90bb242f7c",
+        "thread_ts": "1696507870.798779",
+        "parent_user_id": "U05BBQDP59N"
+    },
+    {
+        "client_msg_id": "d7b837be-6cf0-492b-862e-6503de0136c1",
+        "type": "message",
+        "text": "How long do I have to wait to eat mine? Can I count it as breakfast?",
+        "user": "U03L4GT3B55",
+        "ts": "1696520319.840589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yHJzd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How long do I have to wait to eat mine? Can I count it as breakfast?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696475399.252259",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "278d1987-e3cf-4126-b65c-e750827d3c29",
+        "type": "message",
+        "text": "Do whatever your heart tells you, Maggie",
+        "user": "U03LXQLBGCR",
+        "ts": "1696520528.580869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bt9ke",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do whatever your heart tells you, Maggie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "df4db093e9fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-21\/3834694788083_df4db093e9fa68b16c9d_72.jpg",
+            "first_name": "Matt",
+            "real_name": "Matt Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mbenson358",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696475399.252259",
+        "parent_user_id": "U03LK3D5N2X",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03L4GT3B55"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BAD22601-BC3A-4333-8AE3-14F07D0CF499",
+        "type": "message",
+        "text": "<@U03L4GT3B55> thank you! Do you have a template like this for Asia or just South America? You’re the best:)",
+        "user": "U05BBQDP59N",
+        "ts": "1696520759.704959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lEJDi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L4GT3B55"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you! Do you have a template like this for Asia or just South America? "
+                            },
+                            {
+                                "type": "text",
+                                "text": "You’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the best:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9d365c02ed39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-08\/5714397176628_9d365c02ed398a6d3fb4_72.png",
+            "first_name": "Kjerstin",
+            "real_name": "Kjerstin Roberts",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "robertskjerstin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696507870.798779",
+        "parent_user_id": "U05BBQDP59N"
+    },
+    {
+        "client_msg_id": "4a539360-78a1-4c41-a8d3-83aec1c0a0cd",
+        "type": "message",
+        "text": "Nothing for Asia. He won't start working on that til January.",
+        "user": "U03L4GT3B55",
+        "ts": "1696520805.598449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R2w3x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nothing for Asia. He won't start working on that til January."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696507870.798779",
+        "parent_user_id": "U05BBQDP59N",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05BBQDP59N",
+                    "U05AK5J04P7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44c5ea4a-1bb2-46db-a92f-28f083856e46",
+        "type": "message",
+        "text": "Anyone happen to have a room they don't need that I could use for a few minutes at 11?",
+        "user": "U03LK3D5N2X",
+        "ts": "1696523285.637789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SDG0+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone happen to have a room they don't need that I could use for a few minutes at 11?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696523285.637789",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696526238.062959",
+        "reply_users": [
+            "U05A7HE11LP",
+            "U03LK3D5N2X"
+        ],
+        "replies": [
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1696524827.118699"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1696526238.062959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ecda2a7c-8b03-4980-ac6e-fd3b90e55bc8",
+        "type": "message",
+        "text": "room 317",
+        "user": "U05A7HE11LP",
+        "ts": "1696524827.118699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7C335",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "room 317"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696523285.637789",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "b95f4155-73fa-4a75-a237-35a11bfe0649",
+        "type": "message",
+        "text": "I’ve got 4 tickets, reserved in section 1\/row 11, to the BYU Women’s Soccer game tonight that we won’t be using. 12 bucks each, DM me if interested!",
+        "user": "U03LK52CR7U",
+        "ts": "1696525766.237189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qDQvS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve got 4 tickets, reserved in section 1\/row 11, to the BYU Women’s Soccer game tonight that we won’t be using. 12 bucks each, DM me if interested!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6e53b4fccca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-23\/4005980232208_6e53b4fccca86101bc89_72.png",
+            "first_name": "Dallin",
+            "real_name": "Dallin Webb",
+            "display_name": "Dallin Webb",
+            "team": "T0ZBAEL59",
+            "name": "dallin.webb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696525766.237189",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696526293.340659",
+        "reply_users": [
+            "U03L4GT3B55",
+            "U03LK52CR7U"
+        ],
+        "replies": [
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1696526137.062269"
+            },
+            {
+                "user": "U03LK52CR7U",
+                "ts": "1696526293.340659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03NW11HA9H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "583d46d8-2123-4aa3-84b4-cf6ff9b3aded",
+        "type": "message",
+        "text": "What time?",
+        "user": "U03L4GT3B55",
+        "ts": "1696526137.062269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S++Ob",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What time?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696525766.237189",
+        "parent_user_id": "U03LK52CR7U"
+    },
+    {
+        "client_msg_id": "c5644796-c5bc-42d1-ab6e-6ff01071a382",
+        "type": "message",
+        "text": "Thanks! I'm done with what I needed a room for :slightly_smiling_face:",
+        "user": "U03LK3D5N2X",
+        "ts": "1696526238.062959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "La5sc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! I'm done with what I needed a room for "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696523285.637789",
+        "parent_user_id": "U03LK3D5N2X",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05A7HE11LP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09e7a111-06d1-46c7-b8fe-f049074758c2",
+        "type": "message",
+        "text": "7 PM",
+        "user": "U03LK52CR7U",
+        "ts": "1696526293.340659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UxW8L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "7 PM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6e53b4fccca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-23\/4005980232208_6e53b4fccca86101bc89_72.png",
+            "first_name": "Dallin",
+            "real_name": "Dallin Webb",
+            "display_name": "Dallin Webb",
+            "team": "T0ZBAEL59",
+            "name": "dallin.webb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696525766.237189",
+        "parent_user_id": "U03LK52CR7U"
+    },
+    {
+        "type": "message",
+        "text": "*Final Reminder:* Come and learn about generative AI from Jared Andersen, Director of Product Marketing for Search &amp; AI at Microsoft. The presentation and Q&amp;A session will take place *today at 5 PM in room 251 TNRB.* ",
+        "files": [
+            {
+                "id": "F05V9849QR3",
+                "created": 1696526482,
+                "timestamp": 1696526482,
+                "name": "Generative AI Presentation and Q&A - Jared Andersen.png",
+                "title": "Generative AI Presentation and Q&amp;A - Jared Andersen.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LXQFU5SM",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 678330,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V9849QR3\/generative_ai_presentation_and_q_a_-_jared_andersen.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V9849QR3\/download\/generative_ai_presentation_and_q_a_-_jared_andersen.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 556,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1036,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 791,
+                "thumb_1024_h": 1024,
+                "original_w": 1545,
+                "original_h": 2000,
+                "thumb_tiny": "AwAwACXSZgpA559BUU8rRhSq5z69qdMBgEj\/ABpwG5Bz27cUCZW+1Sf3B+tH2qT+4P1qQnbnLDjr+8NAOcAMMnp85qronll3HwSNIhLLjmpKRRtGMk\/U0tSUhkvQfWnL90d+KZKSAOuPX0p44QfSgZnSIGmkIA4JoijKXUZJ6np+FWTAm52DMC5z24pUhRZN2WJ69aWtx3VixRQDkZopiIJZB5u0oTjvmpFfKr8p5\/So5LbfIX3kZHTFPWMrEEDHjvU67gLkeh\/OgYPY\/nTfLf8A56Gjy3\/56Gi77DsSiikUEKATk+tLVCP\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LXQFU5SM\/F05V9849QR3\/generative_ai_presentation_and_q_a_-_jared_andersen.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05V9849QR3-c674f8427b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LXQFU5SM",
+        "display_as_bot": false,
+        "ts": "1696526527.715189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W+Uq+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Final Reminder:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Come and learn about generative AI from Jared Andersen, Director of Product Marketing for Search & AI at Microsoft. The presentation and Q&A session will take place"
+                            },
+                            {
+                                "type": "text",
+                                "text": " today at 5 PM in room 251 TNRB. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3afe80a2-8033-4da2-a85d-f38b0a5e341d",
+        "reactions": [
+            {
+                "name": "robot_face",
+                "users": [
+                    "U05AQGJMMT6",
+                    "U03LK56EXJN"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrotfast",
+                "users": [
+                    "U023PGS313M",
+                    "U03LK56EXJN",
+                    "U03LMGXDFB6"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "We welcomed Lucy La’akeaokala’i Nae’ole to the extension of the MBA family! Baby and Mom are doing awesome :) ",
+        "files": [
+            {
+                "id": "F0600KRUVLL",
+                "created": 1696526732,
+                "timestamp": 1696526732,
+                "name": "IMG_2043.jpg",
+                "title": "IMG_2043",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03LG7BV35K",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 934238,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0600KRUVLL\/img_2043.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0600KRUVLL\/download\/img_2043.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0600KRUVLL-359dc89747\/img_2043_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0600KRUVLL-359dc89747\/img_2043_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0600KRUVLL-359dc89747\/img_2043_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0600KRUVLL-359dc89747\/img_2043_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0600KRUVLL-359dc89747\/img_2043_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0600KRUVLL-359dc89747\/img_2043_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0600KRUVLL-359dc89747\/img_2043_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0600KRUVLL-359dc89747\/img_2043_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0600KRUVLL-359dc89747\/img_2043_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 2316,
+                "original_h": 3088,
+                "thumb_tiny": "AwAwACQcJJMzScgnAz6UhgWOVCh+UnBFPVtw+UAA+vanBVbORg\/1qSw46cUlOIyoYA470m1uyn8qiwxM0Zp3lv8A3TR5b\/3TTEQR8DIzuHpTfMPVm5phLJgoTk0mPX860sRcnS4Z2G1NzDjA9KsC6QZDnBH41VjcLbMF4JqWPYE2GIn2qRloOpGRyPWl3D0qlbkhCBnAYipctQBRaUBlXjGeTU5R5ThRwKoMpAHoa0LaRhCuR3OabBEd1E8ce5eF6EHrTo5wseW++QOMVYnPmWzqQBxkVnnOPWgESR3JjUrtzznNP+2n+5+tUzkmjB9qLBc\/\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LG7BV35K\/F0600KRUVLL\/img_2043.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0600KRUVLL-d736818dc3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LG7BV35K",
+        "display_as_bot": false,
+        "ts": "1696526820.682349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dFLt4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We welcomed Lucy "
+                            },
+                            {
+                                "type": "text",
+                                "text": "La’akeaokala’i"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nae’ole to the extension of the MBA family! Baby and Mom are doing awesome :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9B97FB09-1D98-4E8C-BED6-BF37CB64F75D",
+        "thread_ts": "1696526820.682349",
+        "reply_count": 16,
+        "reply_users_count": 16,
+        "latest_reply": "1696743403.989779",
+        "reply_users": [
+            "U03LK52VCQ2",
+            "U03LK4YF3A6",
+            "U03M8TCTA6L",
+            "U03L4GLKLTZ",
+            "U03LCGM9XML",
+            "U03LXQBTQJV",
+            "U03LN7V9M0U",
+            "U03M8T9K6SU",
+            "U022KBV79MH",
+            "U03L4GUGBF1",
+            "U03LMGXDFB6",
+            "U03LK551XFU",
+            "U05AN02C0E7",
+            "U03LK5295DY",
+            "U05A7HC8FF1",
+            "U03M8T8B96C"
+        ],
+        "replies": [
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1696526899.848169"
+            },
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1696527131.871109"
+            },
+            {
+                "user": "U03M8TCTA6L",
+                "ts": "1696527267.868429"
+            },
+            {
+                "user": "U03L4GLKLTZ",
+                "ts": "1696527561.922239"
+            },
+            {
+                "user": "U03LCGM9XML",
+                "ts": "1696528068.499299"
+            },
+            {
+                "user": "U03LXQBTQJV",
+                "ts": "1696528380.383369"
+            },
+            {
+                "user": "U03LN7V9M0U",
+                "ts": "1696531123.966719"
+            },
+            {
+                "user": "U03M8T9K6SU",
+                "ts": "1696531709.466129"
+            },
+            {
+                "user": "U022KBV79MH",
+                "ts": "1696532312.633529"
+            },
+            {
+                "user": "U03L4GUGBF1",
+                "ts": "1696534855.232949"
+            },
+            {
+                "user": "U03LMGXDFB6",
+                "ts": "1696536308.771539"
+            },
+            {
+                "user": "U03LK551XFU",
+                "ts": "1696540179.532779"
+            },
+            {
+                "user": "U05AN02C0E7",
+                "ts": "1696562165.344419"
+            },
+            {
+                "user": "U03LK5295DY",
+                "ts": "1696618851.969319"
+            },
+            {
+                "user": "U05A7HC8FF1",
+                "ts": "1696620568.841519"
+            },
+            {
+                "user": "U03M8T8B96C",
+                "ts": "1696743403.989779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U03LK4YJGQJ",
+                    "U03LG78FBEZ",
+                    "U03L4GUGBF1",
+                    "U05BQNKAUSX",
+                    "U05AMVD19GT",
+                    "U05B0NFJ1S5",
+                    "U03LK4YF3A6",
+                    "U05PQ5BK2R2",
+                    "U05AFDTJEUW",
+                    "U03M8TCTA6L",
+                    "U03LMGSGBQC",
+                    "U03L4GSNM7Z",
+                    "U03LCGM9XML",
+                    "U03LXQBTQJV",
+                    "U03L4GQK4KZ",
+                    "U03NW11JH19",
+                    "U03L4GT3B55",
+                    "U03LXQLBGCR",
+                    "U05B0NHGDG9",
+                    "U03LK52CR7U",
+                    "U03LG7C9P8V",
+                    "U03LMGYLSR2",
+                    "U03PKR5GQUQ",
+                    "U05AFDRFJ3Y",
+                    "U05AK5GQJ5B",
+                    "U03L4GN325D",
+                    "U03LK3AD1V1",
+                    "U03LN7V9M0U",
+                    "U03LXQCEVKK",
+                    "U03M8T9K6SU",
+                    "U03P8MY0DR7",
+                    "U03LG75NYSZ",
+                    "U022KBV79MH",
+                    "U023PGS313M",
+                    "U03LXQFU5SM",
+                    "U03LK56EXJN",
+                    "U03LCGQP0LW",
+                    "U03L4GP8ZMM",
+                    "U05A7HE5MTR",
+                    "U03LMGXDFB6",
+                    "U03M8TBLWTA",
+                    "U03LG776WFP",
+                    "U03LMGV8Y12",
+                    "U03LXQE14NM",
+                    "U03M8T51VUY",
+                    "U05DJBMDG0L",
+                    "U03LK3EKMNF",
+                    "U03LG7C5QAH",
+                    "U05B0NFT057"
+                ],
+                "count": 67
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U03LMGXA3FW",
+                    "U05MZL07Q78",
+                    "U03LK52VCQ2",
+                    "U03LK4YJGQJ",
+                    "U03L4GUGBF1",
+                    "U05B0NFJ1S5",
+                    "U03LK4YF3A6",
+                    "U03LMGSGBQC",
+                    "U03LG779KGD",
+                    "U03LCGM9XML",
+                    "U03L4GQK4KZ",
+                    "U03LXQBTQJV",
+                    "U03NW11JH19",
+                    "U03LXQLBGCR",
+                    "U03LK52CR7U",
+                    "U03LMGYLSR2",
+                    "U03LK39PKRR",
+                    "U03PKR5GQUQ",
+                    "U03L4GN325D",
+                    "U03LXQCEVKK",
+                    "U03M8T9K6SU",
+                    "U03LG75NYSZ",
+                    "U03LK56EXJN",
+                    "U03L4GPCL5V",
+                    "U03LMGXDFB6",
+                    "U03M8TBLWTA",
+                    "U03LMGV8Y12",
+                    "U03LXQE14NM",
+                    "U03LXQCJA81",
+                    "U03LK56AUHG",
+                    "U05AN02C0E7",
+                    "U05BBQEJNTA",
+                    "U03LK5295DY",
+                    "U03L57R4HN3",
+                    "U05GZPFMAA2"
+                ],
+                "count": 35
+            },
+            {
+                "name": "white_heart",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U03L4GUGBF1",
+                    "U05B0NFJ1S5",
+                    "U03LCGM9XML",
+                    "U03L4GQK4KZ",
+                    "U03LXQBTQJV",
+                    "U03NW11JH19",
+                    "U03LXQLBGCR",
+                    "U03LK52CR7U",
+                    "U03PKR5GQUQ",
+                    "U03LXQCEVKK",
+                    "U03LMGXDFB6",
+                    "U03M8TBLWTA",
+                    "U03LXQE14NM",
+                    "U03LXQCJA81",
+                    "U03LK56AUHG",
+                    "U03LK5295DY",
+                    "U03L57R4HN3"
+                ],
+                "count": 18
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U03LCGM9XML"
+                ],
+                "count": 2
+            },
+            {
+                "name": "baby::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U03LCGM9XML"
+                ],
+                "count": 2
+            },
+            {
+                "name": "baby_chick",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U03L4GUGBF1",
+                    "U05B0NFJ1S5",
+                    "U03LK4YF3A6",
+                    "U05A7HE11LP",
+                    "U03LCGM9XML",
+                    "U03L4GQK4KZ",
+                    "U03LXQBTQJV",
+                    "U03NW11JH19",
+                    "U03LXQLBGCR",
+                    "U03LK52CR7U",
+                    "U03LXQCEVKK",
+                    "U03M8TBLWTA",
+                    "U03L57R4HN3"
+                ],
+                "count": 14
+            },
+            {
+                "name": "baby_bottle",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U03L4GUGBF1",
+                    "U05B0NFJ1S5",
+                    "U05A7HE11LP",
+                    "U03LCGM9XML",
+                    "U03L4GQK4KZ",
+                    "U03LXQBTQJV",
+                    "U03NW11JH19",
+                    "U03LXQLBGCR",
+                    "U03LK52CR7U",
+                    "U03LXQCEVKK",
+                    "U03LMGXDFB6",
+                    "U03M8TBLWTA",
+                    "U05AN02C0E7",
+                    "U03L57R4HN3"
+                ],
+                "count": 15
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03L4GUGBF1",
+                    "U05B0NFJ1S5",
+                    "U05A7HE11LP",
+                    "U03L4GQK4KZ",
+                    "U03NW11JH19",
+                    "U03LXQLBGCR",
+                    "U03LK52CR7U",
+                    "U03LXQCEVKK",
+                    "U03L4GP8ZMM",
+                    "U05A7HEQV71",
+                    "U03M8TBLWTA",
+                    "U03LXQCJA81",
+                    "U03LK56AUHG",
+                    "U03L57R4HN3"
+                ],
+                "count": 14
+            },
+            {
+                "name": "baby",
+                "users": [
+                    "U03L4GUGBF1",
+                    "U05B0NFJ1S5",
+                    "U03LK4YF3A6",
+                    "U03L4GLKLTZ",
+                    "U05A7HE11LP",
+                    "U03NW11JH19",
+                    "U03LXQLBGCR",
+                    "U03LK52CR7U",
+                    "U03LXQCEVKK",
+                    "U03M8T9K6SU",
+                    "U03L4GP8ZMM",
+                    "U03M8TBLWTA",
+                    "U03LK56AUHG",
+                    "U03L57R4HN3"
+                ],
+                "count": 14
+            },
+            {
+                "name": "heart_hands::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U03LCGM9XML"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart_hands",
+                "users": [
+                    "U05A7HE11LP",
+                    "U03L4GQK4KZ",
+                    "U03NW11JH19",
+                    "U03LXQLBGCR",
+                    "U03LK52CR7U",
+                    "U03PKR5GQUQ",
+                    "U03LXQCEVKK",
+                    "U03M8TBLWTA",
+                    "U03L57R4HN3"
+                ],
+                "count": 9
+            },
+            {
+                "name": "raised_hands::skin-tone-6",
+                "users": [
+                    "U03LXQBTQJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart_hands::skin-tone-6",
+                "users": [
+                    "U03LXQBTQJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "baby::skin-tone-6",
+                "users": [
+                    "U03LXQBTQJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "spiderman",
+                "users": [
+                    "U03LK52CR7U",
+                    "U03LK52VCQ2",
+                    "U03LXQCEVKK",
+                    "U03LXQE14NM",
+                    "U03L57R4HN3",
+                    "U03LCGM9XML"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0D3F27EC-6E68-4EC0-AD7A-8B283928CB3E",
+        "type": "message",
+        "text": "Lucy is precious! And Jennie looks beautiful! Cutest fam :)",
+        "user": "U03LK52VCQ2",
+        "ts": "1696526899.848169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lAtcU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lucy is precious! And Jennie looks beautiful! Cutest fam :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696526820.682349",
+        "parent_user_id": "U03LG7BV35K",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7BV35K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa3a8249-56c1-49e2-900c-e0eae571dd4b",
+        "type": "message",
+        "text": "I AM SO HAPPY ! CONGRATS!!!!!",
+        "user": "U03LK4YF3A6",
+        "ts": "1696527131.871109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gPyru",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I AM SO HAPPY ! CONGRATS!!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696526820.682349",
+        "parent_user_id": "U03LG7BV35K",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7BV35K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7ff15dd-adb8-44ad-90ad-9255d095ee36",
+        "type": "message",
+        "text": "Beautiful! Congrats to the Nae'ole family!",
+        "user": "U03M8TCTA6L",
+        "ts": "1696527267.868429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CZBQa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Beautiful! Congrats to the Nae'ole family!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696526820.682349",
+        "parent_user_id": "U03LG7BV35K",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7BV35K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76ECE0ED-9A82-43DB-B434-E86F3F7F3B36",
+        "type": "message",
+        "text": "Incredible news!! Congratulations :heart_hands: :sparkles: :star-struck: ",
+        "user": "U03L4GLKLTZ",
+        "ts": "1696527561.922239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gfito",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Incredible news!! Congratulations "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning_face_with_star_eyes",
+                                "unicode": "1f929"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4e7196d104cf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-11\/3933734501588_4e7196d104cf80cb4cab_72.png",
+            "first_name": "Gretel",
+            "real_name": "Gretel Tam",
+            "display_name": "Gretel",
+            "team": "T0ZBAEL59",
+            "name": "greteltam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696526820.682349",
+        "parent_user_id": "U03LG7BV35K",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7BV35K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F7F7255F-E47F-4DFE-B275-68FCA87A9C91",
+        "type": "message",
+        "text": "So awesome my man! I can get her some yanks\/bountiful swag to rep :kissing_heart: ",
+        "user": "U03LCGM9XML",
+        "ts": "1696528068.499299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j8MW5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So awesome my man! I can get her some yanks\/bountiful swag to rep "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kissing_heart",
+                                "unicode": "1f618"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe4a9879d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Parry",
+            "display_name": "Evan Parry",
+            "team": "T0ZBAEL59",
+            "name": "evanparry13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696526820.682349",
+        "parent_user_id": "U03LG7BV35K",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7BV35K"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U03LG7BV35K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "080b2304-8695-4a6f-8eed-d99c0fd0045b",
+        "type": "message",
+        "text": "Congrats, Hiwa!!!",
+        "user": "U03LXQBTQJV",
+        "ts": "1696528380.383369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hKLF9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats, Hiwa!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bf2ea7282f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-09\/4072671444257_7bf2ea7282f5542e95db_72.jpg",
+            "first_name": "Ben",
+            "real_name": "Ben Nzojibwami",
+            "display_name": "Ben Nzojibwami",
+            "team": "T0ZBAEL59",
+            "name": "benjamin.nzojibwami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696526820.682349",
+        "parent_user_id": "U03LG7BV35K",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7BV35K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc327160-9b57-4786-b775-bfc49c7e0271",
+        "type": "message",
+        "text": "Need help preparing for interviews? Worried about case interviews? Need to get to the next level? WE GOT YOU!\n\nWith a lot of people going into interviews I wanted to point out a great resource available to all. If you need any help with interviews, especially case interviews please use these mentors! The below is posted and pinned in the SCA chat for your convenience!\n\nCase Mentors - they can do a 45-minute case, mini-case\/strategy questions, resume review, and behavior interviews.  If you desire something other than a 45min case please let them know prior.\nPlease schedule time with these mentors. If the available times don't work please get in touch with the case mentor and they will try to accommodate your schedule.\nList of Case Mentors, with calendars invites, and emails. (you can also slack them)\n• Benjamin Williams\n    ◦  <mailto:benjamincolewilliams@gmail.com|benjamincolewilliams@gmail.com>\n    ◦ <https:\/\/calendly.com\/benjamincolewilliams\/60min>\n• Jake Preslar\n    ◦ <mailto:jacobpres4@gmail.com|jacobpres4@gmail.com>\n    ◦ <http:\/\/calendly.com\/jacobpres>\n• Taylor Brooks\n    ◦ <mailto:taylorleebrooks@gmail.com|taylorleebrooks@gmail.com>\n    ◦ <https:\/\/calendly.com\/taylorleebrooks\/case-prep>\n• Melissa Stone\n    ◦ <mailto:melissaelaineking75@gmail.com|melissaelaineking75@gmail.com>\n    ◦ <https:\/\/calendly.com\/melissakingstone\/60min>\n• Brett Holden\n    ◦ <mailto:brettsholden@gmail.com|brettsholden@gmail.com>\n    ◦ <http:\/\/calendly.com\/brettsholden>\n• Kevin Baize\n    ◦ <mailto:kevin.n.baize@gmail.com|kevin.n.baize@gmail.com>\n• Tyler Hill\n    ◦ <mailto:t.wakefield.hill@gmail.com|t.wakefield.hill@gmail.com>\n    ◦ <https:\/\/calendly.com\/t-wakefield-hill>\n",
+        "user": "U03NW11JH19",
+        "ts": "1696528675.671909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W08\/t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Need help preparing for interviews? Worried about case interviews? Need to get to the next level? WE GOT YOU!\n\nWith a lot of people going into interviews I wanted to point out a great resource available to all. If you need any help with interviews, especially case interviews please use these mentors! The below is posted and pinned in the SCA chat for your convenience!\n\nCase Mentors - they can do a 45-minute case, mini-case\/strategy questions, resume review, and behavior interviews.  If you desire something other than a 45min case please let them know prior.\nPlease schedule time with these mentors. If the available times don't work please get in touch with the case mentor and they will try to accommodate your schedule.\nList of Case Mentors, with calendars invites, and emails. (you can also slack them)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Benjamin Williams"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:benjamincolewilliams@gmail.com",
+                                        "text": "benjamincolewilliams@gmail.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/calendly.com\/benjamincolewilliams\/60min"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Jake Preslar"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:jacobpres4@gmail.com",
+                                        "text": "jacobpres4@gmail.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/calendly.com\/jacobpres"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Taylor Brooks"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:taylorleebrooks@gmail.com",
+                                        "text": "taylorleebrooks@gmail.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/calendly.com\/taylorleebrooks\/case-prep"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Melissa Stone"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:melissaelaineking75@gmail.com",
+                                        "text": "melissaelaineking75@gmail.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/calendly.com\/melissakingstone\/60min"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Brett Holden"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:brettsholden@gmail.com",
+                                        "text": "brettsholden@gmail.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/calendly.com\/brettsholden"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Kevin Baize"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:kevin.n.baize@gmail.com",
+                                        "text": "kevin.n.baize@gmail.com"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Tyler Hill"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:t.wakefield.hill@gmail.com",
+                                        "text": "t.wakefield.hill@gmail.com",
+                                        "unsafe": true
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/calendly.com\/t-wakefield-hill"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696528675.671909",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696864183.949199",
+        "reply_users": [
+            "U03NW11JH19"
+        ],
+        "replies": [
+            {
+                "user": "U03NW11JH19",
+                "ts": "1696864183.949199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ACC567F5-A6F5-4CC5-AD70-E404620C1FA4",
+        "type": "message",
+        "text": "Hey first years. Anyone that needs help with stratsim come to room W329 between 5-6pm today!",
+        "user": "U05GRT17A87",
+        "ts": "1696530835.464309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kXLGX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey first years. Anyone that needs help with stratsim come to room W329 between 5-6pm today!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g01a9e79bf95",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/01a9e79bf959f8978335f03bcf02acb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Stone",
+            "real_name": "Stone Taylor Airoso",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "stoneairoso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cf70e4ca-c989-466a-bc02-26dc30da8796",
+        "type": "message",
+        "text": "CONGRATS HIWA!!",
+        "user": "U03LN7V9M0U",
+        "ts": "1696531123.966719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e5yY6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CONGRATS HIWA!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8cac14895c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3697224317173_8cac14895c8164615ff9_72.png",
+            "first_name": "Brenna",
+            "real_name": "Brenna Porter",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "brennaporter1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696526820.682349",
+        "parent_user_id": "U03LG7BV35K",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7BV35K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33ad3ed2-9afd-47ce-ab34-1fd91da1806e",
+        "type": "message",
+        "text": "BOWING DOWN :woman-bowing::skin-tone-3:",
+        "user": "U03LN7V9M0U",
+        "ts": "1696531181.445539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "53dml",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BOWING DOWN "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-1f3fc-200d-2640-fe0f",
+                                "skin_tone": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8cac14895c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3697224317173_8cac14895c8164615ff9_72.png",
+            "first_name": "Brenna",
+            "real_name": "Brenna Porter",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "brennaporter1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696373651.655809",
+        "parent_user_id": "U03LK4YF3A6"
+    },
+    {
+        "client_msg_id": "3FB096F8-8C1F-4332-8CF4-CA378FEC421F",
+        "type": "message",
+        "text": "Congrats Daddy! :tada: ",
+        "user": "U03M8T9K6SU",
+        "ts": "1696531709.466129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1j5q9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Daddy! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bb5517fdae8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6005443083891_7bb5517fdae8974e301c_72.png",
+            "first_name": "Chris",
+            "real_name": "Chris Lundy",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "lundycw09",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696526820.682349",
+        "parent_user_id": "U03LG7BV35K",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7BV35K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A16201FB-356E-486E-9C88-1139F8BB2958",
+        "type": "message",
+        "text": "Congratulations my friend ",
+        "user": "U022KBV79MH",
+        "ts": "1696532312.633529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zC1wB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congratulations my friend "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "af76c6f7624c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-06\/2378897901648_af76c6f7624c14f1ff75_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Navarro",
+            "display_name": "Alex",
+            "team": "T0ZBAEL59",
+            "name": "alexander.navarro56",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696526820.682349",
+        "parent_user_id": "U03LG7BV35K",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7BV35K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "One last call for Chili Competition Sign-ups\n<https:\/\/www.signupgenius.com\/go\/10C0D4DADA62BAAF49-44564636-chili#\/>\n*<http:\/\/signupgenius.com|signupgenius.com>*\n*<https:\/\/www.signupgenius.com\/go\/10C0D4DADA62BAAF49-44564636-chili#\/|Chili Competition!>*\nGet ready to spice things up at our MBA Chili Competition! It's time to put your culinary skills to the test and show off your family's secret chili recipe.\nBring your A-game, your appetite, and your competitive spirit. Whether you're a chili connoisseur or a first-time cook, this event is for you. Prizes, bragging rights, and, of course, the coveted title of \"MBA Chili Champion\" are up for grabs.\nDon't miss out on this sizzling opportunity to connect, compete, and enjoy some delicious chili!\nAward categories will include: Best Overall, Most like Mom's, Best Smoked Chili, and Best Sweet & Spicy Chili.",
+        "user": "U03L4GT3B55",
+        "ts": "1696534778.160469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IMJXd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One last call for Chili Competition Sign-ups\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.signupgenius.com\/go\/10C0D4DADA62BAAF49-44564636-chili#\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/signupgenius.com",
+                                "text": "signupgenius.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.signupgenius.com\/go\/10C0D4DADA62BAAF49-44564636-chili#\/",
+                                "text": "Chili Competition!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nGet ready to spice things up at our MBA Chili Competition! It's time to put your culinary skills to the test and show off your family's secret chili recipe.\nBring your A-game, your appetite, and your competitive spirit. Whether you're a chili connoisseur or a first-time cook, this event is for you. Prizes, bragging rights, and, of course, the coveted title of \"MBA Chili Champion\" are up for grabs.\nDon't miss out on this sizzling opportunity to connect, compete, and enjoy some delicious chili!\nAward categories will include: Best Overall, Most like Mom's, Best Smoked Chili, and Best Sweet & Spicy Chili."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03L4GT3B55",
+            "ts": "1696534945.000000"
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.signupgenius.com\/images\/theme\/268AB8C5FB9FBF6BFB0A0011CE1E2912_0.jpg",
+                "image_width": 325,
+                "image_height": 213,
+                "image_bytes": 22035,
+                "from_url": "https:\/\/www.signupgenius.com\/go\/10C0D4DADA62BAAF49-44564636-chili#\/",
+                "service_icon": "https:\/\/www.signupgenius.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.signupgenius.com\/go\/10C0D4DADA62BAAF49-44564636-chili#\/",
+                "fallback": "Chili Competition!",
+                "text": "Get ready to spice things up at our MBA Chili Competition! It's time to put your culinary skills to the test and show off your family's secret chili recipe.\nBring your A-game, your appetite, and your competitive spirit. Whether you're a chili connoisseur or a first-time cook, this event is for you. Prizes, bragging rights, and, of course, the coveted title of \"MBA Chili Champion\" are up for grabs.\nDon't miss out on this sizzling opportunity to connect, compete, and enjoy some delicious chili!\nAward categories will include: Best Overall, Most like Mom's, Best Smoked Chili, Best Sweet &amp; Spicy Chili, and People's Choice Award.\n \n*Please include a serving spoon or ladle and remember to label your items!\n**It doesn't matter which group you sign up in, it's just the easiest format on this sign up platform.",
+                "title": "Chili Competition!",
+                "title_link": "https:\/\/www.signupgenius.com\/go\/10C0D4DADA62BAAF49-44564636-chili#\/",
+                "service_name": "signupgenius.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "stew",
+                "users": [
+                    "U03LK39PKRR",
+                    "U03LK52VCQ2",
+                    "U03LMGSGBQC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2E56D3F7-FE8B-4749-93BB-ABF4B119FCE6",
+        "type": "message",
+        "text": "Congratulations, Hiwa!! She is beautiful! ",
+        "user": "U03L4GUGBF1",
+        "ts": "1696534855.232949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dM5bw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congratulations, Hiwa!! She is beautiful! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "eb3966201c83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-19\/5902942359639_eb3966201c8379302340_72.png",
+            "first_name": "Hillary",
+            "real_name": "Hillary Slater",
+            "display_name": "Hillary Slater",
+            "team": "T0ZBAEL59",
+            "name": "hslater07",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696526820.682349",
+        "parent_user_id": "U03LG7BV35K",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7BV35K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83687B57-E387-4FE9-BF17-AE9384348209",
+        "type": "message",
+        "text": "Congrats mi Parce!!! You all look so happy and beautiful!!",
+        "user": "U03LMGXDFB6",
+        "ts": "1696536308.771539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nxUe3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats mi Parce!!! You all look so happy and beautiful!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696526820.682349",
+        "parent_user_id": "U03LG7BV35K",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7BV35K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0D307620-DD42-4B59-A139-84ECD3A666E8",
+        "type": "message",
+        "text": "Remember you can join the <#C05D1RD4PUN|course-catalog> channel to see what other people have said about classes and ask any questions you might have about courses",
+        "user": "U03LK52VCQ2",
+        "ts": "1696539901.341029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N58yE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Remember you can join the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C05D1RD4PUN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel to see what other people have said about classes and ask any questions you might have about courses"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U03LK533VR8",
+                    "U03LK56EXJN",
+                    "U03LK4YF3A6"
+                ],
+                "count": 3
+            },
+            {
+                "name": "books",
+                "users": [
+                    "U03LK533VR8",
+                    "U03LK4YF3A6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FC7CB3EB-A156-4632-B322-2E30CE49E706",
+        "type": "message",
+        "text": "And the <#CKZ3F37N3|recruiting> channel is probs the most important channel you should be part of rn :woman-shrugging::skin-tone-3:  ",
+        "user": "U03LK52VCQ2",
+        "ts": "1696539963.765409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jN37V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CKZ3F37N3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel is probs the most important channel you should be part of rn "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-shrugging",
+                                "unicode": "1f937-1f3fc-200d-2640-fe0f",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "BB15345A-B739-4569-95BC-C7030198C21B",
+        "type": "message",
+        "text": "Congratulations! ",
+        "user": "U03LK551XFU",
+        "ts": "1696540179.532779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9a+fA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congratulations"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696526820.682349",
+        "parent_user_id": "U03LG7BV35K",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7BV35K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":point_up_2:We are in the room and it seems an awesome opportunity!!",
+        "user": "U03LMGXDFB6",
+        "ts": "1696546838.968359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X3PQy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            },
+                            {
+                                "type": "text",
+                                "text": "We are in the room and it seems an awesome opportunity!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1696526527.715189",
+                "author_id": "U03LXQFU5SM",
+                "channel_id": "C0ZCSJTC5",
+                "channel_team": "T0ZBAEL59",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T0ZBAEL59",
+                        "channel": "C0ZCSJTC5",
+                        "ts": "1696526527.715189",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "W+Uq+",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Final Reminder:",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " Come and learn about generative AI from Jared Andersen, Director of Product Marketing for Search & AI at Microsoft. The presentation and Q&A session will take place"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " today at 5 PM in room 251 TNRB. ",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F05V9849QR3",
+                        "created": 1696526482,
+                        "timestamp": 1696526482,
+                        "name": "Generative AI Presentation and Q&A - Jared Andersen.png",
+                        "title": "Generative AI Presentation and Q&amp;A - Jared Andersen.png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U03LXQFU5SM",
+                        "user_team": "T0ZBAEL59",
+                        "editable": false,
+                        "size": 678330,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V9849QR3\/generative_ai_presentation_and_q_a_-_jared_andersen.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V9849QR3\/download\/generative_ai_presentation_and_q_a_-_jared_andersen.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360_w": 278,
+                        "thumb_360_h": 360,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_480_w": 371,
+                        "thumb_480_h": 480,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720_w": 556,
+                        "thumb_720_h": 720,
+                        "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 1036,
+                        "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_960_w": 742,
+                        "thumb_960_h": 960,
+                        "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9849QR3-938bfd09bd\/generative_ai_presentation_and_q_a_-_jared_andersen_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_1024_w": 791,
+                        "thumb_1024_h": 1024,
+                        "original_w": 1545,
+                        "original_h": 2000,
+                        "thumb_tiny": "AwAwACXSZgpA559BUU8rRhSq5z69qdMBgEj\/ABpwG5Bz27cUCZW+1Sf3B+tH2qT+4P1qQnbnLDjr+8NAOcAMMnp85qronll3HwSNIhLLjmpKRRtGMk\/U0tSUhkvQfWnL90d+KZKSAOuPX0p44QfSgZnSIGmkIA4JoijKXUZJ6np+FWTAm52DMC5z24pUhRZN2WJ69aWtx3VixRQDkZopiIJZB5u0oTjvmpFfKr8p5\/So5LbfIX3kZHTFPWMrEEDHjvU67gLkeh\/OgYPY\/nTfLf8A56Gjy3\/56Gi77DsSiikUEKATk+tLVCP\/2Q==",
+                        "permalink": "https:\/\/byumba.slack.com\/files\/U03LXQFU5SM\/F05V9849QR3\/generative_ai_presentation_and_q_a_-_jared_andersen.png",
+                        "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05V9849QR3-c674f8427b",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/byumba.slack.com\/archives\/C0ZCSJTC5\/p1696526527715189",
+                "is_share": true,
+                "fallback": "[October 5th, 2023 11:22 AM] hbronovski: *Final Reminder:* Come and learn about generative AI from Jared Andersen, Director of Product Marketing for Search &amp; AI at Microsoft. The presentation and Q&amp;A session will take place *today at 5 PM in room 251 TNRB.*",
+                "text": "*Final Reminder:* Come and learn about generative AI from Jared Andersen, Director of Product Marketing for Search &amp; AI at Microsoft. The presentation and Q&amp;A session will take place *today at 5 PM in room 251 TNRB.*",
+                "author_name": "Henrique Bronovski",
+                "author_link": "https:\/\/byumba.slack.com\/team\/U03LXQFU5SM",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-08-26\/5805220037923_03670216df6e36ee5fdd_48.jpg",
+                "author_subname": "Henrique Bronovski",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9b59b8d-f2b7-444f-941d-98d481b87e8b",
+        "type": "message",
+        "text": "I would go Kelsee, but I have a weeding this saturday, temple in the morning, afternoon is the reception.",
+        "user": "U05BBQEGSL8",
+        "ts": "1696550948.513639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mgHD3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would go Kelsee, but I have a weeding this saturday, temple in the morning, afternoon is the reception."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7534d1e53ffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-01\/5671255571779_7534d1e53ffa8b4cd432_72.jpg",
+            "first_name": "Henrique",
+            "real_name": "Henrique Diz Diz",
+            "display_name": "Henrique Diz Diz",
+            "team": "T0ZBAEL59",
+            "name": "henriquedizdiz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696306169.308039",
+        "parent_user_id": "U03LK4YF3A6"
+    },
+    {
+        "client_msg_id": "09dd5ec1-65b0-4ec2-8856-87584d3687df",
+        "type": "message",
+        "text": "Congratulations brother!! So happy for you",
+        "user": "U05AN02C0E7",
+        "ts": "1696562165.344419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iKpLq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congratulations brother!! So happy for you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c8a8b5ae6726",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5361571737781_c8a8b5ae6726bf382cce_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Antuña",
+            "display_name": "Julian Antuña",
+            "team": "T0ZBAEL59",
+            "name": "julian.rosario93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696526820.682349",
+        "parent_user_id": "U03LG7BV35K"
+    },
+    {
+        "type": "message",
+        "text": "Reminder to apply for Talkapalooza this month if you would like to speak!!",
+        "user": "U03L4GLKLTZ",
+        "ts": "1696563333.035009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+6ko9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reminder to apply for Talkapalooza this month if you would like to speak!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4e7196d104cf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-11\/3933734501588_4e7196d104cf80cb4cab_72.png",
+            "first_name": "Gretel",
+            "real_name": "Gretel Tam",
+            "display_name": "Gretel",
+            "team": "T0ZBAEL59",
+            "name": "greteltam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1696258801.459409",
+                "author_id": "U03L4GLKLTZ",
+                "channel_id": "C0ZCSJTC5",
+                "channel_team": "T0ZBAEL59",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T0ZBAEL59",
+                        "channel": "C0ZCSJTC5",
+                        "ts": "1696258801.459409",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "Ec3Nv",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Hey "
+                                                },
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "channel"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " We hope you enjoyed the churros last Thursday and had an opportunity to celebrate Hispanic Heritage Month. Finally, we will have our first "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/docs.google.com\/document\/d\/1dOtSXSEkzgSJKiY54cSL5W16Uz1UtudRIFWsTN2P_8w\/edit?usp=sharing",
+                                                    "text": "Talkapalooza"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " on 10\/25 @ 4:30p. Here's the application link and it will close on 10\/13. The theme for October is to celebrate "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "candle",
+                                                    "unicode": "1f56f-fe0f"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Diwali"
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "lotus",
+                                                    "unicode": "1fab7"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ". Very excited to see what everyone has to share!! Let me know if you have any questions! "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_29pNK5O1b2WEffo"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F05N3G5K6VD",
+                        "created": 1692390671,
+                        "timestamp": 1692390671,
+                        "name": "MINI TED TALK SERIES - EVENT BRAINSTORM BOARD",
+                        "title": "TALKAPALOOZA",
+                        "mimetype": "application\/vnd.google-apps.document",
+                        "filetype": "gdoc",
+                        "pretty_type": "G Suite Document",
+                        "user": "U03L4GLKLTZ",
+                        "user_team": "T0ZBAEL59",
+                        "editable": false,
+                        "size": 0,
+                        "mode": "external",
+                        "is_external": true,
+                        "external_type": "gdrive",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/docs.google.com\/document\/d\/1dOtSXSEkzgSJKiY54cSL5W16Uz1UtudRIFWsTN2P_8w\/edit?usp=sharing",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05N3G5K6VD-182cce9b1e\/mini_ted_talk_series_-_event_brainstorm_board_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05N3G5K6VD-182cce9b1e\/mini_ted_talk_series_-_event_brainstorm_board_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05N3G5K6VD-182cce9b1e\/mini_ted_talk_series_-_event_brainstorm_board_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360_w": 278,
+                        "thumb_360_h": 360,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05N3G5K6VD-182cce9b1e\/mini_ted_talk_series_-_event_brainstorm_board_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_480_w": 371,
+                        "thumb_480_h": 480,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05N3G5K6VD-182cce9b1e\/mini_ted_talk_series_-_event_brainstorm_board_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05N3G5K6VD-182cce9b1e\/mini_ted_talk_series_-_event_brainstorm_board_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720_w": 557,
+                        "thumb_720_h": 720,
+                        "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05N3G5K6VD-182cce9b1e\/mini_ted_talk_series_-_event_brainstorm_board_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 1035,
+                        "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05N3G5K6VD-182cce9b1e\/mini_ted_talk_series_-_event_brainstorm_board_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_960_w": 742,
+                        "thumb_960_h": 960,
+                        "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05N3G5K6VD-182cce9b1e\/mini_ted_talk_series_-_event_brainstorm_board_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_1024_w": 791,
+                        "thumb_1024_h": 1024,
+                        "thumb_tiny": "AwAwACXSY47Um8UN2pOPWgB24UbhTePal49qAHUUUUANftTePSnP2pPx\/SgBOPSlH0pdp9f0pcH1oAWiiigBG6UAH0FLRQAc0UUUAFFFFAH\/2Q==",
+                        "permalink": "https:\/\/byumba.slack.com\/files\/U03L4GLKLTZ\/F05N3G5K6VD\/mini_ted_talk_series_-_event_brainstorm_board",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "external_id": "1dOtSXSEkzgSJKiY54cSL5W16Uz1UtudRIFWsTN2P_8w",
+                        "external_url": "https:\/\/docs.google.com\/document\/d\/1dOtSXSEkzgSJKiY54cSL5W16Uz1UtudRIFWsTN2P_8w\/edit?usp=sharing",
+                        "has_rich_preview": true,
+                        "file_access": "visible"
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/byumba.slack.com\/archives\/C0ZCSJTC5\/p1696258801459409",
+                "is_share": true,
+                "fallback": "[October 2nd, 2023 9:00 AM] greteltam: Hey <!channel> We hope you enjoyed the churros last Thursday and had an opportunity to celebrate Hispanic Heritage Month. Finally, we will have our first <https:\/\/docs.google.com\/document\/d\/1dOtSXSEkzgSJKiY54cSL5W16Uz1UtudRIFWsTN2P_8w\/edit?usp=sharing|Talkapalooza> on 10\/25 @ 4:30p. Here's the application link and it will close on 10\/13. The theme for October is to celebrate :candle:Diwali:lotus:. Very excited to see what everyone has to share!! Let me know if you have any questions! <https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_29pNK5O1b2WEffo>",
+                "text": "Hey <!channel> We hope you enjoyed the churros last Thursday and had an opportunity to celebrate Hispanic Heritage Month. Finally, we will have our first <https:\/\/docs.google.com\/document\/d\/1dOtSXSEkzgSJKiY54cSL5W16Uz1UtudRIFWsTN2P_8w\/edit?usp=sharing|Talkapalooza> on 10\/25 @ 4:30p. Here's the application link and it will close on 10\/13. The theme for October is to celebrate :candle:Diwali:lotus:. Very excited to see what everyone has to share!! Let me know if you have any questions! <https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_29pNK5O1b2WEffo>",
+                "author_name": "Gretel Tam",
+                "author_link": "https:\/\/byumba.slack.com\/team\/U03L4GLKLTZ",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-08-11\/3933734501588_4e7196d104cf80cb4cab_48.png",
+                "author_subname": "Gretel Tam",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03LG7C5QAH",
+                    "U03LK39PKRR",
+                    "U03LXQBTQJV",
+                    "U05D98WS6FQ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "dance",
+                "users": [
+                    "U03LG7C5QAH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "microphone",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "78cdfb23-6ee4-4a8b-9af0-69901eab1faa",
+        "type": "message",
+        "text": "<!channel> Rothschild is finishing up an undergrad event and will be in the room soon.",
+        "user": "U03SZAWQBM4",
+        "ts": "1696463951.798479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Fbib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Rothschild is finishing up an undergrad event and will be in the room soon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

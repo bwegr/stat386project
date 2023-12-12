@@ -1,0 +1,156 @@
+[
+    {
+        "client_msg_id": "0A6FF74E-C461-4F01-A299-FE34F8257054",
+        "type": "message",
+        "text": "The Pro-Sem this Friday will be interview practice (more on that later). For now, I want to make the questions we use as applicable and helpful as possible. If you’ve had any kind of finance interview, could you please comment a question you were asked in the thread.\n\nI know some of you did this on Ben’s post, and I have a comprehensive list (thanks Chad!), but would just like to make it as helpful as possible. ",
+        "user": "U03L4GN325D",
+        "ts": "1697496121.503629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NPkxh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Pro-Sem this Friday will be interview practice (more on that later). For now, I want to make the questions we use as applicable and helpful as possible. If "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " had any kind of finance interview, could you please comment a question you were asked in the thread.\n\nI know some of you did this on Ben’s post, and I have a comprehensive list (thanks Chad!), but would just like to make it as helpful as possible. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697496121.503629",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697505554.846259",
+        "reply_users": [
+            "U05A7HC8FF1",
+            "U03L4GN325D"
+        ],
+        "replies": [
+            {
+                "user": "U05A7HC8FF1",
+                "ts": "1697501281.988919"
+            },
+            {
+                "user": "U03L4GN325D",
+                "ts": "1697505554.846259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "FDB4A24F-E61F-4591-9D2C-19C41AB1B039",
+        "type": "message",
+        "text": "Devin, I would love some insights into what questions come up in VC interviews if Adam, Hiwa, Brenna or others have anything they could share on that. ",
+        "user": "U05A7HC8FF1",
+        "ts": "1697501281.988919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L5SK4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Devin, I would love some insights into what questions come up in VC interviews if Adam, Hiwa, Brenna or others have anything they could share on that"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e82375f9477a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-10\/5557118263475_e82375f9477a060fd30d_72.png",
+            "first_name": "Kimball",
+            "real_name": "Kimball Palmer",
+            "display_name": "Kimball Palmer",
+            "team": "T0ZBAEL59",
+            "name": "kimball.palm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697496121.503629",
+        "parent_user_id": "U03L4GN325D"
+    },
+    {
+        "client_msg_id": "4a43878f-dacf-408a-b89a-60d6aa59ea6e",
+        "type": "message",
+        "text": "Thanks for the feedback Kimball!",
+        "user": "U03L4GN325D",
+        "ts": "1697505554.846259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5kxGw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the feedback Kimball!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697496121.503629",
+        "parent_user_id": "U03L4GN325D"
+    }
+]

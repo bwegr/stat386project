@@ -1,0 +1,111 @@
+[
+    {
+        "type": "message",
+        "text": "For all the Dell-ites out there",
+        "files": [
+            {
+                "id": "F063H337DA7",
+                "created": 1698712836,
+                "timestamp": 1698712836,
+                "name": "Highway to Dell (kick off).pptx",
+                "title": "Highway to Dell (kick off).pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "U03LCGM9XML",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 13780781,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F063H337DA7\/highway_to_dell__kick_off_.pptx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F063H337DA7\/download\/highway_to_dell__kick_off_.pptx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063H337DA7-b079e8acde\/highway_to_dell__kick_off__converted.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063H337DA7-b079e8acde\/highway_to_dell__kick_off__thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LCGM9XML\/F063H337DA7\/highway_to_dell__kick_off_.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F063H337DA7-17fde70542",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LCGM9XML",
+        "display_as_bot": false,
+        "ts": "1698712847.158089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qT9rc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For all the Dell-ites out there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8eb78e2d-bf32-45b9-bff5-3642152a03f0",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03L4GT3B55",
+                    "U05B0NHGDG9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f9cdfed-1940-4195-bf10-f781dc85396e",
+        "type": "message",
+        "text": "Thanks",
+        "user": "U03TVL5E0M6",
+        "ts": "1698716308.805429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ncv3o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

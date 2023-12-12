@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "7057C38C-A46C-4896-ABA2-627639213D20",
+        "type": "message",
+        "text": "Yeah not for me either I already pay to go to the club Pickleball fee already.",
+        "user": "U03M8T87HDE",
+        "ts": "1698184648.721399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H1yW1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah not for me either I already pay to go to the club Pickleball fee already."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d5013ab56280",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-23\/3973245769734_d5013ab5628073b7b6eb_72.jpg",
+            "first_name": "Nika",
+            "real_name": "Nika Noun",
+            "display_name": "Nika Noun",
+            "team": "T0ZBAEL59",
+            "name": "channika.noun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697553363.666699",
+        "parent_user_id": "U03LMGYLSR2"
+    }
+]

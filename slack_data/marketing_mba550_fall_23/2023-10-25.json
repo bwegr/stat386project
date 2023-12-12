@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "1037e81c-c67a-4780-a607-564c3f40fd17",
+        "type": "message",
+        "text": ":rotating_light::rotating_light::rotating_light:Class Schedule Change:rotating_light::rotating_light::rotating_light:\n\nNovember 2nd we will ALL be meeting together from 3:30pm-5pm. This is a THURSDAY. We will be having Christie Rasmussen Clark as a guest speaker, which will include Brick Oven Pizza and a soda bar.\n\nThere will be no class on November 6th or November 8th. However, on Monday, November 6th, you can schedule time with your TA for office hours during that regular class time.",
+        "user": "U03L57R4HN3",
+        "ts": "1698259043.539419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YKnQW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Class Schedule Change"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nNovember 2nd we will ALL be meeting together from 3:30pm-5pm. This is a THURSDAY. We will be having Christie Rasmussen Clark as a guest speaker, which will include Brick Oven Pizza and a soda bar.\n\nThere will be no class on November 6th or November 8th. However, on Monday, November 6th, you can schedule time with your TA for office hours during that regular class time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LK4YF3A6",
+                    "U05AN0097RR",
+                    "U05AN015NSX",
+                    "U05D98WS6FQ",
+                    "U05BBQD8SKS"
+                ],
+                "count": 5
+            },
+            {
+                "name": "meow_party",
+                "users": [
+                    "U03LK4YF3A6",
+                    "U03LXQCJA81"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b72faa0-0dcf-4805-b40c-0bf9d7e13e2f",
+        "type": "message",
+        "text": "Office hours today 3:30-4:30 W359. Happy to talk to talk about Stratsim or ZMET or any marketing\/interview questions!",
+        "user": "U03LK4YF3A6",
+        "ts": "1698264245.414059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NH1Ce",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Office hours today 3:30-4:30 W359. Happy to talk to talk about Stratsim or ZMET or any marketing\/interview questions!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

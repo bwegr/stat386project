@@ -1,0 +1,380 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696880595.526759",
+        "user": "U03LXQLBGCR",
+        "text": "<@U03LXQLBGCR> has joined the channel"
+    },
+    {
+        "client_msg_id": "94c6e975-3bb2-4379-b0e5-7beb3015c0fa",
+        "type": "message",
+        "text": "Put your names and sections in this sheet to plan SWELL classes to take with people next semester!\n<https:\/\/docs.google.com\/spreadsheets\/d\/1pvAID1xozL7ARqYMcenaEBYdomEKUq34G_gjQzS36zI\/edit#gid=0>",
+        "user": "U03LXQLBGCR",
+        "ts": "1696880778.173269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mUJjY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Put your names and sections in this sheet to plan SWELL classes to take with people next semester!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1pvAID1xozL7ARqYMcenaEBYdomEKUq34G_gjQzS36zI\/edit#gid=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "df4db093e9fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-21\/3834694788083_df4db093e9fa68b16c9d_72.jpg",
+            "first_name": "Matt",
+            "real_name": "Matt Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mbenson358",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696881076.884239",
+        "user": "U03LK3D5N2X",
+        "text": "<@U03LK3D5N2X> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696881175.860339",
+        "user": "U03LGTR0KV3",
+        "text": "<@U03LGTR0KV3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696881654.307279",
+        "user": "U05AN01UD1R",
+        "text": "<@U05AN01UD1R> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696881702.403469",
+        "user": "U03LK533VR8",
+        "text": "<@U03LK533VR8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696882139.231829",
+        "user": "U05A7HCQPDM",
+        "text": "<@U05A7HCQPDM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696886843.336499",
+        "user": "U03M8T9K6SU",
+        "text": "<@U03M8T9K6SU> has joined the channel",
+        "inviter": "U03LXQLBGCR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696886843.407919",
+        "user": "U03LG7C9P8V",
+        "text": "<@U03LG7C9P8V> has joined the channel",
+        "inviter": "U03LXQLBGCR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696886843.477109",
+        "user": "U03LXQCEVKK",
+        "text": "<@U03LXQCEVKK> has joined the channel",
+        "inviter": "U03LXQLBGCR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696886862.199799",
+        "user": "U03LG7C5QAH",
+        "text": "<@U03LG7C5QAH> has joined the channel",
+        "inviter": "U03LXQLBGCR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696887844.649849",
+        "user": "U05BBQD8SKS",
+        "text": "<@U05BBQD8SKS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696894304.905339",
+        "user": "U03LXQFQS3B",
+        "text": "<@U03LXQFQS3B> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696894406.521629",
+        "user": "U05BBQG6MKJ",
+        "text": "<@U05BBQG6MKJ> has joined the channel"
+    },
+    {
+        "client_msg_id": "54982f6c-1819-41d5-a211-4d090f14978c",
+        "type": "message",
+        "text": "<@U03M8T9K6SU> and I are taking a beginner hockey class! We are looking at either 9am on Tuesday or 9am on Thursday. Anyone else want to join and have a time preference?",
+        "user": "U03LXQLBGCR",
+        "ts": "1696898834.182609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y4S2b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03M8T9K6SU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I are taking a beginner hockey class! We are looking at either 9am on Tuesday or 9am on Thursday. Anyone else want to join and have a time preference?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "df4db093e9fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-21\/3834694788083_df4db093e9fa68b16c9d_72.jpg",
+            "first_name": "Matt",
+            "real_name": "Matt Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mbenson358",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696898834.182609",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1696914161.204849",
+        "reply_users": [
+            "U03LMGTRFN0",
+            "U03LXQCEVKK"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGTRFN0",
+                "ts": "1696906827.751589"
+            },
+            {
+                "user": "U03LMGTRFN0",
+                "ts": "1696908894.771929"
+            },
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1696914161.204849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696902153.727329",
+        "user": "U05H8SL2HFE",
+        "text": "<@U05H8SL2HFE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696906795.822659",
+        "user": "U03LMGTRFN0",
+        "text": "<@U03LMGTRFN0> has joined the channel",
+        "inviter": "U03LGTR0KV3"
+    },
+    {
+        "client_msg_id": "51E244EF-6F66-43F1-BA1A-43901A8B4632",
+        "type": "message",
+        "text": "Hey! I’m planning on taking the Tuesday class! Should be fun! ",
+        "user": "U03LMGTRFN0",
+        "ts": "1696906827.751589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dLT\/i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " planning on taking the Tuesday class! Should be fun! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696898834.182609",
+        "parent_user_id": "U03LXQLBGCR"
+    },
+    {
+        "client_msg_id": "19829E96-BE3C-480C-A73F-5336DFE46B17",
+        "type": "message",
+        "text": "<@U025VQHBG2K> said he also will join",
+        "user": "U03LMGTRFN0",
+        "ts": "1696908894.771929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZnDET",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U025VQHBG2K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " said he also will join"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696898834.182609",
+        "parent_user_id": "U03LXQLBGCR",
+        "reactions": [
+            {
+                "name": "quad_parrot-1",
+                "users": [
+                    "U03LXQLBGCR",
+                    "U03LXQCEVKK",
+                    "U03M8T9K6SU"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eff94264-8b92-4701-9ce3-7245cdf1deb3",
+        "type": "message",
+        "text": "Interested!",
+        "user": "U03LXQCEVKK",
+        "ts": "1696914161.204849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gU5c+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interested!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696898834.182609",
+        "parent_user_id": "U03LXQLBGCR",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03M8T9K6SU",
+                    "U03LMGTRFN0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696917138.034339",
+        "user": "U03LK39LQ2F",
+        "text": "<@U03LK39LQ2F> has joined the channel"
+    }
+]

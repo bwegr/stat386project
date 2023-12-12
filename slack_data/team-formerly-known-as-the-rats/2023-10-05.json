@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "ec7402c6-46cc-4366-862a-3da537f7da18",
+        "type": "message",
+        "text": "I greatly apologize for the language in this video. . . But this reminded me of Evan and I working late on the Finance case first semester when Brett was gone at his competition. . . . guess which guy is Evan. . . <https:\/\/www.youtube.com\/watch?v=8ab2upnouKc>",
+        "user": "U03LMGTRFN0",
+        "ts": "1696535014.449109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k5jQP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I greatly apologize for the language in this video. . . But this reminded me of Evan and I working late on the Finance case first semester when Brett was gone at his competition. . . . guess which guy is Evan. . . "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=8ab2upnouKc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=8ab2upnouKc",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/8ab2upnouKc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/8ab2upnouKc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Yellowstone -&quot; F**k it! &quot; - Series Spotlight\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=8ab2upnouKc",
+                "fallback": "YouTube Video: Yellowstone -\" F**k it! \" - Series Spotlight",
+                "title": "Yellowstone -\" F**k it! \" - Series Spotlight",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=8ab2upnouKc",
+                "author_name": "Red Rock Ranch Spotlights",
+                "author_link": "https:\/\/www.youtube.com\/@RedRockRanchWa",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7DB23BC7-BE9C-4B09-8F24-3B951FBB722C",
+        "type": "message",
+        "text": "I relate to this clip in SO many ways. Especially with accounting right now… :sweat_smile: ",
+        "user": "U03LCGM9XML",
+        "ts": "1696571079.760909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sN6Bo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I relate to this clip in SO many ways. Especially with accounting right now"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe4a9879d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Parry",
+            "display_name": "Evan Parry",
+            "team": "T0ZBAEL59",
+            "name": "evanparry13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

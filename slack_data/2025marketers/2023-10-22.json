@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "e41225a4-5dde-49ac-8691-04d87348069f",
+        "type": "message",
+        "text": "I will be there Brittany!! Thank you very much!",
+        "user": "U05BBQEGSL8",
+        "ts": "1697999828.125139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8k6z8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will be there Brittany!! Thank you very much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7534d1e53ffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-01\/5671255571779_7534d1e53ffa8b4cd432_72.jpg",
+            "first_name": "Henrique",
+            "real_name": "Henrique Diz Diz",
+            "display_name": "Henrique Diz Diz",
+            "team": "T0ZBAEL59",
+            "name": "henriquedizdiz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697777380.824809",
+        "parent_user_id": "U03L57R4HN3"
+    }
+]

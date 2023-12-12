@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "7AE75947-E391-4103-9F93-9D7EEFA12302",
+        "type": "message",
+        "text": "The midterm and finals are hard, you basically have to memorize all the slides. But I love Mike Bond!! He has actual work experience and tells awesome stories and the assignments are really helpful ",
+        "user": "U0171LYGQ2U",
+        "ts": "1697621761.698359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QCNXq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The midterm and finals are hard, you basically have to memorize all the slides. But I love Mike Bond!! He has actual work experience and tells awesome stories and the assignments are really helpful "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "05c7c35bc546",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6059841394263_05c7c35bc546fcdc9ca9_72.png",
+            "first_name": "Kim",
+            "real_name": "Kim Taylor",
+            "display_name": "Kim Taylor",
+            "team": "T0ZBAEL59",
+            "name": "kimberly.tamo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697125384.093819",
+        "parent_user_id": "U03L4GP8ZMM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03L4GP8ZMM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

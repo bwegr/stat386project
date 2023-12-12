@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "90d2ff58-f235-47a4-ad87-5533b1bd3624",
+        "type": "message",
+        "text": "Discover Finance Full-Time Role Info Session:\n\nTopic: Discover MBA Inside Look\nTime: Oct 19, 2023 05:00 PM Central Time (US and Canada)\nJoin Zoom Meeting\n<https:\/\/us06web.zoom.us\/j\/84610055082?pwd=JBospbo0KFHK46jwZ9KesddeqEXmnV.1>\nMeeting ID: 846 1005 5082\nPasscode: 231454\nOne tap mobile\n<tel:+13092053325|+13092053325>,,84610055082#,,,,*231454# US\n<tel:+13126266799|+13126266799>,,84610055082#,,,,*231454# US (Chicago)\n\nMeeting ID: 846 1005 5082\nPasscode: 231454",
+        "user": "U03L57R4HN3",
+        "ts": "1697484412.617389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vWRFc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Discover Finance Full-Time Role Info Session:\n\nTopic: Discover MBA Inside Look\nTime: Oct 19, 2023 05:00 PM Central Time (US and Canada)\nJoin Zoom Meeting\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/84610055082?pwd=JBospbo0KFHK46jwZ9KesddeqEXmnV.1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMeeting ID: 846 1005 5082\nPasscode: 231454\nOne tap mobile\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+13092053325",
+                                "text": "+13092053325"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",,84610055082#,,,,*231454# US\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+13126266799",
+                                "text": "+13126266799"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",,84610055082#,,,,*231454# US (Chicago)\n\nMeeting ID: 846 1005 5082\nPasscode: 231454"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697484412.617389",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697650300.922489",
+        "reply_users": [
+            "U03L4GN325D",
+            "U03L57R4HN3"
+        ],
+        "replies": [
+            {
+                "user": "U03L4GN325D",
+                "ts": "1697643285.835769"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1697650300.922489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

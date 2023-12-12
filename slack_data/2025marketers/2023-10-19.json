@@ -1,0 +1,187 @@
+[
+    {
+        "client_msg_id": "1a723dfd-0b04-4cd8-a921-2cd7cf0e27be",
+        "type": "message",
+        "text": ":rotating_light::rotating_light::rotating_light:<!channel> Hello 2025 Marketers! If you are interested in recruiting and applying for a Dell position, you *must attend a mandatory info session* (with me) on Thursday, October 26th @ 11am in W325. Please bring a hard copy of your resume. If you are not able to attend but are interested, DM me directly. Thanks! :rotating_light::rotating_light::rotating_light:",
+        "user": "U03L57R4HN3",
+        "ts": "1697777380.824809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UstDS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hello 2025 Marketers! If you are interested in recruiting and applying for a Dell position, you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "must attend a mandatory info session ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(with me) on Thursday, October 26th @ 11am in W325. Please bring a hard copy of your resume. If you are not able to attend but are interested, DM me directly. Thanks! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697777380.824809",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1698119806.938859",
+        "reply_users": [
+            "U05AN02C0E7",
+            "U03L57R4HN3",
+            "U05BBQEGSL8",
+            "U05B0NHGDG9"
+        ],
+        "replies": [
+            {
+                "user": "U05AN02C0E7",
+                "ts": "1697778600.176489"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1697859979.712889"
+            },
+            {
+                "user": "U05AN02C0E7",
+                "ts": "1697860010.481959"
+            },
+            {
+                "user": "U05BBQEGSL8",
+                "ts": "1697999828.125139"
+            },
+            {
+                "user": "U05B0NHGDG9",
+                "ts": "1698116914.723989"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1698119788.747619"
+            },
+            {
+                "user": "U05B0NHGDG9",
+                "ts": "1698119806.938859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "the_horns",
+                "users": [
+                    "U03LK56EXJN",
+                    "U05A7HF1DJB",
+                    "U05AFDTJEUW",
+                    "U05AN01UD1R",
+                    "U05BBQD8SKS"
+                ],
+                "count": 5
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LG763EKF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b21ce296-858e-4a42-80b5-6437d46b16ff",
+        "type": "message",
+        "text": "Thanks Brittany! I will be there. Quick question: In Handshake's event section there is a Dell info session scheduled for Oct 24 5pm. Is that one still happening?",
+        "user": "U05AN02C0E7",
+        "ts": "1697778600.176489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xSf6E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Brittany! I will be there. Quick question: In Handshake's event section there is a Dell info session scheduled for Oct 24 5pm. Is that one still happening?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c8a8b5ae6726",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5361571737781_c8a8b5ae6726bf382cce_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Antuña",
+            "display_name": "Julian Antuña",
+            "team": "T0ZBAEL59",
+            "name": "julian.rosario93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697777380.824809",
+        "parent_user_id": "U03L57R4HN3"
+    }
+]

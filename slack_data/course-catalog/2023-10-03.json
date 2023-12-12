@@ -1,0 +1,294 @@
+[
+    {
+        "client_msg_id": "8f3280fe-1411-482c-b308-f9c530e1ed71",
+        "type": "message",
+        "text": "Anyone in advanced analytics and know the course code, like \"ACC100\"?",
+        "user": "U03LK52VCQ2",
+        "ts": "1696368407.750159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMYIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone in advanced analytics and know the course code, like \"ACC100\"?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fe421d4c-6e8d-4e4f-b5ff-a4b682fbd6c9",
+        "type": "message",
+        "text": "Also, are there any other NON-MBA classes that people have taken that they thought were really cool?",
+        "user": "U03LK52VCQ2",
+        "ts": "1696368456.250229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r4jW6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, are there any other NON-MBA classes that people have taken that they thought were really cool?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696368456.250229",
+        "reply_count": 12,
+        "reply_users_count": 8,
+        "latest_reply": "1698739025.839849",
+        "reply_users": [
+            "U03LMGXDFB6",
+            "U03LK533VR8",
+            "U03LK52VCQ2",
+            "U03TVL5QZFA",
+            "U03LK3AD1V1",
+            "U03LK56EXJN",
+            "U03LYFFN24R",
+            "U03LK39LQ2F"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGXDFB6",
+                "ts": "1696369154.529389"
+            },
+            {
+                "user": "U03LK533VR8",
+                "ts": "1696379537.865479"
+            },
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1696382106.149529"
+            },
+            {
+                "user": "U03TVL5QZFA",
+                "ts": "1696558597.204009"
+            },
+            {
+                "user": "U03LK3AD1V1",
+                "ts": "1696604649.547549"
+            },
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1696626413.707429"
+            },
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1696629474.662609"
+            },
+            {
+                "user": "U03LK56EXJN",
+                "ts": "1696827789.578219"
+            },
+            {
+                "user": "U03LYFFN24R",
+                "ts": "1697407315.942679"
+            },
+            {
+                "user": "U03LK56EXJN",
+                "ts": "1697407430.018509"
+            },
+            {
+                "user": "U03LYFFN24R",
+                "ts": "1698704149.498499"
+            },
+            {
+                "user": "U03LK39LQ2F",
+                "ts": "1698739025.839849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "119df6f9-87cc-46eb-b3ab-89dbc9d42ac5",
+        "type": "message",
+        "text": "I haven't taking it yet, but Creating Writing with Brandon Sanderson seems pretty cool.\n\nIndoor Rock Climbing is the best class I've taken thus far",
+        "user": "U03LMGXDFB6",
+        "ts": "1696369154.529389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "euekF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I haven't taking it yet, but Creating Writing with Brandon Sanderson seems pretty cool.\n\nIndoor Rock Climbing is the best class I've taken thus far"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696368456.250229",
+        "parent_user_id": "U03LK52VCQ2",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aafb836c-3636-4cc7-8e69-6990ce723c9b",
+        "type": "message",
+        "text": "I haven't taken it yet, but hear that Sport Psychology is a pretty cool class. All online too so it's flexible.",
+        "user": "U03LK533VR8",
+        "ts": "1696379537.865479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ijgfg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I haven't taken it yet, but hear that Sport Psychology is a pretty cool class. All online too so it's flexible."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696368456.250229",
+        "parent_user_id": "U03LK52VCQ2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05RSF4NN49"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88DF0BA5-11B6-420B-8B14-E83115E01E31",
+        "type": "message",
+        "text": "I’m in that rn. Love the content. It’s a lot of time",
+        "user": "U03LK52VCQ2",
+        "ts": "1696382106.149529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h7c98",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in that rn. Love the content. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "It’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a lot of time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696368456.250229",
+        "parent_user_id": "U03LK52VCQ2"
+    }
+]

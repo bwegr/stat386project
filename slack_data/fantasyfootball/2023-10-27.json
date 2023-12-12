@@ -1,0 +1,360 @@
+[
+    {
+        "type": "message",
+        "text": "I know we lost to a TCU backup QB by a large margin already this season, but going into the weekend at -20 against a backup QB feels downright mean :joy:\nVegas could at least let us pretend like we have a chance and put it at -14. What do you guys think - will BYU stay within 20?",
+        "files": [
+            {
+                "id": "F0635KHK64A",
+                "created": 1698423853,
+                "timestamp": 1698423853,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LK533VR8",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 7147,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0635KHK64A\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0635KHK64A\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0635KHK64A-a63b787e62\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0635KHK64A-a63b787e62\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0635KHK64A-a63b787e62\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 115,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0635KHK64A-a63b787e62\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "original_w": 398,
+                "original_h": 127,
+                "thumb_tiny": "AwAPADDQbdk4bA\/3aEcHjdk\/TFOyc9KWgApOxpaKAGBmx0z75p9Jj60tAH\/\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK533VR8\/F0635KHK64A\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0635KHK64A-6a8028c402",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LK533VR8",
+        "display_as_bot": false,
+        "ts": "1698424284.954159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8bsIc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know we lost to a TCU backup QB by a large margin already this season, but going into the weekend at -20 against a backup QB feels downright mean "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nVegas could at least let us pretend like we have a chance and put it at -14. What do you guys think - will BYU stay within 20?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7a48c05d-c90b-4e30-8e13-a3cc8aca02cb",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03M8TCTA6L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AB9485B5-969B-4AAF-A18C-4767C0E9DB85",
+        "type": "message",
+        "text": "I doubt it. When BYU loses they typically play a close game or get blown out. I anticipate we get blown out.",
+        "user": "U05AK5GQJ5B",
+        "ts": "1698425341.391869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nPlu8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I doubt it. When BYU loses they typically play a close game or get blown out. I anticipate we get blown out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21974fb52c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-13\/5916046228688_21974fb52c299059b822_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Nelson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mdnelson07",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U03LK533VR8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17CB9611-E259-4D7B-86D5-EC95A6C4E800",
+        "type": "message",
+        "text": "My hearts been hurt too many times by BYU, I’m going into this expecting to be blown out. Hoping it’ll be close :crossed_fingers::skin-tone-4: . ",
+        "user": "U03M8TCTA6L",
+        "ts": "1698429931.441319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8MOZM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My hearts been hurt too many times by BYU, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " going into this expecting to be blown out. Hoping "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be close "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crossed_fingers",
+                                "unicode": "1f91e-1f3fd",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " . "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "broken_heart",
+                "users": [
+                    "U03LK533VR8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9C0D8C8C-C91F-4487-81DC-8DE4B60FC4DB",
+        "type": "message",
+        "text": "I think we have a better chance of getting up for this game than we do for TCU. I give us a slim chance",
+        "user": "U03LG7C5QAH",
+        "ts": "1698431469.451619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VyjPK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we have a better chance of getting up for this game than we do for TCU. I give us a slim chance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "184519A3-DB08-4EAB-9543-173ED44AEFE6",
+        "type": "message",
+        "text": "We always do better when no one expects us to do anything. I’m betting on the upset. I’ll take the 7-1 odds. ",
+        "user": "U03LMGV8Y12",
+        "ts": "1698465119.197599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lr4dD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We always do better when no one expects us to do anything"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " betting on the upset"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " take the 7-1 odds"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "11faedfd4201",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-16\/4093144696930_11faedfd42013ff3c8c3_72.png",
+            "first_name": "Aaron",
+            "real_name": "Aaron Ranger",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "aarontranger",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "56FCC3E6-2817-4CF2-AB85-C09AF9550251",
+        "type": "message",
+        "text": "Aaron makes a tempting point but I say we lose but cover the mammoth spread.",
+        "user": "U03LK533VR8",
+        "ts": "1698467222.343879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gXK4H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aaron makes a tempting point but I say we lose but cover the mammoth spread."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

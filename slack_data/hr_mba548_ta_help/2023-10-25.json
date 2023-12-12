@@ -1,0 +1,2227 @@
+[
+    {
+        "client_msg_id": "956dc122-571e-44b9-a02e-53a8fabca836",
+        "type": "message",
+        "text": "Hi! Sorry, just to make sure I understood right what professor bednar said yesterday in the review: The scope is session 1 to session 11 (negotiation) Is reward system (session 12) out of the scope of the midterm?",
+        "user": "U05AN02C0E7",
+        "ts": "1698246002.136479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZJ+vt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Sorry, just to make sure I understood right what professor bednar said yesterday in the review: The scope is session 1 to session 11 (negotiation) Is reward system (session 12) out of the scope of the midterm?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c8a8b5ae6726",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5361571737781_c8a8b5ae6726bf382cce_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Antuña",
+            "display_name": "Julian Antuña",
+            "team": "T0ZBAEL59",
+            "name": "julian.rosario93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698246002.136479",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698253946.376079",
+        "reply_users": [
+            "U05AQGJMMT6",
+            "U05AN02C0E7"
+        ],
+        "replies": [
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1698251322.864539"
+            },
+            {
+                "user": "U05AN02C0E7",
+                "ts": "1698253946.376079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b3587b61-496b-436e-8b09-f66811c76039",
+        "type": "message",
+        "text": "Reward is *within* scope. Only yesterday's class (onboarding process) is not.",
+        "user": "U05AQGJMMT6",
+        "ts": "1698251322.864539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kPdlu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reward is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "within",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " scope. Only yesterday's class (onboarding process) is not."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698246002.136479",
+        "parent_user_id": "U05AN02C0E7"
+    },
+    {
+        "client_msg_id": "d6fcddc6-e3a4-47e2-bb52-a19d3a9e8dc3",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U05AN02C0E7",
+        "ts": "1698253946.376079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcxlo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c8a8b5ae6726",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5361571737781_c8a8b5ae6726bf382cce_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Antuña",
+            "display_name": "Julian Antuña",
+            "team": "T0ZBAEL59",
+            "name": "julian.rosario93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698246002.136479",
+        "parent_user_id": "U05AN02C0E7"
+    },
+    {
+        "type": "message",
+        "text": "Can someone help me understand what this model means?",
+        "files": [
+            {
+                "id": "F062W5VL24C",
+                "created": 1698262699,
+                "timestamp": 1698262699,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05A7HE11LP",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 540449,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062W5VL24C\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062W5VL24C\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062W5VL24C-74d6e2e88a\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062W5VL24C-74d6e2e88a\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062W5VL24C-74d6e2e88a\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 237,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062W5VL24C-74d6e2e88a\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 316,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062W5VL24C-74d6e2e88a\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062W5VL24C-74d6e2e88a\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 474,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062W5VL24C-74d6e2e88a\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 526,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062W5VL24C-74d6e2e88a\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 632,
+                "original_w": 1012,
+                "original_h": 666,
+                "thumb_tiny": "AwAfADDRbdng4FN+b+\/\/ACp7DI4poXrxQAnzf3j+lHzHo5\/SlZSe1MkyiAjrnFFwJN3+c0obPb9aY2PUU9QBQAp6UnGKWjFADWx71FN\/qxjPUVKwJ6UgUnhsEUmCA\/U\/lTh0pcUUwP\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05A7HE11LP\/F062W5VL24C\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F062W5VL24C-b0144ecb22",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05A7HE11LP",
+        "display_as_bot": false,
+        "ts": "1698262733.966029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9cc9y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can someone help me understand what this model means?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3065401e-cc8e-4091-bd16-2a07e1b37f48",
+        "thread_ts": "1698262733.966029",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1698264095.481479",
+        "reply_users": [
+            "U03LK3D5N2X",
+            "U05A7HE11LP"
+        ],
+        "replies": [
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1698263003.771979"
+            },
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1698263717.273379"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1698264095.481479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ac196842-26f0-4e7c-8b73-66d312a15814",
+        "type": "message",
+        "text": "I'm free 3:15-4:30. Would you like to meet on campus or chat over zoom? I think that'd be easier than me typing out a paragraph :slightly_smiling_face:",
+        "user": "U03LK3D5N2X",
+        "ts": "1698263003.771979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WHaT6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm free 3:15-4:30. Would you like to meet on campus or chat over zoom? I think that'd be easier than me typing out a paragraph "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698262733.966029",
+        "parent_user_id": "U05A7HE11LP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05A7HE11LP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "add45d30-8b4f-4cf2-bb50-546fe2792a3c",
+        "type": "message",
+        "text": "Yes, where can I meet you?",
+        "user": "U05A7HE11LP",
+        "ts": "1698263717.273379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YuCKF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, where can I meet you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698262733.966029",
+        "parent_user_id": "U05A7HE11LP"
+    },
+    {
+        "client_msg_id": "d3c5a995-4c46-4a28-b02d-343ab4ba8201",
+        "type": "message",
+        "text": "Let's meet in the lounge and then we can always find a room if it's too busy",
+        "user": "U03LK3D5N2X",
+        "ts": "1698264095.481479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zOCj2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's meet in the lounge and then we can always find a room if it's too busy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698262733.966029",
+        "parent_user_id": "U05A7HE11LP"
+    },
+    {
+        "client_msg_id": "fe842ad4-9c89-4bcc-a9b7-94ddd4bdec5a",
+        "type": "message",
+        "text": "Hi peeps. I ran a prompt on GPT with the content for our HR midterm + HBS Barbara Norris case and it provided me some pretty useful questions to prepare for tomorrow. I though it would be helpful for you as well. I asked TA about it and it is not illegal on the subject perspective, so thought someone else would benefit from it.\n\nHere are the 40 questions:\n\nCertainly! Here are 20 MBA level test questions based on the specified HR perspectives and topics related to the \"Barbara Norris: Leading Change in the General Surgery Unit\" case study:\n1. Evidence-Based Management:\n    ◦ Explain the difference between correlation and causation. How can Barbara Norris use these concepts to analyze the factors affecting staff morale in the General Surgery Unit?\n2. Evidence-Based Management:\n    ◦ Apply the Good Theory concept to identify potential interventions Barbara Norris could implement to improve staff morale and reduce turnover in the General Surgery Unit.\n3. Interdependence and Contingency Theory:\n    ◦ Analyze the interdependence within the General Surgery Unit. Which type of interdependence (pooled, sequential, reciprocal, or intensive) is most prevalent? How does this affect the unit’s performance?\n4. Meaningful Work and Job Characteristics Model:\n    ◦ Evaluate the job characteristics in the General Surgery Unit using the Job Characteristics Model. How can Barbara Norris enhance meaningful work experiences for her staff?\n5. Job Crafting and Calling:\n    ◦ Discuss how job crafting and a sense of calling can be integrated into the work culture of the General Surgery Unit to improve employee engagement and satisfaction.\n6. Universal Needs and Personality Tests:\n    ◦ Compare Maslow’s Hierarchy of Needs, ERG Theory, and Two-factor Theory. Which theory do you think is most relevant to understanding the motivations of the nursing staff in the General Surgery Unit? Justify your answer.\n7. Unity in Diversity and Managing Whole-Brained Teams:\n    ◦ Describe how unity in diversity can be achieved in the context of the General Surgery Unit. How can Barbara Norris manage whole-brained teams effectively?\n8. Recruiting and Selection:\n    ◦ Design an ideal hiring process for recruiting nursing staff in the General Surgery Unit. Include the methods, assessments, and interviews you would use.\n9. Recruiting and Structured Interviews:\n    ◦ Explain the importance of structured interviews in the hiring process. Provide examples of competency questions that Barbara Norris can use during interviews.\n10. Job Offers and Negotiation:\n    ◦ Identify common issues and mistakes made during the job offer process. How can Barbara Norris avoid these issues and negotiate job offers effectively?\n11. Job Offers and BATNA:\n    ◦ Define BATNA (Best Alternative to a Negotiated Agreement). How can Barbara Norris determine her BATNA during the negotiation process with potential candidates?\n12. Reward Systems and SMART Goals:\n    ◦ Propose a reward system for the General Surgery Unit based on SMART goals. How can SMART goals be aligned with the hospital’s overall strategic objectives?\n13. Compensation Problems and Motivation vs Performance:\n    ◦ Analyze potential compensation problems that might arise in the General Surgery Unit. How can these problems impact employee motivation and performance?\n14. Social Identity Theory and Communication:\n    ◦ Apply Social Identity Theory to explain the communication challenges Barbara Norris might face while implementing changes in the General Surgery Unit. How can she overcome these challenges?\n15. Evidence-Based Management and Stakeholders:\n    ◦ Discuss the role of stakeholders in evidence-based management. How can Barbara Norris ensure that she considers the perspectives and needs of all stakeholders in her decision-making processes?\n16. Dynamic Work Design and Contingency Theory:\n    ◦ Apply the Contingency Theory of Structure to propose an organizational structure that aligns with the dynamic work design required in the General Surgery Unit.\n17. Individual Differences and MBTI\/Big 5:\n    ◦ Compare the MBTI (Myers-Briggs Type Indicator) and Big 5 personality tests. Which one do you think is more useful for understanding the preferences and behaviors of nursing staff? Justify your answer.\n18. Job Crafting and Employee Engagement:\n    ◦ Explain how encouraging employees to craft their jobs can enhance employee engagement. Provide examples specific to the healthcare industry.\n19. Recruiting and Unstructured Interviews:\n    ◦ Discuss the disadvantages of unstructured interviews in the hiring process. How can bias be minimized during unstructured interviews in the General Surgery Unit?\n20. Reward Systems and Motivating Potential Score:\n    ◦ Calculate the Motivating Potential Score (MPS) for a nursing role in the General Surgery Unit. How can the reward system be designed to enhance the MPS for employees?\n\n1. Evidence-Based Management and Organizational Learning:\n    ◦ How can evidence-based management facilitate organizational learning within the General Surgery Unit? Provide specific examples from the case.\n2. Congruence Model and Organizational Effectiveness:\n    ◦ Apply the Congruence Model to analyze the alignment between the General Surgery Unit's strategy, tasks, formal processes, and individual skills. What recommendations would you make to improve congruence?\n3. Interdependence and Team Dynamics:\n    ◦ Discuss the concept of reciprocal interdependence in the context of the General Surgery Unit. How can fostering strong reciprocal interdependence enhance teamwork and collaboration among staff members?\n4. Job Characteristics Model and Employee Satisfaction:\n    ◦ Identify three job characteristics from the Job Characteristics Model that are lacking in the General Surgery Unit. How can enhancing these characteristics improve overall employee satisfaction and performance?\n5. Job Crafting and Employee Well-being:\n    ◦ Explain how job crafting can contribute to employees’ sense of well-being and work-life balance in a high-stress environment like the General Surgery Unit.\n6. Universal Needs and Individual Differences:\n    ◦ Compare and contrast Maslow's Hierarchy of Needs and the Big Five personality traits theory. How can understanding both theories help Barbara Norris in managing diverse personalities within her team?\n7. Unity in Diversity and Cultural Intelligence:\n    ◦ Discuss the concept of cultural intelligence in the context of achieving unity in diversity within the General Surgery Unit. How can cultural intelligence improve communication and collaboration among a diverse workforce?\n8. Recruiting Strategies and Diversity:\n    ◦ Design a recruiting strategy that promotes diversity and inclusion within the General Surgery Unit. What specific measures would you take to attract candidates from diverse backgrounds?\n9. Structured Interviews and Bias Reduction:\n    ◦ Explain how structured interviews can help reduce bias in the hiring process. Provide examples of structured interview questions that can effectively assess candidates’ qualifications.\n10. Job Offers and Negotiation Strategies:\n    ◦ Describe the importance of the Zone of Possible Agreement (ZOPA) in job offer negotiations. How can understanding ZOPA assist Barbara Norris in reaching mutually beneficial agreements with potential candidates?\n11. Reward Systems and Performance Management:\n    ◦ Discuss the role of rewards in performance management within the General Surgery Unit. How can a well-designed reward system align with the unit's performance goals and motivate employees?\n12. Employee Engagement and Social Identity Theory:\n    ◦ Apply Social Identity Theory to explain how employees' identification with their roles in the General Surgery Unit can enhance overall employee engagement. What managerial strategies can leverage social identity for positive outcomes?\n13. Dynamic Work Design and Flexibility:\n    ◦ How can dynamic work design principles be integrated into the General Surgery Unit to accommodate flexibility in staffing and adapt to changing patient needs? Provide specific examples.\n14. Change Management and Stakeholder Analysis:\n    ◦ Conduct a stakeholder analysis for the General Surgery Unit. Identify key stakeholders and their interests. How can Barbara Norris manage these stakeholders effectively during the change process?\n15. Ethical Considerations in Recruiting and Selection:\n    ◦ Discuss ethical considerations that Barbara Norris should be mindful of during the recruiting and selection process. How can ethical recruitment practices enhance the unit's reputation and employee morale?\n16. Motivating Potential Score and Employee Performance:\n    ◦ Calculate the Motivating Potential Score (MPS) for a nursing role in the General Surgery Unit. How can a high MPS lead to improved employee performance and job satisfaction?\n17. Team Diversity and Decision-Making:\n    ◦ Explain how diverse teams, in terms of skills, background, and experiences, can lead to more effective decision-making in the healthcare setting. Provide examples from the case study.\n18. Performance Appraisals and Continuous Feedback:\n    ◦ Compare traditional performance appraisals with continuous feedback systems. Which approach do you think is more suitable for the General Surgery Unit, and why?\n19. Employee Recognition and Psychological Safety:\n    ◦ Discuss the importance of employee recognition in creating a psychologically safe workplace environment. How can Barbara Norris implement effective recognition programs to foster psychological safety among her staff?\n20. Talent Development and Succession Planning:\n    ◦ Develop a talent development and succession planning strategy for the General Surgery Unit. How can identifying and nurturing talent within the unit contribute to its long-term success?",
+        "user": "U05AQGJMMT6",
+        "ts": "1698273670.841909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Najm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi peeps. I ran a prompt on GPT with the content for our HR midterm + HBS Barbara Norris case and it provided me some pretty useful questions to prepare for tomorrow. I though it would be helpful for you as well. I asked TA about it and it is not illegal on the subject perspective, so thought someone else would benefit from it.\n\nHere are the 40 questions:\n\nCertainly! Here are 20 MBA level test questions based on the specified HR perspectives and topics related to the \"Barbara Norris: Leading Change in the General Surgery Unit\" case study:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Evidence-Based Management:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Explain the difference between correlation and causation. How can Barbara Norris use these concepts to analyze the factors affecting staff morale in the General Surgery Unit?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Evidence-Based Management:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Apply the Good Theory concept to identify potential interventions Barbara Norris could implement to improve staff morale and reduce turnover in the General Surgery Unit."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Interdependence and Contingency Theory:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Analyze the interdependence within the General Surgery Unit. Which type of interdependence (pooled, sequential, reciprocal, or intensive) is most prevalent? How does this affect the unit’s performance?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Meaningful Work and Job Characteristics Model:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Evaluate the job characteristics in the General Surgery Unit using the Job Characteristics Model. How can Barbara Norris enhance meaningful work experiences for her staff?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Job Crafting and Calling:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 4,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Discuss how job crafting and a sense of calling can be integrated into the work culture of the General Surgery Unit to improve employee engagement and satisfaction."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Universal Needs and Personality Tests:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 5,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Compare Maslow’s Hierarchy of Needs, ERG Theory, and Two-factor Theory. Which theory do you think is most relevant to understanding the motivations of the nursing staff in the General Surgery Unit? Justify your answer."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Unity in Diversity and Managing Whole-Brained Teams:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 6,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Describe how unity in diversity can be achieved in the context of the General Surgery Unit. How can Barbara Norris manage whole-brained teams effectively?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Recruiting and Selection:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 7,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Design an ideal hiring process for recruiting nursing staff in the General Surgery Unit. Include the methods, assessments, and interviews you would use."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Recruiting and Structured Interviews:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 8,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Explain the importance of structured interviews in the hiring process. Provide examples of competency questions that Barbara Norris can use during interviews."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Job Offers and Negotiation:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 9,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Identify common issues and mistakes made during the job offer process. How can Barbara Norris avoid these issues and negotiate job offers effectively?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Job Offers and BATNA:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 10,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Define BATNA (Best Alternative to a Negotiated Agreement). How can Barbara Norris determine her BATNA during the negotiation process with potential candidates?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Reward Systems and SMART Goals:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 11,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Propose a reward system for the General Surgery Unit based on SMART goals. How can SMART goals be aligned with the hospital’s overall strategic objectives?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Compensation Problems and Motivation vs Performance:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 12,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Analyze potential compensation problems that might arise in the General Surgery Unit. How can these problems impact employee motivation and performance?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Social Identity Theory and Communication:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 13,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Apply Social Identity Theory to explain the communication challenges Barbara Norris might face while implementing changes in the General Surgery Unit. How can she overcome these challenges?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Evidence-Based Management and Stakeholders:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 14,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Discuss the role of stakeholders in evidence-based management. How can Barbara Norris ensure that she considers the perspectives and needs of all stakeholders in her decision-making processes?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dynamic Work Design and Contingency Theory:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 15,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Apply the Contingency Theory of Structure to propose an organizational structure that aligns with the dynamic work design required in the General Surgery Unit."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Individual Differences and MBTI\/Big 5:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 16,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Compare the MBTI (Myers-Briggs Type Indicator) and Big 5 personality tests. Which one do you think is more useful for understanding the preferences and behaviors of nursing staff? Justify your answer."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Job Crafting and Employee Engagement:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 17,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Explain how encouraging employees to craft their jobs can enhance employee engagement. Provide examples specific to the healthcare industry."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Recruiting and Unstructured Interviews:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 18,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Discuss the disadvantages of unstructured interviews in the hiring process. How can bias be minimized during unstructured interviews in the General Surgery Unit?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Reward Systems and Motivating Potential Score:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 19,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Calculate the Motivating Potential Score (MPS) for a nursing role in the General Surgery Unit. How can the reward system be designed to enhance the MPS for employees?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Evidence-Based Management and Organizational Learning:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How can evidence-based management facilitate organizational learning within the General Surgery Unit? Provide specific examples from the case."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Congruence Model and Organizational Effectiveness:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Apply the Congruence Model to analyze the alignment between the General Surgery Unit's strategy, tasks, formal processes, and individual skills. What recommendations would you make to improve congruence?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Interdependence and Team Dynamics:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Discuss the concept of reciprocal interdependence in the context of the General Surgery Unit. How can fostering strong reciprocal interdependence enhance teamwork and collaboration among staff members?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Job Characteristics Model and Employee Satisfaction:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Identify three job characteristics from the Job Characteristics Model that are lacking in the General Surgery Unit. How can enhancing these characteristics improve overall employee satisfaction and performance?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Job Crafting and Employee Well-being:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 4,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Explain how job crafting can contribute to employees’ sense of well-being and work-life balance in a high-stress environment like the General Surgery Unit."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Universal Needs and Individual Differences:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 5,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Compare and contrast Maslow's Hierarchy of Needs and the Big Five personality traits theory. How can understanding both theories help Barbara Norris in managing diverse personalities within her team?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Unity in Diversity and Cultural Intelligence:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 6,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Discuss the concept of cultural intelligence in the context of achieving unity in diversity within the General Surgery Unit. How can cultural intelligence improve communication and collaboration among a diverse workforce?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Recruiting Strategies and Diversity:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 7,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Design a recruiting strategy that promotes diversity and inclusion within the General Surgery Unit. What specific measures would you take to attract candidates from diverse backgrounds?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Structured Interviews and Bias Reduction:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 8,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Explain how structured interviews can help reduce bias in the hiring process. Provide examples of structured interview questions that can effectively assess candidates’ qualifications."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Job Offers and Negotiation Strategies:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 9,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Describe the importance of the Zone of Possible Agreement (ZOPA) in job offer negotiations. How can understanding ZOPA assist Barbara Norris in reaching mutually beneficial agreements with potential candidates?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Reward Systems and Performance Management:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 10,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Discuss the role of rewards in performance management within the General Surgery Unit. How can a well-designed reward system align with the unit's performance goals and motivate employees?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Employee Engagement and Social Identity Theory:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 11,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Apply Social Identity Theory to explain how employees' identification with their roles in the General Surgery Unit can enhance overall employee engagement. What managerial strategies can leverage social identity for positive outcomes?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dynamic Work Design and Flexibility:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 12,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How can dynamic work design principles be integrated into the General Surgery Unit to accommodate flexibility in staffing and adapt to changing patient needs? Provide specific examples."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Change Management and Stakeholder Analysis:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 13,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Conduct a stakeholder analysis for the General Surgery Unit. Identify key stakeholders and their interests. How can Barbara Norris manage these stakeholders effectively during the change process?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ethical Considerations in Recruiting and Selection:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 14,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Discuss ethical considerations that Barbara Norris should be mindful of during the recruiting and selection process. How can ethical recruitment practices enhance the unit's reputation and employee morale?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Motivating Potential Score and Employee Performance:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 15,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Calculate the Motivating Potential Score (MPS) for a nursing role in the General Surgery Unit. How can a high MPS lead to improved employee performance and job satisfaction?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Team Diversity and Decision-Making:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 16,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Explain how diverse teams, in terms of skills, background, and experiences, can lead to more effective decision-making in the healthcare setting. Provide examples from the case study."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Performance Appraisals and Continuous Feedback:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 17,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Compare traditional performance appraisals with continuous feedback systems. Which approach do you think is more suitable for the General Surgery Unit, and why?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Employee Recognition and Psychological Safety:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 18,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Discuss the importance of employee recognition in creating a psychologically safe workplace environment. How can Barbara Norris implement effective recognition programs to foster psychological safety among her staff?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Talent Development and Succession Planning:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 19,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Develop a talent development and succession planning strategy for the General Surgery Unit. How can identifying and nurturing talent within the unit contribute to its long-term success?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698273670.841909",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1698296208.008249",
+        "reply_users": [
+            "U05A7HEQV71",
+            "U05GZPFMAA2",
+            "U05AN3TCTSN",
+            "U05AQGJMMT6"
+        ],
+        "replies": [
+            {
+                "user": "U05A7HEQV71",
+                "ts": "1698278125.464099"
+            },
+            {
+                "user": "U05GZPFMAA2",
+                "ts": "1698282827.153769"
+            },
+            {
+                "user": "U05AN3TCTSN",
+                "ts": "1698292900.652689"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1698293289.151669"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1698296208.008249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AN015NSX",
+                    "U03LG763EKF",
+                    "U05DFQNU4EP",
+                    "U05DD0R44G5",
+                    "U03TVL5E0M6",
+                    "U05B0NFT057",
+                    "U05AK5HTE77"
+                ],
+                "count": 7
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U05A7HEQV71",
+                    "U05DFQNU4EP",
+                    "U05BQNKAUSX"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U05DFQNU4EP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U05A7HE11LP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1E0B93A1-7F9D-4BFF-A676-415EFC5AB735",
+        "type": "message",
+        "text": "This is seriously amazing—thank you, JC!",
+        "user": "U05A7HEQV71",
+        "ts": "1698278125.464099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l7iea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is seriously amazing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "—"
+                            },
+                            {
+                                "type": "text",
+                                "text": "thank you, JC!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fa48ca75f03b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-04\/5839586086774_fa48ca75f03bd5ed2885_72.png",
+            "first_name": "Harrison",
+            "real_name": "Harrison Christensen",
+            "display_name": "Harrison Christensen",
+            "team": "T0ZBAEL59",
+            "name": "hjchristensen97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698273670.841909",
+        "parent_user_id": "U05AQGJMMT6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AQGJMMT6",
+                    "U05BQNKAUSX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A8B9E818-13E7-4B74-BFF7-797A65A20FE5",
+        "type": "message",
+        "text": "<@U05A7HE11LP> <@U03M8T6EJ8G> <@U05AN3RHCBC> <@U05DD0R44G5> check this out!",
+        "user": "U05GZPFMAA2",
+        "ts": "1698282827.153769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YTQv+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05A7HE11LP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03M8T6EJ8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AN3RHCBC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05DD0R44G5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " check this out!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dae6d1b7129e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-25\/6099646149092_dae6d1b7129ed59f3cd8_72.png",
+            "first_name": "Val",
+            "real_name": "Val Fulton",
+            "display_name": "Val",
+            "team": "T0ZBAEL59",
+            "name": "valeriam.fulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698273670.841909",
+        "parent_user_id": "U05AQGJMMT6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05A7HE11LP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc4a4688-c587-43be-9a79-c915a1b3a3b0",
+        "type": "message",
+        "text": "Dude! This is so cool. Did you upload the entire presentation with all the slides or how does it know the concepts that it is asking about in the questions?",
+        "user": "U05AN3TCTSN",
+        "ts": "1698292900.652689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1nOs8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dude! This is so cool. Did you upload the entire presentation with all the slides or how does it know the concepts that it is asking about in the questions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698273670.841909",
+        "parent_user_id": "U05AQGJMMT6"
+    },
+    {
+        "client_msg_id": "ee2384ed-857f-44b8-9497-f37d195503b4",
+        "type": "message",
+        "text": "<@U05AN3TCTSN> GPT pretty much already has knowledge of all these concepts. But I couldn't upload the slides, so I just went back on canvas and got the name of the \"module\" taught on each week and eventually added a few other Theories or Structures to make sure it was properly addressed. But it already had knowledge on the whole case, so I didn't have to include that.",
+        "user": "U05AQGJMMT6",
+        "ts": "1698293289.151669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sw7Zg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05AN3TCTSN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " GPT pretty much already has knowledge of all these concepts. But I couldn't upload the slides, so I just went back on canvas and got the name of the \"module\" taught on each week and eventually added a few other Theories or Structures to make sure it was properly addressed. But it already had knowledge on the whole case, so I didn't have to include that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698273670.841909",
+        "parent_user_id": "U05AQGJMMT6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN3TCTSN",
+                    "U05A7HE11LP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d300a7c6-efc4-46c9-8444-e2c17dd5298d",
+        "type": "message",
+        "text": "And this was actually <@U05BBQFJ056>'s idea. Team work! :extreme-teamwork:",
+        "user": "U05AQGJMMT6",
+        "ts": "1698296208.008249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pJOxD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And this was actually "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQFJ056"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s idea. Team work! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "extreme-teamwork"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698273670.841909",
+        "parent_user_id": "U05AQGJMMT6"
+    }
+]

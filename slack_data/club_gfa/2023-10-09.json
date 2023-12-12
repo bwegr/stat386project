@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "77ab43ed-4a10-465e-add1-6fbd17985e90",
+        "type": "message",
+        "text": "AT&T info session at 4pm in the Eccles conference room! That room is within the undergrad career services area - north-east corner of the 4th floor in the TNRB.\n\nPizza provided!:pizza:\n\nAgain, this is about AT&T's Finance Leadership Development Program, and they are recruiting interns and FT!",
+        "user": "U03LXQH9QMP",
+        "ts": "1696881409.147759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NUJcp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AT&T info session at 4pm in the Eccles conference room! That room is within the undergrad career services area - north-east corner of the 4th floor in the TNRB.\n\nPizza provided!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pizza",
+                                "unicode": "1f355"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAgain, this is about AT&T's Finance Leadership Development Program, and they are recruiting interns and FT!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cb5054046f89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693679244662_cb5054046f89b6a31324_72.png",
+            "first_name": "Nate",
+            "real_name": "Nate Vance",
+            "display_name": "Nate Vance",
+            "team": "T0ZBAEL59",
+            "name": "nathanvance12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LXQH9QMP",
+            "ts": "1696881537.000000"
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LMGS73J8",
+                    "U03TVL5E0M6",
+                    "U03M8T9G2GY"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

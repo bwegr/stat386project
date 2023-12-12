@@ -1,0 +1,424 @@
+[
+    {
+        "client_msg_id": "1f41d40e-42e4-4386-b0e8-4d92c0fa6cae",
+        "type": "message",
+        "text": "hey guys, I looked at my financial center, and i still have the charges for the trip(now passed due). With registrations coming up, is this a problem?",
+        "user": "U03LG779KGD",
+        "ts": "1696971104.176599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X1XA4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey guys, I looked at my financial center, and i still have the charges for the trip(now passed due). With registrations coming up, is this a problem?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4c81f56cddb5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4055541249281_4c81f56cddb58a01ad12_72.jpg",
+            "first_name": "Marcos",
+            "real_name": "Marcos Orfila",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mmarcosgoog",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696971104.176599",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696971827.890529",
+        "reply_users": [
+            "U03LCGQP0LW",
+            "U03LK551XFU"
+        ],
+        "replies": [
+            {
+                "user": "U03LCGQP0LW",
+                "ts": "1696971261.219479"
+            },
+            {
+                "user": "U03LK551XFU",
+                "ts": "1696971827.890529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "question",
+                "users": [
+                    "U03LCGQP0LW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47643af3-e86b-44f2-a1a9-a204cacd070e",
+        "type": "message",
+        "text": "I'm also wondering about this...",
+        "user": "U03LCGQP0LW",
+        "ts": "1696971261.219479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tE036",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm also wondering about this..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "854c6c8cafe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-15\/5271050025428_854c6c8cafe5c412a0a5_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Poulton",
+            "display_name": "Tanner Poulton",
+            "team": "T0ZBAEL59",
+            "name": "tannerjpoulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696971104.176599",
+        "parent_user_id": "U03LG779KGD"
+    },
+    {
+        "client_msg_id": "7B317FFC-E46E-4F13-8AE6-6E2A2BF46E07",
+        "type": "message",
+        "text": "We will talk about this in class",
+        "user": "U03LK551XFU",
+        "ts": "1696971827.890529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dErwA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We will talk about this in class"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696971104.176599",
+        "parent_user_id": "U03LG779KGD",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LG7C9P8V",
+                    "U03NW11JH19"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b4aa9a8-aa7e-4abc-a6cd-9a9ca6865607",
+        "type": "message",
+        "text": "<@U03LMGXA3FW> can you post here the day and time of the game again? Also, are we planning on just meeting there?",
+        "user": "U03LG779KGD",
+        "ts": "1696982020.616979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "58qrC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LMGXA3FW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you post here the day and time of the game again? Also, are we planning on just meeting there?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4c81f56cddb5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4055541249281_4c81f56cddb58a01ad12_72.jpg",
+            "first_name": "Marcos",
+            "real_name": "Marcos Orfila",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mmarcosgoog",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d6158941-c418-4ada-8c5c-70e92d51bf50",
+        "type": "message",
+        "text": "Jazz Game: Thursday, November 2  7pm\nProbably meet at the Tanner Building and carpool. More details to come soon.",
+        "user": "U03LMGXA3FW",
+        "ts": "1696982233.273199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FnfdU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jazz Game: Thursday, November 2  7pm\nProbably meet at the Tanner Building and carpool. More details to come soon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696982233.273199",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696986881.887049",
+        "reply_users": [
+            "U03LCGQP0LW",
+            "U03LMGXA3FW"
+        ],
+        "replies": [
+            {
+                "user": "U03LCGQP0LW",
+                "ts": "1696986119.578889"
+            },
+            {
+                "user": "U03LMGXA3FW",
+                "ts": "1696986881.887049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1696986881.887049",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U03LG779KGD",
+                    "U03LCGQP0LW",
+                    "U03LXQCJA81"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03LK551XFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b535a9c9-1178-49e0-b75f-4ef9b64c0216",
+        "type": "message",
+        "text": "Just a reminder to upload your passport to the study abroad application: *<http:\/\/isp.byu.edu|isp.byu.edu>*",
+        "user": "U03LN7VEH2Q",
+        "ts": "1696982410.451989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wg6ND",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just a reminder to upload your passport to the study abroad application: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/isp.byu.edu",
+                                "text": "isp.byu.edu",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "570a5ee5159b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-26\/3990981453590_570a5ee5159b9d093a84_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Peterson",
+            "display_name": "Sam Peterson",
+            "team": "T0ZBAEL59",
+            "name": "samuel.peterson324",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LK551XFU",
+                    "U03NW11JH19",
+                    "U03LCGQP0LW",
+                    "U03LXQCJA81"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c2aa5bf-9daf-4e43-bfd6-35d756812fd7",
+        "type": "message",
+        "text": "Frontrunner is also a free\/efficient option to consider! Avoids post-game traffic.",
+        "user": "U03LCGQP0LW",
+        "ts": "1696986119.578889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rzq4D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Frontrunner is also a free\/efficient option to consider! Avoids post-game traffic."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "854c6c8cafe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-15\/5271050025428_854c6c8cafe5c412a0a5_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Poulton",
+            "display_name": "Tanner Poulton",
+            "team": "T0ZBAEL59",
+            "name": "tannerjpoulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696982233.273199",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "514D33EF-A045-4FEA-9DD4-ED54B664DAB8",
+        "type": "message",
+        "text": "This is a great idea Tanner! I will look into this as an option as well. ",
+        "user": "U03LMGXA3FW",
+        "ts": "1696986881.887049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "99ANm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a great idea Tanner! I will look into this as an option as well"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696982233.273199",
+        "parent_user_id": "U03LMGXA3FW"
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "client_msg_id": "6F4363ED-0555-4EE0-A414-B692EA2BE8C7",
+        "type": "message",
+        "text": "Does anyone know where I can find the reading for Outsmart your Own Biases? Or I might be super blind and didn’t see it in the course packet. ",
+        "user": "U05A7HCQPDM",
+        "ts": "1697173022.209239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JoMPC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "oes anyone know where I can find the reading for Outsmart your Own Biases? Or I might be super blind and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "didn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " see it in the course packet. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "5c524fe22b9b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-09\/5399582764435_5c524fe22b9bc184debd_72.png",
+            "first_name": "Natalie",
+            "real_name": "Natalie Koon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nataliekoon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697173022.209239",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1697174614.950279",
+        "reply_users": [
+            "U05AN015NSX",
+            "U05A7HCQPDM"
+        ],
+        "replies": [
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697173307.205069"
+            },
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697173343.686729"
+            },
+            {
+                "user": "U05A7HCQPDM",
+                "ts": "1697174106.695979"
+            },
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697174614.950279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Yeah, they can be hard to find sometimes. So, I usually look in RedShelf first, which helps me know the approximate location.",
+        "files": [
+            {
+                "id": "F061CA1MSQ1",
+                "created": 1697173250,
+                "timestamp": 1697173250,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05AN015NSX",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 75271,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061CA1MSQ1\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061CA1MSQ1\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061CA1MSQ1-007ef7cc0c\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061CA1MSQ1-007ef7cc0c\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061CA1MSQ1-007ef7cc0c\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 233,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061CA1MSQ1-007ef7cc0c\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 311,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061CA1MSQ1-007ef7cc0c\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061CA1MSQ1-007ef7cc0c\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 467,
+                "thumb_720_h": 720,
+                "original_w": 487,
+                "original_h": 751,
+                "thumb_tiny": "AwAwAB\/QOM\/eb8DTgwP\/ANegj\/ZpMf7NAC59jS0g46LS9qAGt9D+VIMeh\/KlP1o47t+tLUAGD2P5U403j+9+tKeBTADntSfNQfpSf8BH5UAO59aG6Ug+mBTj0oA\/\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05AN015NSX\/F061CA1MSQ1\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061CA1MSQ1-a396821d26",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05AN015NSX",
+        "display_as_bot": false,
+        "ts": "1697173307.205069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jGxSO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, they can be hard to find sometimes. So, I usually look in RedShelf first, which helps me know the approximate location."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7c77e4ae-2d1b-4136-acd1-e0a9823ba478",
+        "thread_ts": "1697173022.209239",
+        "parent_user_id": "U05A7HCQPDM"
+    },
+    {
+        "client_msg_id": "7223a132-5347-4d64-808f-c3682642c767",
+        "type": "message",
+        "text": "If it is missing from your packet, let me know and I can get you a PDF",
+        "user": "U05AN015NSX",
+        "ts": "1697173343.686729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IpQn+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If it is missing from your packet, let me know and I can get you a PDF"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697173022.209239",
+        "parent_user_id": "U05A7HCQPDM"
+    },
+    {
+        "client_msg_id": "7BBCF153-DBA6-4A33-973A-B986BE2AAF5C",
+        "type": "message",
+        "text": "I saw the cases before and after the ‘outsmart’ one. Let me go look again and confirm that I am truly blind :joy:  thanks Spencer! ",
+        "user": "U05A7HCQPDM",
+        "ts": "1697174106.695979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U1zHD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I saw the cases before and after the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "‘outsmart"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’ one. Let me go look again and confirm that I am truly blind "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  thanks Spencer! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "5c524fe22b9b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-09\/5399582764435_5c524fe22b9bc184debd_72.png",
+            "first_name": "Natalie",
+            "real_name": "Natalie Koon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nataliekoon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697173022.209239",
+        "parent_user_id": "U05A7HCQPDM",
+        "reactions": [
+            {
+                "name": "woman_with_probing_cane",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/archive.ph\/20160518235131\/https:\/\/hbr.org\/2015\/05\/outsmart-your-own-biases>",
+        "files": [
+            {
+                "id": "F060ZKJJKM1",
+                "created": 1697174580,
+                "timestamp": 1697174580,
+                "name": "MBA 505_Leadership-pages-193-201.pdf",
+                "title": "MBA 505_Leadership-pages-193-201.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05AN015NSX",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 1790395,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060ZKJJKM1\/mba_505_leadership-pages-193-201.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060ZKJJKM1\/download\/mba_505_leadership-pages-193-201.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060ZKJJKM1-dcc030a824\/mba_505_leadership-pages-193-201_thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05AN015NSX\/F060ZKJJKM1\/mba_505_leadership-pages-193-201.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060ZKJJKM1-0d40f32d92",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05AN015NSX",
+        "display_as_bot": false,
+        "ts": "1697174614.950279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rc\/e4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/archive.ph\/20160518235131\/https:\/\/hbr.org\/2015\/05\/outsmart-your-own-biases"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2a3c8746-934e-46f4-af86-547ab9d3c657",
+        "thread_ts": "1697173022.209239",
+        "parent_user_id": "U05A7HCQPDM",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05A7HCQPDM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

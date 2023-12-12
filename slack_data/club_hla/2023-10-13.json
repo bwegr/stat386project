@@ -1,0 +1,93 @@
+[
+    {
+        "type": "message",
+        "text": "Healthcare focused resume\/interview workshop Tuesday, Oct 17           <https:\/\/byu.joinhandshake.com\/events\/1402822\/share_preview|Register Here> ",
+        "files": [
+            {
+                "id": "F0611DRQWPM",
+                "created": 1697201109,
+                "timestamp": 1697201109,
+                "name": "IMG_6915.jpg",
+                "title": "IMG_6915",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03LMGXA3FW",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 77308,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0611DRQWPM\/img_6915.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0611DRQWPM\/download\/img_6915.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0611DRQWPM-425dc4f0d2\/img_6915_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0611DRQWPM-425dc4f0d2\/img_6915_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0611DRQWPM-425dc4f0d2\/img_6915_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0611DRQWPM-425dc4f0d2\/img_6915_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0611DRQWPM-425dc4f0d2\/img_6915_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0611DRQWPM-425dc4f0d2\/img_6915_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0611DRQWPM-425dc4f0d2\/img_6915_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0611DRQWPM-425dc4f0d2\/img_6915_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "original_w": 960,
+                "original_h": 540,
+                "thumb_tiny": "AwAbADCysZaLKqC2cc0pjk\/hjQf8CqS3\/wBX+NPLEHFNsRUEi4zsQD0LGlLoDjah\/wCBY4qzuPoKQnIxgflRcZBjMYbbHkjru60Efuy21RzgENnNFwrmWIqhIAPQdDTYAy2Z3qVO8nBHShPUGtCeDPlde9S9R0zVMOwOAxA+tLubcRuPT1p2FctYP92jn+7VYO2PvH86Te3949fWjlC5Lchzt2Z\/CkwwtlDjDZ71GHbB+Y\/nSMzEcsevrRYLn\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LMGXA3FW\/F0611DRQWPM\/img_6915.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0611DRQWPM-cdb2a76b0a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LMGXA3FW",
+        "display_as_bot": false,
+        "ts": "1697201146.074359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ovDZU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Healthcare focused resume\/interview workshop Tuesday, Oct 17           "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.joinhandshake.com\/events\/1402822\/share_preview",
+                                "text": "Register Here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03LMGXA3FW",
+            "ts": "1697201243.000000"
+        },
+        "client_msg_id": "F9ABFD44-1210-4843-947D-581A319263DC"
+    }
+]

@@ -1,0 +1,1585 @@
+[
+    {
+        "client_msg_id": "f6ca6873-dd04-4e5e-af3f-b584466429df",
+        "type": "message",
+        "text": "PWC applications are open now\n<https:\/\/jobs.us.pwc.com\/job\/phoenix\/management-consulting-senior-associate-intern-summer-2024\/932\/55041619792>\n\n<https:\/\/jobs.us.pwc.com\/job\/los-angeles\/management-consulting-workforce-senior-associate-intern-summer-2024\/932\/55041616624>\n\n\n*<http:\/\/jobs.us.pwc.com|jobs.us.pwc.com>*\n*<https:\/\/jobs.us.pwc.com\/job\/phoenix\/management-consulting-senior-associate-intern-summer-2024\/932\/55041619792|Management Consulting Senior Associate Intern - Summer 2024 at PwC>*\nLearn more about applying for Management Consulting Senior Associate Intern - Summer 2024 at PwC\n\n\n*<http:\/\/jobs.us.pwc.com|jobs.us.pwc.com>*\n*<https:\/\/jobs.us.pwc.com\/job\/los-angeles\/management-consulting-workforce-senior-associate-intern-summer-2024\/932\/55041616624|Management Consulting - Workforce - Senior Associate Intern - Summer 2024 at PwC>*\nLearn more about applying for Management Consulting - Workforce - Senior Associate Intern - Summer 2024 at PwC",
+        "user": "U03NW11JH19",
+        "ts": "1698355135.203109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AbWFO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PWC applications are open now\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.us.pwc.com\/job\/phoenix\/management-consulting-senior-associate-intern-summer-2024\/932\/55041619792"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.us.pwc.com\/job\/los-angeles\/management-consulting-workforce-senior-associate-intern-summer-2024\/932\/55041616624"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/jobs.us.pwc.com",
+                                "text": "jobs.us.pwc.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.us.pwc.com\/job\/phoenix\/management-consulting-senior-associate-intern-summer-2024\/932\/55041619792",
+                                "text": "Management Consulting Senior Associate Intern - Summer 2024 at PwC",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLearn more about applying for Management Consulting Senior Associate Intern - Summer 2024 at PwC\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/jobs.us.pwc.com",
+                                "text": "jobs.us.pwc.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.us.pwc.com\/job\/los-angeles\/management-consulting-workforce-senior-associate-intern-summer-2024\/932\/55041616624",
+                                "text": "Management Consulting - Workforce - Senior Associate Intern - Summer 2024 at PwC",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLearn more about applying for Management Consulting - Workforce - Senior Associate Intern - Summer 2024 at PwC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/jobs.us.pwc.com\/job\/phoenix\/management-consulting-senior-associate-intern-summer-2024\/932\/55041619792",
+                "service_icon": "http:\/\/tbcdn.talentbrew.com\/company\/932\/img\/favicon\/favicon-20012.ico",
+                "id": 1,
+                "original_url": "https:\/\/jobs.us.pwc.com\/job\/phoenix\/management-consulting-senior-associate-intern-summer-2024\/932\/55041619792",
+                "fallback": "Management Consulting Senior Associate Intern - Summer 2024 at PwC",
+                "text": "Learn more about applying for Management Consulting Senior Associate Intern - Summer 2024 at PwC",
+                "title": "Management Consulting Senior Associate Intern - Summer 2024 at PwC",
+                "title_link": "https:\/\/jobs.us.pwc.com\/job\/phoenix\/management-consulting-senior-associate-intern-summer-2024\/932\/55041619792",
+                "service_name": "jobs.us.pwc.com"
+            },
+            {
+                "from_url": "https:\/\/jobs.us.pwc.com\/job\/los-angeles\/management-consulting-workforce-senior-associate-intern-summer-2024\/932\/55041616624",
+                "service_icon": "http:\/\/tbcdn.talentbrew.com\/company\/932\/img\/favicon\/favicon-20012.ico",
+                "id": 2,
+                "original_url": "https:\/\/jobs.us.pwc.com\/job\/los-angeles\/management-consulting-workforce-senior-associate-intern-summer-2024\/932\/55041616624",
+                "fallback": "Management Consulting - Workforce - Senior Associate Intern - Summer 2024 at PwC",
+                "text": "Learn more about applying for Management Consulting - Workforce - Senior Associate Intern - Summer 2024 at PwC",
+                "title": "Management Consulting - Workforce - Senior Associate Intern - Summer 2024 at PwC",
+                "title_link": "https:\/\/jobs.us.pwc.com\/job\/los-angeles\/management-consulting-workforce-senior-associate-intern-summer-2024\/932\/55041616624",
+                "service_name": "jobs.us.pwc.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90f2bab7-8d6d-41da-b93e-1f5b4351a1bf",
+        "type": "message",
+        "text": "EY applications are open now\n\n<https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-business-transformation-mba-intern-summer-2024\/39053\/55535329696>\n\n <https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-technology-strategy-and-operations-mba-intern-summer-2024\/39053\/55535329616>\n\n <https:\/\/studentjobs.ey.com\/job\/new-york\/usa-consulting-financial-services-profit-improvement-mba-intern-summer-2024\/39053\/55535329664>\n\n <https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-health-mba-intern-summer-2024\/39053\/55535329680>\n\n <https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-artificial-intelligence-and-data-mba-intern-summer-2024\/39053\/55535329712>\n\n <https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-finance-mba-intern-summer-2024\/39053\/55535329632>\n\n <https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-supply-chain-and-operations-mba-intern-summer-2024\/39053\/55535329728>\n\n <https:\/\/studentjobs.ey.com\/job\/charlotte\/usa-consulting-fso-wealth-asset-management-business-transformation-mba-intern-summer-2024\/39053\/55535329648>\n\n\n*<http:\/\/studentjobs.ey.com|studentjobs.ey.com>*\n*<https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-business-transformation-mba-intern-summer-2024\/39053\/55535329696|USA - Consulting - Business Transformation - MBA Intern - Summer 2024 at EY>*\nLearn more about applying for USA - Consulting - Business Transformation - MBA Intern - Summer 2024 at EY\n\n\n*<http:\/\/studentjobs.ey.com|studentjobs.ey.com>*\n*<https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-technology-strategy-and-operations-mba-intern-summer-2024\/39053\/55535329616|USA - Consulting - Technology Strategy and Operations - MBA Intern - Summer 2024 at EY>*\nLearn more about applying for USA - Consulting - Technology Strategy and Operations - MBA Intern - Summer 2024 at EY\n\n\n*<http:\/\/studentjobs.ey.com|studentjobs.ey.com>*\n*<https:\/\/studentjobs.ey.com\/job\/new-york\/usa-consulting-financial-services-profit-improvement-mba-intern-summer-2024\/39053\/55535329664|USA - Consulting - Financial Services - Profit Improvement- MBA Intern - Summer 2024 at EY>*\nLearn more about applying for USA - Consulting - Financial Services - Profit Improvement- MBA Intern - Summer 2024 at EY\n\n\n*<http:\/\/studentjobs.ey.com|studentjobs.ey.com>*\n*<https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-health-mba-intern-summer-2024\/39053\/55535329680|USA - Consulting - Health - MBA Intern - Summer 2024 at EY>*\nLearn more about applying for USA - Consulting - Health - MBA Intern - Summer 2024 at EY\n\n\n*<http:\/\/studentjobs.ey.com|studentjobs.ey.com>*\n*<https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-artificial-intelligence-and-data-mba-intern-summer-2024\/39053\/55535329712|USA - Consulting - Artificial Intelligence &amp; Data - MBA Intern - Summer 2024 at EY>*\nLearn more about applying for USA - Consulting - Artificial Intelligence &amp; Data - MBA Intern - Summer 2024 at EY",
+        "user": "U03NW11JH19",
+        "ts": "1698355176.437209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vAmjy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "EY applications are open now\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-business-transformation-mba-intern-summer-2024\/39053\/55535329696"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-technology-strategy-and-operations-mba-intern-summer-2024\/39053\/55535329616"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/studentjobs.ey.com\/job\/new-york\/usa-consulting-financial-services-profit-improvement-mba-intern-summer-2024\/39053\/55535329664"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-health-mba-intern-summer-2024\/39053\/55535329680"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-artificial-intelligence-and-data-mba-intern-summer-2024\/39053\/55535329712"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-finance-mba-intern-summer-2024\/39053\/55535329632"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-supply-chain-and-operations-mba-intern-summer-2024\/39053\/55535329728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/studentjobs.ey.com\/job\/charlotte\/usa-consulting-fso-wealth-asset-management-business-transformation-mba-intern-summer-2024\/39053\/55535329648"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/studentjobs.ey.com",
+                                "text": "studentjobs.ey.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-business-transformation-mba-intern-summer-2024\/39053\/55535329696",
+                                "text": "USA - Consulting - Business Transformation - MBA Intern - Summer 2024 at EY",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLearn more about applying for USA - Consulting - Business Transformation - MBA Intern - Summer 2024 at EY\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/studentjobs.ey.com",
+                                "text": "studentjobs.ey.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-technology-strategy-and-operations-mba-intern-summer-2024\/39053\/55535329616",
+                                "text": "USA - Consulting - Technology Strategy and Operations - MBA Intern - Summer 2024 at EY",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLearn more about applying for USA - Consulting - Technology Strategy and Operations - MBA Intern - Summer 2024 at EY\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/studentjobs.ey.com",
+                                "text": "studentjobs.ey.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/studentjobs.ey.com\/job\/new-york\/usa-consulting-financial-services-profit-improvement-mba-intern-summer-2024\/39053\/55535329664",
+                                "text": "USA - Consulting - Financial Services - Profit Improvement- MBA Intern - Summer 2024 at EY",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLearn more about applying for USA - Consulting - Financial Services - Profit Improvement- MBA Intern - Summer 2024 at EY\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/studentjobs.ey.com",
+                                "text": "studentjobs.ey.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-health-mba-intern-summer-2024\/39053\/55535329680",
+                                "text": "USA - Consulting - Health - MBA Intern - Summer 2024 at EY",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLearn more about applying for USA - Consulting - Health - MBA Intern - Summer 2024 at EY\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/studentjobs.ey.com",
+                                "text": "studentjobs.ey.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-artificial-intelligence-and-data-mba-intern-summer-2024\/39053\/55535329712",
+                                "text": "USA - Consulting - Artificial Intelligence & Data - MBA Intern - Summer 2024 at EY",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLearn more about applying for USA - Consulting - Artificial Intelligence & Data - MBA Intern - Summer 2024 at EY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-business-transformation-mba-intern-summer-2024\/39053\/55535329696",
+                "service_icon": "http:\/\/tbcdn.talentbrew.com\/company\/39053\/img\/favicon\/favicon-ey.ico",
+                "id": 1,
+                "original_url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-business-transformation-mba-intern-summer-2024\/39053\/55535329696",
+                "fallback": "USA - Consulting - Business Transformation - MBA Intern - Summer 2024 at EY",
+                "text": "Learn more about applying for USA - Consulting - Business Transformation - MBA Intern - Summer 2024 at EY",
+                "title": "USA - Consulting - Business Transformation - MBA Intern - Summer 2024 at EY",
+                "title_link": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-business-transformation-mba-intern-summer-2024\/39053\/55535329696",
+                "service_name": "studentjobs.ey.com"
+            },
+            {
+                "from_url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-technology-strategy-and-operations-mba-intern-summer-2024\/39053\/55535329616",
+                "service_icon": "http:\/\/tbcdn.talentbrew.com\/company\/39053\/img\/favicon\/favicon-ey.ico",
+                "id": 2,
+                "original_url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-technology-strategy-and-operations-mba-intern-summer-2024\/39053\/55535329616",
+                "fallback": "USA - Consulting - Technology Strategy and Operations - MBA Intern - Summer 2024 at EY",
+                "text": "Learn more about applying for USA - Consulting - Technology Strategy and Operations - MBA Intern - Summer 2024 at EY",
+                "title": "USA - Consulting - Technology Strategy and Operations - MBA Intern - Summer 2024 at EY",
+                "title_link": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-technology-strategy-and-operations-mba-intern-summer-2024\/39053\/55535329616",
+                "service_name": "studentjobs.ey.com"
+            },
+            {
+                "from_url": "https:\/\/studentjobs.ey.com\/job\/new-york\/usa-consulting-financial-services-profit-improvement-mba-intern-summer-2024\/39053\/55535329664",
+                "service_icon": "http:\/\/tbcdn.talentbrew.com\/company\/39053\/img\/favicon\/favicon-ey.ico",
+                "id": 3,
+                "original_url": "https:\/\/studentjobs.ey.com\/job\/new-york\/usa-consulting-financial-services-profit-improvement-mba-intern-summer-2024\/39053\/55535329664",
+                "fallback": "USA - Consulting - Financial Services - Profit Improvement- MBA Intern - Summer 2024 at EY",
+                "text": "Learn more about applying for USA - Consulting - Financial Services - Profit Improvement- MBA Intern - Summer 2024 at EY",
+                "title": "USA - Consulting - Financial Services - Profit Improvement- MBA Intern - Summer 2024 at EY",
+                "title_link": "https:\/\/studentjobs.ey.com\/job\/new-york\/usa-consulting-financial-services-profit-improvement-mba-intern-summer-2024\/39053\/55535329664",
+                "service_name": "studentjobs.ey.com"
+            },
+            {
+                "from_url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-health-mba-intern-summer-2024\/39053\/55535329680",
+                "service_icon": "http:\/\/tbcdn.talentbrew.com\/company\/39053\/img\/favicon\/favicon-ey.ico",
+                "id": 4,
+                "original_url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-health-mba-intern-summer-2024\/39053\/55535329680",
+                "fallback": "USA - Consulting - Health - MBA Intern - Summer 2024 at EY",
+                "text": "Learn more about applying for USA - Consulting - Health - MBA Intern - Summer 2024 at EY",
+                "title": "USA - Consulting - Health - MBA Intern - Summer 2024 at EY",
+                "title_link": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-health-mba-intern-summer-2024\/39053\/55535329680",
+                "service_name": "studentjobs.ey.com"
+            },
+            {
+                "from_url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-artificial-intelligence-and-data-mba-intern-summer-2024\/39053\/55535329712",
+                "service_icon": "http:\/\/tbcdn.talentbrew.com\/company\/39053\/img\/favicon\/favicon-ey.ico",
+                "id": 5,
+                "original_url": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-artificial-intelligence-and-data-mba-intern-summer-2024\/39053\/55535329712",
+                "fallback": "USA - Consulting - Artificial Intelligence &amp; Data - MBA Intern - Summer 2024 at EY",
+                "text": "Learn more about applying for USA - Consulting - Artificial Intelligence &amp; Data - MBA Intern - Summer 2024 at EY",
+                "title": "USA - Consulting - Artificial Intelligence &amp; Data - MBA Intern - Summer 2024 at EY",
+                "title_link": "https:\/\/studentjobs.ey.com\/job\/los-angeles\/usa-consulting-artificial-intelligence-and-data-mba-intern-summer-2024\/39053\/55535329712",
+                "service_name": "studentjobs.ey.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9077628-200c-4b46-b871-90c18ce6d909",
+        "type": "message",
+        "text": "LEK deadline is NOV 30th it is open now\n\n<https:\/\/lek.tal.net\/vx\/lang-en-GB\/mobile-0\/appcentre-2\/brand-2\/xf-36501a442add\/candidate\/so\/pm\/1\/pl\/6\/opp\/3265-U-S-Summer-Consultant-2024\/en-GB>",
+        "user": "U03NW11JH19",
+        "ts": "1698355297.051139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uB3AG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LEK deadline is NOV 30th it is open now\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lek.tal.net\/vx\/lang-en-GB\/mobile-0\/appcentre-2\/brand-2\/xf-36501a442add\/candidate\/so\/pm\/1\/pl\/6\/opp\/3265-U-S-Summer-Consultant-2024\/en-GB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/lek.tal.net\/vx\/lang-en-GB\/mobile-0\/appcentre-2\/brand-2\/xf-36501a442add\/candidate\/so\/pm\/1\/pl\/6\/opp\/3265-U-S-Summer-Consultant-2024\/en-GB",
+                "service_icon": "https:\/\/lek.tal.net\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/lek.tal.net\/vx\/lang-en-GB\/mobile-0\/appcentre-2\/brand-2\/xf-36501a442add\/candidate\/so\/pm\/1\/pl\/6\/opp\/3265-U-S-Summer-Consultant-2024\/en-GB",
+                "fallback": "U.S. Summer Consultant - 2024 - L.E.K. Consulting",
+                "text": "Title: U.S. Summer Consultant - 2024. Location: Boston, Chicago, Los Angeles, New York, San Francisco. Closing Date: 30\/11\/2023, 23:55",
+                "title": "U.S. Summer Consultant - 2024 - L.E.K. Consulting",
+                "title_link": "https:\/\/lek.tal.net\/vx\/lang-en-GB\/mobile-0\/appcentre-2\/brand-2\/xf-36501a442add\/candidate\/so\/pm\/1\/pl\/6\/opp\/3265-U-S-Summer-Consultant-2024\/en-GB",
+                "service_name": "lek.tal.net"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "217b8ebb-6ff0-4356-86c4-6fa98d32ba3f",
+        "type": "message",
+        "text": "<https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Operations-Strategy-Advisor\/157066>\n\n<https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Strategy-Advisor\/157000>\n\n<https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Operations-Strategy-Advisor-Strategy-Advisor\/157005>",
+        "user": "U03NW11JH19",
+        "ts": "1698355599.001219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YOy9C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Operations-Strategy-Advisor\/157066"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Strategy-Advisor\/157000"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Operations-Strategy-Advisor-Strategy-Advisor\/157005"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/apply.deloitte.com\/portal\/7\/images\/logo--hiring-organization.png",
+                "image_width": 1200,
+                "image_height": 628,
+                "image_bytes": 370823,
+                "from_url": "https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Operations-Strategy-Advisor\/157066",
+                "id": 1,
+                "original_url": "https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Operations-Strategy-Advisor\/157066",
+                "fallback": "Check out this job at Deloitte, Deloitte Consulting - Summer Associate (Operations Strategy Advisor)",
+                "text": "Become an Operations Strategy Advisor Summer Associate at Deloitte Consulting! Join our operations strategy pathway within our strategic advisor team where we advise the world’s leading companies...",
+                "title": "Check out this job at Deloitte, Deloitte Consulting - Summer Associate (Operations Strategy Advisor)",
+                "title_link": "https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Operations-Strategy-Advisor\/157066",
+                "service_name": "apply.deloitte.com"
+            },
+            {
+                "image_url": "https:\/\/apply.deloitte.com\/portal\/7\/images\/logo--hiring-organization.png",
+                "image_width": 1200,
+                "image_height": 628,
+                "image_bytes": 370823,
+                "from_url": "https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Strategy-Advisor\/157000",
+                "id": 2,
+                "original_url": "https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Strategy-Advisor\/157000",
+                "fallback": "Check out this job at Deloitte, Deloitte Consulting - Summer Associate (Strategy Advisor)",
+                "text": "Become a Strategy Advisor Summer Associate at Deloitte Consulting! Join our strategy pathway within our strategic advisor team where we advise the world’s leading companies in navigating change and...",
+                "title": "Check out this job at Deloitte, Deloitte Consulting - Summer Associate (Strategy Advisor)",
+                "title_link": "https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Strategy-Advisor\/157000",
+                "service_name": "apply.deloitte.com"
+            },
+            {
+                "image_url": "https:\/\/apply.deloitte.com\/portal\/7\/images\/logo--hiring-organization.png",
+                "image_width": 1200,
+                "image_height": 628,
+                "image_bytes": 370823,
+                "from_url": "https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Operations-Strategy-Advisor-Strategy-Advisor\/157005",
+                "id": 3,
+                "original_url": "https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Operations-Strategy-Advisor-Strategy-Advisor\/157005",
+                "fallback": "Check out this job at Deloitte, Deloitte Consulting - Summer Associate (Operations Strategy Advisor \/ Strategy Advisor)",
+                "text": "Become a Summer Associate at Deloitte Consulting! Join our advisor team where we advise the world’s leading companies in navigating change and architecting the future. When you join our team,...",
+                "title": "Check out this job at Deloitte, Deloitte Consulting - Summer Associate (Operations Strategy Advisor \/ Strategy Advisor)",
+                "title_link": "https:\/\/apply.deloitte.com\/careers\/JobDetail\/Deloitte-Consulting-Summer-Associate-Operations-Strategy-Advisor-Strategy-Advisor\/157005",
+                "service_name": "apply.deloitte.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82865372-e1e8-42fa-aca2-655b37c3ccd4",
+        "type": "message",
+        "text": "<https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=107013>\n\n<https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=104577>\n\n<https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=106638>",
+        "user": "U03NW11JH19",
+        "ts": "1698355748.065259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W7B88",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=107013"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=104577"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=106638"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.kpmguscareers.com\/wp-content\/uploads\/2022\/12\/kpmg.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 16086,
+                "from_url": "https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=107013",
+                "service_icon": "https:\/\/www.kpmguscareers.com\/wp-content\/uploads\/2022\/10\/android-chrome-256x256-1.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=107013",
+                "fallback": "KPMG Careers: Advisory Intern, Deal Advisory - Financial Due Diligence | Multiple Locations, Summer 2024",
+                "text": "The KPMG Advisory practice is currently our fastest growing practice. We are seeing tremendous client demand, and looking forward we don't anticipate that slowing down.",
+                "title": "Advisory Intern, Deal Advisory - Financial Due Diligence | Multiple Locations, Summer 2024",
+                "title_link": "https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=107013",
+                "service_name": "KPMG Careers"
+            },
+            {
+                "image_url": "https:\/\/www.kpmguscareers.com\/wp-content\/uploads\/2022\/12\/kpmg.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 16086,
+                "from_url": "https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=104577",
+                "service_icon": "https:\/\/www.kpmguscareers.com\/wp-content\/uploads\/2022\/10\/android-chrome-256x256-1.png",
+                "id": 2,
+                "original_url": "https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=104577",
+                "fallback": "KPMG Careers: Advisory Seasonal Intern, State and Local Regulatory &amp; Compliance - Lottery | Albany Fall 2023",
+                "text": "The KPMG Advisory practice is currently our fastest growing practice. We are seeing tremendous client demand, and looking forward we don't anticipate that slowing down.",
+                "title": "Advisory Seasonal Intern, State and Local Regulatory &amp; Compliance - Lottery | Albany Fall 2023",
+                "title_link": "https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=104577",
+                "service_name": "KPMG Careers"
+            },
+            {
+                "from_url": "https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=106638",
+                "image_url": "https:\/\/www.kpmguscareers.com\/wp-content\/uploads\/2022\/12\/kpmg.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 16086,
+                "service_icon": "https:\/\/www.kpmguscareers.com\/wp-content\/uploads\/2022\/10\/android-chrome-256x256-1.png",
+                "id": 3,
+                "original_url": "https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=106638",
+                "fallback": "KPMG Careers: Advisory Intern, Internal Audit and Enterprise Risk | Multiple Locations Summer 2024",
+                "text": "The KPMG Advisory practice is currently our fastest growing practice. We are seeing tremendous client demand, and looking forward we don&amp;apos;t anticipate that slowing down.",
+                "title": "Advisory Intern, Internal Audit and Enterprise Risk | Multiple Locations Summer 2024",
+                "title_link": "https:\/\/www.kpmguscareers.com\/jobdetail\/?jobId=106638",
+                "service_name": "KPMG Careers"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5cc664b1-8531-4605-85b1-5ee76b165153",
+        "type": "message",
+        "text": "<https:\/\/www.mckinsey.com\/careers\/search-jobs\/jobs\/associateintern-14918>",
+        "user": "U03NW11JH19",
+        "ts": "1698355885.276199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "feN00",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mckinsey.com\/careers\/search-jobs\/jobs\/associateintern-14918"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.mckinsey.com\/~\/media\/images\/global\/seoimageplaceholder.jpg",
+                "image_width": 1200,
+                "image_height": 1200,
+                "image_bytes": 45561,
+                "from_url": "https:\/\/www.mckinsey.com\/careers\/search-jobs\/jobs\/associateintern-14918",
+                "service_icon": "https:\/\/www.mckinsey.com\/redesign\/resources\/images\/mck-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.mckinsey.com\/careers\/search-jobs\/jobs\/associateintern-14918",
+                "fallback": "McKinsey &amp; Company: Associate Intern | Careers",
+                "text": "You'll work in teams of typically 3 - 5 consultants to identify, and oftentimes implement, potential solutions for a specific client problem or challenge. Together, you will help clients make lasting improvements",
+                "title": "Associate Intern | Careers",
+                "title_link": "https:\/\/www.mckinsey.com\/careers\/search-jobs\/jobs\/associateintern-14918",
+                "service_name": "McKinsey &amp; Company"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6afea592-6696-409f-9ab1-3258be0fb6b9",
+        "type": "message",
+        "text": "<https:\/\/careers.bcg.com\/search-results?rk=page-targeted-jobs-page324-prod-n6mBQm>\n\n<https:\/\/talent.bcg.com\/en_US\/apply\/Login?folderIdAuto=10020333&amp;folderId1=10013667>\n\n<https:\/\/careers.bcg.com\/job\/10020535\/Data-Scientist-Internship-BCG-X>\n\n<https:\/\/careers.bcg.com\/job\/10050078\/Software-Engineer-Internship-BCG-X>",
+        "user": "U03NW11JH19",
+        "ts": "1698356177.604299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYPco",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.bcg.com\/search-results?rk=page-targeted-jobs-page324-prod-n6mBQm"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/talent.bcg.com\/en_US\/apply\/Login?folderIdAuto=10020333&folderId1=10013667"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.bcg.com\/job\/10020535\/Data-Scientist-Internship-BCG-X"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.bcg.com\/job\/10050078\/Software-Engineer-Internship-BCG-X"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.phenompeople.com\/CareerConnectResources\/BCG1US\/images\/search-results-fb-1663090603956.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 1019321,
+                "from_url": "https:\/\/careers.bcg.com\/search-results?rk=page-targeted-jobs-page324-prod-n6mBQm",
+                "service_icon": "https:\/\/careers.bcg.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/careers.bcg.com\/search-results?rk=page-targeted-jobs-page324-prod-n6mBQm",
+                "fallback": "BCG: Search results | Find the available job openings at Boston Consulting Group",
+                "text": "Your search results for the jobs at Boston Consulting Group. Find the available job openings and apply for the job which matches your skills.",
+                "title": "Search results | Find the available job openings at Boston Consulting Group",
+                "title_link": "https:\/\/careers.bcg.com\/search-results?rk=page-targeted-jobs-page324-prod-n6mBQm",
+                "service_name": "BCG"
+            },
+            {
+                "from_url": "https:\/\/talent.bcg.com\/en_US\/apply\/Login?folderIdAuto=10020333&folderId1=10013667",
+                "id": 2,
+                "original_url": "https:\/\/talent.bcg.com\/en_US\/apply\/Login?folderIdAuto=10020333&amp;folderId1=10013667",
+                "fallback": "OAPP Portal",
+                "text": "OAPP Portal",
+                "title": "OAPP Portal",
+                "title_link": "https:\/\/talent.bcg.com\/en_US\/apply\/Login?folderIdAuto=10020333&folderId1=10013667",
+                "service_name": "talent.bcg.com"
+            },
+            {
+                "image_url": "https:\/\/assets.phenompeople.com\/CareerConnectResources\/prod\/BCG1US\/images\/BCGXJDOGTwitter-1687446627966.png",
+                "image_width": 1024,
+                "image_height": 512,
+                "image_bytes": 629951,
+                "from_url": "https:\/\/careers.bcg.com\/job\/10020535\/Data-Scientist-Internship-BCG-X",
+                "service_icon": "https:\/\/careers.bcg.com\/favicon.ico",
+                "id": 3,
+                "original_url": "https:\/\/careers.bcg.com\/job\/10020535\/Data-Scientist-Internship-BCG-X",
+                "fallback": "BCG: Data Scientist Internship – BCG X in  | Data Science and Analytics at BCG",
+                "text": "Apply for Data Scientist Internship – BCG X job with BCG in . Data Science and Analytics at BCG",
+                "title": "Data Scientist Internship – BCG X in  | Data Science and Analytics at BCG",
+                "title_link": "https:\/\/careers.bcg.com\/job\/10020535\/Data-Scientist-Internship-BCG-X",
+                "service_name": "BCG"
+            },
+            {
+                "image_url": "https:\/\/assets.phenompeople.com\/CareerConnectResources\/prod\/BCG1US\/images\/BCGXJDOGTwitter-1687446627966.png",
+                "image_width": 1024,
+                "image_height": 512,
+                "image_bytes": 629951,
+                "from_url": "https:\/\/careers.bcg.com\/job\/10050078\/Software-Engineer-Internship-BCG-X",
+                "service_icon": "https:\/\/careers.bcg.com\/favicon.ico",
+                "id": 4,
+                "original_url": "https:\/\/careers.bcg.com\/job\/10050078\/Software-Engineer-Internship-BCG-X",
+                "fallback": "BCG: Software Engineer Internship – BCG X in  | Data Science and Analytics at BCG",
+                "text": "Apply for Software Engineer Internship – BCG X job with BCG in . Data Science and Analytics at BCG",
+                "title": "Software Engineer Internship – BCG X in  | Data Science and Analytics at BCG",
+                "title_link": "https:\/\/careers.bcg.com\/job\/10050078\/Software-Engineer-Internship-BCG-X",
+                "service_name": "BCG"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3bb18380-0977-45f4-84b2-abf643ef375b",
+        "type": "message",
+        "text": "<https:\/\/www.bain.com\/careers\/find-a-role\/position\/?jobid=10329#>",
+        "user": "U03NW11JH19",
+        "ts": "1698356323.366649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4dp0o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bain.com\/careers\/find-a-role\/position\/?jobid=10329#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.bain.com\/globalassets\/careers\/images\/hiring.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 650649,
+                "from_url": "https:\/\/www.bain.com\/careers\/find-a-role\/position\/?jobid=10329",
+                "service_icon": "https:\/\/www.bain.com\/Static\/images\/icons\/apple-touch-icon-114x114-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bain.com\/careers\/find-a-role\/position\/?jobid=10329#",
+                "fallback": "Bain: Associate Consultant Intern",
+                "text": "Management Consulting | Multiple offices",
+                "title": "Associate Consultant Intern",
+                "title_link": "https:\/\/www.bain.com\/careers\/find-a-role\/position\/?jobid=10329",
+                "service_name": "Bain"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa9a3056-c25e-4bd9-b0d9-f7892820cfce",
+        "type": "message",
+        "text": "<https:\/\/www.accenture.com\/us-en\/careers\/jobdetails?id=R00171633_en&amp;title=Accenture%20Summer%20Analyst%20(Internship)%20Development%20Programs%20-%20NAELFY24|https:\/\/www.accenture.com\/us-en\/careers\/jobdetails?id=R00171633_en&amp;title=Accenture%20[…]alyst%20(Internship)%20Development%20Programs%20-%20NAELFY24>",
+        "user": "U03NW11JH19",
+        "ts": "1698356642.520089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "77aV8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.accenture.com\/us-en\/careers\/jobdetails?id=R00171633_en&title=Accenture%20Summer%20Analyst%20(Internship)%20Development%20Programs%20-%20NAELFY24",
+                                "text": "https:\/\/www.accenture.com\/us-en\/careers\/jobdetails?id=R00171633_en&title=Accenture%20[…]alyst%20(Internship)%20Development%20Programs%20-%20NAELFY24"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.accenture.com\/us-en\/careers\/jobdetails?id=R00171633_en&title=Accenture%20Summer%20Analyst%20(Internship)%20Development%20Programs%20-%20NAELFY24",
+                "thumb_url": "https:\/\/dynamicmedia.accenture.com\/is\/image\/accenture\/Accenture-black-purple-268x268%3A1x1?ts=1693986870608&fit=constrain&dpr=off",
+                "thumb_width": 268,
+                "thumb_height": 268,
+                "id": 1,
+                "original_url": "https:\/\/www.accenture.com\/us-en\/careers\/jobdetails?id=R00171633_en&amp;title=Accenture%20Summer%20Analyst%20(Internship)%20Development%20Programs%20-%20NAELFY24",
+                "fallback": "Accenture Summer Analyst (Internship) Development Programs - NAELFY24",
+                "text": "Learn more about applying for Accenture Summer Analyst (Internship) Development Programs - NAELFY24 position at Accenture.",
+                "title": "Accenture Summer Analyst (Internship) Development Programs - NAELFY24",
+                "title_link": "https:\/\/www.accenture.com\/us-en\/careers\/jobdetails?id=R00171633_en&title=Accenture%20Summer%20Analyst%20(Internship)%20Development%20Programs%20-%20NAELFY24",
+                "service_name": "accenture.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81fe7d3f-d8b9-4fc7-8fec-67fe9d99ad64",
+        "type": "message",
+        "text": "<https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_242896\/Oliver-Wyman-2024-MBA-Summer-Associate-Operations-Practice>",
+        "user": "U03NW11JH19",
+        "ts": "1698356948.744019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OfT+I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_242896\/Oliver-Wyman-2024-MBA-Summer-Associate-Operations-Practice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/assets.phenompeople.com\/CareerConnectResources\/MAMCGLOBAL\/images\/TwitterLogo-1615927853951.png",
+                "image_width": 1024,
+                "image_height": 512,
+                "image_bytes": 57644,
+                "from_url": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_242896\/Oliver-Wyman-2024-MBA-Summer-Associate-Operations-Practice",
+                "service_icon": "https:\/\/careers.marshmclennan.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_242896\/Oliver-Wyman-2024-MBA-Summer-Associate-Operations-Practice",
+                "fallback": "Marsh McLennan: Oliver Wyman – 2024 MBA Summer Associate – Operations Practice in 1166 Avenue of the Americas, New York, NY 10036-2708, United States of America | Consulting at Marsh McLennan",
+                "text": "Apply for Oliver Wyman – 2024 MBA Summer Associate – Operations Practice job with Marsh McLennan in 1166 Avenue of the Americas, New York, NY 10036-2708, United States of America",
+                "title": "Oliver Wyman – 2024 MBA Summer Associate – Operations Practice in 1166 Avenue of the Americas, New York, NY 10036-2708, United States of America | Consulting at Marsh McLennan",
+                "title_link": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_242896\/Oliver-Wyman-2024-MBA-Summer-Associate-Operations-Practice",
+                "service_name": "Marsh McLennan"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7febebb3-b152-4506-9d63-0c9e8aedcf60",
+        "type": "message",
+        "text": "<https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_231589\/Oliver-Wyman-MBA-2024-Summer-Associate-Health-Life-Sciences>",
+        "user": "U03NW11JH19",
+        "ts": "1698357024.471909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3+cyI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_231589\/Oliver-Wyman-MBA-2024-Summer-Associate-Health-Life-Sciences"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/assets.phenompeople.com\/CareerConnectResources\/MAMCGLOBAL\/images\/TwitterLogo-1615927853951.png",
+                "image_width": 1024,
+                "image_height": 512,
+                "image_bytes": 57644,
+                "from_url": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_231589\/Oliver-Wyman-MBA-2024-Summer-Associate-Health-Life-Sciences",
+                "service_icon": "https:\/\/careers.marshmclennan.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_231589\/Oliver-Wyman-MBA-2024-Summer-Associate-Health-Life-Sciences",
+                "fallback": "Marsh McLennan: Oliver Wyman - MBA 2024 Summer Associate - Health &amp; Life Sciences in 1166 Avenue of the Americas, New York, NY 10036-2708, United States of America | Consulting at Marsh McLennan",
+                "text": "Apply for Oliver Wyman - MBA 2024 Summer Associate - Health &amp; Life Sciences job with Marsh McLennan in 1166 Avenue of the Americas, New York, NY 10036-2708, United States of America",
+                "title": "Oliver Wyman - MBA 2024 Summer Associate - Health &amp; Life Sciences in 1166 Avenue of the Americas, New York, NY 10036-2708, United States of America | Consulting at Marsh McLennan",
+                "title_link": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_231589\/Oliver-Wyman-MBA-2024-Summer-Associate-Health-Life-Sciences",
+                "service_name": "Marsh McLennan"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9170e19-a5c1-435a-9890-ff6f47db94d1",
+        "type": "message",
+        "text": "<https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_231586\/Oliver-Wyman-MBA-Summer-2024-Associate-Private-Capital>",
+        "user": "U03NW11JH19",
+        "ts": "1698357057.340999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qcbpw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_231586\/Oliver-Wyman-MBA-Summer-2024-Associate-Private-Capital"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_231586\/Oliver-Wyman-MBA-Summer-2024-Associate-Private-Capital",
+                "image_url": "https:\/\/assets.phenompeople.com\/CareerConnectResources\/MAMCGLOBAL\/images\/TwitterLogo-1615927853951.png",
+                "image_width": 1024,
+                "image_height": 512,
+                "image_bytes": 57644,
+                "service_icon": "https:\/\/careers.marshmclennan.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_231586\/Oliver-Wyman-MBA-Summer-2024-Associate-Private-Capital",
+                "fallback": "Marsh McLennan: Oliver Wyman - MBA Summer 2024 Associate - Private Capital in 1166 Avenue of the Americas, New York, NY 10036-2708, United States of America | Consulting at Marsh McLennan",
+                "text": "Apply for Oliver Wyman - MBA Summer 2024 Associate - Private Capital job with Marsh McLennan in 1166 Avenue of the Americas, New York, NY 10036-2708, United States of America",
+                "title": "Oliver Wyman - MBA Summer 2024 Associate - Private Capital in 1166 Avenue of the Americas, New York, NY 10036-2708, United States of America | Consulting at Marsh McLennan",
+                "title_link": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_231586\/Oliver-Wyman-MBA-Summer-2024-Associate-Private-Capital",
+                "service_name": "Marsh McLennan"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7649852c-66f5-452e-973c-a1e5da9ea305",
+        "type": "message",
+        "text": "EY - parthenon\n\n<https:\/\/eyglobal.yello.co\/external\/requisitions\/oi1JvqWGYDdyxZ0wciGDFA>\n\n<https:\/\/eyglobal.yello.co\/external\/requisitions\/l-XMiC_SoU4WMltPNHyPlQ>\n\n<https:\/\/eyglobal.yello.co\/external\/requisitions\/bZ--LdP7KhEfmbsLM-Jb_Q>",
+        "user": "U03NW11JH19",
+        "ts": "1698357300.824019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FDmWi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "EY - parthenon\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eyglobal.yello.co\/external\/requisitions\/oi1JvqWGYDdyxZ0wciGDFA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eyglobal.yello.co\/external\/requisitions\/l-XMiC_SoU4WMltPNHyPlQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eyglobal.yello.co\/external\/requisitions\/bZ--LdP7KhEfmbsLM-Jb_Q"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2e63b660-5a04-4c53-845e-a671628ff8da",
+        "type": "message",
+        "text": "<https:\/\/kearney.recsolu.com\/jobs\/CkiC5-aset_fGcMvKSiooA?job_board_id=EPd41qlA4_03IncZMnWyRQ>",
+        "user": "U03NW11JH19",
+        "ts": "1698357542.438899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BO6Hy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kearney.recsolu.com\/jobs\/CkiC5-aset_fGcMvKSiooA?job_board_id=EPd41qlA4_03IncZMnWyRQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kearney.recsolu.com\/jobs\/CkiC5-aset_fGcMvKSiooA?job_board_id=EPd41qlA4_03IncZMnWyRQ",
+                "image_url": "https:\/\/project-ouroboros-p-pub.s3.amazonaws.com\/lRtGfJPes5xr9ml4r1rVPTnC\/Homepage-Logo-220x40.png",
+                "image_width": 220,
+                "image_height": 41,
+                "image_bytes": 1712,
+                "service_icon": "https:\/\/project-ouroboros-p-pub.s3.amazonaws.com\/lRtGfJPes5xr9ml4r1rVPTnC\/favicon-32x32.png",
+                "id": 1,
+                "original_url": "https:\/\/kearney.recsolu.com\/jobs\/CkiC5-aset_fGcMvKSiooA?job_board_id=EPd41qlA4_03IncZMnWyRQ",
+                "fallback": "2024_Summer Associate_DE",
+                "title": "2024_Summer Associate_DE",
+                "title_link": "https:\/\/kearney.recsolu.com\/jobs\/CkiC5-aset_fGcMvKSiooA?job_board_id=EPd41qlA4_03IncZMnWyRQ",
+                "service_name": "kearney.recsolu.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49d46761-008d-4585-8fb5-2a1cfba13522",
+        "type": "message",
+        "text": "<https:\/\/careers.occstrategy.com\/vacancies\/236\/usa-consultant-internship-mba-2024.html>",
+        "user": "U03NW11JH19",
+        "ts": "1698357744.564689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IkdZl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.occstrategy.com\/vacancies\/236\/usa-consultant-internship-mba-2024.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/careers.occstrategy.com\/vacancies\/236\/usa-consultant-internship-mba-2024.html",
+                "service_icon": "https:\/\/careers.occstrategy.com\/favicon.ico",
+                "thumb_url": "https:\/\/careers.occstrategy.com\/images\/logo-social.png",
+                "thumb_width": 1282,
+                "thumb_height": 628,
+                "id": 1,
+                "original_url": "https:\/\/careers.occstrategy.com\/vacancies\/236\/usa-consultant-internship-mba-2024.html",
+                "fallback": "OC&amp;C Strategy: USA Consultant Internship (MBA) 2024 in New York | OC&amp;C Strategy",
+                "text": "View details and apply for this USA Consultant Internship (MBA) 2024 vacancy in New York. \n \n \n **You must apply via this portal to be reviewed** \n \n Program Details: \n 8-week internship with the New York Office. \n The internship program includes: \n \n...",
+                "title": "USA Consultant Internship (MBA) 2024 in New York | OC&amp;C Strategy",
+                "title_link": "https:\/\/careers.occstrategy.com\/vacancies\/236\/usa-consultant-internship-mba-2024.html",
+                "service_name": "OC&amp;C Strategy"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50811c15-d0be-4d0e-875c-e5390ea52205",
+        "type": "message",
+        "text": "<https:\/\/www.alixpartners.com\/careers\/search-jobs-early-careers\/?gh_jid=5769787003>",
+        "user": "U03NW11JH19",
+        "ts": "1698357857.355609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wbas8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.alixpartners.com\/careers\/search-jobs-early-careers\/?gh_jid=5769787003"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.alixpartners.com\/careers\/search-jobs-early-careers\/?gh_jid=5769787003",
+                "service_icon": "https:\/\/www.alixpartners.com\/dist\/css\/favicons\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.alixpartners.com\/careers\/search-jobs-early-careers\/?gh_jid=5769787003",
+                "fallback": "Early careers | AlixPartners",
+                "text": "Whether your background is in industry, technology, business, consulting or corporate services, here you can search for jobs that will make a difference.",
+                "title": "Early careers | AlixPartners",
+                "title_link": "https:\/\/www.alixpartners.com\/careers\/search-jobs-early-careers\/?gh_jid=5769787003",
+                "service_name": "alixpartners.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f28573e9-5bfe-41f1-b9ae-c0c0ccd4f169",
+        "type": "message",
+        "text": "<https:\/\/cicero.applytojob.com\/apply\/YL0OAjuGix\/Associate-Consultant-Summer-2024-Intern>",
+        "user": "U03NW11JH19",
+        "ts": "1698357945.618149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rppky",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cicero.applytojob.com\/apply\/YL0OAjuGix\/Associate-Consultant-Summer-2024-Intern"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/cicero.applytojob.com\/apply\/YL0OAjuGix\/Associate-Consultant-Summer-2024-Intern",
+                "service_icon": "https:\/\/cicero.applytojob.com\/img\/v1.1\/favicons\/apple-touch-icon.png",
+                "thumb_url": "https:\/\/app.jazz.co\/img\/apps\/share_a_job-icon.jpg",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "id": 1,
+                "original_url": "https:\/\/cicero.applytojob.com\/apply\/YL0OAjuGix\/Associate-Consultant-Summer-2024-Intern",
+                "fallback": "Associate Consultant - Summer 2024 Intern - Cicero Group - Career Page",
+                "text": "Our summer Associate Internship program is a unique opportunity for graduate students experience life as a strategy consultant.",
+                "title": "Associate Consultant - Summer 2024 Intern - Cicero Group - Career Page",
+                "title_link": "https:\/\/cicero.applytojob.com\/apply\/YL0OAjuGix\/Associate-Consultant-Summer-2024-Intern",
+                "service_name": "cicero.applytojob.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d10d2cb-5a28-45f6-993d-551f3c7c58a5",
+        "type": "message",
+        "text": "<https:\/\/careers.alvarezandmarsal.com\/search\/job-type\/intern\/category\/consulting-performance-improvement\/jobs\/in\/country\/united-states>",
+        "user": "U03NW11JH19",
+        "ts": "1698358194.980289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BOpAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.alvarezandmarsal.com\/search\/job-type\/intern\/category\/consulting-performance-improvement\/jobs\/in\/country\/united-states"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/careers.alvarezandmarsal.com\/system\/production\/assets\/351789\/original\/alvarez-and-marsal__social-share.jpg",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 36649,
+                "from_url": "https:\/\/careers.alvarezandmarsal.com\/search\/job-type\/intern\/category\/consulting-performance-improvement\/jobs\/in\/country\/united-states",
+                "service_icon": "https:\/\/careers.alvarezandmarsal.com\/system\/production\/assets\/356608\/original\/alvarez-and-marsal__icon.png",
+                "id": 1,
+                "original_url": "https:\/\/careers.alvarezandmarsal.com\/search\/job-type\/intern\/category\/consulting-performance-improvement\/jobs\/in\/country\/united-states",
+                "fallback": "A&amp;M Careers: Job Search Results",
+                "text": "Search 34 Careers available at Alvarez &amp; Marsal.",
+                "title": "Job Search Results",
+                "title_link": "https:\/\/careers.alvarezandmarsal.com\/search\/job-type\/intern\/category\/consulting-performance-improvement\/jobs\/in\/country\/united-states",
+                "service_name": "A&amp;M Careers"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c749c05-37c3-4175-ba1c-c85e8f79cf6d",
+        "type": "message",
+        "text": "<https:\/\/digitalcareers.infosys.com\/infosys\/global-careers?job_type=graduate&amp;location=USA%7CCanada%7CMexico>",
+        "user": "U03NW11JH19",
+        "ts": "1698358548.840789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y+SRO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/digitalcareers.infosys.com\/infosys\/global-careers?job_type=graduate&location=USA%7CCanada%7CMexico"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2c2a444f-61e6-474f-bf9a-095bb81062f0",
+        "type": "message",
+        "text": "<https:\/\/careers.cognizant.com\/studentandinterns\/us\/en\/early-career-jobs>",
+        "user": "U03NW11JH19",
+        "ts": "1698358640.007859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wqILJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.cognizant.com\/studentandinterns\/us\/en\/early-career-jobs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/careers.cognizant.com\/studentandinterns\/us\/en\/early-career-jobs",
+                "service_icon": "https:\/\/cdn.phenompeople.com\/CareerConnectResources\/CGTIGLOBAL\/en_us\/desktop\/assets\/images\/h\/apple-touch-icon.png",
+                "thumb_url": "https:\/\/cdn.phenompeople.com\/CareerConnectResources\/PHENA0059\/social\/header_logo.png",
+                "thumb_width": 101,
+                "thumb_height": 37,
+                "id": 1,
+                "original_url": "https:\/\/careers.cognizant.com\/studentandinterns\/us\/en\/early-career-jobs",
+                "fallback": "CTS MIGRATION - PRODUCT: Early Career jobs at Cognizant",
+                "text": "Early Career jobs at Cognizant. Our fast growth is a perfect fit for your business skills and talents.",
+                "title": "Early Career jobs at Cognizant",
+                "title_link": "https:\/\/careers.cognizant.com\/studentandinterns\/us\/en\/early-career-jobs",
+                "service_name": "CTS MIGRATION - PRODUCT"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d792d9a5-6153-484a-988f-fb1265de8387",
+        "type": "message",
+        "text": "Ok I'm done with blowing up this place with application for consulting. See below is a list of consulting firms that people can look up and apply to! Hope this is helpful!\n\n<https:\/\/www.theconsultingreport.com\/the-top-50-consulting-firms-of-2023\/>",
+        "user": "U03NW11JH19",
+        "ts": "1698358798.567619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yQqSh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok I'm done with blowing up this place with application for consulting. See below is a list of consulting firms that people can look up and apply to! Hope this is helpful!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.theconsultingreport.com\/the-top-50-consulting-firms-of-2023\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.theconsultingreport.com\/wp-content\/uploads\/2023\/05\/5.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 1211901,
+                "from_url": "https:\/\/www.theconsultingreport.com\/the-top-50-consulting-firms-of-2023\/",
+                "service_icon": "https:\/\/www.theconsultingreport.com\/wp-content\/uploads\/2021\/06\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.theconsultingreport.com\/the-top-50-consulting-firms-of-2023\/",
+                "fallback": "The Top 50 Consulting Firms of 2023 | The Consulting Report",
+                "title": "The Top 50 Consulting Firms of 2023 | The Consulting Report",
+                "title_link": "https:\/\/www.theconsultingreport.com\/the-top-50-consulting-firms-of-2023\/",
+                "service_name": "theconsultingreport.com"
+            }
+        ]
+    }
+]

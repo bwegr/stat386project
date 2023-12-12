@@ -1,0 +1,248 @@
+[
+    {
+        "client_msg_id": "cc6da115-9ca4-4bf3-9003-9ff17f1daa98",
+        "type": "message",
+        "text": ":fire::fire::fire:Entrepreneurship Pro-sem:fire::fire::fire:\nFriday October 6th from 11-12:15 in W308\nWe'll be hearing from Chad Ingram this week. Since founding <http:\/\/Distro.io|Distro.io> two years ago, Chad has been on a rocketship. He's founded several companies since graduating from BYU in 2013, living through the ups and downs of entrepreneurship. He did have a successful exit previous to starting Distro, with his company JUMP being acquired. Check out their website to see how they're revolutionizing offshore hiring.",
+        "user": "U03LG776WFP",
+        "ts": "1696539017.379959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dFAdo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Entrepreneurship Pro-sem"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFriday October 6th from 11-12:15 in W308\nWe'll be hearing from Chad Ingram this week. Since founding "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Distro.io",
+                                "text": "Distro.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " two years ago, Chad has been on a rocketship. He's founded several companies since graduating from BYU in 2013, living through the ups and downs of entrepreneurship. He did have a successful exit previous to starting Distro, with his company JUMP being acquired. Check out their website to see how they're revolutionizing offshore hiring."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "ab1623974cd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-09\/4767396297015_ab1623974cd0a9d234d2_72.jpg",
+            "first_name": "Hunter",
+            "real_name": "Hunter Schenewark",
+            "display_name": "Hunter Schenewark",
+            "team": "T0ZBAEL59",
+            "name": "hunterschenewark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03L4GT3B55",
+                    "U05A7HE5MTR"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "201f7085-e71f-44f7-a96b-dd80b2826923",
+        "type": "message",
+        "text": ":maple_leaf:Human Resources Pro Sem :nerd_face:\n\n:spiral_calendar_pad: When: Tomorrow, Friday, October 5, 9:30-10:45 a.m.\n:school_satchel: What: *\"Creating Your MBA Experience\" presentation focused on course details, insights, &amp; information to help you create YOUR MBA experience*\n:office: Where: TNRB W242\n:heavy_plus_sign: Additional:\n• *HR Mentoring 8:30-9:30 a.m. in W242 as usual*\n• *Lunch with Troy ~11:00 a.m. at a nearby restaurant as usual*",
+        "user": "U03LK52VCQ2",
+        "ts": "1696543873.261019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hccjc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "maple_leaf",
+                                "unicode": "1f341"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Human Resources Pro Sem "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "nerd_face",
+                                "unicode": "1f913"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spiral_calendar_pad",
+                                "unicode": "1f5d3-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " When: Tomorrow, Friday, October 5, 9:30-10:45 a.m.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "school_satchel",
+                                "unicode": "1f392"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What:"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \"Creating Your MBA Experience\" presentation focused on course details, insights, & information to help you create YOUR MBA experience",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "office",
+                                "unicode": "1f3e2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Where: TNRB W242\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_plus_sign",
+                                "unicode": "2795"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Additional:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "HR Mentoring 8:30-9:30 a.m. in W242 as usual",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lunch with Troy ~11:00 a.m. at a nearby restaurant as usual",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696543873.261019",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697141360.241329",
+        "reply_users": [
+            "U03LK52VCQ2"
+        ],
+        "replies": [
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1697141360.241329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

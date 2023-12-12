@@ -1,0 +1,399 @@
+[
+    {
+        "client_msg_id": "01055825-d677-479b-ba7b-11acc1fdaafb",
+        "type": "message",
+        "text": "What would you say are *essential* 1st year 2nd semester classes for budding entrepreneurs? Pursuing my own ideas, teaming up with other students, exposure to venture capital.",
+        "user": "U05A7HE11LP",
+        "ts": "1696717583.778719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xspHh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What would you say are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "essential",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 1st year 2nd semester classes for budding entrepreneurs? Pursuing my own ideas, teaming up with other students, exposure to venture capital."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696717583.778719",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1696718873.105589",
+        "reply_users": [
+            "U05A7HE11LP",
+            "U03M8T8358Q",
+            "U03LMGXDFB6"
+        ],
+        "replies": [
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1696717599.056109"
+            },
+            {
+                "user": "U03M8T8358Q",
+                "ts": "1696718745.065509"
+            },
+            {
+                "user": "U03LMGXDFB6",
+                "ts": "1696718873.105589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "52ee5b1e-3ce0-4525-98ab-934f105b0136",
+        "type": "message",
+        "text": "Also, blue forge or cougar capital?",
+        "user": "U05A7HE11LP",
+        "ts": "1696717599.056109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e1ov8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, blue forge or cougar capital?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696717583.778719",
+        "parent_user_id": "U05A7HE11LP"
+    },
+    {
+        "client_msg_id": "27B09EF6-8DB7-4DC4-936A-4A0ACB910738",
+        "type": "message",
+        "text": "Essentials (imo):\n• ETA - Tom Peterson\n• VC\/PE - Gary Williams\n• Venture Studio Practicum: Tom Peterson\nNew Venture Launchpad is also good (idk when it’s taught) from what I hear. \n\nNeither Blue Forge nor Cougar Capital are for startups. \n\nBlue Forge connects you to multiple entrepreneurs and gives you exposure to various projects in various disciplines. Want more finance or deal making skills? Sign up for one of the projects in BF and gain reps. You put in the effort to connect with and impress these entrepreneurs. In turn, equity opportunities and partnerships present themselves. \n\nCougar Capital you’ll get some exposure to in VC\/PE Class. If you want to get into VC or PE, it’s a must, imo. The network is incredible and there’s a golf event every year for alumni. People make great connections that way and Gary has done a great job to curate a great group. It’s not inaccessible to non members, you just take an extra step to connect. \n\nNeither Blue Forge nor Cougar Capital is the end-all-be-all option. Take what is best for you. ",
+        "user": "U03M8T8358Q",
+        "ts": "1696718745.065509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j1Ttl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Essentials (imo):"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ETA - Tom Peterson"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "VC\/PE - Gary Williams"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Venture Studio Practicum: Tom Peterson"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nNew Venture Launchpad is also good (idk when "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " taught) from what I hear"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nNeither Blue Forge nor Cougar Capital are for startups"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nBlue Forge connects you to multiple entrepreneurs and gives you exposure to various projects in various disciplines"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Want more finance or deal making skills? Sign up for one of the projects in BF and gain reps"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " You put in the effort to connect with and impress these entrepreneurs. In turn, equity opportunities and partnerships present themselves"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nCougar Capital "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " get some exposure to in VC\/PE Class. If you want to get into VC or PE, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a must, imo"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " The network is incredible and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a golf event every year for alumni"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " People make great connections that way and Gary has done a great job to curate a great group"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " It’s not inaccessible to non members, you just take an extra step to connect"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nNeither Blue Forge nor Cougar Capital is the end-all-be-all option. Take what is best for you. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "ff3f537d623a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3685033028583_ff3f537d623a81b81d8e_72.png",
+            "first_name": "Ben",
+            "real_name": "Ben Rasmussen",
+            "display_name": "Ben Rasmussen",
+            "team": "T0ZBAEL59",
+            "name": "benrasmus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696717583.778719",
+        "parent_user_id": "U05A7HE11LP",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05A7HE11LP",
+                    "U05A7HE5MTR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U05A7HE11LP",
+                    "U05B0NHD3LZ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U05A7HE11LP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U03LCGL1GK0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13500818-4ea0-4185-aacd-b0bfc0e40799",
+        "type": "message",
+        "text": "If you want to pursue your own ideas I would suggest Creating New Ventures with Carlos Chad. You have to validate your own idea and prototype it. The class is great and at the end you will get as much as you put (more than in other clases imo).",
+        "user": "U03LMGXDFB6",
+        "ts": "1696718873.105589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G2fO5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you want to pursue your own ideas I would suggest Creating New Ventures with Carlos Chad. You have to validate your own idea and prototype it. The class is great and at the end you will get as much as you put (more than in other clases imo)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696717583.778719",
+        "parent_user_id": "U05A7HE11LP",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03M8T8358Q",
+                    "U05A7HE11LP",
+                    "U05A7HE5MTR"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U03LCGL1GK0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

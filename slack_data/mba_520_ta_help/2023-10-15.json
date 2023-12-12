@@ -1,0 +1,406 @@
+[
+    {
+        "client_msg_id": "043C567C-D9BE-432C-B407-A44A3805001C",
+        "type": "message",
+        "text": "Happy Sunday!\n\nI have to cancel my office hours for tomorrow. Sorry for the inconvenience, but please reach out to meet up another time that day or during the week!",
+        "user": "U03TVL5QZFA",
+        "ts": "1697399931.897839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RgGQj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Sunday!\n\nI have to cancel my office hours for tomorrow"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sorry for the inconvenience"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "text",
+                                "text": " but please reach out to meet up another time that day or during the week!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e85791ae-78e2-4c4b-bd83-64870ecdd838",
+        "type": "message",
+        "text": "Ant TA hours for tomorrow?",
+        "user": "U03TVL5E0M6",
+        "ts": "1697421446.020999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3imeO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ant TA hours for tomorrow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697421446.020999",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1697476639.508669",
+        "reply_users": [
+            "U03TVL5QZFA",
+            "U03TVL5E0M6"
+        ],
+        "replies": [
+            {
+                "user": "U03TVL5QZFA",
+                "ts": "1697436130.867549"
+            },
+            {
+                "user": "U03TVL5E0M6",
+                "ts": "1697475679.279529"
+            },
+            {
+                "user": "U03TVL5QZFA",
+                "ts": "1697475847.599789"
+            },
+            {
+                "user": "U03TVL5E0M6",
+                "ts": "1697475860.988849"
+            },
+            {
+                "user": "U03TVL5QZFA",
+                "ts": "1697476639.508669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "742dd9a3-dcd6-42b3-992d-89cce04d4f62",
+        "type": "message",
+        "text": "Instead of holding my office hours on Thursday like I normally do, I will be holding office hours tomorrow from 12:30 - 1:30 in room W361",
+        "user": "U03LK4YJGQJ",
+        "ts": "1697422314.798889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t2W2y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Instead of holding my office hours on Thursday like I normally do, I will be holding office hours tomorrow from 12:30 - 1:30 in room W361"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4bfa602a3916",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/4026473552256_4bfa602a39169e79a840_72.jpg",
+            "first_name": "Aaron",
+            "real_name": "Aaron Daines",
+            "display_name": "Aaron Daines",
+            "team": "T0ZBAEL59",
+            "name": "aaron.daines",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697422314.798889",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1697597690.196189",
+        "reply_users": [
+            "U05AMVD19GT",
+            "U03LK4YJGQJ",
+            "U03TVL5E0M6",
+            "U05AN02C0E7"
+        ],
+        "replies": [
+            {
+                "user": "U05AMVD19GT",
+                "ts": "1697422536.799179"
+            },
+            {
+                "user": "U03LK4YJGQJ",
+                "ts": "1697422776.439299"
+            },
+            {
+                "user": "U03LK4YJGQJ",
+                "ts": "1697422876.523909"
+            },
+            {
+                "user": "U03TVL5E0M6",
+                "ts": "1697425718.630709"
+            },
+            {
+                "user": "U05AN02C0E7",
+                "ts": "1697591628.768619"
+            },
+            {
+                "user": "U03LK4YJGQJ",
+                "ts": "1697597690.196189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "660FDFFF-9030-49D1-9E21-AC0196662C27",
+        "type": "message",
+        "text": "I think all of us have class at that time ",
+        "user": "U05AMVD19GT",
+        "ts": "1697422536.799179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HCmiX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think all of us have class at that time "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "10d115e1fb27",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-06\/5850647099750_10d115e1fb278c2e7e6c_72.png",
+            "first_name": "Brittany",
+            "real_name": "Brittany Barlow",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "britbarlow97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697422314.798889",
+        "parent_user_id": "U03LK4YJGQJ"
+    },
+    {
+        "client_msg_id": "4e91ab23-a2f0-4951-90f8-eaee56bdb676",
+        "type": "message",
+        "text": "Well in that case I guess I won't be holding them then haha",
+        "user": "U03LK4YJGQJ",
+        "ts": "1697422776.439299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OlVc0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well in that case I guess I won't be holding them then haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4bfa602a3916",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/4026473552256_4bfa602a39169e79a840_72.jpg",
+            "first_name": "Aaron",
+            "real_name": "Aaron Daines",
+            "display_name": "Aaron Daines",
+            "team": "T0ZBAEL59",
+            "name": "aaron.daines",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697422314.798889",
+        "parent_user_id": "U03LK4YJGQJ"
+    },
+    {
+        "client_msg_id": "05d50803-1d95-4d96-8d7e-44d415f72d08",
+        "type": "message",
+        "text": "I have reserved room W233 for thursday, at the usual time (11:30-12:30)",
+        "user": "U03LK4YJGQJ",
+        "ts": "1697422876.523909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YTiMX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have reserved room W233 for thursday, at the usual time (11:30-12:30)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4bfa602a3916",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/4026473552256_4bfa602a39169e79a840_72.jpg",
+            "first_name": "Aaron",
+            "real_name": "Aaron Daines",
+            "display_name": "Aaron Daines",
+            "team": "T0ZBAEL59",
+            "name": "aaron.daines",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697422314.798889",
+        "parent_user_id": "U03LK4YJGQJ"
+    },
+    {
+        "client_msg_id": "659d6165-d6f5-4d12-8c76-f3407a4dcb45",
+        "type": "message",
+        "text": "Section 1 is available at 12:30 - 13:30",
+        "user": "U03TVL5E0M6",
+        "ts": "1697425718.630709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xuCU5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Section 1 is available at 12:30 - 13:30"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697422314.798889",
+        "parent_user_id": "U03LK4YJGQJ"
+    },
+    {
+        "client_msg_id": "5207475F-9318-40C5-BFF8-C437E3535D32",
+        "type": "message",
+        "text": "I can potentially meet you at 1pm tomorrow?",
+        "user": "U03TVL5QZFA",
+        "ts": "1697436130.867549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f\/d54",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can potentially meet you at 1pm tomorrow"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697421446.020999",
+        "parent_user_id": "U03TVL5E0M6"
+    }
+]

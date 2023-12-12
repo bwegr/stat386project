@@ -1,0 +1,166 @@
+[
+    {
+        "client_msg_id": "7fd18929-5104-4f7c-9af7-e53dd3e78d09",
+        "type": "message",
+        "text": "JAREN HALL?! Excited for him to get a start!",
+        "user": "U03LK533VR8",
+        "ts": "1698623679.850719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x2VTt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "JAREN HALL?! Excited for him to get a start!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F02DA3E2-9EA1-466A-977E-980D433C6180",
+        "type": "message",
+        "text": "That’s exciting! I feel bad for cousins. He’s a nice guy. ",
+        "user": "U03LMGV8Y12",
+        "ts": "1698624080.857019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ockVB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " exciting! I feel bad for cousins"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "He’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a nice guy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "11faedfd4201",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-16\/4093144696930_11faedfd42013ff3c8c3_72.png",
+            "first_name": "Aaron",
+            "real_name": "Aaron Ranger",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "aarontranger",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698624080.857019",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698672087.362579",
+        "reply_users": [
+            "U03LK533VR8",
+            "U03TVL5QZFA"
+        ],
+        "replies": [
+            {
+                "user": "U03LK533VR8",
+                "ts": "1698624161.304589"
+            },
+            {
+                "user": "U03TVL5QZFA",
+                "ts": "1698672087.362579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0B725F07-AEB9-4034-9FC8-855E9A511E93",
+        "type": "message",
+        "text": "Yeah - never fun to see injuries like that.",
+        "user": "U03LK533VR8",
+        "ts": "1698624161.304589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iRtsz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah - never fun to see injuries like that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698624080.857019",
+        "parent_user_id": "U03LMGV8Y12"
+    }
+]

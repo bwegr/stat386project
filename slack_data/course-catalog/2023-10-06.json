@@ -1,0 +1,271 @@
+[
+    {
+        "client_msg_id": "07c62071-94e7-4ff7-86f3-18969c82e3b1",
+        "type": "message",
+        "text": "<@U03LK52VCQ2> you're saying that sports psychology is a lot of time?  reading?  busy work?",
+        "user": "U03LK3AD1V1",
+        "ts": "1696604649.547549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TIVfr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK52VCQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you're saying that sports psychology is a lot of time?  reading?  busy work?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b31fd5fbeeee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-10\/4633719656865_b31fd5fbeeeea29df80a_72.jpg",
+            "first_name": "Kevin",
+            "real_name": "Kevin James",
+            "display_name": "Kevin James",
+            "team": "T0ZBAEL59",
+            "name": "kevinjames1985",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696368456.250229",
+        "parent_user_id": "U03LK52VCQ2"
+    },
+    {
+        "client_msg_id": "0a963b59-a578-4c1f-90db-b140bc40f7fe",
+        "type": "message",
+        "text": "Can anyone speak to entrepreneurial analytics? Like Robyn, I too am looking for additional analytics training.",
+        "user": "U03LK3AD1V1",
+        "ts": "1696604894.529359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HsePe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can anyone speak to entrepreneurial analytics? Like Robyn, I too am looking for additional analytics training."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b31fd5fbeeee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-10\/4633719656865_b31fd5fbeeeea29df80a_72.jpg",
+            "first_name": "Kevin",
+            "real_name": "Kevin James",
+            "display_name": "Kevin James",
+            "team": "T0ZBAEL59",
+            "name": "kevinjames1985",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696604894.529359",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1696983845.003849",
+        "reply_users": [
+            "U03LXQCEVKK",
+            "U03M8T51VUY",
+            "U03LK3AD1V1"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1696606312.999309"
+            },
+            {
+                "user": "U03M8T51VUY",
+                "ts": "1696983277.419309"
+            },
+            {
+                "user": "U03LK3AD1V1",
+                "ts": "1696983800.774959"
+            },
+            {
+                "user": "U03LK3AD1V1",
+                "ts": "1696983808.203849"
+            },
+            {
+                "user": "U03M8T51VUY",
+                "ts": "1696983845.003849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "790E8BA4-9F20-407B-A45B-47E100F75168",
+        "type": "message",
+        "text": "Mount Toronto said it was the best class of the NBA when he took it last year",
+        "user": "U03LXQCEVKK",
+        "ts": "1696606312.999309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rNGEG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mount Toronto said it was the best class of the NBA when he took it last year"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696604894.529359",
+        "parent_user_id": "U03LK3AD1V1",
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U03LK3AD1V1",
+                    "U03LN7VEH2Q",
+                    "U03LCGQP0LW",
+                    "U03M8T51VUY",
+                    "U03LKPRD403"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9A4AC906-83B7-4F62-ABBB-8DAF1AD9FB27",
+        "type": "message",
+        "text": "<@U03LK3AD1V1> yeah, the readings are wicked long and so are the videos for each week’s module. ",
+        "user": "U03LK52VCQ2",
+        "ts": "1696626413.707429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Wb6k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK3AD1V1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yeah, the readings are wicked long and so are the videos for each "
+                            },
+                            {
+                                "type": "text",
+                                "text": "week’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " module. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696368456.250229",
+        "parent_user_id": "U03LK52VCQ2"
+    },
+    {
+        "client_msg_id": "B79F864B-A053-4765-BD46-C3B20C1559D7",
+        "type": "message",
+        "text": "But the content is pretty impactful",
+        "user": "U03LK52VCQ2",
+        "ts": "1696629474.662609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bNjPs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But the content is pretty impactful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696368456.250229",
+        "parent_user_id": "U03LK52VCQ2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LK3AD1V1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

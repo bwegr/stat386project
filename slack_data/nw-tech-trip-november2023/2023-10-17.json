@@ -1,0 +1,242 @@
+[
+    {
+        "client_msg_id": "5a29c4e1-b305-41d0-88c0-adc211f4e188",
+        "type": "message",
+        "text": "Hey guys! I'm a little late to the game. Does anyone still have room in their car to drive from Portland to Seattle?",
+        "user": "U05GZPFH7SA",
+        "ts": "1697559788.471609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yOZdi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys! I'm a little late to the game. Does anyone still have room in their car to drive from Portland to Seattle?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2b948b9ac7ab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-24\/5793748341381_2b948b9ac7ab18f4c292_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Johnson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "tylerkennethjohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697559788.471609",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1697675114.637889",
+        "reply_users": [
+            "U05AN3TCTSN",
+            "U05BBQG8FTJ",
+            "U05AK5HTE77",
+            "U05GZPFH7SA"
+        ],
+        "replies": [
+            {
+                "user": "U05AN3TCTSN",
+                "ts": "1697561605.008899"
+            },
+            {
+                "user": "U05BBQG8FTJ",
+                "ts": "1697563813.639099"
+            },
+            {
+                "user": "U05AN3TCTSN",
+                "ts": "1697564296.328319"
+            },
+            {
+                "user": "U05AK5HTE77",
+                "ts": "1697564618.369099"
+            },
+            {
+                "user": "U05AN3TCTSN",
+                "ts": "1697670017.626479"
+            },
+            {
+                "user": "U05GZPFH7SA",
+                "ts": "1697674192.330389"
+            },
+            {
+                "user": "U05AK5HTE77",
+                "ts": "1697675114.637889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8adcab2f-f465-4b53-9b64-49e9b012483a",
+        "type": "message",
+        "text": "I'm also looking for someone to share transportation with. Have you found accommodation in Portland?",
+        "user": "U05AN3TCTSN",
+        "ts": "1697561605.008899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UE\/wy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm also looking for someone to share transportation with. Have you found accommodation in Portland?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697559788.471609",
+        "parent_user_id": "U05GZPFH7SA"
+    },
+    {
+        "client_msg_id": "159fe64d-5483-4321-8076-cbb8c9b9cb3d",
+        "type": "message",
+        "text": "will you be in portland tuesday night Chris?",
+        "user": "U05BBQG8FTJ",
+        "ts": "1697563813.639099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XXBCr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "will you be in portland tuesday night Chris?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697559788.471609",
+        "parent_user_id": "U05GZPFH7SA"
+    },
+    {
+        "client_msg_id": "930a8f25-f3cf-47ff-9174-58a688babf55",
+        "type": "message",
+        "text": "yep! I arrive around 8 pm or something",
+        "user": "U05AN3TCTSN",
+        "ts": "1697564296.328319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v06Dv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep! I arrive around 8 pm or something"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697559788.471609",
+        "parent_user_id": "U05GZPFH7SA"
+    },
+    {
+        "client_msg_id": "0e08d1e6-a17f-4210-88cb-5b74f9549c3b",
+        "type": "message",
+        "text": "Also Tyler, I'm taking the Amtrak train from Portland to Seattle. Kinda late at night, but only $20 per ticket and is 3 hours.",
+        "user": "U05AK5HTE77",
+        "ts": "1697564618.369099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ClMIx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also Tyler, I'm taking the Amtrak train from Portland to Seattle. Kinda late at night, but only $20 per ticket and is 3 hours."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "47304120784f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5985056791331_47304120784f37c3d79b_72.png",
+            "first_name": "Erik",
+            "real_name": "Erik Christiansen",
+            "display_name": "Erik Christiansen",
+            "team": "T0ZBAEL59",
+            "name": "erik_christiansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697559788.471609",
+        "parent_user_id": "U05GZPFH7SA"
+    }
+]

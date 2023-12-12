@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "2072b511-86ae-4d5f-9985-ae22e80ca017",
+        "type": "message",
+        "text": "Hey 2024 marketers! If you requested a professional mentor in the MAB, all assignments have been sent out to your BYU emails (though I sent some to personal emails because multiple BYU people had your same name and I didn't want to guess)! Please review the email attachment on best practices and make the most of this awesome opportunity!\n\nIf you have any questions or have not received an email but signed up to have a mentor please let me know.\n\nThanks!",
+        "user": "U03LK56EXJN",
+        "ts": "1696300247.462369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HFGCG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey 2024 marketers! If you requested a professional mentor in the MAB, all assignments have been sent out to your BYU emails (though I sent some to personal emails because multiple BYU people had your same name and I didn't want to guess)! Please review the email attachment on best practices and make the most of this awesome opportunity!\n\nIf you have any questions or have not received an email but signed up to have a mentor please let me know.\n\nThanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "f0fa35dd6a38",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-29\/3740115766211_f0fa35dd6a387887760a_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Clement",
+            "display_name": "tanman",
+            "team": "T0ZBAEL59",
+            "name": "scariotjc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03L57R4HN3",
+                    "U03LK56AUHG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03L57R4HN3",
+                    "U03LK56AUHG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U03L57R4HN3",
+                    "U03LK56AUHG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

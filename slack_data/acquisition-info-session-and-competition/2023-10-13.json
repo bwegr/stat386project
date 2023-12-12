@@ -1,0 +1,469 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697208537.728219",
+        "user": "U03LKPR602X",
+        "text": "<@U03LKPR602X> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697208546.734219",
+        "user": "U03LG776WFP",
+        "text": "<@U03LG776WFP> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697208546.831179",
+        "user": "U03NW11HA9H",
+        "text": "<@U03NW11HA9H> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209909.484849",
+        "user": "U03LN7V9M0U",
+        "text": "<@U03LN7V9M0U> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209909.568719",
+        "user": "U05B0NFJ1S5",
+        "text": "<@U05B0NFJ1S5> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209909.653989",
+        "user": "U03PKR5GQUQ",
+        "text": "<@U03PKR5GQUQ> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209909.720929",
+        "user": "U05DJBMDG0L",
+        "text": "<@U05DJBMDG0L> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209909.807629",
+        "user": "U05A7HE5MTR",
+        "text": "<@U05A7HE5MTR> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209909.882439",
+        "user": "U03LK551XFU",
+        "text": "<@U03LK551XFU> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209910.042939",
+        "user": "U03SZAWQBM4",
+        "text": "<@U03SZAWQBM4> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209910.124929",
+        "user": "U03LK3EKMNF",
+        "text": "<@U03LK3EKMNF> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209910.193329",
+        "user": "U05A7HC8FF1",
+        "text": "<@U05A7HC8FF1> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209910.258939",
+        "user": "U05DUHAKG8Z",
+        "text": "<@U05DUHAKG8Z> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209910.329199",
+        "user": "U03LG75NYSZ",
+        "text": "<@U03LG75NYSZ> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209910.416379",
+        "user": "U05AK5HTE77",
+        "text": "<@U05AK5HTE77> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209910.510589",
+        "user": "U05AN01UD1R",
+        "text": "<@U05AN01UD1R> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209910.600589",
+        "user": "U03LXQCEVKK",
+        "text": "<@U03LXQCEVKK> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209910.665599",
+        "user": "U05DFU87M98",
+        "text": "<@U05DFU87M98> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209910.735279",
+        "user": "U05AMVCV3RR",
+        "text": "<@U05AMVCV3RR> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697209910.807999",
+        "user": "U05DD0R0XHB",
+        "text": "<@U05DD0R0XHB> has joined the channel",
+        "inviter": "U03LKPR602X"
+    },
+    {
+        "type": "message",
+        "text": "<!channel> I put you in here if you had reacted to any of the other posts about the info session\/competition. \n\nThe info session will be on Tuesday 10\/17, 5p - 6\/630p in 484, the other side of the tanner building. \n\n• We’ll do an overview of how acquisitions work and why it’s a great path to go down\n• We’ll have Ryan Salmon (class of 2019) talk about his experience acquiring companies during\/after the MBA program\n• We’ll add lots of context and answer questions about the Acquisition Competition \nSome brief details on the competition: \n• It will be held at Kiln in Provo on Saturday, November 18th, in the morning. Likely 9:30am but it may move earlier depending on when the BYU Oklahoma game kicks off. \n• It will not conflict with the VCIC competition, you can do both. All proposals for the acquisition competition will be due November 3rd. \n• I’m attaching the prompt for the competition here, take a look at it and y’all can get started this weekend if you’d like — or wait until Tuesday for more context, but the prompt will remain the same. \nIt’s worth pointing out that we’ll be having EMBA students attend the info session and participate in the competition. There’s a lot of interest from them in acquisitions, and it will be a fun opportunity to network all together. \n\n",
+        "files": [
+            {
+                "id": "F061F2Q49L1",
+                "created": 1697210356,
+                "timestamp": 1697210356,
+                "name": "ETA Pitch Contest--Fall 2023.pdf",
+                "title": "ETA Pitch Contest--Fall 2023",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03LKPR602X",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 58688,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061F2Q49L1\/eta_pitch_contest--fall_2023.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061F2Q49L1\/download\/eta_pitch_contest--fall_2023.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061F2Q49L1-9db8ed5560\/eta_pitch_contest--fall_2023_thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LKPR602X\/F061F2Q49L1\/eta_pitch_contest--fall_2023.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061F2Q49L1-52891b1b4a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LKPR602X",
+        "display_as_bot": false,
+        "ts": "1697210359.530179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G6N5k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I put you in here if you had reacted to any of the other posts about the info session\/competition. \n\nThe info session will be on Tuesday 10\/17, 5p - 6\/630p in 484, the other side of the tanner building. \n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We’ll do an overview of how acquisitions work and why it’s a great path to go down"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We’ll have Ryan Salmon (class of 2019) talk about his experience acquiring companies during\/after the MBA program"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We’ll add lots of context and answer questions about the Acquisition Competition "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nSome brief details on the competition: \n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It will be held at Kiln in Provo on Saturday, November 18th, in the morning. Likely 9:30am but it may move earlier depending on when the BYU Oklahoma game kicks off. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It will not conflict with the VCIC competition, you can do both. All proposals for the acquisition competition will be due November 3rd. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I’m attaching the prompt for the competition here, take a look at it and y’all can get started this weekend if you’d like — or wait until Tuesday for more context, but the prompt will remain the same. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIt’s worth pointing out that we’ll be having EMBA students attend the info session and participate in the competition. There’s a lot of interest from them in acquisitions, and it will be a fun opportunity to network all together. \n\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "C1563BDB-D767-4C70-A53F-EF4AF539DACC"
+    },
+    {
+        "client_msg_id": "73F8B571-2B3B-4017-8485-E896C45651F2",
+        "type": "message",
+        "text": "If there’s anyone else that you think would be interested in this that may not have seen the slack messages, please add them to this channel. ",
+        "user": "U03LKPR602X",
+        "ts": "1697210406.696089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gY1b3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I"
+                            },
+                            {
+                                "type": "text",
+                                "text": "f "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " anyone else that you think would be interested in this that may not have seen the slack messages, please add them to this channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e44703c70bf5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-19\/3960224283206_e44703c70bf5c3980b3d_72.jpg",
+            "first_name": "James",
+            "real_name": "James Lincoln",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "james.lincoln1995",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DDD54C91-340A-454F-8154-6A7CF1BDD7D0",
+        "type": "message",
+        "text": ":bangbang: And lastly, to get an updated headcount for food on Tuesday, please thumbs up this message if you plan on being there. ",
+        "user": "U03LKPR602X",
+        "ts": "1697210458.272989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N7iXT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " And lastly, to get an updated headcount for food on Tuesday, please thumbs up this message if you plan on being there"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e44703c70bf5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-19\/3960224283206_e44703c70bf5c3980b3d_72.jpg",
+            "first_name": "James",
+            "real_name": "James Lincoln",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "james.lincoln1995",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LKPR602X",
+                    "U03LK551XFU",
+                    "U05A7HE5MTR",
+                    "U05DUHAKG8Z",
+                    "U03LG776WFP",
+                    "U03LG75NYSZ",
+                    "U05B0NFJ1S5",
+                    "U05DFU87M98",
+                    "U03NW11HA9H",
+                    "U05HK2S6TLZ",
+                    "U05DD0R0XHB",
+                    "U03M8TBLWTA",
+                    "U03L57R4HN3",
+                    "U05AK5HTE77",
+                    "U05H6A4184T"
+                ],
+                "count": 15
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "U05B0NFJ1S5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03L4GT3B55",
+                    "U03LCGM9XML"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U03LK5045V0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

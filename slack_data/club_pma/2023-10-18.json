@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "46475C5D-61BC-415D-BFFD-5CBA4A52F9BF",
+        "type": "message",
+        "text": "Full time product management job posed by BYU MBA alumn in SLC ",
+        "user": "U03LXQE14NM",
+        "ts": "1697681766.551099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9U5BN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Full time product management job posed by BYU MBA alumn in SLC "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc176dbcf62e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_72.jpg",
+            "first_name": "Austin",
+            "real_name": "Austin Schofield",
+            "display_name": "Austin Schofield",
+            "team": "T0ZBAEL59",
+            "name": "schofieldda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "622D94F2-17D8-47B1-B865-4EFD71D82B35",
+        "type": "message",
+        "text": "<https:\/\/www.linkedin.com\/posts\/smiddle86_early-career-program-product-manager-activity-7120436024513593344-BTrc?utm_source=share&amp;utm_medium=member_ios|https:\/\/www.linkedin.com\/posts\/smiddle86_early-career-program-product-manager-activity-7120436024513593344-BTrc?utm_source=share&amp;utm_medium=member_ios>",
+        "user": "U03LXQE14NM",
+        "ts": "1697681785.110079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XxJxI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/smiddle86_early-career-program-product-manager-activity-7120436024513593344-BTrc?utm_source=share&utm_medium=member_ios",
+                                "text": "https:\/\/www.linkedin.com\/posts\/smiddle86_early-career-program-product-manager-activity-7120436024513593344-BTrc?utm_source=share&utm_medium=member_ios"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc176dbcf62e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_72.jpg",
+            "first_name": "Austin",
+            "real_name": "Austin Schofield",
+            "display_name": "Austin Schofield",
+            "team": "T0ZBAEL59",
+            "name": "schofieldda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/smiddle86_early-career-program-product-manager-activity-7120436024513593344-BTrc?utm_source=share&utm_medium=member_ios",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/sync\/D5627AQEYiHMcsGEdtw\/articleshare-shrink_800\/0\/1697644221731?e=1698289200&v=beta&t=nrsYJROdyaMz09eWLeQ7hei7xZuJeHWxotBPfF-P5Ao",
+                "thumb_width": 194,
+                "thumb_height": 78,
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/smiddle86_early-career-program-product-manager-activity-7120436024513593344-BTrc?utm_source=share&amp;utm_medium=member_ios",
+                "fallback": "Stephen Middleton on LinkedIn: Early Career Program - Product Manager",
+                "text": "I have an early career product manager opportunity on my team. If you are interested, I would be happy to discuss the role and Hexcel…",
+                "title": "Stephen Middleton on LinkedIn: Early Career Program - Product Manager",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/smiddle86_early-career-program-product-manager-activity-7120436024513593344-BTrc?utm_source=share&utm_medium=member_ios",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "CF3D9765-749C-45C6-8DDB-991F0BA0175C",
+        "type": "message",
+        "text": "This looks interesting for anyone who wants a general management role.  <https:\/\/jobs.discover.com\/jobs\/r302852024-general-business-mba-internship-program\/|https:\/\/jobs.discover.com\/jobs\/r302852024-general-business-mba-internship-program\/>",
+        "user": "U03PKR5881E",
+        "ts": "1696770230.761739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "40CST",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This looks interesting for anyone who wants a general management role"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.discover.com\/jobs\/r302852024-general-business-mba-internship-program\/",
+                                "text": "https:\/\/jobs.discover.com\/jobs\/r302852024-general-business-mba-internship-program\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/jobs.discover.com\/media\/acqjudte\/discover-employees-at-work.jpg",
+                "image_width": 1200,
+                "image_height": 628,
+                "image_bytes": 70854,
+                "from_url": "https:\/\/jobs.discover.com\/jobs\/r302852024-general-business-mba-internship-program\/",
+                "service_icon": "https:\/\/jobs.discover.com\/media\/1j4dw00y\/discover-favicon.png?width=57&amp;height=57",
+                "id": 1,
+                "original_url": "https:\/\/jobs.discover.com\/jobs\/r302852024-general-business-mba-internship-program\/",
+                "fallback": "Discover Careers: R302852024 General Business MBA  Internship Program | Discover Careers",
+                "title": "R302852024 General Business MBA  Internship Program | Discover Careers",
+                "title_link": "https:\/\/jobs.discover.com\/jobs\/r302852024-general-business-mba-internship-program\/",
+                "service_name": "Discover Careers"
+            }
+        ]
+    }
+]

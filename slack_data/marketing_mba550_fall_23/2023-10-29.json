@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "cd4b0b49-e1d3-4148-8aa1-5d18ec8fcc27",
+        "type": "message",
+        "text": "7 minutes total. There are maybe 1 or 2 questions, but because everyone did the same project, Prof. Christensen doesn't usually do a ton of questions.\n\nIf you touch base on the following questions in your presentation, you can use the whole 7 min:\n\nQuestions to guide your thinking as you prepare (*these questions should NOT directly outline your presentation*):\n\n1. What have you learned?  _This is certainly the most important question._\n2. How did things go? What went well? How did you shoot yourselves in the foot?\n3. What was your strategy? Did it change over the course of the periods or is it the same as when you started? If so, how and why did you change it? How effective do you feel your strategy was?\n4. What would you do differently if you could do it again? Why?\n",
+        "user": "U03L57R4HN3",
+        "ts": "1698602063.452479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RVpq9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "7 minutes total. There are maybe 1 or 2 questions, but because everyone did the same project, Prof. Christensen doesn't usually do a ton of questions.\n\nIf you touch base on the following questions in your presentation, you can use the whole 7 min:\n\nQuestions to guide your thinking as you prepare ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "these questions should NOT directly outline your presentation",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "):\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What have you learned?  "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "This is certainly the most important question.",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How did things go? What went well? How did you shoot yourselves in the foot?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What was your strategy? Did it change over the course of the periods or is it the same as when you started? If so, how and why did you change it? How effective do you feel your strategy was?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What would you do differently if you could do it again? Why?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698538411.778289",
+        "parent_user_id": "U05AN3R7398"
+    }
+]

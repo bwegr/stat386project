@@ -1,0 +1,567 @@
+[
+    {
+        "client_msg_id": "4ba7b9f0-ebd8-4de9-9ce7-b30168a045d8",
+        "type": "message",
+        "text": "Any TAs available today?",
+        "user": "U05AQGJMMT6",
+        "ts": "1698079803.425179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vFAEa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any TAs available today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698079803.425179",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698080071.625459",
+        "reply_users": [
+            "U05AQGJMMT6",
+            "U03SRBYBAET"
+        ],
+        "replies": [
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1698079950.964159"
+            },
+            {
+                "user": "U03SRBYBAET",
+                "ts": "1698080071.625459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "69c9e5f7-b2bb-4d9f-87c1-775dd6f93acb",
+        "type": "message",
+        "text": "<@U03SRBYBAET> I see you have room 355 booked at 1PM. Is that for OH? Can I stop by around 1h45?",
+        "user": "U05AQGJMMT6",
+        "ts": "1698079950.964159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yDmCQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03SRBYBAET"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I see you have room 355 booked at 1PM. Is that for OH? Can I stop by around 1h45?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698079803.425179",
+        "parent_user_id": "U05AQGJMMT6"
+    },
+    {
+        "client_msg_id": "9E4E2467-681D-4658-ACD5-82A9459EA6BC",
+        "type": "message",
+        "text": "Yes and yes! ",
+        "user": "U03SRBYBAET",
+        "ts": "1698080071.625459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NSZ4O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes and yes! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6d964c44b7d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3918205904550_6d964c44b7d5cc71f366_72.jpg",
+            "first_name": "Coralee",
+            "real_name": "Coralee Choules",
+            "display_name": "Coralee Choules",
+            "team": "T0ZBAEL59",
+            "name": "coralee.choules",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698079803.425179",
+        "parent_user_id": "U05AQGJMMT6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AQGJMMT6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5C6D12ED-0E54-426F-A8B7-8BCF6778D70A",
+        "type": "message",
+        "text": "I’m holding office hours in W355",
+        "user": "U03SRBYBAET",
+        "ts": "1698087982.693299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NSf1D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " holding office hours in W355"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6d964c44b7d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3918205904550_6d964c44b7d5cc71f366_72.jpg",
+            "first_name": "Coralee",
+            "real_name": "Coralee Choules",
+            "display_name": "Coralee Choules",
+            "team": "T0ZBAEL59",
+            "name": "coralee.choules",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1A8CD0E8-E4FF-42EA-ACD8-019489F89770",
+        "type": "message",
+        "text": "I’m looking at <https:\/\/www.sec.gov\/ix?doc=\/Archives\/edgar\/data\/0001326380\/000132638020000022\/a10k-fy19q4.htm|this 10-K> for the first question on the  problem set, but I can't find the income statement for 2020. Is there a better 10-K to be looking at? ",
+        "user": "U05A7HE2M8X",
+        "ts": "1698107598.887219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8GRFG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " looking at"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sec.gov\/ix?doc=\/Archives\/edgar\/data\/0001326380\/000132638020000022\/a10k-fy19q4.htm",
+                                "text": "this 10-K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the first "
+                            },
+                            {
+                                "type": "text",
+                                "text": "question"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on th"
+                            },
+                            {
+                                "type": "text",
+                                "text": "e "
+                            },
+                            {
+                                "type": "text",
+                                "text": " problem set"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", but"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I can't find the income statement for 2020"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Is there a better 10-K to be looking at? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "bcdf6033580d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-09\/5716478234883_bcdf6033580d299410a6_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Wilkinson",
+            "display_name": "Jessica Wilkinson",
+            "team": "T0ZBAEL59",
+            "name": "jessicawilkinson53",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107598.887219",
+        "reply_count": 13,
+        "reply_users_count": 5,
+        "latest_reply": "1698189417.171819",
+        "reply_users": [
+            "U05AN015NSX",
+            "U05AQGJMMT6",
+            "U05A7HE2M8X",
+            "U05DD0QU5MK",
+            "U03LK39EPB5"
+        ],
+        "replies": [
+            {
+                "user": "U05AN015NSX",
+                "ts": "1698109377.138019"
+            },
+            {
+                "user": "U05AN015NSX",
+                "ts": "1698109416.807559"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1698116438.045759"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1698116476.140829"
+            },
+            {
+                "user": "U05A7HE2M8X",
+                "ts": "1698121606.802289"
+            },
+            {
+                "user": "U05DD0QU5MK",
+                "ts": "1698187579.241709"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1698187719.945539"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1698187765.650779"
+            },
+            {
+                "user": "U05DD0QU5MK",
+                "ts": "1698187996.233109"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1698188218.254449"
+            },
+            {
+                "user": "U05DD0QU5MK",
+                "ts": "1698188246.636789"
+            },
+            {
+                "user": "U03LK39EPB5",
+                "ts": "1698189317.098749"
+            },
+            {
+                "user": "U05DD0QU5MK",
+                "ts": "1698189417.171819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "91c5ae15-4f47-47e8-8c43-5c5961d50527",
+        "type": "message",
+        "text": "I used Capital IQ: <https:\/\/resourceaccess.lib.byu.edu\/resources\/capital-iq\/>",
+        "user": "U05AN015NSX",
+        "ts": "1698109377.138019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FiaJ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I used Capital IQ: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/resourceaccess.lib.byu.edu\/resources\/capital-iq\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107598.887219",
+        "parent_user_id": "U05A7HE2M8X"
+    },
+    {
+        "client_msg_id": "6b8cb580-a85a-47ed-9b34-a985935182d4",
+        "type": "message",
+        "text": "If you have trouble getting an account, I can download the data for you.",
+        "user": "U05AN015NSX",
+        "ts": "1698109416.807559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A0YVN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you have trouble getting an account, I can download the data for you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107598.887219",
+        "parent_user_id": "U05A7HE2M8X"
+    },
+    {
+        "client_msg_id": "ae0915ce-93b0-4422-ba03-a10ea41bdd9e",
+        "type": "message",
+        "text": "I used <https:\/\/www.sec.gov\/Archives\/edgar\/data\/0000018230\/000001823020000056\/cat10k2019finalwexhibits.pdf|this one> and got 30",
+        "user": "U05AQGJMMT6",
+        "ts": "1698116438.045759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "euS9B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I used "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sec.gov\/Archives\/edgar\/data\/0000018230\/000001823020000056\/cat10k2019finalwexhibits.pdf",
+                                "text": "this one"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and got 30"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107598.887219",
+        "parent_user_id": "U05A7HE2M8X"
+    },
+    {
+        "client_msg_id": "7161dd22-7315-4f5d-bd37-f45c07377506",
+        "type": "message",
+        "text": "Sorry, this was for question 2, regarding Caterpillar",
+        "user": "U05AQGJMMT6",
+        "ts": "1698116476.140829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5nKj\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry, this was for question 2, regarding Caterpillar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107598.887219",
+        "parent_user_id": "U05A7HE2M8X"
+    },
+    {
+        "client_msg_id": "234faa8f-11e4-49ab-9438-577b11afdd64",
+        "type": "message",
+        "text": "Thanks guys!!",
+        "user": "U05A7HE2M8X",
+        "ts": "1698121606.802289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dSq\/F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks guys!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "bcdf6033580d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-09\/5716478234883_bcdf6033580d299410a6_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Wilkinson",
+            "display_name": "Jessica Wilkinson",
+            "team": "T0ZBAEL59",
+            "name": "jessicawilkinson53",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107598.887219",
+        "parent_user_id": "U05A7HE2M8X",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

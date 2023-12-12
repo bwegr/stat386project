@@ -1,0 +1,238 @@
+[
+    {
+        "client_msg_id": "3657058c-eeac-4060-b2a3-c088fbee9de8",
+        "type": "message",
+        "text": "Hi! Any TA hours on Monday?",
+        "user": "U03TVL5E0M6",
+        "ts": "1696607602.505729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zeJHh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Any TA hours on Monday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696607602.505729",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1696616981.751419",
+        "reply_users": [
+            "U05D98WS6FQ",
+            "U03TVL5E0M6",
+            "U03NW11HA9H"
+        ],
+        "replies": [
+            {
+                "user": "U05D98WS6FQ",
+                "ts": "1696607879.344029"
+            },
+            {
+                "user": "U03TVL5E0M6",
+                "ts": "1696607953.338209"
+            },
+            {
+                "user": "U03NW11HA9H",
+                "ts": "1696616981.751419"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "793c87aa-ac72-4af1-a752-2ab86530e670",
+        "type": "message",
+        "text": "Their Google calendar looks like there are 3 office hours on Monday: 11am, 1pm, 3:15pm",
+        "user": "U05D98WS6FQ",
+        "ts": "1696607879.344029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "enYnV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Their Google calendar looks like there are 3 office hours on Monday: 11am, 1pm, 3:15pm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "bf599ccf5e03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-30\/5822107966326_bf599ccf5e03b3d455b4_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Adams",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ekaj101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696607602.505729",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "7b83d7e6-d980-4da8-a10a-430ce720e431",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U03TVL5E0M6",
+        "ts": "1696607953.338209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcxlo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696607602.505729",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "37994119-15d5-46d2-8836-3c96e11867e1",
+        "type": "message",
+        "text": "yes. my 3:15 is pushed to 3:30pm in W261!",
+        "user": "U03NW11HA9H",
+        "ts": "1696616981.751419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D7OiM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes. my 3:15 is pushed to 3:30pm in W261!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6a130392200c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4505166801655_6a130392200ca475659a_72.png",
+            "first_name": "Richie",
+            "real_name": "Richie Connolly",
+            "display_name": "Richie Connolly",
+            "team": "T0ZBAEL59",
+            "name": "richardkconnolly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696607602.505729",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "5d9522e4-6408-49bb-a59c-fba2ca1c1816",
+        "type": "message",
+        "text": "Just to confirm: Heinz is due Tuesday, right?",
+        "user": "U05AQGJMMT6",
+        "ts": "1696661547.813679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vi2qn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just to confirm: Heinz is due Tuesday, right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696661547.813679",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696709108.236839",
+        "reply_users": [
+            "U03LK4YJGQJ"
+        ],
+        "replies": [
+            {
+                "user": "U03LK4YJGQJ",
+                "ts": "1696709108.236839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

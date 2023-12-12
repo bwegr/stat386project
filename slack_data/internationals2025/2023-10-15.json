@@ -1,0 +1,185 @@
+[
+    {
+        "client_msg_id": "A948FC5E-50EA-46E2-A454-4443361FE395",
+        "type": "message",
+        "text": "Hi dear fiends, just a reminder that you have until 6pm to submit your cart with your classes, it’s not enough with the bidding system, and also it’s not enough with the cart as a pre registration. You need to submit that cart , if not you will “lose” the bidding for the electives",
+        "user": "U03M8T51VUY",
+        "ts": "1697411385.668679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2RCtT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi dear fiends, just a reminder that you have until 6pm to submit your cart with your classes, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not enough with the bidding system, and also "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not enough with the cart as a pre registration. You need to submit that cart , if not you will “lose” the bidding for the electives"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697411385.668679",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697417991.840999",
+        "reply_users": [
+            "U05AN3TCTSN"
+        ],
+        "replies": [
+            {
+                "user": "U05AN3TCTSN",
+                "ts": "1697417991.840999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0617EBN4TD",
+                "created": 1697411404,
+                "timestamp": 1697411404,
+                "name": "IMG_5885.jpg",
+                "title": "IMG_5885",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03M8T51VUY",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 2961230,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0617EBN4TD\/img_5885.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0617EBN4TD\/download\/img_5885.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617EBN4TD-c113c88a7a\/img_5885_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617EBN4TD-c113c88a7a\/img_5885_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617EBN4TD-c113c88a7a\/img_5885_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617EBN4TD-c113c88a7a\/img_5885_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617EBN4TD-c113c88a7a\/img_5885_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617EBN4TD-c113c88a7a\/img_5885_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617EBN4TD-c113c88a7a\/img_5885_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617EBN4TD-c113c88a7a\/img_5885_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617EBN4TD-c113c88a7a\/img_5885_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADCdVFP20FdtAoANtNK0+kOaAIWFRGpXzURoAs7venDnvUQcDqRTvNjHV1H40ASfjSH60w3EQ\/5aL+dMa6iH8f6UAK9QtQ91F6n8qha4Q9M0AVc+1Jn6UGkoAXJ9aKSigBaKKKAP\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03M8T51VUY\/F0617EBN4TD\/img_5885.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0617EBN4TD-219a2b5bde",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03M8T51VUY",
+        "display_as_bot": false,
+        "ts": "1697411410.571449",
+        "client_msg_id": "372FB33E-FA6A-48C7-8D89-4A21A9E42D94"
+    },
+    {
+        "client_msg_id": "8fc6e501-d5a6-4e3c-8fb2-9c51fbb674d7",
+        "type": "message",
+        "text": "Thank you Jesus. It's not very clear from the instructions what to do. I'm sure people find your post valuable.",
+        "user": "U05AN3TCTSN",
+        "ts": "1697417991.840999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CNSKH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Jesus. It's not very clear from the instructions what to do. I'm sure people find your post valuable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697411385.668679",
+        "parent_user_id": "U03M8T51VUY",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03M8T51VUY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

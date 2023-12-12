@@ -1,0 +1,264 @@
+[
+    {
+        "client_msg_id": "d15405a1-1f7e-457d-a814-4a019eef1ce8",
+        "type": "message",
+        "text": "Should I have any worries about getting into Financial Modeling or Entrepreneurship through Acquisition?",
+        "user": "U05B0NFJ1S5",
+        "ts": "1696826099.580379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rKWLX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should I have any worries about getting into Financial Modeling or Entrepreneurship through Acquisition?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "95bddd7b2943",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5813565093446_95bddd7b2943626dbda2_72.jpg",
+            "first_name": "Ben",
+            "real_name": "Ben Crockett",
+            "display_name": "Ben Crockett",
+            "team": "T0ZBAEL59",
+            "name": "bencrockett3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696826099.580379",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1697064480.662209",
+        "reply_users": [
+            "U03L4GT3B55",
+            "U05AN015NSX",
+            "U03LMGYLSR2",
+            "U03SZAWQBM4",
+            "U03LYFFN24R"
+        ],
+        "replies": [
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1696826284.987099"
+            },
+            {
+                "user": "U05AN015NSX",
+                "ts": "1696826650.848319"
+            },
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1696969229.684549"
+            },
+            {
+                "user": "U03SZAWQBM4",
+                "ts": "1697060881.524839"
+            },
+            {
+                "user": "U03SZAWQBM4",
+                "ts": "1697060939.890779"
+            },
+            {
+                "user": "U03LYFFN24R",
+                "ts": "1697064144.499009"
+            },
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1697064361.520689"
+            },
+            {
+                "user": "U03SZAWQBM4",
+                "ts": "1697064480.662209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2ce1bf9f-5aa8-4260-ad56-488193df315f",
+        "type": "message",
+        "text": "I don't know about Financial Modeling. ETA is taught every semester and if you can't get in, Tom will let you show up and add.",
+        "user": "U03L4GT3B55",
+        "ts": "1696826284.987099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l60z6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know about Financial Modeling. ETA is taught every semester and if you can't get in, Tom will let you show up and add."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696826099.580379",
+        "parent_user_id": "U05B0NFJ1S5"
+    },
+    {
+        "type": "message",
+        "text": "To help gauge the popularity of classes, besides talking to second-years, I usually look at the number  in the 'Available' column for several of the past semesters for the class I'm interested in at <http:\/\/commtech.byu.edu\/noauth\/classSchedule|commtech.byu.edu\/noauth\/classSchedule>",
+        "files": [
+            {
+                "id": "F06093UUS74",
+                "created": 1696826633,
+                "timestamp": 1696826633,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05AN015NSX",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 123086,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F06093UUS74\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F06093UUS74\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06093UUS74-cb55f9d2a9\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06093UUS74-cb55f9d2a9\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06093UUS74-cb55f9d2a9\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 115,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06093UUS74-cb55f9d2a9\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 154,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06093UUS74-cb55f9d2a9\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06093UUS74-cb55f9d2a9\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 230,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06093UUS74-cb55f9d2a9\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 256,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06093UUS74-cb55f9d2a9\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 307,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06093UUS74-cb55f9d2a9\/image_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 328,
+                "original_w": 1913,
+                "original_h": 612,
+                "thumb_tiny": "AwAPADC\/5UR58tP++RTUSCRcrEv\/AHyKVYkB3BeR708DHFMBohi\/55p\/3zR5MX\/PNP8AvmnilpAR+TF\/zzT\/AL5o8mL\/AJ5r\/wB8ipM0UAf\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05AN015NSX\/F06093UUS74\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F06093UUS74-2a403ceadb",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05AN015NSX",
+        "display_as_bot": false,
+        "ts": "1696826650.848319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hfutD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To help gauge the popularity of classes, besides talking to second-years, I usually look at the number  in the 'Available' column for several of the past semesters for the class I'm interested in at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/commtech.byu.edu\/noauth\/classSchedule",
+                                "text": "commtech.byu.edu\/noauth\/classSchedule"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0fc3b954-9aed-4d42-8b81-41e30eb26b35",
+        "thread_ts": "1696826099.580379",
+        "parent_user_id": "U05B0NFJ1S5",
+        "reactions": [
+            {
+                "name": "thank-you",
+                "users": [
+                    "U05AMVCTLRZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2fbd841-b2d9-452c-9450-1544d23a367a",
+        "type": "message",
+        "text": "Entrepreneurial Marketing is awesome if you're interested in starting a business and marketing it through various channels (social media, SEO, YouTube, etc.)",
+        "user": "U03LK56EXJN",
+        "ts": "1696827789.578219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EUv5w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Entrepreneurial Marketing is awesome if you're interested in starting a business and marketing it through various channels (social media, SEO, YouTube, etc.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "f0fa35dd6a38",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-29\/3740115766211_f0fa35dd6a387887760a_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Clement",
+            "display_name": "tanman",
+            "team": "T0ZBAEL59",
+            "name": "scariotjc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696368456.250229",
+        "parent_user_id": "U03LK52VCQ2"
+    }
+]

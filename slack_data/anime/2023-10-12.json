@@ -1,0 +1,183 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F060SCQQH9B",
+                "created": 1697113128,
+                "timestamp": 1697113128,
+                "name": "IMG_5837.png",
+                "title": "IMG_5837",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03M8T51VUY",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 2094108,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060SCQQH9B\/img_5837.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060SCQQH9B\/download\/img_5837.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060SCQQH9B-b661fa476f\/img_5837_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060SCQQH9B-b661fa476f\/img_5837_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060SCQQH9B-b661fa476f\/img_5837_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060SCQQH9B-b661fa476f\/img_5837_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060SCQQH9B-b661fa476f\/img_5837_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060SCQQH9B-b661fa476f\/img_5837_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060SCQQH9B-b661fa476f\/img_5837_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060SCQQH9B-b661fa476f\/img_5837_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060SCQQH9B-b661fa476f\/img_5837_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "original_w": 1170,
+                "original_h": 2532,
+                "thumb_tiny": "AwAwABYW0jbpKf8AvkU2S3SMkEueM5AFKqHqTgZ6ip4l2tg8kjOT6VTSQk7kSWiOgPmkA\/7IpfsKf89j\/wB80mGXlTw3NLuf1oURXL2UXjAx9KQeWDwMH2FIV3Ennr6U4ID1\/lUlCKsTdFH5U7y0\/uj8qUAAcUtACZ9xRn3FNPU03cufvCgCUdKKRaWgD\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03M8T51VUY\/F060SCQQH9B\/img_5837.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060SCQQH9B-ba29389b5c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03M8T51VUY",
+        "display_as_bot": false,
+        "ts": "1697113133.262099",
+        "client_msg_id": "48DA0F41-3484-43AB-9B03-3D1CB5E2C40A",
+        "thread_ts": "1697113133.262099",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697149702.859999",
+        "reply_users": [
+            "U03LMGSGBQC",
+            "U05H6DGRMRQ"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGSGBQC",
+                "ts": "1697149555.882579"
+            },
+            {
+                "user": "U05H6DGRMRQ",
+                "ts": "1697149702.859999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "U05H6DGRMRQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "184278d6-b285-4032-8b72-12618128a479",
+        "type": "message",
+        "text": "<@U05H6DGRMRQ>",
+        "user": "U03LMGSGBQC",
+        "ts": "1697149555.882579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G7\/So",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05H6DGRMRQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "76a8dfc4bba0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-28\/4574292020339_76a8dfc4bba0c824500d_72.jpg",
+            "first_name": "Caio",
+            "real_name": "Caio Andrezzo",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andrezzocorp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697113133.262099",
+        "parent_user_id": "U03M8T51VUY"
+    },
+    {
+        "client_msg_id": "207D30EE-7E81-4670-BAF1-0C33DC17A2C6",
+        "type": "message",
+        "text": "It will be in theaters again?!!! That’s amazing!!! On my calendar ",
+        "user": "U05H6DGRMRQ",
+        "ts": "1697149702.859999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hb3Xi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It will be in theaters again?!!! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "That’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " amazing!!! On my calendar "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3c2ec700a5a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-17\/5591211363973_3c2ec700a5a55348339c_72.png",
+            "first_name": "Camila",
+            "real_name": "Camila Costa",
+            "display_name": "Camila Costa",
+            "team": "T0ZBAEL59",
+            "name": "cami.costa1611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697113133.262099",
+        "parent_user_id": "U03M8T51VUY"
+    }
+]

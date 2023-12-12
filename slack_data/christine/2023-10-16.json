@@ -1,0 +1,1325 @@
+[
+    {
+        "client_msg_id": "46616249-A47F-4E3B-8A77-E61C0B99B3B5",
+        "type": "message",
+        "text": "I am registered for 14 credits for winter. I had two classes in my cart that failed to register because “this class requires departmental approval.” The classes are MBA 693R sec 003 and MBA 671 sec 01. Can you please let me know why this would be and what I need to to about it? ",
+        "user": "U03LK39LQ2F",
+        "ts": "1697464384.494899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/8z5a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am registered for 14 credits for winter. I had two classes in my cart that failed to register because “this class requires departmental approval.” The classes are MBA 693R sec 003 and MBA 671 sec 01. Can you please let me know why this would be and what I need to to about it? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "127e7339b511",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4045053911267_127e7339b511c9e7bfca_72.png",
+            "first_name": "Ashli",
+            "real_name": "Ashli Asay",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ashliasay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697464384.494899",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1697473792.126689",
+        "reply_users": [
+            "U03M8T51VUY",
+            "U03AVEWPUQN",
+            "U03LXQCEVKK",
+            "U03LK39LQ2F"
+        ],
+        "replies": [
+            {
+                "user": "U03M8T51VUY",
+                "ts": "1697465624.448969"
+            },
+            {
+                "user": "U03AVEWPUQN",
+                "ts": "1697466428.362089"
+            },
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1697467043.255439"
+            },
+            {
+                "user": "U03AVEWPUQN",
+                "ts": "1697467129.666429"
+            },
+            {
+                "user": "U03LK39LQ2F",
+                "ts": "1697473792.126689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Hi Ashli, hope you are doing well. I'm not 100% sure but, did you have those classes in the bidding? because if not you will be able to add those on October 19th at 10am",
+        "files": [
+            {
+                "id": "F061ARF3FMH",
+                "created": 1697465610,
+                "timestamp": 1697465610,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03M8T51VUY",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 50056,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061ARF3FMH\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061ARF3FMH\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ARF3FMH-e15fa56e26\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ARF3FMH-e15fa56e26\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ARF3FMH-e15fa56e26\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 96,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ARF3FMH-e15fa56e26\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 128,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ARF3FMH-e15fa56e26\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ARF3FMH-e15fa56e26\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 192,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ARF3FMH-e15fa56e26\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 213,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ARF3FMH-e15fa56e26\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 256,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ARF3FMH-e15fa56e26\/image_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 273,
+                "original_w": 1027,
+                "original_h": 274,
+                "thumb_tiny": "AwAMADDROcnmk59f1p2KNooATn1\/Wjn1\/Wl2ijaKAE59f1oGc9aXAowKAP\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03M8T51VUY\/F061ARF3FMH\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061ARF3FMH-0b77f2e011",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03M8T51VUY",
+        "display_as_bot": false,
+        "team": "T0ZBAEL59",
+        "ts": "1697465624.448969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0qhTE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Ashli, hope you are doing well. I'm not 100% sure but, did you have those classes in the bidding? because if not you will be able to add those on October 19th at 10am"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9f77cd16-ec49-4a65-a222-bd4ef9e26027",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697464384.494899",
+        "parent_user_id": "U03LK39LQ2F"
+    },
+    {
+        "client_msg_id": "364e0e2d-0574-47dc-94cd-5a0a7d9035e7",
+        "type": "message",
+        "text": "Ashli,  If you won these classes in the bidding, please let me know and I'll get you in those classes.  Jesus is correct if you didn't win them in the bidding then you need to wait until Thursday at 10am.",
+        "user": "U03AVEWPUQN",
+        "ts": "1697466428.362089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "33ZHc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ashli,  If you won these classes in the bidding, please let me know and I'll get you in those classes.  Jesus is correct if you didn't win them in the bidding then you need to wait until Thursday at 10am."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697464384.494899",
+        "parent_user_id": "U03LK39LQ2F"
+    },
+    {
+        "client_msg_id": "b95d93c3-7957-4497-b39c-2b81fbc23c3a",
+        "type": "message",
+        "text": "Do you know who sent the email recommending the application?",
+        "user": "U03AVEWPUQN",
+        "ts": "1697466507.636279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vhtk5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you know who sent the email recommending the application?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697249532.909829",
+        "parent_user_id": "U05HW4UU20Y"
+    },
+    {
+        "client_msg_id": "A127C8AA-A4D6-47F3-A9D7-2F7737804ADB",
+        "type": "message",
+        "text": "Hey Christine! Same problem, but it only happened with the 693 classes, and not with another class. I’ll DM you! ",
+        "user": "U03LXQCEVKK",
+        "ts": "1697467043.255439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Li6h6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Christine! Same problem, but it only happened with the 693 classes, and not with another class. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " DM you! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697464384.494899",
+        "parent_user_id": "U03LK39LQ2F"
+    },
+    {
+        "client_msg_id": "9b237f65-f3d3-483f-9330-f05c33d51135",
+        "type": "message",
+        "text": "Please send me the classes so I can look into it.  Thanks!",
+        "user": "U03AVEWPUQN",
+        "ts": "1697467129.666429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aGi04",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please send me the classes so I can look into it.  Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697464384.494899",
+        "parent_user_id": "U03LK39LQ2F"
+    },
+    {
+        "client_msg_id": "3b8e8137-03bd-4852-ac58-250d9c53deba",
+        "type": "message",
+        "text": "Where will our classes show up once they’re registered? I added all my classes to my cart in registration, but none of them are showing up there or in mymap.",
+        "user": "U05A7HE11LP",
+        "ts": "1697467380.488679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J\/9Me",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where will our classes show up once they’re registered? I added all my classes to my cart in registration, but none of them are showing up there or in mymap."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467380.488679",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1697469022.432689",
+        "reply_users": [
+            "U03SZAWQBM4",
+            "U05A7HE11LP",
+            "U03LXQCEVKK"
+        ],
+        "replies": [
+            {
+                "user": "U03SZAWQBM4",
+                "ts": "1697467419.128409"
+            },
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1697467438.646129"
+            },
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1697467449.823239"
+            },
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1697467493.427829"
+            },
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1697467510.093869"
+            },
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1697467537.878859"
+            },
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1697467854.791999"
+            },
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1697469022.432689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a11770cc-4691-4744-be9f-086b1dc8df30",
+        "type": "message",
+        "text": "You had to submit the cart",
+        "user": "U03SZAWQBM4",
+        "ts": "1697467419.128409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "54C2A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You had to submit the cart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467380.488679",
+        "parent_user_id": "U05A7HE11LP",
+        "reactions": [
+            {
+                "name": "point_up_2::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cdaf0a7e-9974-4a80-928c-51c13c730a57",
+        "type": "message",
+        "text": "Where do I do that?",
+        "user": "U05A7HE11LP",
+        "ts": "1697467438.646129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G3A7t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where do I do that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467380.488679",
+        "parent_user_id": "U05A7HE11LP"
+    },
+    {
+        "client_msg_id": "4de32e9e-1620-4b63-9e9e-6d734a128561",
+        "type": "message",
+        "text": "I thought I did, so I’m confused.",
+        "user": "U05A7HE11LP",
+        "ts": "1697467449.823239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+oOIT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought I did, so I’m confused."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467380.488679",
+        "parent_user_id": "U05A7HE11LP"
+    },
+    {
+        "client_msg_id": "b4f247fa-8c06-4947-9513-944a900f7876",
+        "type": "message",
+        "text": "I guess I need to go back and re-add everything? Since I can’t see any classes anywhere.",
+        "user": "U05A7HE11LP",
+        "ts": "1697467493.427829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DxnI5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess I need to go back and re-add everything? Since I can’t see any classes anywhere."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467380.488679",
+        "parent_user_id": "U05A7HE11LP"
+    },
+    {
+        "client_msg_id": "57f652f8-9697-420f-b525-ee3795d841d9",
+        "type": "message",
+        "text": "I did the same thing in undergrad. You’ll add them to your cart, and then you have to click the “submit cart” button for it to add them once the deadline opens :confused:",
+        "user": "U03LXQCEVKK",
+        "ts": "1697467510.093869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogMIo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did the same thing in undergrad. You’ll add them to your cart, and then you have to click the “submit cart” button for it to add them once the deadline opens "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467380.488679",
+        "parent_user_id": "U05A7HE11LP"
+    },
+    {
+        "client_msg_id": "09365961-3c02-4384-911d-8187cfcebdfb",
+        "type": "message",
+        "text": "Their UI\/UX is actually the worst.",
+        "user": "U05A7HE11LP",
+        "ts": "1697467537.878859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A8Ozx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Their UI\/UX is actually the worst."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467380.488679",
+        "parent_user_id": "U05A7HE11LP",
+        "reactions": [
+            {
+                "name": "rage",
+                "users": [
+                    "U03LXQCEVKK",
+                    "U03LMGYLSR2"
+                ],
+                "count": 2
+            },
+            {
+                "name": "bangbang",
+                "users": [
+                    "U03L4GUGBF1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U05BBQEJNTA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "efb3fb29-5c5f-461b-952a-dd1724dbd7d1",
+        "type": "message",
+        "text": "I just went back and added all of the classes I won in bidding. If they are in mymap am I done, or do I need to something else?",
+        "user": "U05A7HE11LP",
+        "ts": "1697467854.791999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MqHHu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just went back and added all of the classes I won in bidding. If they are in mymap am I done, or do I need to something else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467380.488679",
+        "parent_user_id": "U05A7HE11LP"
+    },
+    {
+        "client_msg_id": "ee1e9855-6e55-43c8-b3da-5b481481c3f9",
+        "type": "message",
+        "text": "Hey Christine! It looks like business trips are first week of school next semester, so I'm guessing MBA classes are canceled that first week. The add\/drop deadline is 1\/16\/2023, the second day of MBA classes. Will that be pushed back for MBA classes so that we can have a little longer to sample the MBA classes before needing to decide if we want to drop any of them? Thanks!",
+        "user": "U03SRBYBAET",
+        "ts": "1697468923.513789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GbEEQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Christine! It looks like business trips are first week of school next semester, so I'm guessing MBA classes are canceled that first week. The add\/drop deadline is 1\/16\/2023, the second day of MBA classes. Will that be pushed back for MBA classes so that we can have a little longer to sample the MBA classes before needing to decide if we want to drop any of them? Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6d964c44b7d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3918205904550_6d964c44b7d5cc71f366_72.jpg",
+            "first_name": "Coralee",
+            "real_name": "Coralee Choules",
+            "display_name": "Coralee Choules",
+            "team": "T0ZBAEL59",
+            "name": "coralee.choules",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697468923.513789",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1697481058.483429",
+        "reply_users": [
+            "U03NW11JH19",
+            "U03SRBYBAET",
+            "U03LMGYLSR2",
+            "U03AVEWPUQN"
+        ],
+        "replies": [
+            {
+                "user": "U03NW11JH19",
+                "ts": "1697469676.603849"
+            },
+            {
+                "user": "U03SRBYBAET",
+                "ts": "1697469731.795559"
+            },
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1697471158.750669"
+            },
+            {
+                "user": "U03AVEWPUQN",
+                "ts": "1697480312.350439"
+            },
+            {
+                "user": "U03SRBYBAET",
+                "ts": "1697481058.483429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LXQHD7T3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4226e367-9185-47a4-9c0f-f516d5ebfcdc",
+        "type": "message",
+        "text": "That should be it! Once they show up in mymap under your winter semester you should be good!",
+        "user": "U03LXQCEVKK",
+        "ts": "1697469022.432689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yrBuK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That should be it! Once they show up in mymap under your winter semester you should be good!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467380.488679",
+        "parent_user_id": "U05A7HE11LP"
+    },
+    {
+        "client_msg_id": "143F99ED-D836-4A91-948E-B28E69D9A87C",
+        "type": "message",
+        "text": "Coralee you are correct about MBA classes being canceled. Note Undergrad classes are not. The add\/drop deadline is a BYU overall deadline unfortunately the MBA program can’t change the deadline. At least that was what was told to me when I asked professors originally. \n\nThe best thing to do unfortunately is networking with people that have taken the classes and professors try to determine if the class is of interest to you from that.",
+        "user": "U03NW11JH19",
+        "ts": "1697469676.603849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wlaKV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coralee you are correct about MBA classes being canceled. Note Undergrad classes are not. The add\/drop deadline is a BYU overall deadline unfortunately the MBA program can’t change the deadline. At least that was what was told to me when I asked professors originally. \n\nThe best thing to do unfortunately is networking with people that have taken the classes and professors try to determine if the class is of interest to you from that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697468923.513789",
+        "parent_user_id": "U03SRBYBAET"
+    },
+    {
+        "client_msg_id": "96590055-C8AA-404B-A37A-793E6586ABDC",
+        "type": "message",
+        "text": "Thanks for the input and suggestions, Ben! ",
+        "user": "U03SRBYBAET",
+        "ts": "1697469731.795559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1vvU6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the input and suggestions, Ben! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6d964c44b7d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3918205904550_6d964c44b7d5cc71f366_72.jpg",
+            "first_name": "Coralee",
+            "real_name": "Coralee Choules",
+            "display_name": "Coralee Choules",
+            "team": "T0ZBAEL59",
+            "name": "coralee.choules",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697468923.513789",
+        "parent_user_id": "U03SRBYBAET"
+    },
+    {
+        "client_msg_id": "be25bae0-7238-4c8f-8c8a-20e923c40593",
+        "type": "message",
+        "text": "Ben's answer: \"Network more\" :joy:",
+        "user": "U03LMGYLSR2",
+        "ts": "1697471158.750669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cfvp2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ben's answer: \"Network more\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697468923.513789",
+        "parent_user_id": "U03SRBYBAET",
+        "reactions": [
+            {
+                "name": "stuck_out_tongue_closed_eyes",
+                "users": [
+                    "U03NW11JH19",
+                    "U03L4GLKLTZ",
+                    "U03LK4YJGQJ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U03LXQFQS3B",
+                    "U03L4GPCL5V",
+                    "U03L4GUGBF1",
+                    "U03LG7C5QAH"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1be39453-f0a1-40ae-b6c8-5ebfad98e470",
+        "type": "message",
+        "text": "Jesus was right- it was the classes I didn't win in the bidding. I'll try to add them on Thursday.  Thanks!",
+        "user": "U03LK39LQ2F",
+        "ts": "1697473792.126689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B4Y6z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jesus was right- it was the classes I didn't win in the bidding. I'll try to add them on Thursday.  Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "127e7339b511",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4045053911267_127e7339b511c9e7bfca_72.png",
+            "first_name": "Ashli",
+            "real_name": "Ashli Asay",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ashliasay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697464384.494899",
+        "parent_user_id": "U03LK39LQ2F"
+    },
+    {
+        "client_msg_id": "3C428CBE-D5E2-4F5F-86C1-21A727B6EF8C",
+        "type": "message",
+        "text": "Hi Christine! I was bidding for MBA 684A and got the class. I added the class to cart last week, but today it says failure to add because the class requires department approval. Would you be able to help with this? ",
+        "user": "U05A7HCQPDM",
+        "ts": "1697475177.606299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b2Jxi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Christine! I was bidding for MBA 684A and got the class. I added the class to cart last week, but today it says failure to add because the class requires department approval. Would you be able to help with this? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "5c524fe22b9b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-09\/5399582764435_5c524fe22b9bc184debd_72.png",
+            "first_name": "Natalie",
+            "real_name": "Natalie Koon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nataliekoon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697475177.606299",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697481314.847819",
+        "reply_users": [
+            "U05BBQD8SKS",
+            "U05GZPFMAA2"
+        ],
+        "replies": [
+            {
+                "user": "U05BBQD8SKS",
+                "ts": "1697476071.863009"
+            },
+            {
+                "user": "U05GZPFMAA2",
+                "ts": "1697481314.847819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "C59EC116-3122-468E-A12E-C0FD4C90E243",
+        "type": "message",
+        "text": "It was career services",
+        "user": "U05HW4UU20Y",
+        "ts": "1697475429.185599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gnA8m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It was career services"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2aa9fe727431",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-25\/5660749208768_2aa9fe7274319249fef0_72.png",
+            "first_name": "Sterling",
+            "real_name": "Sterling Baker",
+            "display_name": "Sterling Baker",
+            "team": "T0ZBAEL59",
+            "name": "wyomingbaker44",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697249532.909829",
+        "parent_user_id": "U05HW4UU20Y"
+    },
+    {
+        "client_msg_id": "EFC8C8F7-5E1E-4AB1-A97A-047CF78B3B11",
+        "type": "message",
+        "text": "Same here :point_up: ",
+        "user": "U05BBQD8SKS",
+        "ts": "1697476071.863009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7U4Qz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up",
+                                "unicode": "261d-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "ec40b14452d1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-01\/5364887686372_ec40b14452d1f2aad20d_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Yang",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jakeyangch",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697475177.606299",
+        "parent_user_id": "U05A7HCQPDM"
+    },
+    {
+        "client_msg_id": "5a1294a0-c1f0-4101-90f1-818e792fb57b",
+        "type": "message",
+        "text": "Even though the add\/drop deadline is the 1st day (Monday is a holiday), you will still be able to withdraw from classes and petition to add additional classes you may want after that deadline. You still have flexibility.",
+        "user": "U03AVEWPUQN",
+        "ts": "1697480312.350439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cqJqm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even though the add\/drop deadline is the 1st day (Monday is a holiday), you will still be able to withdraw from classes and petition to add additional classes you may want after that deadline. You still have flexibility."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697468923.513789",
+        "parent_user_id": "U03SRBYBAET"
+    },
+    {
+        "client_msg_id": "2E5D1830-FB5A-4BC6-8F6A-8FA3B0253CBA",
+        "type": "message",
+        "text": "Thanks, Christine! ",
+        "user": "U03SRBYBAET",
+        "ts": "1697481058.483429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WQ7Zg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Christine! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6d964c44b7d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3918205904550_6d964c44b7d5cc71f366_72.jpg",
+            "first_name": "Coralee",
+            "real_name": "Coralee Choules",
+            "display_name": "Coralee Choules",
+            "team": "T0ZBAEL59",
+            "name": "coralee.choules",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697468923.513789",
+        "parent_user_id": "U03SRBYBAET"
+    },
+    {
+        "client_msg_id": "4fea8834-ed0f-4505-8c12-ecc80823f355",
+        "type": "message",
+        "text": "Same thing happened to me. I emailed her and she added it for me today.",
+        "user": "U05GZPFMAA2",
+        "ts": "1697481314.847819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1GuHv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same thing happened to me. I emailed her and she added it for me today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dae6d1b7129e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-25\/6099646149092_dae6d1b7129ed59f3cd8_72.png",
+            "first_name": "Val",
+            "real_name": "Val Fulton",
+            "display_name": "Val",
+            "team": "T0ZBAEL59",
+            "name": "valeriam.fulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697475177.606299",
+        "parent_user_id": "U05A7HCQPDM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05A7HEQV71",
+                    "U05BBQD8SKS"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

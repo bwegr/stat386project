@@ -1,0 +1,261 @@
+[
+    {
+        "client_msg_id": "B3507E4F-4CBF-4713-A1EE-ED6E3723D619",
+        "type": "message",
+        "text": "<!channel> Meeting tomorrow at 11 am, room 180.\n\nI didn’t plan the time. I’m the messenger. ",
+        "user": "U03L4GT3B55",
+        "ts": "1698698872.896749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aW4Rc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Meeting tomorrow at 11 am, room 180.\n\nI "
+                            },
+                            {
+                                "type": "text",
+                                "text": "didn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " plan the time. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the messenger. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698698872.896749",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1698769323.979749",
+        "reply_users": [
+            "U03PKR5GQUQ",
+            "U03LK39PKRR",
+            "U03L4GT3B55"
+        ],
+        "replies": [
+            {
+                "user": "U03PKR5GQUQ",
+                "ts": "1698698929.986629"
+            },
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1698702141.222089"
+            },
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1698715775.458379"
+            },
+            {
+                "user": "U03PKR5GQUQ",
+                "ts": "1698769276.139639"
+            },
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1698769323.979749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03PKR5GQUQ",
+                    "U03LK5045V0",
+                    "U05B0NHD3LZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03PKR5GQUQ",
+                    "U05HK2S6TLZ",
+                    "U03LK3D5N2X"
+                ],
+                "count": 3
+            },
+            {
+                "name": "earth_americas",
+                "users": [
+                    "U05BBQFJ056",
+                    "U03LK39PKRR"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7EF1CBAE-0AE1-436A-8F89-72D17361B20B",
+        "type": "message",
+        "text": "<@U03L4GT3B55> you’re the best! I’ll be there! ",
+        "user": "U03PKR5GQUQ",
+        "ts": "1698698929.986629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9DSJZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L4GT3B55"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the best! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be there! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dc8df7de893c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/3999803606982_dc8df7de893c145463cc_72.png",
+            "first_name": "Ashlee",
+            "real_name": "Ashlee Love",
+            "display_name": "Ashlee",
+            "team": "T0ZBAEL59",
+            "name": "ashleelove2017",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698698872.896749",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "b0fda050-8b09-4e88-96c1-9af8ab61d75d",
+        "type": "message",
+        "text": "Any possibility of a zoom link?",
+        "user": "U03LK39PKRR",
+        "ts": "1698702141.222089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g6yBq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any possibility of a zoom link?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698698872.896749",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "06c0a3a6-70d1-43f0-abf8-d28eb495146c",
+        "type": "message",
+        "text": "Don't count on it. I can't be there.",
+        "user": "U03L4GT3B55",
+        "ts": "1698715775.458379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xtKKB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't count on it. I can't be there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698698872.896749",
+        "parent_user_id": "U03L4GT3B55"
+    }
+]

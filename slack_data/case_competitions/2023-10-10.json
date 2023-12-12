@@ -1,0 +1,166 @@
+[
+    {
+        "client_msg_id": "4a7d9072-edcc-48ce-90ef-d998ce76dbc8",
+        "type": "message",
+        "text": "From <@U03LKPR602X>:\n\nIntro to the *Acquisition Case Competition* that will take place in November ($1000 cash prize to the winner) -- 1st\/2nd years can enter\n\nThe Acquisition Case Comp will be on  :rotating_light: *Saturday, November 18th* :rotating_light: at the new Kiln in Provo. It will be an awesome chance to pitch your acquisition idea(s) to potential investors.",
+        "user": "U03LK52VCQ2",
+        "ts": "1696965083.628269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lbZub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LKPR602X"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n\nIntro to the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Acquisition Case Competition",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that will take place in November ($1000 cash prize to the winner) -- 1st\/2nd years can enter\n\nThe Acquisition Case Comp will be on  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Saturday, November 18th ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " at the new Kiln in Provo. It will be an awesome chance to pitch your acquisition idea(s) to potential investors."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696965083.628269",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696965117.757159",
+        "reply_users": [
+            "U03LKPR602X"
+        ],
+        "replies": [
+            {
+                "user": "U03LKPR602X",
+                "ts": "1696965117.757159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03LKPR602X",
+                    "U03L4GT3B55",
+                    "U05AK5HTE77"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6192202f-ae09-4da5-a4f2-5896820dc225",
+        "type": "message",
+        "text": "Thanks <@U03LK52VCQ2>",
+        "user": "U03LKPR602X",
+        "ts": "1696965117.757159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i3AQl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LK52VCQ2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e44703c70bf5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-19\/3960224283206_e44703c70bf5c3980b3d_72.jpg",
+            "first_name": "James",
+            "real_name": "James Lincoln",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "james.lincoln1995",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696965083.628269",
+        "parent_user_id": "U03LK52VCQ2",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

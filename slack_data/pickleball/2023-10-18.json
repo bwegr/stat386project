@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "485587d5-d7ae-41ff-bf90-8487f3c3d06c",
+        "type": "message",
+        "text": "Hhhmm probably not for me",
+        "user": "U03LK52CR7U",
+        "ts": "1697665085.255789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9pZ2s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hhhmm probably not for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6e53b4fccca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-23\/4005980232208_6e53b4fccca86101bc89_72.png",
+            "first_name": "Dallin",
+            "real_name": "Dallin Webb",
+            "display_name": "Dallin Webb",
+            "team": "T0ZBAEL59",
+            "name": "dallin.webb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697553363.666699",
+        "parent_user_id": "U03LMGYLSR2",
+        "reactions": [
+            {
+                "name": "disappointed",
+                "users": [
+                    "U03LMGYLSR2"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

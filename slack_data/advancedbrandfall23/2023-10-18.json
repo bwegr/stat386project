@@ -1,0 +1,494 @@
+[
+    {
+        "client_msg_id": "a652363c-f75e-461e-9071-8993952062a6",
+        "type": "message",
+        "text": "<!channel> Can anyone take a picture of the pages of today's case and post them in here? I left my case pack at home :grimacing:",
+        "user": "U03LXQLBGCR",
+        "ts": "1697648698.080639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GSnib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Can anyone take a picture of the pages of today's case and post them in here? I left my case pack at home "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing",
+                                "unicode": "1f62c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "df4db093e9fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-21\/3834694788083_df4db093e9fa68b16c9d_72.jpg",
+            "first_name": "Matt",
+            "real_name": "Matt Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mbenson358",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697648698.080639",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1697650533.682999",
+        "reply_users": [
+            "U03LMGSGBQC",
+            "U03LXQLBGCR",
+            "U03L57R4HN3",
+            "U03LK4YF3A6"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGSGBQC",
+                "ts": "1697648890.272709"
+            },
+            {
+                "user": "U03LXQLBGCR",
+                "ts": "1697649026.405569"
+            },
+            {
+                "user": "U03LMGSGBQC",
+                "ts": "1697649056.816789"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1697649877.773959"
+            },
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1697650508.729949"
+            },
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1697650530.918429"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1697650533.682999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8b3e05b4-f0f1-4ac0-a94c-0dc0bb86991a",
+        "type": "message",
+        "text": "Are you on campus? Come to the lounge and I will give mine to you",
+        "user": "U03LMGSGBQC",
+        "ts": "1697648890.272709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ebXG2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you on campus? Come to the lounge and I will give mine to you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "76a8dfc4bba0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-28\/4574292020339_76a8dfc4bba0c824500d_72.jpg",
+            "first_name": "Caio",
+            "real_name": "Caio Andrezzo",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andrezzocorp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697648698.080639",
+        "parent_user_id": "U03LXQLBGCR"
+    },
+    {
+        "client_msg_id": "c1d0a4a7-38e9-471f-9634-2f803eab8f4f",
+        "type": "message",
+        "text": "I am, but I'm in class until 12:15 and then I'll be off campus until about 2. How many pages is the case?",
+        "user": "U03LXQLBGCR",
+        "ts": "1697649026.405569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hvlpw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am, but I'm in class until 12:15 and then I'll be off campus until about 2. How many pages is the case?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "df4db093e9fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-21\/3834694788083_df4db093e9fa68b16c9d_72.jpg",
+            "first_name": "Matt",
+            "real_name": "Matt Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mbenson358",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697648698.080639",
+        "parent_user_id": "U03LXQLBGCR"
+    },
+    {
+        "client_msg_id": "9247730c-ea6b-4a8b-a7b8-31ffa4b09f8b",
+        "type": "message",
+        "text": "13, I guess",
+        "user": "U03LMGSGBQC",
+        "ts": "1697649056.816789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iFBf6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "13, I guess"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "76a8dfc4bba0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-28\/4574292020339_76a8dfc4bba0c824500d_72.jpg",
+            "first_name": "Caio",
+            "real_name": "Caio Andrezzo",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andrezzocorp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697648698.080639",
+        "parent_user_id": "U03LXQLBGCR"
+    },
+    {
+        "client_msg_id": "8aa477d7-58c6-4137-a649-a117b3d4e89a",
+        "type": "message",
+        "text": "Oh no!!! I'm in the same boat as Matt. How did I forget?!:face_with_peeking_eye:",
+        "user": "U03L57R4HN3",
+        "ts": "1697649877.773959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rD5AI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh no!!! I'm in the same boat as Matt. How did I forget?!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_peeking_eye",
+                                "unicode": "1fae3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697648698.080639",
+        "parent_user_id": "U03LXQLBGCR"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F061JVC88HL",
+                "created": 1697650498,
+                "timestamp": 1697650498,
+                "name": "printed_1550314.pdf",
+                "title": "printed_1550314.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03LK4YF3A6",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 7763745,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061JVC88HL\/printed_1550314.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061JVC88HL\/download\/printed_1550314.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061JVC88HL-cd2b04d435\/printed_1550314_thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 1403,
+                "thumb_pdf_h": 1821,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK4YF3A6\/F061JVC88HL\/printed_1550314.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061JVC88HL-cde4e53425",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LK4YF3A6",
+        "display_as_bot": false,
+        "ts": "1697650508.729949",
+        "client_msg_id": "bb87476e-9848-4d4d-9497-923ff3ba420f",
+        "thread_ts": "1697648698.080639",
+        "parent_user_id": "U03LXQLBGCR"
+    },
+    {
+        "client_msg_id": "5b2213fa-08ba-4d36-a1ea-6f7de69535c2",
+        "type": "message",
+        "text": "my name is *literally* printed over that case lolololol",
+        "user": "U03LK4YF3A6",
+        "ts": "1697650530.918429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YtWzu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my name is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "literally",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " printed over that case lolololol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697648698.080639",
+        "parent_user_id": "U03LXQLBGCR",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK3D5N2X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0991c58-a4cc-4cae-898f-7a609a50a3af",
+        "type": "message",
+        "text": "You are all so amazing!!!!",
+        "user": "U03L57R4HN3",
+        "ts": "1697650533.682999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LwYz6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You are all so amazing!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697648698.080639",
+        "parent_user_id": "U03LXQLBGCR"
+    },
+    {
+        "client_msg_id": "fdcfaced-cf44-4fe2-b23b-c3e452630e4f",
+        "type": "message",
+        "text": "anyone super smart want to walk me through how to do #3 on trade with the BOGO? I have thoroughly confused myself",
+        "user": "U03LK4YF3A6",
+        "ts": "1697684066.649149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e6VaM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "anyone super smart want to walk me through how to do #3 on trade with the BOGO? I have thoroughly confused myself"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697684066.649149",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697687237.185129",
+        "reply_users": [
+            "U03L57R4HN3"
+        ],
+        "replies": [
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1697687237.185129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "121db04e-ba7d-445b-9996-3265209ae381",
+        "type": "message",
+        "text": "I'm working through them tomorrow after Accounting if you want to join me. But I haven't dug into #3. Just recall that a BOGO means we divide the price by 2 if that helps.",
+        "user": "U03L57R4HN3",
+        "ts": "1697687237.185129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CdLbQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm working through them tomorrow after Accounting if you want to join me. But I haven't dug into #3. Just recall that a BOGO means we divide the price by 2 if that helps."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697684066.649149",
+        "parent_user_id": "U03LK4YF3A6"
+    }
+]

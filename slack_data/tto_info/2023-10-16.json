@@ -1,0 +1,348 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697470069.216469",
+        "user": "U05AQGJRCNQ",
+        "text": "<@U05AQGJRCNQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697470071.246409",
+        "user": "U05H6A4184T",
+        "text": "<@U05H6A4184T> has joined the channel",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05H6A4184T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697470072.440079",
+        "user": "U05AFDTJEUW",
+        "text": "<@U05AFDTJEUW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697470083.373489",
+        "user": "U05DD0QU5MK",
+        "text": "<@U05DD0QU5MK> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697470093.899589",
+        "user": "U05A7HE11LP",
+        "text": "<@U05A7HE11LP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697470127.790449",
+        "user": "U05BBQG8FTJ",
+        "text": "<@U05BBQG8FTJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697470183.611699",
+        "user": "U05DW80RSQM",
+        "text": "<@U05DW80RSQM> has joined the channel"
+    },
+    {
+        "client_msg_id": "D59F315D-B221-4A04-B8BD-0EDF9799C90A",
+        "type": "message",
+        "text": "Who do we contact to see what tech is available? Thanks for setting this up! ",
+        "user": "U05H6A4184T",
+        "ts": "1697470202.126679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ah9Yi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who do we contact to see what tech is available? Thanks for setting this up! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "79606dd47c09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5802269160551_79606dd47c09b377ebdf_72.png",
+            "first_name": "Carl",
+            "real_name": "Carl Majors",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "carlmajors",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697470202.126679",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697473268.733999",
+        "reply_users": [
+            "U03LCGL1GK0"
+        ],
+        "replies": [
+            {
+                "user": "U03LCGL1GK0",
+                "ts": "1697473268.733999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697470302.064239",
+        "user": "U05AN0097RR",
+        "text": "<@U05AN0097RR> has joined the channel"
+    },
+    {
+        "client_msg_id": "527b7ef3-f91d-4f8c-9f40-fadd0e3c847b",
+        "type": "message",
+        "text": "The licensing process starts by contacting Dave Brown, who is the director of the TTO. Send him an email expressing your interest. You will be required to sign an NDA before you can access the information. Here is his email: <mailto:dave_brown@byu.edu|dave_brown@byu.edu>",
+        "user": "U03LCGL1GK0",
+        "ts": "1697473268.733999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kis+\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The licensing process starts by contacting Dave Brown, who is the director of the TTO. Send him an email expressing your interest. You will be required to sign an NDA before you can access the information. Here is his email: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:dave_brown@byu.edu",
+                                "text": "dave_brown@byu.edu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9e5d4c92387a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3684719193415_9e5d4c92387a9ab3fd0b_72.jpg",
+            "first_name": "S.",
+            "real_name": "S. Kirk Tompkinson",
+            "display_name": "S. Kirk Tompkinson",
+            "team": "T0ZBAEL59",
+            "name": "kirk.tompkinson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697470202.126679",
+        "parent_user_id": "U05H6A4184T"
+    },
+    {
+        "client_msg_id": "a92a0d6c-5160-4e13-adfa-f9b7e8bfbc65",
+        "type": "message",
+        "text": "License Bounty Process:\n1. Contact Dave Brown at <mailto:dave_brown@byu.edu|dave_brown@byu.edu>\n2. Receive and sign NDA\n3. Get access to technology list\n4. Browse technologies with a few questions in mind\n    a. Does this technology interest me?\n    b. Do I know anyone in industry who might be interested in licensing this?\n    c. Are their companies I am already networking with who would be interested?\n5. Reach out to existing contacts and make new ones\n6. Refer interested parties to the TTO\n7. Remain engaged as much as possible!\n8. Make $5k",
+        "user": "U03LCGL1GK0",
+        "ts": "1697474742.759179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lPxkf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "License Bounty Process:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Contact Dave Brown at "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:dave_brown@byu.edu",
+                                        "text": "dave_brown@byu.edu"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Receive and sign NDA"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Get access to technology list"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Browse technologies with a few questions in mind"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Does this technology interest me?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do I know anyone in industry who might be interested in licensing this?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Are their companies I am already networking with who would be interested?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Reach out to existing contacts and make new ones"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Refer interested parties to the TTO"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Remain engaged as much as possible!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make $5k"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 4,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9e5d4c92387a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3684719193415_9e5d4c92387a9ab3fd0b_72.jpg",
+            "first_name": "S.",
+            "real_name": "S. Kirk Tompkinson",
+            "display_name": "S. Kirk Tompkinson",
+            "team": "T0ZBAEL59",
+            "name": "kirk.tompkinson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U05H6A4184T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697484954.807699",
+        "user": "U05GZPFBQ7Q",
+        "text": "<@U05GZPFBQ7Q> has joined the channel"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "32886200-73D8-4232-B066-F1D4EF99461C",
+        "type": "message",
+        "text": "Are there TA hours now?",
+        "user": "U05E5KMHERE",
+        "ts": "1698788148.796489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "unn\/J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are there TA hours now?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "aab3cbd5e251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-04\/5846730557411_aab3cbd5e2511e28c4e9_72.png",
+            "first_name": "Sydney",
+            "real_name": "Sydney Buckner",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "sydneypbuckner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698788148.796489",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698864507.711539",
+        "reply_users": [
+            "U03TVL5QZFA",
+            "U03M8T9G2GY"
+        ],
+        "replies": [
+            {
+                "user": "U03TVL5QZFA",
+                "ts": "1698789380.390189"
+            },
+            {
+                "user": "U03M8T9G2GY",
+                "ts": "1698864507.711539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a618d6c5-a4f4-40c5-8eaf-75435b6cd59d",
+        "type": "message",
+        "text": "I can answer questions via DM. What’s up?",
+        "user": "U03TVL5QZFA",
+        "ts": "1698789380.390189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GwOrj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can answer questions via DM. What’s up?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698788148.796489",
+        "parent_user_id": "U05E5KMHERE"
+    }
+]

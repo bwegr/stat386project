@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "B672BD8D-DB8B-469C-8074-697C1199B386",
+        "type": "message",
+        "text": "Hey Guys, I’m looking to start a book club maybe once a month. Not sure how many folks would be interested in something like that. But if you are let me know with a thumbs up. ",
+        "user": "U03UV6770V9",
+        "ts": "1697233351.933449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7rRmf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Guys, I’m looking to start a book club maybe once a month. Not sure how many folks would be interested in something like that. But if you are let me know with a thumbs up. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "726175ac772f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-27\/3994854151414_726175ac772f9b58d6e2_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Baize",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "kevin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03PKR5GQUQ",
+                    "U03L57R4HN3",
+                    "U03LKPR602X",
+                    "U03LK39LQ2F",
+                    "U03LG776WFP",
+                    "U05DD0R0XHB",
+                    "U03LXQCEVKK"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "b5c09d9c-8824-419a-9a1b-352887130c56",
+        "type": "message",
+        "text": "<@U03L4GT3B55> asked about the cheat sheet for the exam that I thought would be useful for everyone:\n\nIt's one normal sized printer page (A4\/Letter)\nIt can be typed or handwritten\nYou can write on both sides\nThere will be short essay questions on the TenAlpina case\/s - you won't have to remember numbers, just concepts, you won't have the case front of you again",
+        "user": "U03LK39EPB5",
+        "ts": "1697123651.792639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tO8bs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L4GT3B55"
+                            },
+                            {
+                                "type": "text",
+                                "text": " asked about the cheat sheet for the exam that I thought would be useful for everyone:\n\nIt's one normal sized printer page (A4\/Letter)\nIt can be typed or handwritten\nYou can write on both sides\nThere will be short essay questions on the TenAlpina case\/s - you won't have to remember numbers, just concepts, you won't have the case front of you again"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LXQCEVKK",
+                    "U03LG7C9P8V",
+                    "U03LK56AUHG"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-6",
+                "users": [
+                    "U03LXQBTQJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5744eebf-3886-4f8a-bcdc-c70831303101",
+        "type": "message",
+        "text": "I am going to move my TA hours to Tuesdays at 2pm. You can still use the link in my slack bio to book outside of that time if you need to :slightly_smiling_face:",
+        "user": "U03LK39EPB5",
+        "ts": "1697125766.829509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0qjqj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am going to move my TA hours to Tuesdays at 2pm. You can still use the link in my slack bio to book outside of that time if you need to "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

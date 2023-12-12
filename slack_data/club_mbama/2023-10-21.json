@@ -1,0 +1,273 @@
+[
+    {
+        "client_msg_id": "1cdfd16e-5f6e-43cd-a990-29bc9a45fd46",
+        "type": "message",
+        "text": "Has anyone taken both Pricing and Market Research? I'd love to hear your thoughts on either class in terms of applicable skills. <@U03L4GUGBF1> <@U03LXQLBGCR> <@U03LXQE14NM>. Thanks!:pray:",
+        "user": "U03L57R4HN3",
+        "ts": "1697938923.292709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8xKW7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone taken both Pricing and Market Research? I'd love to hear your thoughts on either class in terms of applicable skills. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03L4GUGBF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LXQLBGCR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LXQE14NM"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Thanks!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697938923.292709",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1698067989.063489",
+        "reply_users": [
+            "U03L4GSNM7Z",
+            "U03LXQE14NM",
+            "U03LK56EXJN",
+            "U03LK39LQ2F",
+            "U03LG7DNSUV"
+        ],
+        "replies": [
+            {
+                "user": "U03L4GSNM7Z",
+                "ts": "1697939074.542229"
+            },
+            {
+                "user": "U03LXQE14NM",
+                "ts": "1697939118.562819"
+            },
+            {
+                "user": "U03LK56EXJN",
+                "ts": "1697941448.091469"
+            },
+            {
+                "user": "U03LK39LQ2F",
+                "ts": "1697956586.193159"
+            },
+            {
+                "user": "U03LG7DNSUV",
+                "ts": "1698067989.063489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8CD9AE17-B101-448F-A31E-482885BDC136",
+        "type": "message",
+        "text": "I am also interested in that",
+        "user": "U03L4GSNM7Z",
+        "ts": "1697939074.542229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ttrsY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am also interested in that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "1cfea375dbf1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-27\/3986896576983_1cfea375dbf13df92e20_72.png",
+            "first_name": "Tressa",
+            "real_name": "Tressa Long",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "tressaleelong",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697938923.292709",
+        "parent_user_id": "U03L57R4HN3",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03L57R4HN3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62643EBE-B2D5-4B37-8390-5EE96FA6C576",
+        "type": "message",
+        "text": "Marketing research has some applicable stuff.  Work in excel and Qualtrics.  It was kind of a lot of work",
+        "user": "U03LXQE14NM",
+        "ts": "1697939118.562819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ygyI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marketing research has some applicable stuff.  Work in excel and Qualtrics.  It was kind of a lot of work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc176dbcf62e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_72.jpg",
+            "first_name": "Austin",
+            "real_name": "Austin Schofield",
+            "display_name": "Austin Schofield",
+            "team": "T0ZBAEL59",
+            "name": "schofieldda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697938923.292709",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "client_msg_id": "3d3f177d-6743-4d5c-a7f4-26f4e7c04321",
+        "type": "message",
+        "text": "Marketing research is great with Matt Madden. Lots of the same skills as analytics class last semester.",
+        "user": "U03LK56EXJN",
+        "ts": "1697941448.091469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ykf\/D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marketing research is great with Matt Madden. Lots of the same skills as analytics class last semester."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "f0fa35dd6a38",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-29\/3740115766211_f0fa35dd6a387887760a_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Clement",
+            "display_name": "tanman",
+            "team": "T0ZBAEL59",
+            "name": "scariotjc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697938923.292709",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "client_msg_id": "74E450B1-838E-4BE9-B61F-0C86C1BA718D",
+        "type": "message",
+        "text": "I would love to hear about the pricing class, too!",
+        "user": "U03LK39LQ2F",
+        "ts": "1697956586.193159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8amqH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would love to hear about the pricing class, too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "127e7339b511",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4045053911267_127e7339b511c9e7bfca_72.png",
+            "first_name": "Ashli",
+            "real_name": "Ashli Asay",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ashliasay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697938923.292709",
+        "parent_user_id": "U03L57R4HN3"
+    }
+]

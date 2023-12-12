@@ -1,0 +1,689 @@
+[
+    {
+        "client_msg_id": "979f6eb4-c0b8-44c5-8ef1-31334731d8c2",
+        "type": "message",
+        "text": "Hey friends! I know this is a busy week for many of us, wanted to keep a few things on your radar regarding recruiting\/networking events in the near future:\n\n*Info Sessions*\n• Dell – 10\/24 (:exclamation:TOMORROW:exclamation:), 5:00 PM - 6:30 PM in TNRB 130\n    ◦ Focused on Marketing internships\n    ◦ Register in Handshake here: <https:\/\/byu.joinhandshake.com\/stu\/events\/1317534|https:\/\/byu.joinhandshake.com\/stu\/events\/1317534>\n• The Pennant Group – 10\/25, 5:00 PM - 6:00 PM in TNRB 164\n    ◦ Focused on Entrepreneurship Full-time roles\n    ◦ Register in Handshake here: <https:\/\/byu.joinhandshake.com\/stu\/events\/1302329|https:\/\/byu.joinhandshake.com\/stu\/events\/1302329>\n• Pelion VP – 11\/6, 5:00PM - 6:00 PM in TNRB W210\n    ◦ Pelion is a Venture Capital firm, but the info session is not track specific, focused on internships\n    ◦ Register in Handshake here: <https:\/\/byu.joinhandshake.com\/stu\/events\/1333983|https:\/\/byu.joinhandshake.com\/stu\/events\/1333983>\n*Office Hours*\n• The Pennant Group – 10\/26, 9:00 AM - 5:00 PM in TNRB W461\n    ◦ Focused on Entrepreneurship Full-time roles\n    ◦ Register in Handshake here: <https:\/\/byu.joinhandshake.com\/stu\/events\/1302331|https:\/\/byu.joinhandshake.com\/stu\/events\/1302331>\n*Luncheon (Come &amp; Go)*\n• Dell – 11\/8, 12:00 PM - 1:30 PM in TNRB W459*\n    ◦ Focused on Marketing internships\n    ◦ Register in Handshake here: <https:\/\/byu.joinhandshake.com\/stu\/events\/1317537|https:\/\/byu.joinhandshake.com\/stu\/events\/1317537>\n    ◦ *Keep in mind that this event may conflict with Tech Trek trips. Confirm that you'll be able to attend before registering!\nLastly, don't forget to check out these other opportunities (not in Handshake) happening soon as well:\n\n• 10\/24 (:exclamation:TOMORROW:exclamation:), 6:00 PM - 7:00 PM: <https:\/\/byumba.slack.com\/archives\/C0ZCSJTC5\/p1698081442281729|MBA Strategy &amp; Consulting Networking Event, Sponsored by SCA>\n• 10\/26, 5:00 PM - 7:00 PM: <https:\/\/byumba.slack.com\/archives\/C6VUTH16Y\/p1698096000620959|Dell Women in Management Top Golf Networking Event>\n• _*Not strictly a recruiting event but important:_ 10\/26, 11:00 AM (Marketing only): <https:\/\/byumba.slack.com\/archives\/C05ALCU697Y\/p1697777380824809|Mandatory Info Session with Brittany Bennion for anyone interested in Dell> (DM Brittany if you are interested but not able to attend)\nIf you know of any recruiting events missed here, please drop them in the thread below!",
+        "user": "U05AFDTJEUW",
+        "ts": "1698116625.082979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZPVeT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey friends! I know this is a busy week for many of us, wanted to keep a few things on your radar regarding recruiting\/networking events in the near future:\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Info Sessions",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dell – 10\/24 ("
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "exclamation",
+                                        "unicode": "2757"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "TOMORROW"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "exclamation",
+                                        "unicode": "2757"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "), 5:00 PM - 6:30 PM in TNRB 130"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Focused on Marketing internships"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Register in Handshake here: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/byu.joinhandshake.com\/stu\/events\/1317534",
+                                        "text": "https:\/\/byu.joinhandshake.com\/stu\/events\/1317534"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The Pennant Group – 10\/25, 5:00 PM - 6:00 PM in TNRB 164"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Focused on Entrepreneurship Full-time roles"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Register in Handshake here: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/byu.joinhandshake.com\/stu\/events\/1302329",
+                                        "text": "https:\/\/byu.joinhandshake.com\/stu\/events\/1302329"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pelion VP – 11\/6, 5:00PM - 6:00 PM in TNRB W210"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pelion is a Venture Capital firm, but the info session is not track specific, focused on internships"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Register in Handshake here: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/byu.joinhandshake.com\/stu\/events\/1333983",
+                                        "text": "https:\/\/byu.joinhandshake.com\/stu\/events\/1333983"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Office Hours",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The Pennant Group – 10\/26, 9:00 AM - 5:00 PM in TNRB W461"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Focused on Entrepreneurship Full-time roles"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Register in Handshake here: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/byu.joinhandshake.com\/stu\/events\/1302331",
+                                        "text": "https:\/\/byu.joinhandshake.com\/stu\/events\/1302331"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Luncheon (Come & Go)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dell – 11\/8, 12:00 PM - 1:30 PM in TNRB W459*"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Focused on Marketing internships"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Register in Handshake here: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/byu.joinhandshake.com\/stu\/events\/1317537",
+                                        "text": "https:\/\/byu.joinhandshake.com\/stu\/events\/1317537"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "*Keep in mind that this event may conflict with Tech Trek trips. Confirm that you'll be able to attend before registering!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nLastly, don't forget to check out these other opportunities (not in Handshake) happening soon as well:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10\/24 ("
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "exclamation",
+                                        "unicode": "2757"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "TOMORROW"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "exclamation",
+                                        "unicode": "2757"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "), 6:00 PM - 7:00 PM: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/byumba.slack.com\/archives\/C0ZCSJTC5\/p1698081442281729",
+                                        "text": "MBA Strategy & Consulting Networking Event, Sponsored by SCA"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10\/26, 5:00 PM - 7:00 PM: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/byumba.slack.com\/archives\/C6VUTH16Y\/p1698096000620959",
+                                        "text": "Dell Women in Management Top Golf Networking Event"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "*Not strictly a recruiting event but important: ",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "10\/26, 11:00 AM (Marketing only): "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/byumba.slack.com\/archives\/C05ALCU697Y\/p1697777380824809",
+                                        "text": "Mandatory Info Session with Brittany Bennion for anyone interested in Dell"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (DM Brittany if you are interested but not able to attend)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIf you know of any recruiting events missed here, please drop them in the thread below!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "72b4e8495ef2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-18\/5924924451553_72b4e8495ef27fb8d9ff_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Chamberlain",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexander.chamberlain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698116625.082979",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1698122936.213129",
+        "reply_users": [
+            "U03LK4YF3A6",
+            "U03L57R4HN3",
+            "U03PKR5881E"
+        ],
+        "replies": [
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1698116692.406949"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1698117344.896919"
+            },
+            {
+                "user": "U03PKR5881E",
+                "ts": "1698122936.213129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05A7HF1DJB",
+                    "U03LK4YF3A6",
+                    "U03LK56AUHG",
+                    "U03L57R4HN3",
+                    "U03LMGXDFB6",
+                    "U03LG763EKF",
+                    "U03LXQBTQJV",
+                    "U05BBQDP59N",
+                    "U05BBQEGSL8",
+                    "U03LK52VCQ2",
+                    "U05AK5HTE77",
+                    "U05AN02C0E7",
+                    "U03TVL5E0M6",
+                    "U03LMGYLSR2",
+                    "U03LXQCEVKK",
+                    "U05BBQD8SKS"
+                ],
+                "count": 16
+            },
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AN015NSX",
+                    "U03LK56AUHG",
+                    "U03L57R4HN3",
+                    "U03L4GT3B55",
+                    "U03LXQBTQJV",
+                    "U03LK52VCQ2",
+                    "U05BBQEJNTA",
+                    "U05AN02C0E7",
+                    "U03LXQCEVKK"
+                ],
+                "count": 9
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LK4YF3A6",
+                    "U03LXQE14NM",
+                    "U05BBQG8FTJ",
+                    "U03LK56AUHG",
+                    "U03M8T6EJ8G",
+                    "U03L57R4HN3",
+                    "U05AN02C0E7",
+                    "U03L4GLKLTZ"
+                ],
+                "count": 8
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f0bfa73-46eb-4840-9a9f-fa78965d9678",
+        "type": "message",
+        "text": "Thank you Alex!!",
+        "user": "U03LK4YF3A6",
+        "ts": "1698116692.406949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jsPSZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Alex!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698116625.082979",
+        "parent_user_id": "U05AFDTJEUW"
+    },
+    {
+        "client_msg_id": "83A4CD5F-190D-4E7E-B420-433A1E889A89",
+        "type": "message",
+        "text": "Amazing!!! Great work.",
+        "user": "U03L57R4HN3",
+        "ts": "1698117344.896919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8LkPH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing!!! Great work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698116625.082979",
+        "parent_user_id": "U05AFDTJEUW"
+    },
+    {
+        "client_msg_id": "D72657FE-06EB-43F3-8F92-81A58261C007",
+        "type": "message",
+        "text": "Thank you Alex",
+        "user": "U03PKR5881E",
+        "ts": "1698122936.213129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7dhFi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Alex"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698116625.082979",
+        "parent_user_id": "U05AFDTJEUW"
+    }
+]

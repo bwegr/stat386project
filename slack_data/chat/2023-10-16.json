@@ -1,0 +1,950 @@
+[
+    {
+        "client_msg_id": "1943fb00-b6be-44a2-9720-857641f2ad2f",
+        "type": "message",
+        "text": "Reminder everyone! Slalom Consulting is coming to do an info session on *Wednesday 18th at 6 p.m*. in room TNBR W122. Slalom is an international based consulting firm that does all sorts of consulting. Slalom in Salt Lake focuses on Workforce Transformation. (which to them means any change that a company is working through) Slalom is SLC is open to *full-time students and slalom in the US and globally is looking for interns and full-time.*\n\n <https:\/\/www.slalom.com\/>\n<https:\/\/www.linkedin.com\/company\/slalom-consulting\/>\n\n\n\n*Slalom*\n*<https:\/\/www.slalom.com\/|Slalom>*\nSlalom is a global consulting firm focused on strategy, technology, and business transformation.\n\n\n\n*<http:\/\/linkedin.com|linkedin.com>*\n*<https:\/\/www.linkedin.com\/company\/slalom-consulting\/|Slalom | LinkedIn>*\nSlalom | 218,807 followers on LinkedIn. We help people and organizations dream bigger, move faster, and build better tomorrows for all. | Slalom is a purpose-led, global business and technology consulting company. Our purpose—to help people and organizations dream bigger, move faster, and build better tomorrows for all—guides everything we do. And our north star is our vision of a world in which each person has the opportunity to love their life and work.\n\n\n*Slalom*\n*<https:\/\/www.slalom.com\/|Slalom>*\nSlalom is a global consulting firm focused on strategy, technology, and business transformation.\n\n\n*<http:\/\/linkedin.com|linkedin.com>*\n*<https:\/\/www.linkedin.com\/company\/slalom-consulting\/|Slalom | LinkedIn>*\nSlalom | 219,313 followers on LinkedIn. We help people and organizations dream bigger, move faster, and build better tomorrows for all. | Slalom is a purpose-led, global business and technology consulting company. Our purpose—to help people and organizations dream bigger, move faster, and build better tomorrows for all—guides everything we do. And our north star is our vision of a world in which each person has the opportunity to love their life and work.",
+        "user": "U03NW11JH19",
+        "ts": "1697470256.316709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g1QQL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reminder everyone! Slalom Consulting is coming to do an info session on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Wednesday 18th at 6 p.m",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". in room TNBR W122. Slalom is an international based consulting firm that does all sorts of consulting. Slalom in Salt Lake focuses on Workforce Transformation. (which to them means any change that a company is working through) Slalom is SLC is open to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "full-time students and slalom in the US and globally is looking for interns and full-time.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.slalom.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slalom",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.slalom.com\/",
+                                "text": "Slalom",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSlalom is a global consulting firm focused on strategy, technology, and business transformation.\n\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/linkedin.com",
+                                "text": "linkedin.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                                "text": "Slalom | LinkedIn",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSlalom | 218,807 followers on LinkedIn. We help people and organizations dream bigger, move faster, and build better tomorrows for all. | Slalom is a purpose-led, global business and technology consulting company. Our purpose—to help people and organizations dream bigger, move faster, and build better tomorrows for all—guides everything we do. And our north star is our vision of a world in which each person has the opportunity to love their life and work.\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slalom",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.slalom.com\/",
+                                "text": "Slalom",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSlalom is a global consulting firm focused on strategy, technology, and business transformation.\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/linkedin.com",
+                                "text": "linkedin.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                                "text": "Slalom | LinkedIn",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSlalom | 219,313 followers on LinkedIn. We help people and organizations dream bigger, move faster, and build better tomorrows for all. | Slalom is a purpose-led, global business and technology consulting company. Our purpose—to help people and organizations dream bigger, move faster, and build better tomorrows for all—guides everything we do. And our north star is our vision of a world in which each person has the opportunity to love their life and work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.slalom.com\/",
+                "thumb_url": "https:\/\/www.slalom.com\/sites\/default\/files\/2022-10\/refresh22-home-seo-810x560.jpg",
+                "thumb_width": 810,
+                "thumb_height": 560,
+                "id": 1,
+                "original_url": "https:\/\/www.slalom.com\/",
+                "fallback": "Slalom",
+                "text": "Slalom is a global consulting firm focused on strategy, technology, and business transformation.",
+                "title": "Slalom",
+                "title_link": "https:\/\/www.slalom.com\/",
+                "service_name": "Slalom"
+            },
+            {
+                "from_url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/D560BAQGFRbh3xhok1g\/company-logo_200_200\/0\/1697124516602?e=2147483647&v=beta&t=eW1Z3lGpYM5BjeUGfyWmX2YlTdbOIebbWP0mYJ_oI1g",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 2,
+                "original_url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "fallback": "Slalom | LinkedIn",
+                "text": "Slalom | 219,313 followers on LinkedIn. We help people and organizations dream bigger, move faster, and build better tomorrows for all. | Slalom is a purpose-led, global business and technology consulting company. Our purpose—to help people and organizations dream bigger, move faster, and build better tomorrows for all—guides everything we do. And our north star is our vision of a world in which each person has the opportunity to love their life and work.",
+                "title": "Slalom | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "service_name": "linkedin.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EEBA870A-C4A0-4C96-8A3D-5EAD0AA7EDFD",
+        "type": "message",
+        "text": "Congratulations Tanner!!!! :partying_face: :partying_face: ",
+        "user": "U05A7HF1DJB",
+        "ts": "1697479329.806049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AFXh2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congratulations Tanner"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partying_face",
+                                "unicode": "1f973"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partying_face",
+                                "unicode": "1f973"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "190c94f745ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-28\/5523234115824_190c94f745ffc1890c22_72.png",
+            "first_name": "Kaavya",
+            "real_name": "Kaavya Sawhney",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "kaavya.sawhney",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697239269.342569",
+        "parent_user_id": "U03LK56EXJN"
+    },
+    {
+        "type": "message",
+        "text": "Hey everyone, I know there’s been a TON of announcements, so I wouldn’t say this unless it was important! Opening social for the Adam Smith Society TOMORROW at 5:30pm!\n1. How do I RSVP? \nGo to <#C0499MYJVPZ|adam-smith-society> channel and react to this thread I shared here!\n2. WHY should I RSVP?\nIf you, a) want to eventually listen to interesting speakers, b) network with classmates, or c) enjoy great discussion and food around free market principles!\n3. WHAT is the commitment level?\nABSOLUTELY NONE! This is a no fee club, and contrary to Megan Lesa’s comments, you get WAY MORE than you paid for! Partially because we’re funded by the Manhattan Institute from the East Coast\n4. BUT “I don’t want to get notifications from a channel that I may not have time to pay attention to!”\nIf you look at how to use slack, you’ll see that you can mute notifications from specific channels. 2nd year pro-tip for anyone who’s experiencing stimuli overload after mid terms and the first month and a half of the program have “humbled”\/ abased you and your sense of competency.",
+        "user": "U03LXQCEVKK",
+        "ts": "1697486399.365269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iZYkp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone, I know there’s been a TON of announcements, so I wouldn’t say this unless it was important! Opening social for the Adam Smith Society TOMORROW at 5:30pm!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How do I RSVP? "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0499MYJVPZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel and react to this thread I shared here!\n2. WHY should I RSVP?\nIf you, a) want to eventually listen to interesting speakers, b) network with classmates, or c) enjoy great discussion and food around free market principles!\n3. WHAT is the commitment level?\nABSOLUTELY NONE! This is a no fee club, and contrary to Megan Lesa’s comments, you get WAY MORE than you paid for! Partially because we’re funded by the Manhattan Institute from the East Coast\n4. BUT “I don’t want to get notifications from a channel that I may not have time to pay attention to!”\nIf you look at how to use slack, you’ll see that you can mute notifications from specific channels. 2nd year pro-tip for anyone who’s experiencing stimuli overload after mid terms and the first month and a half of the program have “humbled”\/ abased you and your sense of competency."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LXQCEVKK",
+            "ts": "1697486587.000000"
+        },
+        "attachments": [
+            {
+                "ts": "1696460160.789429",
+                "author_id": "U03LG7DNSUV",
+                "channel_id": "C0499MYJVPZ",
+                "channel_team": "T0ZBAEL59",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T0ZBAEL59",
+                        "channel": "C0499MYJVPZ",
+                        "ts": "1696460160.789429",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "JqsHq",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "channel"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " Okay SmithSoc members, the moment you've all been waiting for "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "drum_with_drumsticks",
+                                                    "unicode": "1f941"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "drum_with_drumsticks",
+                                                    "unicode": "1f941"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "drum_with_drumsticks",
+                                                    "unicode": "1f941"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " \nOur Opening Social! \nTuesday, October 17 5:30 at The Wash. Free (BYU appropriate) drinks and food. Invite your friends. Respond with an emoji that represents free markets for to RSVP"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F05V9GTQ960",
+                        "created": 1696455152,
+                        "timestamp": 1696455152,
+                        "name": "BAC5B9D8-D212-46F2-8207-87E7A7CD2E12.png",
+                        "title": "BAC5B9D8-D212-46F2-8207-87E7A7CD2E12",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U03LG7DNSUV",
+                        "user_team": "T0ZBAEL59",
+                        "editable": false,
+                        "size": 762396,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V9GTQ960\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V9GTQ960\/download\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360_w": 255,
+                        "thumb_360_h": 360,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_480_w": 340,
+                        "thumb_480_h": 480,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720_w": 509,
+                        "thumb_720_h": 720,
+                        "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 1131,
+                        "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_960_w": 679,
+                        "thumb_960_h": 960,
+                        "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_1024_w": 724,
+                        "thumb_1024_h": 1024,
+                        "original_w": 1588,
+                        "original_h": 2245,
+                        "thumb_tiny": "AwAwACGoOopQOnHp2ptGKsY4Dpx+lNP9KXBx0pCCOtABRRRQIVfrinZP96mU7LHtQGoderGkIHrSktTaACiiigB4iYgEDqM00EipmYLhlABIxTdiknvQCuxh3Fc449cUqpuGRnnpxTwwwASM457UgzkrnkGkmNkNFWN8XqKN8XqKZNz\/2Q==",
+                        "permalink": "https:\/\/byumba.slack.com\/files\/U03LG7DNSUV\/F05V9GTQ960\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12.png",
+                        "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05V9GTQ960-8be99778f4",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/byumba.slack.com\/archives\/C0499MYJVPZ\/p1696460160789429?thread_ts=1696460160.789429&cid=C0499MYJVPZ",
+                "is_share": true,
+                "fallback": "[October 4th, 2023 4:56 PM] jamie.p.wadsworth: <!channel> Okay SmithSoc members, the moment you've all been waiting for :drum_with_drumsticks: :drum_with_drumsticks: :drum_with_drumsticks: \nOur Opening Social! \nTuesday, October 17 5:30 at The Wash. Free (BYU appropriate) drinks and food. Invite your friends. Respond with an emoji that represents free markets for to RSVP",
+                "text": "<!channel> Okay SmithSoc members, the moment you've all been waiting for :drum_with_drumsticks: :drum_with_drumsticks: :drum_with_drumsticks: \nOur Opening Social! \nTuesday, October 17 5:30 at The Wash. Free (BYU appropriate) drinks and food. Invite your friends. Respond with an emoji that represents free markets for to RSVP",
+                "author_name": "Jamie Wadsworth",
+                "author_link": "https:\/\/byumba.slack.com\/team\/U03LG7DNSUV",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4003016629493_f3b8802bc2bc4748803b_48.png",
+                "author_subname": "Jamie Wadsworth",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in Slack Conversation"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "687a425c-a9af-42c5-b8dd-7b3c919306c9",
+        "type": "message",
+        "text": ":volleyball: Volleyball Night :volleyball:\n\nJoin us for some fun and friendly volleyball games on Friday, the 27th, from 6-8 pm at the SFH building. It's a great opportunity to unwind and have a blast. Whether you're a pro or just looking to have a good time, everyone is welcome! We have 2 courts reserved for us! \n\nSee you all there! ",
+        "user": "U03L4GQK4KZ",
+        "ts": "1697487468.318729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KAyV9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "volleyball",
+                                "unicode": "1f3d0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Volleyball Night "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "volleyball",
+                                "unicode": "1f3d0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJoin us for some fun and friendly volleyball games on Friday, the 27th, from 6-8 pm at the SFH building. It's a great opportunity to unwind and have a blast. Whether you're a pro or just looking to have a good time, everyone is welcome! We have 2 courts reserved for us! \n\nSee you all there! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b307be7eedc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3709097130420_4b307be7eedc4338b292_72.png",
+            "first_name": "Tulga",
+            "real_name": "Tulga Enkhbold",
+            "display_name": "Tulga",
+            "team": "T0ZBAEL59",
+            "name": "lukautah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03L4GQK4KZ",
+            "ts": "1697487503.000000"
+        },
+        "reactions": [
+            {
+                "name": "volleyball",
+                "users": [
+                    "U03L4GQK4KZ",
+                    "U03LXQE14NM",
+                    "U03LK39PKRR",
+                    "U03L4GN325D",
+                    "U03LK52VCQ2"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Below are some documents I put together to help teach strategy frameworks, casing tips, and some interview questions. (The interview questions are split into behavioral and strategy) Thank you to all the 2nd years who answered the call for the strategy questions. The strategy questions represent things that have been asked in interviews! Hope someone finds this helpful! I would love to answer any questions about the documents!",
+        "files": [
+            {
+                "id": "F061G3ZC3EG",
+                "created": 1697493963,
+                "timestamp": 1697493963,
+                "name": "Structuring Tips.docx",
+                "title": "Structuring Tips.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 243426,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061G3ZC3EG\/structuring_tips.docx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061G3ZC3EG\/download\/structuring_tips.docx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061G3ZC3EG-abac775070\/structuring_tips_converted.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061G3ZC3EG-abac775070\/structuring_tips_thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F061G3ZC3EG\/structuring_tips.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061G3ZC3EG-235fff9328",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F061DL7075Y",
+                "created": 1697493968,
+                "timestamp": 1697493968,
+                "name": "Buckets_Structures.docx",
+                "title": "Buckets_Structures.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 22423,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061DL7075Y\/buckets_structures.docx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061DL7075Y\/download\/buckets_structures.docx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061DL7075Y-b1746664b4\/buckets_structures_converted.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061DL7075Y-b1746664b4\/buckets_structures_thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F061DL7075Y\/buckets_structures.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061DL7075Y-482c02102a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F061ANKHBJR",
+                "created": 1697493974,
+                "timestamp": 1697493974,
+                "name": "Strategy Interview Questions.docx",
+                "title": "Strategy Interview Questions.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 27713,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061ANKHBJR\/strategy_interview_questions.docx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061ANKHBJR\/download\/strategy_interview_questions.docx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ANKHBJR-d394ea3b09\/strategy_interview_questions_converted.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061ANKHBJR-d394ea3b09\/strategy_interview_questions_thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F061ANKHBJR\/strategy_interview_questions.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061ANKHBJR-76e07fef77",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F061DHF9HMH",
+                "created": 1697493979,
+                "timestamp": 1697493979,
+                "name": "behavioral questions.docx",
+                "title": "behavioral questions.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 16488,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061DHF9HMH\/behavioral_questions.docx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061DHF9HMH\/download\/behavioral_questions.docx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061DHF9HMH-e3e6530bab\/behavioral_questions_converted.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061DHF9HMH-e3e6530bab\/behavioral_questions_thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F061DHF9HMH\/behavioral_questions.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061DHF9HMH-f27e8533c6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03NW11JH19",
+        "ts": "1697494163.675779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DBalI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Below are some documents I put together to help teach strategy frameworks, casing tips, and some interview questions. (The interview questions are split into behavioral and strategy) Thank you to all the 2nd years who answered the call for the strategy questions. The strategy questions represent things that have been asked in interviews! Hope someone finds this helpful! I would love to answer any questions about the documents!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d32e11b6-f7d1-429c-97ea-2baf1343d5a5",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LG7C9P8V",
+                    "UKA415K3N",
+                    "U05BBQDP59N",
+                    "U03LK551XFU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03M8T9K6SU",
+                    "U03LMGXDFB6",
+                    "U03LG7C5QAH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U03M8T9K6SU",
+                    "U03LK533VR8",
+                    "U03LMGXDFB6"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands::skin-tone-6",
+                "users": [
+                    "U03LXQBTQJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-6",
+                "users": [
+                    "U03LXQBTQJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "This message is for your spouses! \n\nMBASA is selling SWAG. Orders are due by Oct 18. See poster for more details. \n\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfOVQX4Mq90i3NkD9CmpKZesp3Yj1CNBQjK9tPplHMunLp0Vg\/viewform|https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfOVQX4Mq90i3NkD9CmpKZesp3Yj1CNBQjK9tPplHMunLp0Vg\/viewform>",
+        "files": [
+            {
+                "id": "F06175ZSZD4",
+                "created": 1697496826,
+                "timestamp": 1697496826,
+                "name": "1.jpg",
+                "title": "1.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03LXQBTQJV",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 74718,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F06175ZSZD4\/1.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F06175ZSZD4\/download\/1.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06175ZSZD4-04b5146103\/1_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06175ZSZD4-04b5146103\/1_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06175ZSZD4-04b5146103\/1_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06175ZSZD4-04b5146103\/1_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06175ZSZD4-04b5146103\/1_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06175ZSZD4-04b5146103\/1_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06175ZSZD4-04b5146103\/1_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06175ZSZD4-04b5146103\/1_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06175ZSZD4-04b5146103\/1_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADDR3r6j86N6\/wB4fnTN4\/ut\/wB8mmll9D\/3yaAJg4PQj86Wq4K9AcE+1S+YPT9aAF3nJ+U04HIzUWUJJ2U4ODgAUAZk95J5rKMbAcYx1pq3s2MFh9cVVZsux9TmkB+amBfiuJBIuTkE45q\/jnqPzrKtxvmQe+a1COaTAUAevP1pwGCKaoPXj8acM55xSAyfsLknDADOBnuKkSyVCTIwbj6Vp7V\/uimlVH\/LMU7gU4oFSUMpPHarojH1\/CkG0dE\/Snb\/APZNIA2D0H5UBADnAoDE9qXNAH\/\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LXQBTQJV\/F06175ZSZD4\/1.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F06175ZSZD4-bf357a972c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LXQBTQJV",
+        "display_as_bot": false,
+        "ts": "1697497054.911379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LVtSu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This message is for your spouses! \n\nMBASA is selling SWAG. Orders are due by Oct 18. See poster for more details. \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfOVQX4Mq90i3NkD9CmpKZesp3Yj1CNBQjK9tPplHMunLp0Vg\/viewform",
+                                "text": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfOVQX4Mq90i3NkD9CmpKZesp3Yj1CNBQjK9tPplHMunLp0Vg\/viewform"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "393bc1af-6181-4cba-baa3-b5519a6e367d",
+        "thread_ts": "1697497054.911379",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697497880.127449",
+        "reply_users": [
+            "U03LK5045V0",
+            "U03LXQBTQJV"
+        ],
+        "replies": [
+            {
+                "user": "U03LK5045V0",
+                "ts": "1697497798.250389"
+            },
+            {
+                "user": "U03LXQBTQJV",
+                "ts": "1697497880.127449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8b094fbb-94c5-4e0a-b285-1a7666b6de69",
+        "type": "message",
+        "text": "Are these printed or embroidered?",
+        "user": "U03LK5045V0",
+        "ts": "1697497798.250389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E\/qs5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are these printed or embroidered?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b0a4fbd21f41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-25\/3705740993831_b0a4fbd21f41527354e8_72.jpg",
+            "first_name": "Cristian",
+            "real_name": "Cristian Torres",
+            "display_name": "Cristian Torres",
+            "team": "T0ZBAEL59",
+            "name": "cntorres",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697497054.911379",
+        "parent_user_id": "U03LXQBTQJV"
+    },
+    {
+        "client_msg_id": "a2d0923a-6be6-41e4-a5ba-f8a6b483241f",
+        "type": "message",
+        "text": "Embroidered",
+        "user": "U03LXQBTQJV",
+        "ts": "1697497880.127449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mypai",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Embroidered"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bf2ea7282f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-09\/4072671444257_7bf2ea7282f5542e95db_72.jpg",
+            "first_name": "Ben",
+            "real_name": "Ben Nzojibwami",
+            "display_name": "Ben Nzojibwami",
+            "team": "T0ZBAEL59",
+            "name": "benjamin.nzojibwami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697497054.911379",
+        "parent_user_id": "U03LXQBTQJV"
+    }
+]

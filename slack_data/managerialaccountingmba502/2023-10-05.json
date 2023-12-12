@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "654db553-6b27-467a-a6e3-f461db95997a",
+        "type": "message",
+        "text": "It's linked int he schedule on the home page of Canvas",
+        "user": "U03LK39EPB5",
+        "ts": "1696517350.486549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JZjjG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's linked int he schedule on the home page of Canvas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696369268.881189",
+        "parent_user_id": "U03LG78FBEZ"
+    }
+]

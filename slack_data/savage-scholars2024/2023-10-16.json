@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "420F8180-5B76-4CA0-A425-BA6A6C559CE4",
+        "type": "message",
+        "text": "It looks like our charges finally cleared!!",
+        "user": "U03LG7C9P8V",
+        "ts": "1697496236.186549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H1iQp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It looks like our charges finally cleared!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4f3bd79ef29c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-26\/5487388985763_4f3bd79ef29c7560553f_72.png",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Dean",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.dean",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U03L4GN325D",
+                    "U03LK385119",
+                    "U03L4GLKLTZ",
+                    "U03LXQFQS3B",
+                    "U03NW11JH19",
+                    "U03LXQCJA81",
+                    "U03LK551XFU",
+                    "U023PGS313M"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

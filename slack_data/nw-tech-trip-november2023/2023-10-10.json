@@ -1,0 +1,587 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696931225.802829",
+        "user": "U05HK2S6TLZ",
+        "text": "<@U05HK2S6TLZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696934575.018379",
+        "user": "U05A7HD4XE3",
+        "text": "<@U05A7HD4XE3> has joined the channel"
+    },
+    {
+        "client_msg_id": "c717badd-86e3-49bb-87f7-ff20291fdf8e",
+        "type": "message",
+        "text": "airbnb anyone? <https:\/\/www.airbnb.com\/rooms\/40411891?adults=15&amp;check_in=2023-11-08&amp;check_out=2023-11-10&amp;source_impression_id=p3_1696954690_rz1X8yPwGe3mrLTA&amp;previous_page_section_name=1000&amp;federated_search_id=ae229b63-f849-4509-a382-85f3a3d657b6&amp;guests=1|https:\/\/www.airbnb.com\/rooms\/40411891?adults=15&amp;check_in=2023-11-08&amp;check_out=2023-1[…]rated_search_id=ae229b63-f849-4509-a382-85f3a3d657b6&amp;guests=1>",
+        "user": "U05BBQG8FTJ",
+        "ts": "1696962687.490699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fVurx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "airbnb anyone? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.airbnb.com\/rooms\/40411891?adults=15&check_in=2023-11-08&check_out=2023-11-10&source_impression_id=p3_1696954690_rz1X8yPwGe3mrLTA&previous_page_section_name=1000&federated_search_id=ae229b63-f849-4509-a382-85f3a3d657b6&guests=1",
+                                "text": "https:\/\/www.airbnb.com\/rooms\/40411891?adults=15&check_in=2023-11-08&check_out=2023-1[…]rated_search_id=ae229b63-f849-4509-a382-85f3a3d657b6&guests=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.airbnb.com\/rooms\/40411891?adults=15&check_in=2023-11-08&check_out=2023-11-10&source_impression_id=p3_1696954690_rz1X8yPwGe3mrLTA&previous_page_section_name=1000&federated_search_id=ae229b63-f849-4509-a382-85f3a3d657b6&guests=1",
+                "image_url": "https:\/\/a0.muscache.com\/im\/pictures\/miso\/Hosting-40411891\/original\/edd7f302-03e3-4ca0-9713-fddfa3bc0a15.jpeg?im_w=720",
+                "image_width": 720,
+                "image_height": 480,
+                "image_bytes": 55671,
+                "service_icon": "https:\/\/a0.muscache.com\/airbnb\/static\/icons\/apple-touch-icon-76x76-3b313d93b1b5823293524b9764352ac9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.airbnb.com\/rooms\/40411891?adults=15&amp;check_in=2023-11-08&amp;check_out=2023-11-10&amp;source_impression_id=p3_1696954690_rz1X8yPwGe3mrLTA&amp;previous_page_section_name=1000&amp;federated_search_id=ae229b63-f849-4509-a382-85f3a3d657b6&amp;guests=1",
+                "fallback": "Airbnb: Home in Seattle · ★4.77 · 7 bedrooms · 16 beds · 4 baths",
+                "text": "Panoramic Lake View 3800+ sqft House in Oasis",
+                "title": "Home in Seattle · ★4.77 · 7 bedrooms · 16 beds · 4 baths",
+                "title_link": "https:\/\/www.airbnb.com\/rooms\/40411891?adults=15&check_in=2023-11-08&check_out=2023-11-10&source_impression_id=p3_1696954690_rz1X8yPwGe3mrLTA&previous_page_section_name=1000&federated_search_id=ae229b63-f849-4509-a382-85f3a3d657b6&guests=1",
+                "service_name": "Airbnb"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrotfast",
+                "users": [
+                    "U03LXQE14NM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U05B0NHGDG9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4a9560a-9323-4589-aea7-b72bb921ab91",
+        "type": "message",
+        "text": "Everybody flying back Friday or Saturday?",
+        "user": "U05BBQG8FTJ",
+        "ts": "1696962789.067629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ePjCm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Everybody flying back Friday or Saturday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696973764.875079",
+        "user": "U03M8T6EJ8G",
+        "text": "<@U03M8T6EJ8G> has joined the channel",
+        "inviter": "U05BBQEGSL8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696973770.477739",
+        "user": "U03TVL5E0M6",
+        "text": "<@U03TVL5E0M6> has joined the channel",
+        "inviter": "U05BBQEGSL8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696973893.396069",
+        "user": "U05AN3R7398",
+        "text": "<@U05AN3R7398> has joined the channel",
+        "inviter": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "16F08BA2-2F80-4CAC-ADDC-A84256C7D5A4",
+        "type": "message",
+        "text": "I am sure that I want to go, but I don’t know how to drive",
+        "user": "U05AN3R7398",
+        "ts": "1696973931.112659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xMjbI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am sure that I want to go, but I don’t know how to drive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6b745b04-fa5f-4967-a14e-dc310cc77cd8",
+        "type": "message",
+        "text": "portland flight: <https:\/\/kay.ac\/QcZF6H>",
+        "user": "U05BBQG8FTJ",
+        "ts": "1696975130.862069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mlixC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "portland flight: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kay.ac\/QcZF6H"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/content.r9cdn.net\/rimg\/dimg\/f9\/84\/d494b0b4-city-27946-177826a548a.jpg?width=440&height=220&crop=true&xhint=2607&yhint=430",
+                "image_width": 440,
+                "image_height": 220,
+                "image_bytes": 19757,
+                "from_url": "https:\/\/kay.ac\/QcZF6H",
+                "service_icon": "https:\/\/www.kayak.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/kay.ac\/QcZF6H",
+                "fallback": "KAYAK: SLC to PDX, 11\/7",
+                "text": "We find flights, accommodations, and rental cars from hundreds of sites. Get more options, insights, and deals for your next trip.",
+                "title": "SLC to PDX, 11\/7",
+                "title_link": "https:\/\/kay.ac\/QcZF6H",
+                "service_name": "KAYAK"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3df9e744-13c3-4101-b525-f485fe50f4d9",
+        "type": "message",
+        "text": "<https:\/\/kay.ac\/3sPPUU>",
+        "user": "U05BBQG8FTJ",
+        "ts": "1696975227.099649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YG\/DJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kay.ac\/3sPPUU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/content.r9cdn.net\/rimg\/dimg\/07\/ea\/d499d02c-city-31915-16484a53851.jpg?width=440&height=220&crop=true&xhint=1241&yhint=1090",
+                "image_width": 440,
+                "image_height": 220,
+                "image_bytes": 28369,
+                "from_url": "https:\/\/kay.ac\/3sPPUU",
+                "service_icon": "https:\/\/www.kayak.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/kay.ac\/3sPPUU",
+                "fallback": "KAYAK: SEA to SLC, 11\/11",
+                "text": "We find flights, accommodations, and rental cars from hundreds of sites. Get more options, insights, and deals for your next trip.",
+                "title": "SEA to SLC, 11\/11",
+                "title_link": "https:\/\/kay.ac\/3sPPUU",
+                "service_name": "KAYAK"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a472a0c-7b60-48ca-a6f4-356511587986",
+        "type": "message",
+        "text": "jj the link didnt work",
+        "user": "U05BBQEGSL8",
+        "ts": "1696975755.825819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m3MXz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "jj the link didnt work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7534d1e53ffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-01\/5671255571779_7534d1e53ffa8b4cd432_72.jpg",
+            "first_name": "Henrique",
+            "real_name": "Henrique Diz Diz",
+            "display_name": "Henrique Diz Diz",
+            "team": "T0ZBAEL59",
+            "name": "henriquedizdiz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b767b0ec-9b6b-4953-80ca-8007990bcabb",
+        "type": "message",
+        "text": "could you share the exactly flight number you got?",
+        "user": "U05BBQEGSL8",
+        "ts": "1696975776.846219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jldVZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "could you share the exactly flight number you got?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7534d1e53ffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-01\/5671255571779_7534d1e53ffa8b4cd432_72.jpg",
+            "first_name": "Henrique",
+            "real_name": "Henrique Diz Diz",
+            "display_name": "Henrique Diz Diz",
+            "team": "T0ZBAEL59",
+            "name": "henriquedizdiz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F060KPMDQR1",
+                "created": 1696976487,
+                "timestamp": 1696976487,
+                "name": "IMG_9891.jpg",
+                "title": "IMG_9891",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U05BBQG8FTJ",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 48846,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060KPMDQR1\/img_9891.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060KPMDQR1\/download\/img_9891.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060KPMDQR1-188499a704\/img_9891_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060KPMDQR1-188499a704\/img_9891_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060KPMDQR1-188499a704\/img_9891_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 305,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060KPMDQR1-188499a704\/img_9891_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 407,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060KPMDQR1-188499a704\/img_9891_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060KPMDQR1-188499a704\/img_9891_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 610,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060KPMDQR1-188499a704\/img_9891_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 678,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060KPMDQR1-188499a704\/img_9891_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 813,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060KPMDQR1-188499a704\/img_9891_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 867,
+                "original_w": 1170,
+                "original_h": 991,
+                "thumb_tiny": "AwAoADCkCB2B+opdw9B+VNxxnNLt\/wA5oAXcPQflRuAHQflSbT7fnSUAFFFFABjjOfwpcD2\/Ok4x15pcD2\/OgA2+4\/OkoOM8UUAFFFFABxj3p3GOo\/Wm0UAKQMdR+tJRRQAGiiigD\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05BBQG8FTJ\/F060KPMDQR1\/img_9891.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060KPMDQR1-0e7063c490",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F060NAAUQF6",
+                "created": 1696976487,
+                "timestamp": 1696976487,
+                "name": "IMG_9893.jpg",
+                "title": "IMG_9893",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U05BBQG8FTJ",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 56301,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060NAAUQF6\/img_9893.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060NAAUQF6\/download\/img_9893.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NAAUQF6-33788af480\/img_9893_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NAAUQF6-33788af480\/img_9893_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NAAUQF6-33788af480\/img_9893_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 282,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NAAUQF6-33788af480\/img_9893_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 375,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NAAUQF6-33788af480\/img_9893_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NAAUQF6-33788af480\/img_9893_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 563,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NAAUQF6-33788af480\/img_9893_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 626,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NAAUQF6-33788af480\/img_9893_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 751,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NAAUQF6-33788af480\/img_9893_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 801,
+                "original_w": 1170,
+                "original_h": 915,
+                "thumb_tiny": "AwAlADCkue2fwpxz3zTVOOlLk+tABj0BpNp9KX5vWjJoATB9KCMUuTSHPegAUE9KdhvUU0UdaAHbWx2pNp9aXa390\/lSbWz0P5UBZi7WHemkEdaDSUAFKDg5pKKAJfPY9hR57egqKiixXMxScnNJRRQSf\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05BBQG8FTJ\/F060NAAUQF6\/img_9893.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060NAAUQF6-a3b7140870",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05BBQG8FTJ",
+        "ts": "1696976492.247329",
+        "client_msg_id": "2193F0BA-0817-4299-BCA3-422439912540"
+    },
+    {
+        "client_msg_id": "8c3eebda-0f9a-4c55-8deb-2425e4e9465b",
+        "type": "message",
+        "text": "The one from seattle to SLC",
+        "user": "U03M8T6EJ8G",
+        "ts": "1696976560.387599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K901Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The one from seattle to SLC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4dad93fa6dcf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-27\/5491285165794_4dad93fa6dcf57d01702_72.png",
+            "first_name": "Glenn",
+            "real_name": "Glenn Davalos",
+            "display_name": "Glenn Davalos",
+            "team": "T0ZBAEL59",
+            "name": "glenndavalos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c4706175-d4ac-4a5f-aa01-6c60e1fbb55d",
+        "type": "message",
+        "text": "<https:\/\/www.alaskaair.com\/Shopping\/Cart\/AddFlight?fareMatrixSelection=1%7C6%3A1&amp;priceMatrixSelection=1-119%7C6-184%3A1-119>",
+        "user": "U03M8T6EJ8G",
+        "ts": "1696977654.880239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wWQ1v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.alaskaair.com\/Shopping\/Cart\/AddFlight?fareMatrixSelection=1%7C6%3A1&priceMatrixSelection=1-119%7C6-184%3A1-119"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4dad93fa6dcf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-27\/5491285165794_4dad93fa6dcf57d01702_72.png",
+            "first_name": "Glenn",
+            "real_name": "Glenn Davalos",
+            "display_name": "Glenn Davalos",
+            "team": "T0ZBAEL59",
+            "name": "glenndavalos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.alaskaair.com\/Shopping\/Cart\/AddFlight?fareMatrixSelection=1%7C6%3A1&priceMatrixSelection=1-119%7C6-184%3A1-119",
+                "service_icon": "http:\/\/resource.alaskaair.net\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.alaskaair.com\/Shopping\/Cart\/AddFlight?fareMatrixSelection=1%7C6%3A1&amp;priceMatrixSelection=1-119%7C6-184%3A1-119",
+                "fallback": "Your cart is empty  - Alaska Airlines",
+                "text": "Find what is in my Alaska Airlines cart.",
+                "title": "Your cart is empty  - Alaska Airlines",
+                "title_link": "https:\/\/www.alaskaair.com\/Shopping\/Cart\/AddFlight?fareMatrixSelection=1%7C6%3A1&priceMatrixSelection=1-119%7C6-184%3A1-119",
+                "service_name": "alaskaair.com"
+            }
+        ]
+    }
+]

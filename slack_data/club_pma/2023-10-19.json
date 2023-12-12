@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "090dd187-6825-4e27-af7d-04e91eef3e85",
+        "type": "message",
+        "text": "Meta has a ton of PM full-time openings",
+        "user": "U05AQGJMMT6",
+        "ts": "1697735595.328309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IDj6e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meta has a ton of PM full-time openings"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LMGXDFB6",
+                    "U03LXQCEVKK",
+                    "U03UV6770V9"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

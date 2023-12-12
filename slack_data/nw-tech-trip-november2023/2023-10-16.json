@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "241E6E16-DE69-47DF-A96C-38300EF5E918",
+        "type": "message",
+        "text": "I believe getting a house of 16 people (airb&amp;b) might be cheaper. Are we still doing that? <@U05BBQG8FTJ> ",
+        "user": "U05AN3R7398",
+        "ts": "1697498992.203089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8SdEe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe getting a house of 16 people (airb&b) might be cheaper. Are we still doing that? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQG8FTJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

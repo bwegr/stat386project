@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "536668ca-f5b5-4176-a87a-42aadbe36832",
+        "type": "message",
+        "text": "As requested by many of you. Here is the Deck Todd Rowe used in his pro-sem last week. <https:\/\/docs.google.com\/presentation\/d\/1tCSymbfYDbinu0ROB3Ea9Hj3weJGhq4-0JtYFPzoF_8\/edit?usp=sharing>",
+        "user": "U03PKR5DAQY",
+        "ts": "1698173314.528249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F7en4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As requested by many of you. Here is the Deck Todd Rowe used in his pro-sem last week. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1tCSymbfYDbinu0ROB3Ea9Hj3weJGhq4-0JtYFPzoF_8\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "52b5593dad8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-09\/5563230941697_52b5593dad8edd81526e_72.jpg",
+            "first_name": "Carter",
+            "real_name": "Carter Fritz",
+            "display_name": "Carter Fritz",
+            "team": "T0ZBAEL59",
+            "name": "w.carter.fritz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

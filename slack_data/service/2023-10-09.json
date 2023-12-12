@@ -1,0 +1,178 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "user": "U05AFDSJH70",
+        "ts": "1696882224.975829",
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cde61d14a3ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-09\/5550033847859_cde61d14a3ee151b90bb_72.jpg",
+            "first_name": "Patrick",
+            "real_name": "Patrick Campbell",
+            "display_name": "Patrick Campbell",
+            "team": "T0ZBAEL59",
+            "name": "pccampbellaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1696869966.097459",
+                "author_id": "U05AFDSJH70",
+                "channel_id": "C0ZCSJTC5",
+                "channel_team": "T0ZBAEL59",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T0ZBAEL59",
+                        "channel": "C0ZCSJTC5",
+                        "ts": "1696869966.097459",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "XG4W0",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Community Service Project Opportunity",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Come help less fortunate children in our community have a fun Halloween Party!"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Monday October 23rd, 5-7pm"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Need 15-20 volunteers! Spouses and friends more than welcome"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/www.signupgenius.com\/go\/10C084AACAC2EA3F9C25-45034077-south",
+                                                            "text": "Sign Up!!!"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F060C5EQ01G",
+                        "created": 1696869644,
+                        "timestamp": 1696869644,
+                        "name": "IMG_8562.jpg",
+                        "title": "IMG_8562",
+                        "mimetype": "image\/jpeg",
+                        "filetype": "jpg",
+                        "pretty_type": "JPEG",
+                        "user": "U05AFDSJH70",
+                        "user_team": "T0ZBAEL59",
+                        "editable": false,
+                        "size": 82878,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060C5EQ01G\/img_8562.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060C5EQ01G\/download\/img_8562.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060C5EQ01G-fb962d5949\/img_8562_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060C5EQ01G-fb962d5949\/img_8562_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060C5EQ01G-fb962d5949\/img_8562_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360_w": 281,
+                        "thumb_360_h": 360,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060C5EQ01G-fb962d5949\/img_8562_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_480_w": 375,
+                        "thumb_480_h": 480,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060C5EQ01G-fb962d5949\/img_8562_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060C5EQ01G-fb962d5949\/img_8562_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720_w": 562,
+                        "thumb_720_h": 720,
+                        "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060C5EQ01G-fb962d5949\/img_8562_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 1025,
+                        "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060C5EQ01G-fb962d5949\/img_8562_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_960_w": 749,
+                        "thumb_960_h": 960,
+                        "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060C5EQ01G-fb962d5949\/img_8562_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_1024_w": 799,
+                        "thumb_1024_h": 1024,
+                        "original_w": 828,
+                        "original_h": 1061,
+                        "thumb_tiny": "AwAwACWFAhkZgCD6HtUlRht021Spx95sfpU3HtVJ6ANoNO49qRvunbgHtTuBCvloWAVnOfXpTtyf88T+ZpI33A4dUYHkEU\/Lf89o6h2GMVgJGQRkYPPOKl4\/un86jUsCdzAjsc0+rW2oheP7p\/OkPA+7+tLSHA6mmBEm2UkmJiRwcU\/y1\/55P+VJ85Jy+0dhmjDf89v1qNQEVS0m5lCgcKtSgZqMIWkLbiy9h0\/OpBkdqpbaABGKaQCCD0NO59DSMMjBBpgRLuTKtGJAOhp2f+nYUICmQ8je2BmnZH\/PR\/8Avis3YZ\/\/2Q==",
+                        "permalink": "https:\/\/byumba.slack.com\/files\/U05AFDSJH70\/F060C5EQ01G\/img_8562.jpg",
+                        "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060C5EQ01G-3ddd34f23e",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/byumba.slack.com\/archives\/C0ZCSJTC5\/p1696869966097459",
+                "is_share": true,
+                "fallback": "[October 9th, 2023 10:46 AM] pccampbellaz: *Community Service Project Opportunity*\n• Come help less fortunate children in our community have a fun Halloween Party!\n• Monday October 23rd, 5-7pm\n• Need 15-20 volunteers! Spouses and friends more than welcome\n• <https:\/\/www.signupgenius.com\/go\/10C084AACAC2EA3F9C25-45034077-south|Sign Up!!!>",
+                "text": "*Community Service Project Opportunity*\n• Come help less fortunate children in our community have a fun Halloween Party!\n• Monday October 23rd, 5-7pm\n• Need 15-20 volunteers! Spouses and friends more than welcome\n• <https:\/\/www.signupgenius.com\/go\/10C084AACAC2EA3F9C25-45034077-south|Sign Up!!!>",
+                "author_name": "Patrick Campbell",
+                "author_link": "https:\/\/byumba.slack.com\/team\/U05AFDSJH70",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-07-09\/5550033847859_cde61d14a3ee151b90bb_48.jpg",
+                "author_subname": "Patrick Campbell",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ]
+    }
+]

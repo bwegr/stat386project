@@ -1,0 +1,507 @@
+[
+    {
+        "client_msg_id": "8AEC3D49-F312-454A-BDC8-8334A63F50FF",
+        "type": "message",
+        "text": "Y’all this is probably the world’s dumbest question, but I’ve never taken a test at the testing center before: \n-Do I bring my laptop or is it a pencil paper type test? ",
+        "user": "U05DD0R44G5",
+        "ts": "1697213791.582699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xh\/Ko",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y’all"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is probably the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "world’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " dumbest question"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "text",
+                                "text": " but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " never taken a test at the testing center before"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n-Do I bring my laptop or is it a pencil paper type test? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g1a32db1c729",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a32db1c729f89e1f3e02e7ed5b3ab36.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Nikki",
+            "real_name": "Nikki Maxon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nmaxon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697213791.582699",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1697213907.558489",
+        "reply_users": [
+            "U05AN015NSX",
+            "U05DD0R44G5",
+            "U03LK533VR8"
+        ],
+        "replies": [
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697213811.637309"
+            },
+            {
+                "user": "U05DD0R44G5",
+                "ts": "1697213843.284689"
+            },
+            {
+                "user": "U05DD0R44G5",
+                "ts": "1697213867.390409"
+            },
+            {
+                "user": "U03LK533VR8",
+                "ts": "1697213874.100149"
+            },
+            {
+                "user": "U05DD0R44G5",
+                "ts": "1697213907.558489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9fe97ded-5248-4e8f-9aa9-dd151d9ac04b",
+        "type": "message",
+        "text": "Pencil and paper",
+        "user": "U05AN015NSX",
+        "ts": "1697213811.637309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lem5s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pencil and paper"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697213791.582699",
+        "parent_user_id": "U05DD0R44G5"
+    },
+    {
+        "client_msg_id": "A109765C-35A8-440F-B299-200B7FC4AEC1",
+        "type": "message",
+        "text": "Good Bless you <@U05AN015NSX> thank you!! ",
+        "user": "U05DD0R44G5",
+        "ts": "1697213843.284689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0RwDF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good Bless you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AN015NSX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you!! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g1a32db1c729",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a32db1c729f89e1f3e02e7ed5b3ab36.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Nikki",
+            "real_name": "Nikki Maxon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nmaxon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697213791.582699",
+        "parent_user_id": "U05DD0R44G5"
+    },
+    {
+        "client_msg_id": "F647AD76-1977-45D3-80A5-358AC06D6D62",
+        "type": "message",
+        "text": "*God but your Good too :blush: ",
+        "user": "U05DD0R44G5",
+        "ts": "1697213867.390409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNL4V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*God but your Good too "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g1a32db1c729",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a32db1c729f89e1f3e02e7ed5b3ab36.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Nikki",
+            "real_name": "Nikki Maxon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nmaxon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697213791.582699",
+        "parent_user_id": "U05DD0R44G5",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U05AN015NSX",
+                    "U05AK5HTE77"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14e151bb-94b2-4483-b373-a89cce87f368",
+        "type": "message",
+        "text": "Worth bringing a calculator\/scratch paper too\n\nBut if you ever forget, you can rent calculators\/pencils from the testing center and there is a bin of leftover scratch paper.",
+        "user": "U03LK533VR8",
+        "ts": "1697213874.100149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3FvOf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Worth bringing a calculator\/scratch paper too\n\nBut if you ever forget, you can rent calculators\/pencils from the testing center and there is a bin of leftover scratch paper."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697213791.582699",
+        "parent_user_id": "U05DD0R44G5",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U05DD0R44G5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U05AN015NSX",
+                    "U05A7HE11LP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05A7HE11LP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21BBCF94-6FB4-48A7-869D-3629AE302B03",
+        "type": "message",
+        "text": "Good advice thank you! ",
+        "user": "U05DD0R44G5",
+        "ts": "1697213907.558489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ez0O+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good advice thank you! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g1a32db1c729",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a32db1c729f89e1f3e02e7ed5b3ab36.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Nikki",
+            "real_name": "Nikki Maxon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nmaxon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697213791.582699",
+        "parent_user_id": "U05DD0R44G5"
+    },
+    {
+        "client_msg_id": "9db6cf32-8b37-4aca-b54e-0efc4fbe203f",
+        "type": "message",
+        "text": "Does Dan deduct points if you stay beyond two hours at the testing center?",
+        "user": "U05AN01UD1R",
+        "ts": "1697236547.023419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x3y+V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does Dan deduct points if you stay beyond two hours at the testing center?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9c494b969a1c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5806176267863_9c494b969a1cc91a4d11_72.jpg",
+            "first_name": "Upen",
+            "real_name": "Upen Rijal",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "upen99",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697236547.023419",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697236940.012029",
+        "reply_users": [
+            "U03LMGYLSR2",
+            "U05AN015NSX"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1697236813.127289"
+            },
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697236940.012029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3F5A1AF4-AE9A-453D-BAD9-850D7AF7CCA9",
+        "type": "message",
+        "text": "I’m not sure what the penalty is, but don’t do it haha. Because it might be that you can’t turn it in past the time limit. ",
+        "user": "U03LMGYLSR2",
+        "ts": "1697236813.127289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JNlFd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m not sure what the penalty is, but don’t do it haha. Because it might be that you can’t turn it in past the time limit. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697236547.023419",
+        "parent_user_id": "U05AN01UD1R",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0bcb9444-0f34-4060-8e2d-a389473ad5ec",
+        "type": "message",
+        "text": "Yeah, during my undergrad, some professors would deduct points for each minute a student was over the deadline, but others would automatically give students a 50% and others would give a 0%.",
+        "user": "U05AN015NSX",
+        "ts": "1697236940.012029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FGA18",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, during my undergrad, some professors would deduct points for each minute a student was over the deadline, but others would automatically give students a 50% and others would give a 0%."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697236547.023419",
+        "parent_user_id": "U05AN01UD1R"
+    }
+]

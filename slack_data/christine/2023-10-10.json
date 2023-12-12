@@ -1,0 +1,340 @@
+[
+    {
+        "client_msg_id": "94405139-dc96-4570-9ef3-d5f5f9a7808f",
+        "type": "message",
+        "text": "<@U05A7HC8FF1> I'll reach out to the Finance Department and see what they have to say.",
+        "user": "U03AVEWPUQN",
+        "ts": "1696964357.789659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kGdgr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05A7HC8FF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'll reach out to the Finance Department and see what they have to say."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696808393.183499",
+        "parent_user_id": "U05A7HC8FF1"
+    },
+    {
+        "type": "message",
+        "text": "Join us this Friday, October 13, for a pizza party! Come and unwind before midterms, eat pizza, and hear from Professor Snow. *Please react to this message with the pizza emoji if you will be there.*",
+        "files": [
+            {
+                "id": "F060C9L5HSS",
+                "created": 1696964466,
+                "timestamp": 1696964466,
+                "name": "Cream Birthday Party for Husband Facebook Event Cover.png",
+                "title": "Cream Birthday Party for Husband Facebook Event Cover.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03AVEWPUQN",
+                "user_team": "T03AZ3P2QHE",
+                "editable": false,
+                "size": 332509,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03AZ3P2QHE-F060C9L5HSS\/cream_birthday_party_for_husband_facebook_event_cover.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03AZ3P2QHE-F060C9L5HSS\/download\/cream_birthday_party_for_husband_facebook_event_cover.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03AZ3P2QHE-F060C9L5HSS-ffb934421e\/cream_birthday_party_for_husband_facebook_event_cover_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03AZ3P2QHE-F060C9L5HSS-ffb934421e\/cream_birthday_party_for_husband_facebook_event_cover_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03AZ3P2QHE-F060C9L5HSS-ffb934421e\/cream_birthday_party_for_husband_facebook_event_cover_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03AZ3P2QHE-F060C9L5HSS-ffb934421e\/cream_birthday_party_for_husband_facebook_event_cover_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03AZ3P2QHE-F060C9L5HSS-ffb934421e\/cream_birthday_party_for_husband_facebook_event_cover_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03AZ3P2QHE-F060C9L5HSS-ffb934421e\/cream_birthday_party_for_husband_facebook_event_cover_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03AZ3P2QHE-F060C9L5HSS-ffb934421e\/cream_birthday_party_for_husband_facebook_event_cover_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03AZ3P2QHE-F060C9L5HSS-ffb934421e\/cream_birthday_party_for_husband_facebook_event_cover_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03AZ3P2QHE-F060C9L5HSS-ffb934421e\/cream_birthday_party_for_husband_facebook_event_cover_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADCbe28FiQPTFKsZD5OAAfzp65I+YDHamsZMH5QeeKsgkyPWjI9ahUndyOOec\/lSZbHQZx696LDJiARg8imKzBtuw4HGRSjfxwMZ9O1PqWgRD8xcKx7\/AKUqyZbB7\/pWYCRxS7jjHH5VdhGrj5cZ\/WgA55P61lZzRuIpWC5pTblG5M546VIudo3Yz3rJ3H\/IpCSRiiwH\/9k=",
+                "permalink": "https:\/\/byumbafaculty.slack.com\/files\/U03AVEWPUQN\/F060C9L5HSS\/cream_birthday_party_for_husband_facebook_event_cover.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03AZ3P2QHE-F060C9L5HSS-05a85bfe4b",
+                "source_team": "T03AZ3P2QHE",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03AVEWPUQN",
+        "display_as_bot": false,
+        "team": "T0ZBAEL59",
+        "ts": "1696964495.909429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ta2mA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Join us this Friday, October 13, for a pizza party! Come and unwind before midterms, eat pizza, and hear from Professor Snow. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Please react to this message with the pizza emoji if you will be there.",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b9a40d22-e53d-457a-b1db-24cd628ae308",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696964495.909429",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696975092.448679",
+        "reply_users": [
+            "U03NW11JH19"
+        ],
+        "replies": [
+            {
+                "user": "U03NW11JH19",
+                "ts": "1696975092.448679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pizza",
+                "users": [
+                    "U05AN015NSX",
+                    "U03LMGSGBQC",
+                    "U03M8T9K6SU",
+                    "U05AMVD19GT",
+                    "U03LGTR0KV3",
+                    "U05B0NFJ1S5",
+                    "U03LG779KGD",
+                    "U05GZPF8ZGW",
+                    "U03TVL5QZFA",
+                    "U03LK39PKRR",
+                    "U05A7HEQV71",
+                    "U05E5KN7JPJ",
+                    "U05B0NHGDG9",
+                    "U05D98WS6FQ",
+                    "U03LK56EXJN",
+                    "U05BBQDD9DW",
+                    "U05HK2SEC8H",
+                    "U03LK3D5N2X",
+                    "U05A7HCQPDM",
+                    "U03LXQCJA81",
+                    "U05A7HE9NG7",
+                    "U05AFDRFJ3Y",
+                    "U03LG7C9P8V",
+                    "U03L4GUGBF1",
+                    "U03LMGX6W1J",
+                    "U03L4GP8ZMM",
+                    "U05AK5HTE77",
+                    "U03LXQBTQJV",
+                    "U05BBQDP59N",
+                    "U03TVL5E0M6",
+                    "U05DFU87M98",
+                    "U05AMVCV3RR",
+                    "U05H6DGRMRQ",
+                    "U05A7HE11LP",
+                    "U03LMGV8Y12",
+                    "U05AN02C0E7",
+                    "U05A7HF1DJB",
+                    "U05BBQFJ056",
+                    "U03TVL5L37A",
+                    "U05AFDTJEUW"
+                ],
+                "count": 40
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f0d8160-dbe6-4f44-970b-ed060021c797",
+        "type": "message",
+        "text": "<@U03AVEWPUQN> if looking into this class anyways, could you ask about my question as well?",
+        "user": "U03SZAWQBM4",
+        "ts": "1696966582.452719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q8B0S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03AVEWPUQN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if looking into this class anyways, could you ask about my question as well?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696808393.183499",
+        "parent_user_id": "U05A7HC8FF1"
+    },
+    {
+        "client_msg_id": "fa614426-9103-40d8-8995-2d653024b6d2",
+        "type": "message",
+        "text": "<@U03SZAWQBM4> Yes I asked about this as well.  I'm still waiting to hear from them.",
+        "user": "U03AVEWPUQN",
+        "ts": "1696975007.622079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VuGI0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03SZAWQBM4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes I asked about this as well.  I'm still waiting to hear from them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696808393.183499",
+        "parent_user_id": "U05A7HC8FF1"
+    },
+    {
+        "client_msg_id": "29149d95-506b-4720-a6e8-7d27c4ec31c2",
+        "type": "message",
+        "text": "HEY everyone just chatted with Kirsten, they will have dice, cards, and cornhole. If you have any games that you would love to bring to play other games please feel free!",
+        "user": "U03NW11JH19",
+        "ts": "1696975092.448679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pDSqG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HEY everyone just chatted with Kirsten, they will have dice, cards, and cornhole. If you have any games that you would love to bring to play other games please feel free!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696964495.909429",
+        "parent_user_id": "U03AVEWPUQN"
+    }
+]

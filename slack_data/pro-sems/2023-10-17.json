@@ -1,0 +1,445 @@
+[
+    {
+        "client_msg_id": "A2D277D2-FA88-40BB-A3EF-82B64EC760DA",
+        "type": "message",
+        "text": "*Homecoming Finance Pro-Sem: Interview Prep*\n\nThis Friday we will have an interview prep Pro-Sem. As it’s Homecoming, first years will have the great opportunity to practice with and meet second years and alumni. \n\nAlso because it’s Homecoming, it will be fun! Since it’s *from 1-2:15pm* there’s no need for breakfast, so we will have candy and door prizes instead. Come for a laid-back, sweet time with friends, networking, and interview practice. We will still be in w208 and you are welcome to come even if you didn’t register for the full homecoming event. See you Friday!",
+        "user": "U03L4GN325D",
+        "ts": "1697594162.700029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PSFcX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Homecoming Finance Pro-Sem: Interview Prep\n\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "This Friday we will have an interview prep Pro-Sem. As "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Homecoming, first years will have the great opportunity to practice with and meet second years and alumni. \n\nAlso because "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Homecoming, it will be fun! Since "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s "
+                            },
+                            {
+                                "type": "text",
+                                "text": "from 1-2:15pm ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "there’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " no need for breakfast, so we will have candy and door prizes instead. Come for a laid-back, sweet time with friends, networking, and interview practice. We will still be in w208 and you are welcome to come even if you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "didn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " register for the full homecoming event. See you Friday!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697594162.700029",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697741011.038729",
+        "reply_users": [
+            "U05DD0R2J6R",
+            "U03L4GN325D"
+        ],
+        "replies": [
+            {
+                "user": "U05DD0R2J6R",
+                "ts": "1697740810.406929"
+            },
+            {
+                "user": "U03L4GN325D",
+                "ts": "1697741011.038729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Hey, it's us in Marketing, the rule-breakers...\n\nWe had some scheduling conflicts and still holding our morning pro sems. Any and all tracks are welcome to pop in. We have an all star lineup, and you can still make the alumni event!",
+        "user": "U03LCGM9XML",
+        "ts": "1697603377.649879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M3cFH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, it's us in Marketing, the rule-breakers...\n\nWe had some scheduling conflicts and still holding our morning pro sems. Any and all tracks are welcome to pop in. We have an all star lineup, and you can still make the alumni event!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe4a9879d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Parry",
+            "display_name": "Evan Parry",
+            "team": "T0ZBAEL59",
+            "name": "evanparry13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1697471995.379999",
+                "author_id": "U03LCGM9XML",
+                "channel_id": "CHZ5087B2",
+                "channel_team": "T0ZBAEL59",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T0ZBAEL59",
+                        "channel": "CHZ5087B2",
+                        "ts": "1697471995.379999",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "wxFun",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "alert"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Friday's Pro Sems"
+                                                },
+                                                {
+                                                    "type": "emoji",
+                                                    "name": "alert"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nWe had some scheduling issues, so we'll still have our two Pro Sems in the morning. I "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "highly encourage ",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "the first years to come to the pro sems in the morning (you have permission to skip the alumni event).\n\nWe'll have "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Neal Armstrong ",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "from 9:30-10:45 and "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Todd Rowe ",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "from 11-12:15 (this will be a completely different topic than his talk he'll give in Glenn's class)"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F061BLC0058",
+                        "created": 1697471968,
+                        "timestamp": 1697471968,
+                        "name": "image.png",
+                        "title": "image.png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U03LCGM9XML",
+                        "user_team": "T0ZBAEL59",
+                        "editable": false,
+                        "size": 812675,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061BLC0058\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061BLC0058\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061BLC0058-724109209b\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061BLC0058-724109209b\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061BLC0058-724109209b\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 204,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061BLC0058-724109209b\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 272,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061BLC0058-724109209b\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061BLC0058-724109209b\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 408,
+                        "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061BLC0058-724109209b\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 453,
+                        "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061BLC0058-724109209b\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 543,
+                        "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061BLC0058-724109209b\/image_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_1024_w": 1024,
+                        "thumb_1024_h": 580,
+                        "original_w": 2005,
+                        "original_h": 1135,
+                        "thumb_tiny": "AwAbADC7c3KW6jdyx6KKrR3clwrqIflxgkNyKq6kT9sbPoMfSi2lCIN44Y4yO1DBCsnlON+WUjIIOM0m5ARw2P8Aeq3eqPIUgHhvSqK9O1axd1czejH74\/7jf99UF0I4VgfXdTf+BCkP1zTEal1aLcYbgOOhqpDp7xSh5GTYpya06jn\/ANRJ\/umsTUiO4OzyMfKIPBIxWavQ03tRmtUrGbdx\/wCBpGJ9KbRTJP\/Z",
+                        "permalink": "https:\/\/byumba.slack.com\/files\/U03LCGM9XML\/F061BLC0058\/image.png",
+                        "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061BLC0058-d2a1dc9e55",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    },
+                    {
+                        "id": "F0620L7DRSL",
+                        "created": 1697471987,
+                        "timestamp": 1697471987,
+                        "name": "image.png",
+                        "title": "image.png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U03LCGM9XML",
+                        "user_team": "T0ZBAEL59",
+                        "editable": false,
+                        "size": 744499,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0620L7DRSL\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0620L7DRSL\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0620L7DRSL-79433bf782\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0620L7DRSL-79433bf782\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0620L7DRSL-79433bf782\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 204,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0620L7DRSL-79433bf782\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 272,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0620L7DRSL-79433bf782\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0620L7DRSL-79433bf782\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 408,
+                        "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0620L7DRSL-79433bf782\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 453,
+                        "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0620L7DRSL-79433bf782\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 543,
+                        "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0620L7DRSL-79433bf782\/image_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_1024_w": 1024,
+                        "thumb_1024_h": 580,
+                        "original_w": 2000,
+                        "original_h": 1132,
+                        "thumb_tiny": "AwAbADC\/LKIh0yT0FVjcyEfMi7W4wDzTbuVY5jvz2wBUD3CqoIXk84qdSlbqJJH5ZDAlkPqehpC6f3D\/AN9VM2XtXbawHBGR71VAzW0XdamMlZ6D\/MTB+Q5\/3qjyfU0vHtSHHaqJNS7tBcgEHa46Gqi2MwlVpNmxcZ57CtSmyf6p\/oaxNivxtBPXOS3bFZ3GWwOM8U3J24ycelFbJGCVh2R6CkJ+lJRTGf\/Z",
+                        "permalink": "https:\/\/byumba.slack.com\/files\/U03LCGM9XML\/F0620L7DRSL\/image.png",
+                        "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0620L7DRSL-ec73899a76",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/byumba.slack.com\/archives\/CHZ5087B2\/p1697471995379999",
+                "is_share": true,
+                "fallback": "[October 16th, 2023 9:59 AM] evanparry13: :alert:Friday's Pro Sems:alert:\n\nWe had some scheduling issues, so we'll still have our two Pro Sems in the morning. I *highly encourage* the first years to come to the pro sems in the morning (you have permission to skip the alumni event).\n\nWe'll have *Neal Armstrong* from 9:30-10:45 and *Todd Rowe* from 11-12:15 (this will be a completely different topic than his talk he'll give in Glenn's class)",
+                "text": ":alert:Friday's Pro Sems:alert:\n\nWe had some scheduling issues, so we'll still have our two Pro Sems in the morning. I *highly encourage* the first years to come to the pro sems in the morning (you have permission to skip the alumni event).\n\nWe'll have *Neal Armstrong* from 9:30-10:45 and *Todd Rowe* from 11-12:15 (this will be a completely different topic than his talk he'll give in Glenn's class)",
+                "author_name": "Evan Parry",
+                "author_link": "https:\/\/byumba.slack.com\/team\/U03LCGM9XML",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_48.jpg",
+                "author_subname": "Evan Parry",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ],
+        "thread_ts": "1697603377.649879",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1697815391.061079",
+        "reply_users": [
+            "U03LGTR0KV3",
+            "U05D98WS6FQ",
+            "U03LCGM9XML"
+        ],
+        "replies": [
+            {
+                "user": "U03LGTR0KV3",
+                "ts": "1697603808.759219"
+            },
+            {
+                "user": "U05D98WS6FQ",
+                "ts": "1697815380.143569"
+            },
+            {
+                "user": "U03LCGM9XML",
+                "ts": "1697815391.061079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1b1b9b51-0771-404d-93f3-19c9f2f80148",
+        "type": "message",
+        "text": "I'm only coming if Mr. Armstrong talks about the moon",
+        "user": "U03LGTR0KV3",
+        "ts": "1697603808.759219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SaguI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm only coming if Mr. Armstrong talks about the moon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697603377.649879",
+        "parent_user_id": "U03LCGM9XML",
+        "reactions": [
+            {
+                "name": "astronaut::skin-tone-3",
+                "users": [
+                    "U03LCGM9XML"
+                ],
+                "count": 1
+            },
+            {
+                "name": "crescent_moon",
+                "users": [
+                    "U03LCGM9XML",
+                    "U03LK533VR8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "astronaut",
+                "users": [
+                    "U03LCGQP0LW",
+                    "U03LK56EXJN",
+                    "U05A7HF1DJB"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

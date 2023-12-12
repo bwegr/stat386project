@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "ee3959b6-dd2e-4786-8a28-8a958e3babbb",
+        "type": "message",
+        "text": "<!here> ^^^ can we get to 10?",
+        "user": "U03M8TCTA6L",
+        "ts": "1697685398.883029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y4ZyP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^^ can we get to 10?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

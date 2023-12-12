@@ -1,0 +1,742 @@
+[
+    {
+        "client_msg_id": "8b2682e5-5079-4289-8de7-28df569ebc92",
+        "type": "message",
+        "text": "<!channel> Don’t forget to confirm your enrollment or enroll in the classes you won during the bidding process for your Winter classes. Today at 10am, if you are not enrolled in those classes you will forfeit your seat and anyone can go in and register for your class.",
+        "user": "U03AVEWPUQN",
+        "ts": "1697726919.861659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9LLyT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Don’t forget to confirm your enrollment or enroll in the classes you won during the bidding process for your Winter classes. Today at 10am, if you are not enrolled in those classes you will forfeit your seat and anyone can go in and register for your class."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "AA565398-ABA6-4504-93C8-60778123DCE8",
+        "type": "message",
+        "text": "Is their a difference between “enrolled” and “registered”?",
+        "user": "U05HW4UU20Y",
+        "ts": "1697726985.376729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7vSJi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is their a difference between “enrolled” and “registered”?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2aa9fe727431",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-25\/5660749208768_2aa9fe7274319249fef0_72.png",
+            "first_name": "Sterling",
+            "real_name": "Sterling Baker",
+            "display_name": "Sterling Baker",
+            "team": "T0ZBAEL59",
+            "name": "wyomingbaker44",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "16b53f8b-253b-4aa4-b0a4-97a72dc19574",
+        "type": "message",
+        "text": "No there's not.  Just make sure you are registered for the courses you won during the bidding as I don't want you to lose your seat.",
+        "user": "U03AVEWPUQN",
+        "ts": "1697727028.102789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wIOfZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No there's not.  Just make sure you are registered for the courses you won during the bidding as I don't want you to lose your seat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ff32debe-ec27-4134-9d2d-64a6f845ce8b",
+        "type": "message",
+        "text": "What is the limit number of credits we can enroll for?",
+        "user": "U05BBQEJNTA",
+        "ts": "1697729855.965359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IcEf+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What is the limit number of credits we can enroll for?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a79d5d2c8cce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-19\/5602445814357_a79d5d2c8cce1e021614_72.png",
+            "first_name": "Ben",
+            "real_name": "Ben Chipman",
+            "display_name": "Ben Chipman",
+            "team": "T0ZBAEL59",
+            "name": "benjaminchipman03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697729855.965359",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1697729995.562179",
+        "reply_users": [
+            "U05AN015NSX",
+            "U05BBQEJNTA",
+            "U03AVEWPUQN"
+        ],
+        "replies": [
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697729900.127979"
+            },
+            {
+                "user": "U05BBQEJNTA",
+                "ts": "1697729928.374719"
+            },
+            {
+                "user": "U03AVEWPUQN",
+                "ts": "1697729942.168409"
+            },
+            {
+                "user": "U05BBQEJNTA",
+                "ts": "1697729995.562179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1b6310b6-4138-428b-a957-7955fca9fb07",
+        "type": "message",
+        "text": "22 <https:\/\/enrollment.byu.edu\/registration-policies#:~:text=Graduate%20Students,801%2D422%2D4091>).",
+        "user": "U05AN015NSX",
+        "ts": "1697729900.127979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jfURO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "22 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/enrollment.byu.edu\/registration-policies#:~:text=Graduate%20Students,801%2D422%2D4091"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/enrollment.byu.edu\/registration-policies#:~:text=Graduate%20Students,801%2D422%2D4091",
+                "image_url": "https:\/\/brightspotcdn.byu.edu\/dims4\/default\/799f7be\/2147483647\/strip\/true\/crop\/576x576+250+0\/resize\/1200x1200!\/quality\/90\/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2F5b%2F98%2F1a673b144637924806396cab00b5%2Fconcerned-parent-1024x576.jpg",
+                "image_width": 1200,
+                "image_height": 1200,
+                "image_bytes": 125570,
+                "service_icon": "https:\/\/enrollment.byu.edu\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/enrollment.byu.edu\/registration-policies#:~:text=Graduate%20Students,801%2D422%2D4091",
+                "fallback": "Enrollment Services: Registration Policies",
+                "title": "Registration Policies",
+                "title_link": "https:\/\/enrollment.byu.edu\/registration-policies#:~:text=Graduate%20Students,801%2D422%2D4091",
+                "service_name": "Enrollment Services"
+            }
+        ],
+        "thread_ts": "1697729855.965359",
+        "parent_user_id": "U05BBQEJNTA"
+    },
+    {
+        "client_msg_id": "5eb8b698-9fe7-41b0-8f7e-159bcc5e3ec7",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U05BBQEJNTA",
+        "ts": "1697729928.374719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cSYv0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a79d5d2c8cce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-19\/5602445814357_a79d5d2c8cce1e021614_72.png",
+            "first_name": "Ben",
+            "real_name": "Ben Chipman",
+            "display_name": "Ben Chipman",
+            "team": "T0ZBAEL59",
+            "name": "benjaminchipman03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697729855.965359",
+        "parent_user_id": "U05BBQEJNTA",
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fdcd026a-818a-4fa1-b309-e1c479beff1a",
+        "type": "message",
+        "text": "You may take up to 22 credit hours.  If you want to take more then you'll need to petition the University to go above that.  To do this then you will need to email me with details and I can start that process for you,.",
+        "user": "U03AVEWPUQN",
+        "ts": "1697729942.168409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PN8qD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You may take up to 22 credit hours.  If you want to take more then you'll need to petition the University to go above that.  To do this then you will need to email me with details and I can start that process for you,."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697729855.965359",
+        "parent_user_id": "U05BBQEJNTA"
+    },
+    {
+        "client_msg_id": "377c894b-a71d-406c-9893-6019368fe389",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U05BBQEJNTA",
+        "ts": "1697729995.562179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ye0AT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a79d5d2c8cce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-19\/5602445814357_a79d5d2c8cce1e021614_72.png",
+            "first_name": "Ben",
+            "real_name": "Ben Chipman",
+            "display_name": "Ben Chipman",
+            "team": "T0ZBAEL59",
+            "name": "benjaminchipman03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697729855.965359",
+        "parent_user_id": "U05BBQEJNTA"
+    },
+    {
+        "type": "message",
+        "text": "Can somebody tell me what does this mean? I thought it opens at 10 am. I am trying to add the class that I did not bid.",
+        "files": [
+            {
+                "id": "F062LMXT8D6",
+                "created": 1697731259,
+                "timestamp": 1697731259,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03L4GQK4KZ",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 8717,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062LMXT8D6\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062LMXT8D6\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062LMXT8D6-0d0b9a96db\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062LMXT8D6-0d0b9a96db\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062LMXT8D6-0d0b9a96db\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 115,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062LMXT8D6-0d0b9a96db\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 153,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062LMXT8D6-0d0b9a96db\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "original_w": 652,
+                "original_h": 208,
+                "thumb_tiny": "AwAPADC+rYUdOlODH2ojHyCnUANz7ijOO9OIyCM4pFBAwST70AJu9x+VLnINLQelAH\/\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03L4GQK4KZ\/F062LMXT8D6\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F062LMXT8D6-592abcead5",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03L4GQK4KZ",
+        "display_as_bot": false,
+        "team": "T0ZBAEL59",
+        "ts": "1697731340.906589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GmO5R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can somebody tell me what does this mean? I thought it opens at 10 am. I am trying to add the class that I did not bid."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03L4GQK4KZ",
+            "ts": "1697731483.000000"
+        },
+        "client_msg_id": "eeb15f38-3d3c-4dcc-8a6f-8dbf2c7819af",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b307be7eedc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3709097130420_4b307be7eedc4338b292_72.png",
+            "first_name": "Tulga",
+            "real_name": "Tulga Enkhbold",
+            "display_name": "Tulga",
+            "team": "T0ZBAEL59",
+            "name": "lukautah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697731340.906589",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1697731638.272549",
+        "reply_users": [
+            "U03LXQCEVKK",
+            "U03L4GQK4KZ",
+            "U05AN3R7398"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1697731563.058029"
+            },
+            {
+                "user": "U03L4GQK4KZ",
+                "ts": "1697731615.526219"
+            },
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1697731626.497939"
+            },
+            {
+                "user": "U05AN3R7398",
+                "ts": "1697731628.842879"
+            },
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1697731638.272549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f45c5f19-1aa7-4dcd-b40b-390b17de1dd9",
+        "type": "message",
+        "text": "You need to change your semester from fall 2023 to winter 2024",
+        "user": "U03LXQCEVKK",
+        "ts": "1697731563.058029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eNwHd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You need to change your semester from fall 2023 to winter 2024"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697731340.906589",
+        "parent_user_id": "U03L4GQK4KZ",
+        "reactions": [
+            {
+                "name": "cool-doge",
+                "users": [
+                    "U05AN3R7398"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2267e5c-0395-4884-8f1f-39b0dd211091",
+        "type": "message",
+        "text": "Omg, Taylor! I love you",
+        "user": "U03L4GQK4KZ",
+        "ts": "1697731615.526219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "laXtA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Omg, Taylor! I love you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b307be7eedc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3709097130420_4b307be7eedc4338b292_72.png",
+            "first_name": "Tulga",
+            "real_name": "Tulga Enkhbold",
+            "display_name": "Tulga",
+            "team": "T0ZBAEL59",
+            "name": "lukautah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697731340.906589",
+        "parent_user_id": "U03L4GQK4KZ",
+        "reactions": [
+            {
+                "name": "clapping_inclusive",
+                "users": [
+                    "U03LXQCEVKK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8c2babb-760c-4d7f-ab9e-276b8b9edeaf",
+        "type": "message",
+        "text": "And you always will :wink:",
+        "user": "U03LXQCEVKK",
+        "ts": "1697731626.497939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b8U81",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And you always will "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697731340.906589",
+        "parent_user_id": "U03L4GQK4KZ"
+    },
+    {
+        "client_msg_id": "A3050804-DC77-4F03-8E09-5D9DAAAA33D9",
+        "type": "message",
+        "text": "Taylor is awesome",
+        "user": "U05AN3R7398",
+        "ts": "1697731628.842879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "32Kaf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Taylor is awesome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697731340.906589",
+        "parent_user_id": "U03L4GQK4KZ",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U03LXQCEVKK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6873fbb-b5eb-4f9b-8014-cc8ae9177a09",
+        "type": "message",
+        "text": "Helaman’s right! ^^",
+        "user": "U03LXQCEVKK",
+        "ts": "1697731638.272549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4p8yp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Helaman’s right! ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697731340.906589",
+        "parent_user_id": "U03L4GQK4KZ",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U05AN3R7398",
+                    "U03LXQCJA81"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

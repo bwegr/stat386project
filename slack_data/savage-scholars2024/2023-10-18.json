@@ -1,0 +1,207 @@
+[
+    {
+        "client_msg_id": "21013A69-1E9C-45F0-A42D-70555F70DBD4",
+        "type": "message",
+        "text": "I am meeting with Scott and Barry this afternoon. Let me know if you have questions for them?\n\nWe have all the pictures in a Google drive now and will be getting those to you guys. Not sure why it had to take this long.",
+        "user": "U03LK551XFU",
+        "ts": "1697647954.367779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w7iA\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am meeting with Scott and Barry this afternoon. Let me know if you have questions for them?\n\nWe have all the pictures in a Google drive now and will be getting those to you guys. Not sure why it had to take this long."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LMGX6W1J",
+                    "U03LG779KGD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DA03EE5C-6AE0-4704-B9B8-5EFC3E95CACE",
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/drive\/folders\/1AwoDeZLsSe6iH1H9MOcwciW9i5REAbKy?usp=share_link|https:\/\/drive.google.com\/drive\/folders\/1AwoDeZLsSe6iH1H9MOcwciW9i5REAbKy?usp=share_link>",
+        "user": "U03LK551XFU",
+        "ts": "1697676948.353379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VpO6z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1AwoDeZLsSe6iH1H9MOcwciW9i5REAbKy?usp=share_link",
+                                "text": "https:\/\/drive.google.com\/drive\/folders\/1AwoDeZLsSe6iH1H9MOcwciW9i5REAbKy?usp=share_link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697676948.353379",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697684847.754789",
+        "reply_users": [
+            "U03LK551XFU",
+            "U03LXQCJA81"
+        ],
+        "replies": [
+            {
+                "user": "U03LK551XFU",
+                "ts": "1697682341.883219"
+            },
+            {
+                "user": "U03LXQCJA81",
+                "ts": "1697684847.754789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U03LK533VR8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E70AAC9C-2BF7-4734-B3AE-30EAB2F00116",
+        "type": "message",
+        "text": "Does this work for anyone? ",
+        "user": "U03LK551XFU",
+        "ts": "1697682341.883219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7GPif",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does this work for anyone? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697676948.353379",
+        "parent_user_id": "U03LK551XFU"
+    },
+    {
+        "client_msg_id": "3bbf62b1-c38f-498c-985d-7763986afbd1",
+        "type": "message",
+        "text": "That works for me, thanks Hyrum!!",
+        "user": "U03LXQCJA81",
+        "ts": "1697684847.754789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "STYF0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That works for me, thanks Hyrum!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697676948.353379",
+        "parent_user_id": "U03LK551XFU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LK551XFU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

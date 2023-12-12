@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "23e4c618-cd73-4fe6-adcf-7d86183453ab",
+        "type": "message",
+        "text": "Office hours today in the lounge from 11:15-12:15!",
+        "user": "U03LXQCJA81",
+        "ts": "1698080654.176759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aqRUq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Office hours today in the lounge from 11:15-12:15!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "383D8BD8-2B1E-48E2-802A-C7497346A57B",
+        "type": "message",
+        "text": "Todd Rowe’s slides are in Canvas under: Slides from class.\n\nProf. Christensen is also updating due dates for the Value Analysis project tonight. Please let us know if you have any questions. ",
+        "user": "U03L57R4HN3",
+        "ts": "1698115859.045639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oh7lE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Todd Rowe’s slides are in Canvas under: Slides from class.\n\nProf. Christensen is also updating due dates for the Value Analysis project tonight. Please let us know if you have any questions. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

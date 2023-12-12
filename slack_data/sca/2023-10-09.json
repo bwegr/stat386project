@@ -1,0 +1,468 @@
+[
+    {
+        "client_msg_id": "f00a1504-1af9-47d1-a36f-4aaf7605dc86",
+        "type": "message",
+        "text": "Case Mentors - they can do a 45-minute case, mini-case\/strategy questions, resume review, and behavior interviews.  If you desire something other than a 45min case please let them know prior.\nPlease schedule time with these mentors. If the available times don't work please get in touch with the case mentor and they will try to accommodate your schedule.\nList of Case Mentors, with calendars invites, and emails. (you can also slack them)\n• Benjamin Williams\n    ◦  <mailto:benjamincolewilliams@gmail.com|benjamincolewilliams@gmail.com>\n    ◦ <https:\/\/calendly.com\/benjamincolewilliams\/30min>\n• Jake Preslar\n    ◦ <mailto:jacobpres4@gmail.com|jacobpres4@gmail.com>\n    ◦ <http:\/\/calendly.com\/jacobpres>\n• Taylor Brooks\n    ◦ <mailto:taylorleebrooks@gmail.com|taylorleebrooks@gmail.com>\n    ◦ <https:\/\/calendly.com\/taylorleebrooks\/case-prep>\n• Melissa Stone\n    ◦ <mailto:melissaelaineking75@gmail.com|melissaelaineking75@gmail.com>\n    ◦ <https:\/\/calendly.com\/melissakingstone\/60min>\n• Brett Holden\n    ◦ <mailto:brettsholden@gmail.com|brettsholden@gmail.com>\n    ◦ <http:\/\/calendly.com\/brettsholden>\n• Kevin Baize\n    ◦ <mailto:kevin.n.baize@gmail.com|kevin.n.baize@gmail.com>\n• Tyler Hill\n    ◦ <mailto:t.wakefield.hill@gmail.com|t.wakefield.hill@gmail.com>\n    ◦ <https:\/\/calendly.com\/t-wakefield-hill>\n",
+        "user": "U03NW11JH19",
+        "ts": "1696863997.696669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LATFZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Case Mentors - they can do a 45-minute case, mini-case\/strategy questions, resume review, and behavior interviews.  If you desire something other than a 45min case please let them know prior.\nPlease schedule time with these mentors. If the available times don't work please get in touch with the case mentor and they will try to accommodate your schedule.\nList of Case Mentors, with calendars invites, and emails. (you can also slack them)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Benjamin Williams"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:benjamincolewilliams@gmail.com",
+                                        "text": "benjamincolewilliams@gmail.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/calendly.com\/benjamincolewilliams\/30min"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Jake Preslar"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:jacobpres4@gmail.com",
+                                        "text": "jacobpres4@gmail.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/calendly.com\/jacobpres"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Taylor Brooks"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:taylorleebrooks@gmail.com",
+                                        "text": "taylorleebrooks@gmail.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/calendly.com\/taylorleebrooks\/case-prep"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Melissa Stone"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:melissaelaineking75@gmail.com",
+                                        "text": "melissaelaineking75@gmail.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/calendly.com\/melissakingstone\/60min"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Brett Holden"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:brettsholden@gmail.com",
+                                        "text": "brettsholden@gmail.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/calendly.com\/brettsholden"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Kevin Baize"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:kevin.n.baize@gmail.com",
+                                        "text": "kevin.n.baize@gmail.com"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Tyler Hill"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:t.wakefield.hill@gmail.com",
+                                        "text": "t.wakefield.hill@gmail.com",
+                                        "unsafe": true
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/calendly.com\/t-wakefield-hill"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/calendly.com\/benjamincolewilliams\/30min",
+                "service_icon": "https:\/\/assets.calendly.com\/assets\/touch-icon-iphone-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png",
+                "thumb_url": "https:\/\/assets.calendly.com\/assets\/booking\/ogimage-453957c3679200e19fcc84e079b5e55cfb26ae5a3aa2504d75b5aedaaf37aa0c.png?source=opengraph",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "id": 1,
+                "original_url": "https:\/\/calendly.com\/benjamincolewilliams\/30min",
+                "fallback": "Calendly: Consulting Mentor - 30 Minute Meeting - Benjamin Williams",
+                "text": "Let me know if there is any specific thing you are working on. If you are looking to case please schedule two 30mins back to back otherwise we will not be able to complete a full case.Or if these times will not work for you.",
+                "title": "Consulting Mentor - 30 Minute Meeting - Benjamin Williams",
+                "title_link": "https:\/\/calendly.com\/benjamincolewilliams\/30min",
+                "service_name": "Calendly"
+            },
+            {
+                "from_url": "http:\/\/calendly.com\/jacobpres",
+                "service_icon": "https:\/\/assets.calendly.com\/assets\/touch-icon-iphone-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png",
+                "thumb_url": "https:\/\/assets.calendly.com\/assets\/booking\/ogimage-453957c3679200e19fcc84e079b5e55cfb26ae5a3aa2504d75b5aedaaf37aa0c.png?source=opengraph",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "id": 2,
+                "original_url": "http:\/\/calendly.com\/jacobpres",
+                "fallback": "Calendly: Jacob Preslar",
+                "text": "Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.",
+                "title": "Jacob Preslar",
+                "title_link": "http:\/\/calendly.com\/jacobpres",
+                "service_name": "Calendly"
+            },
+            {
+                "from_url": "https:\/\/calendly.com\/taylorleebrooks\/case-prep",
+                "service_icon": "https:\/\/assets.calendly.com\/assets\/touch-icon-iphone-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png",
+                "thumb_url": "https:\/\/assets.calendly.com\/assets\/booking\/ogimage-453957c3679200e19fcc84e079b5e55cfb26ae5a3aa2504d75b5aedaaf37aa0c.png?source=opengraph",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "id": 3,
+                "original_url": "https:\/\/calendly.com\/taylorleebrooks\/case-prep",
+                "fallback": "Calendly: Case Prep - Taylor Brooks",
+                "text": "Please let me know what cases you have done in the past. If this is your first time, welcome! Plan on 5 mins of GTKY, 25-30 mins of casing, and 10 mins of feedback to help you reflect and improve. Excited to meet with you, let's GET IT!",
+                "title": "Case Prep - Taylor Brooks",
+                "title_link": "https:\/\/calendly.com\/taylorleebrooks\/case-prep",
+                "service_name": "Calendly"
+            },
+            {
+                "from_url": "http:\/\/calendly.com\/brettsholden",
+                "service_icon": "https:\/\/assets.calendly.com\/assets\/touch-icon-iphone-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png",
+                "thumb_url": "https:\/\/assets.calendly.com\/assets\/booking\/ogimage-453957c3679200e19fcc84e079b5e55cfb26ae5a3aa2504d75b5aedaaf37aa0c.png?source=opengraph",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "id": 4,
+                "original_url": "http:\/\/calendly.com\/brettsholden",
+                "fallback": "Calendly: Brett Holden",
+                "text": "Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.",
+                "title": "Brett Holden",
+                "title_link": "http:\/\/calendly.com\/brettsholden",
+                "service_name": "Calendly"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28ebe4cf-19a4-46e2-a640-4b93b638fd04",
+        "type": "message",
+        "text": "Adding my calendly link here: <https:\/\/calendly.com\/kevin-n-baize>\n\nIf you just message me I am sure I can find time to case outside of Wednesday’s and Fridays.\nI am here to help, please reach out on slack if you want to case. Those interested as well in practicing PM interviews I got you!",
+        "user": "U03UV6770V9",
+        "ts": "1696877503.593349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B4CiX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Adding my calendly link here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/calendly.com\/kevin-n-baize"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIf you just message me I am sure I can find time to case outside of Wednesday’s and Fridays.\nI am here to help, please reach out on slack if you want to case. Those interested as well in practicing PM interviews I got you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "726175ac772f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-27\/3994854151414_726175ac772f9b58d6e2_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Baize",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "kevin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/calendly.com\/kevin-n-baize",
+                "service_icon": "https:\/\/assets.calendly.com\/assets\/touch-icon-iphone-260067382323ed52661bd79f4fa22edee49175d0d5b1cfc96cdc28eabbea159a.png",
+                "thumb_url": "https:\/\/assets.calendly.com\/assets\/booking\/ogimage-453957c3679200e19fcc84e079b5e55cfb26ae5a3aa2504d75b5aedaaf37aa0c.png?source=opengraph",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "id": 1,
+                "original_url": "https:\/\/calendly.com\/kevin-n-baize",
+                "fallback": "Calendly: Kevin Baize",
+                "text": "Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.",
+                "title": "Kevin Baize",
+                "title_link": "https:\/\/calendly.com\/kevin-n-baize",
+                "service_name": "Calendly"
+            }
+        ]
+    }
+]

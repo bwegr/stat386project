@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "ef310c39-6ee9-46af-985f-6a18360b93bd",
+        "type": "message",
+        "text": "As class registration is coming up, I highly recommend SWELL classes! Also, I know swimming is not a popular activity all over the world so if you don't know how to swim there is a SWELL class that can teach you! This is a great skill to have in the USA, especially in Utah where people do a lot of boating over the summer. Swimming is also a great full body exercise that doesn't stress your joints.",
+        "user": "U03LK39EPB5",
+        "ts": "1696269398.512189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sdpX8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As class registration is coming up, I highly recommend SWELL classes! Also, I know swimming is not a popular activity all over the world so if you don't know how to swim there is a SWELL class that can teach you! This is a great skill to have in the USA, especially in Utah where people do a lot of boating over the summer. Swimming is also a great full body exercise that doesn't stress your joints."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696269398.512189",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696611856.031529",
+        "reply_users": [
+            "U03LMGXDFB6",
+            "U03LXQCM22D"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGXDFB6",
+                "ts": "1696273169.947009"
+            },
+            {
+                "user": "U03LXQCM22D",
+                "ts": "1696611856.031529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03L4GP8ZMM",
+                    "U03LXQCM22D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2cf2ef10-1d85-4f76-94d3-6b1a21da6b2d",
+        "type": "message",
+        "text": "I would add Indoor Rock Climbing, best class I've taken so far in the MBA program",
+        "user": "U03LMGXDFB6",
+        "ts": "1696273169.947009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4MCeG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would add Indoor Rock Climbing, best class I've taken so far in the MBA program"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696269398.512189",
+        "parent_user_id": "U03LK39EPB5"
+    }
+]

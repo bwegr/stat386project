@@ -1,0 +1,244 @@
+[
+    {
+        "client_msg_id": "47f3c3b7-846e-4904-904d-5cae93d54e7d",
+        "type": "message",
+        "text": "Do we have a room set yet?",
+        "user": "U03LCGL1GK0",
+        "ts": "1697576568.998279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DjIYe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we have a room set yet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9e5d4c92387a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3684719193415_9e5d4c92387a9ab3fd0b_72.jpg",
+            "first_name": "S.",
+            "real_name": "S. Kirk Tompkinson",
+            "display_name": "S. Kirk Tompkinson",
+            "team": "T0ZBAEL59",
+            "name": "kirk.tompkinson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696964528.948139",
+        "parent_user_id": "U03LKPR602X"
+    },
+    {
+        "client_msg_id": "98C4CC72-3141-4606-B361-656B9831C997",
+        "type": "message",
+        "text": "Looks like 484",
+        "user": "U05AMVCV3RR",
+        "ts": "1697577743.661859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YX4tq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like 484"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "963e9b8c9fdb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-18\/5899529514519_963e9b8c9fdbf58f9991_72.png",
+            "first_name": "Mitch",
+            "real_name": "Mitch Carroll",
+            "display_name": "Mitch Carroll",
+            "team": "T0ZBAEL59",
+            "name": "mhickenc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05AMVCV3RR",
+            "ts": "1697577773.000000"
+        },
+        "thread_ts": "1696964528.948139",
+        "parent_user_id": "U03LKPR602X"
+    },
+    {
+        "client_msg_id": "5723d85d-5ec4-4fe5-ba9d-947a0fddc480",
+        "type": "message",
+        "text": "Yes 484",
+        "user": "U03LKPR602X",
+        "ts": "1697581798.174579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gR7yF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes 484"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e44703c70bf5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-19\/3960224283206_e44703c70bf5c3980b3d_72.jpg",
+            "first_name": "James",
+            "real_name": "James Lincoln",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "james.lincoln1995",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696964528.948139",
+        "parent_user_id": "U03LKPR602X"
+    },
+    {
+        "client_msg_id": "f004c9d5-f5a7-4e48-b62d-af7a3682b4da",
+        "type": "message",
+        "text": "<@U03LCGL1GK0>",
+        "user": "U03LKPR602X",
+        "ts": "1697581805.802909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FFfSe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LCGL1GK0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e44703c70bf5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-19\/3960224283206_e44703c70bf5c3980b3d_72.jpg",
+            "first_name": "James",
+            "real_name": "James Lincoln",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "james.lincoln1995",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696964528.948139",
+        "parent_user_id": "U03LKPR602X"
+    },
+    {
+        "client_msg_id": "415cbab3-9263-46d1-a6ff-3de62255b7ef",
+        "type": "message",
+        "text": "<!channel> Registration is closing for this Friday's homecoming event, lunch+networking with alumni who are in town. I'll copy the link below. If you don't register tonight but want lunch, reach out to Kirsten tomorrow and I'm sure you can attend. At 1 pm, the entrepreneurship alumni and students will be listening to David Doty, 2017 BYU MBA grad. He bought a small business while in the MBA and after a short stint at Hanes, used it to start his restaurant empire. He now owns Lehi Bakery, Edna's, and Magleby's (minority owner?). Last time I talked to him, he was looking for a COO, so this could be a great opportunity to meet with him.\n\n<https:\/\/marriott.byu.edu\/event\/mba-reunion2023\/registration>",
+        "user": "U03LG776WFP",
+        "ts": "1697602757.619939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3kKmM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Registration is closing for this Friday's homecoming event, lunch+networking with alumni who are in town. I'll copy the link below. If you don't register tonight but want lunch, reach out to Kirsten tomorrow and I'm sure you can attend. At 1 pm, the entrepreneurship alumni and students will be listening to David Doty, 2017 BYU MBA grad. He bought a small business while in the MBA and after a short stint at Hanes, used it to start his restaurant empire. He now owns Lehi Bakery, Edna's, and Magleby's (minority owner?). Last time I talked to him, he was looking for a COO, so this could be a great opportunity to meet with him.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/marriott.byu.edu\/event\/mba-reunion2023\/registration"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "ab1623974cd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-09\/4767396297015_ab1623974cd0a9d234d2_72.jpg",
+            "first_name": "Hunter",
+            "real_name": "Hunter Schenewark",
+            "display_name": "Hunter Schenewark",
+            "team": "T0ZBAEL59",
+            "name": "hunterschenewark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/marriott.byu.edu\/event\/mba-reunion2023\/registration",
+                "service_icon": "https:\/\/marriott.byu.edu\/msm\/theme\/variant\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/marriott.byu.edu\/event\/mba-reunion2023\/registration",
+                "fallback": "BYU Marriott School of Business - MBA Multi-Year Alumni Reunion - Registration",
+                "text": "Reunion for MBA Alumni",
+                "title": "BYU Marriott School of Business - MBA Multi-Year Alumni Reunion - Registration",
+                "title_link": "https:\/\/marriott.byu.edu\/event\/mba-reunion2023\/registration",
+                "service_name": "marriott.byu.edu"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05B0NFJ1S5",
+                    "U05A7HE11LP",
+                    "U03PKR5GQUQ",
+                    "U05AMVCV3RR"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05A7HE11LP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,297 @@
+[
+    {
+        "client_msg_id": "2ec7cf72-817a-401d-b87e-a5370d60733c",
+        "type": "message",
+        "text": "STRAT SIM DECISION 2: Due by tonight at 10pm!:car:",
+        "user": "U03L57R4HN3",
+        "ts": "1696258800.938529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mmyhx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "STRAT SIM DECISION 2: Due by tonight at 10pm!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "car",
+                                "unicode": "1f697"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C83B48BE-4AF4-4E5B-BB74-AF204BAFEAF1",
+        "type": "message",
+        "text": "TA office hours today, 11:00 am -12:00 pm!\nI’ll be in room W327 from 11:00-11:30 and W253 from 11:30-12:00",
+        "user": "U03LXQCJA81",
+        "ts": "1696259084.890489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vCVdn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TA office hours today, 11:00 am -12:00 pm!\nI’ll be in room W327 from 11:00-11:30 and W253 from 11:30-12:00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6245078a-41b5-4f01-a6fd-52f7e0d091e3",
+        "type": "message",
+        "text": "<@U05A7HEBCDV>, to help answer your question more. Elon is and HAS been sued over his use of \"X\". At this point, it just became a money war. He knows that he can pay off anyone he wants to be able to illegally use the trademark \"X\".\n\nMicrosoft, in particular, has trademarked \"X\" since 2003 in its association with the X-Box.\nHere's an <https:\/\/www.wsj.com\/tech\/elon-musk-twitter-x-rebrand-trademark-bird-logo-b7433fb6|article> to learn a little more about this. Start about halfway through for the trademark information.\n\n<@U05AMVD19GT> Monopolies pertain to creating something where you can't have competition or substitution. Like Prof. Christensen said, trademarks have a lot of boundaries on them, so they cannot create a monopolistic situation.",
+        "user": "U03L57R4HN3",
+        "ts": "1696273341.020609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gxi\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05A7HEBCDV"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", to help answer your question more. Elon is and HAS been sued over his use of \"X\". At this point, it just became a money war. He knows that he can pay off anyone he wants to be able to illegally use the trademark \"X\".\n\nMicrosoft, in particular, has trademarked \"X\" since 2003 in its association with the X-Box.\nHere's an "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wsj.com\/tech\/elon-musk-twitter-x-rebrand-trademark-bird-logo-b7433fb6",
+                                "text": "article"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to learn a little more about this. Start about halfway through for the trademark information.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AMVD19GT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Monopolies pertain to creating something where you can't have competition or substitution. Like Prof. Christensen said, trademarks have a lot of boundaries on them, so they cannot create a monopolistic situation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/images.wsj.net\/im-823469\/social",
+                "image_width": 1280,
+                "image_height": 640,
+                "image_bytes": 132623,
+                "from_url": "https:\/\/www.wsj.com\/tech\/elon-musk-twitter-x-rebrand-trademark-bird-logo-b7433fb6",
+                "service_icon": "https:\/\/s.wsj.net\/media\/wsj_apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.wsj.com\/tech\/elon-musk-twitter-x-rebrand-trademark-bird-logo-b7433fb6",
+                "fallback": "WSJ: Elon Musk’s X Rebrand Cues Complications—and Porn Jokes",
+                "text": "The latest Twitter upheaval has agitated former employees and could incite trademark battles.",
+                "title": "Elon Musk’s X Rebrand Cues Complications—and Porn Jokes",
+                "title_link": "https:\/\/www.wsj.com\/tech\/elon-musk-twitter-x-rebrand-trademark-bird-logo-b7433fb6",
+                "service_name": "WSJ"
+            }
+        ],
+        "thread_ts": "1696273341.020609",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696291587.363969",
+        "reply_users": [
+            "U05A7HEBCDV",
+            "U05DD0R44G5"
+        ],
+        "replies": [
+            {
+                "user": "U05A7HEBCDV",
+                "ts": "1696282104.982179"
+            },
+            {
+                "user": "U05DD0R44G5",
+                "ts": "1696291587.363969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05A7HEBCDV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56FB46D6-57F5-441A-99C5-F5130794F7F8",
+        "type": "message",
+        "text": "Interesting! ",
+        "user": "U05A7HEBCDV",
+        "ts": "1696282104.982179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ELK+D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "98886ecb5f46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-29\/6125854652065_98886ecb5f4646b57aed_72.png",
+            "first_name": "Zac",
+            "real_name": "Zac Decker",
+            "display_name": "Zac Decker",
+            "team": "T0ZBAEL59",
+            "name": "decker.zachary76",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696273341.020609",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "client_msg_id": "E220F56B-9901-4D00-BB8F-49C6117F31C0",
+        "type": "message",
+        "text": "If your interested in monopolies visit the Federal Trade Commission site as they regulate and often block pending M&amp;A where a monopoly would\/could be created, the tech space is an emerging area of hot debate. \nAlso the history of how the Sherman Act came to be is quite interesting and worth a look if your interested in free trade etc. ",
+        "user": "U05DD0R44G5",
+        "ts": "1696291587.363969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hOAwJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If your interested in monopolies visit the Federal Trade Commission site as they regulate and often block pending M&A where a monopoly would\/could be created, the tech space is an emerging area of hot debate"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nAlso the history of how the Sherman Act came to be is quite interesting and worth a look if your interested in free trade etc"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g1a32db1c729",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a32db1c729f89e1f3e02e7ed5b3ab36.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Nikki",
+            "real_name": "Nikki Maxon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nmaxon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696273341.020609",
+        "parent_user_id": "U03L57R4HN3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05A7HEBCDV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

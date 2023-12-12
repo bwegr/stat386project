@@ -1,0 +1,142 @@
+[
+    {
+        "client_msg_id": "ecca99fe-fd43-4c10-8597-0c4ac7651727",
+        "type": "message",
+        "text": "Office Hours: Thursday @ 11am outside the Blue Lounge. Bring all of your amazing brand questions. I love talking about this stuff!",
+        "user": "U03L57R4HN3",
+        "ts": "1697052313.438429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sCAef",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Office Hours: Thursday @ 11am outside the Blue Lounge. Bring all of your amazing brand questions. I love talking about this stuff!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6d6e78f5-3683-4ff3-b935-91fbcfbe8587",
+        "type": "message",
+        "text": "Does anyone know how to fully discontinue a car?",
+        "user": "U05B0NFJ1S5",
+        "ts": "1697084749.642629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YZOnU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone know how to fully discontinue a car?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "95bddd7b2943",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5813565093446_95bddd7b2943626dbda2_72.jpg",
+            "first_name": "Ben",
+            "real_name": "Ben Crockett",
+            "display_name": "Ben Crockett",
+            "team": "T0ZBAEL59",
+            "name": "bencrockett3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697084749.642629",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697086641.075019",
+        "reply_users": [
+            "U05AN015NSX"
+        ],
+        "replies": [
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697086641.075019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "firecracker",
+                "users": [
+                    "U05A7HE11LP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "397476fd-c726-496a-b127-da4417bf3a54",
+        "type": "message",
+        "text": "Discontinuing cars is vaguely referenced in the manual, but I haven't seen any one button to press. The manual also says, \"Check the B2B Only—sometimes called Remove From Market—checkbox to stop selling a vehicle to consumers. If you are discontinuing a vehicle, you may wish to sell off remaining inventory before taking the vehicle off the consumer market.\" I haven't seen the B2B Only button either, so Professor Christensen could have \"discontinued\" those options like he did with licensing. Hopefully the TAs will have a more definitive answer.",
+        "user": "U05AN015NSX",
+        "ts": "1697086641.075019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F9fbb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Discontinuing cars is vaguely referenced in the manual, but I haven't seen any one button to press. The manual also says, \"Check the B2B Only—sometimes called Remove From Market—checkbox to stop selling a vehicle to consumers. If you are discontinuing a vehicle, you may wish to sell off remaining inventory before taking the vehicle off the consumer market.\" I haven't seen the B2B Only button either, so Professor Christensen could have \"discontinued\" those options like he did with licensing. Hopefully the TAs will have a more definitive answer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697084749.642629",
+        "parent_user_id": "U05B0NFJ1S5"
+    }
+]

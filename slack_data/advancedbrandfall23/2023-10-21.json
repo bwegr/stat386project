@@ -1,0 +1,180 @@
+[
+    {
+        "client_msg_id": "4ba154ba-ca6d-4a7f-8bbb-df8f5920ebc7",
+        "type": "message",
+        "text": "I did the latter method to get 2.40 but I don’t know if it’s right! But yes it was time for sleep, or at least party time and not homework time.",
+        "user": "U03LK52CR7U",
+        "ts": "1697900175.405459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vjYvw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did the latter method to get 2.40 but I don’t know if it’s right! But yes it was time for sleep, or at least party time and not homework time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6e53b4fccca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-23\/4005980232208_6e53b4fccca86101bc89_72.png",
+            "first_name": "Dallin",
+            "real_name": "Dallin Webb",
+            "display_name": "Dallin Webb",
+            "team": "T0ZBAEL59",
+            "name": "dallin.webb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "d4865733-2f9f-406b-960e-9668b5914b76",
+        "type": "message",
+        "text": "I did $2.40 too, otherwise I'm not sure why he would've provided that info but also not 100% confident :shrug:",
+        "user": "U03LK3D5N2X",
+        "ts": "1697900376.234439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x6+zR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did $2.40 too, otherwise I'm not sure why he would've provided that info but also not 100% confident "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "shrug",
+                                "unicode": "1f937"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "87BD87C3-1131-481A-8C65-E1EB588F6414",
+        "type": "message",
+        "text": "Okay. I say that if a third of the class interpreted the question that way, we could at least have a leg to stand on if that’s wrong. Thanks for the validation. :pray: :heart: :heart: :heart: ",
+        "user": "U03L57R4HN3",
+        "ts": "1697901960.100749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fcywd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay. I say that if a third of the class interpreted the question that way, we could at least have a leg to stand on if "
+                            },
+                            {
+                                "type": "text",
+                                "text": "that’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " wrong. Thanks for the validation. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LK3D5N2X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

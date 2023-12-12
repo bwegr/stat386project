@@ -1,0 +1,382 @@
+[
+    {
+        "client_msg_id": "229e49d0-1343-4feb-bfc0-132f83637071",
+        "type": "message",
+        "text": "Follow up to Kelsee's question, is the BOGO off of the original price in answer 1 or the 2.99 in 2? I'm thinking the answer to 1?",
+        "user": "U03LK3D5N2X",
+        "ts": "1697771220.470749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ZDdF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Follow up to Kelsee's question, is the BOGO off of the original price in answer 1 or the 2.99 in 2? I'm thinking the answer to 1?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "reply_count": 15,
+        "reply_users_count": 3,
+        "latest_reply": "1697901960.100749",
+        "reply_users": [
+            "U03L57R4HN3",
+            "U03LK3D5N2X",
+            "U03LK52CR7U"
+        ],
+        "replies": [
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1697771426.304499"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1697771460.201179"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1697771519.232919"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1697771584.015719"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1697771685.034579"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1697771706.621259"
+            },
+            {
+                "user": "U03LK52CR7U",
+                "ts": "1697817719.144839"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1697818590.989089"
+            },
+            {
+                "user": "U03LK52CR7U",
+                "ts": "1697819576.799679"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1697821865.004699"
+            },
+            {
+                "user": "U03LK52CR7U",
+                "ts": "1697822983.950999"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1697863629.778339"
+            },
+            {
+                "user": "U03LK52CR7U",
+                "ts": "1697900175.405459"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1697900376.234439"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1697901960.100749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e78d5a09-4dad-4856-a035-be2d23a2f12d",
+        "type": "message",
+        "text": "In my notes, I show that the BOGO was:\n\nBOGO = price\/2\n\n$1.86*(1-.10)= $1.67\n\nThat would be from $3.71 a unit you use for the BOGO.\n\nIs that helpful?",
+        "user": "U03L57R4HN3",
+        "ts": "1697771426.304499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BSsIq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In my notes, I show that the BOGO was:\n\nBOGO = price\/2\n\n$1.86*(1-.10)= $1.67\n\nThat would be from $3.71 a unit you use for the BOGO.\n\nIs that helpful?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "b82162db-ac48-4407-8e1a-ef63d707d758",
+        "type": "message",
+        "text": "Yup, exactly what I did! Some of the questions are just a little vague :sweat_smile:",
+        "user": "U03LK3D5N2X",
+        "ts": "1697771460.201179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jHX\/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup, exactly what I did! Some of the questions are just a little vague "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "f9b55d04-c0e1-4729-9bf7-98726ab4d3cd",
+        "type": "message",
+        "text": "You aren't wrong. I specifically remember you asking about that too.:face_with_rolling_eyes::joy:",
+        "user": "U03L57R4HN3",
+        "ts": "1697771519.232919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Me3Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You aren't wrong. I specifically remember you asking about that too."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_rolling_eyes",
+                                "unicode": "1f644"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK3D5N2X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7bbc4e05-dd3b-4c39-86e7-6ad0e73ccf45",
+        "type": "message",
+        "text": "And yet I'm still confused :joy:",
+        "user": "U03LK3D5N2X",
+        "ts": "1697771584.015719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WIJrd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And yet I'm still confused "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "6dfe3722-59c0-4a13-9008-3535967f0c81",
+        "type": "message",
+        "text": "I keep trying to start and then I stop. I'm going to be in big trouble if I don't dig into it. I'll start now.",
+        "user": "U03L57R4HN3",
+        "ts": "1697771685.034579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ETqzJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I keep trying to start and then I stop. I'm going to be in big trouble if I don't dig into it. I'll start now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "87e47e4c-3bfc-42b4-8c50-dfb3e8abe6ef",
+        "type": "message",
+        "text": "I meant - that you specifically asked that the questions not be vague.",
+        "user": "U03L57R4HN3",
+        "ts": "1697771706.621259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZyUp4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I meant - that you specifically asked that the questions not be vague."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X"
+    }
+]

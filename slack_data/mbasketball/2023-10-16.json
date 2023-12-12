@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "bfec87e4-c026-4e92-bc02-c47000acc35f",
+        "type": "message",
+        "text": "<!here> while y'all are planning your week, I want to schedule ball on Friday @6:15 am so that we can plan for it. If you're in smash that :basketball: emoji!",
+        "user": "U03M8TCTA6L",
+        "ts": "1697470681.609949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fl+Xo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " while y'all are planning your week, I want to schedule ball on Friday @6:15 am so that we can plan for it. If you're in smash that "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "basketball",
+                                "unicode": "1f3c0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " emoji!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697470681.609949",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697760478.742639",
+        "reply_users": [
+            "U03M8TCTA6L"
+        ],
+        "replies": [
+            {
+                "user": "U03M8TCTA6L",
+                "ts": "1697760478.742639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U03M8TCTA6L",
+                    "U03LMGX6W1J",
+                    "U03LCGQ9L6S",
+                    "U03LXQCJA81",
+                    "U03LK52CR7U",
+                    "U05AK5GQJ5B"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

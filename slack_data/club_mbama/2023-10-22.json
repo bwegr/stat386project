@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "F3FFFE07-E6BF-451C-8AEF-CCC2259C15B0",
+        "type": "message",
+        "text": "Alex! Let’s find time to chat this next week!! ",
+        "user": "U03LK4YF3A6",
+        "ts": "1698025087.798929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NKjLi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alex! Let’s find time to chat this next week!! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697484686.854309",
+        "parent_user_id": "U03LK4YF3A6"
+    },
+    {
+        "client_msg_id": "f47fa35f-7bcf-4d48-bd49-2f50a6d10d3a",
+        "type": "message",
+        "text": "Sounds great!",
+        "user": "U05AFDTJEUW",
+        "ts": "1698027414.814019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lRO8z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "72b4e8495ef2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-18\/5924924451553_72b4e8495ef27fb8d9ff_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Chamberlain",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexander.chamberlain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697484686.854309",
+        "parent_user_id": "U03LK4YF3A6"
+    }
+]

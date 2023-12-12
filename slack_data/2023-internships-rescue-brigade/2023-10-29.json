@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "1b8a94c9-0cb3-40c7-90e7-e8cd822c58ee",
+        "type": "message",
+        "text": "Consulta, alguien ha ido al restaurant Peru 51 en Orem? O ha escuchado de cerca recomendaciones? Las recomendaciones de Google y Facebook son muy buenas, pero quería ver lo que le parecía a alguien más cercano.",
+        "user": "U03LMGXDFB6",
+        "ts": "1698638395.458489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FkPlb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Consulta, alguien ha ido al restaurant Peru 51 en Orem? O ha escuchado de cerca recomendaciones? Las recomendaciones de Google y Facebook son muy buenas, pero quería ver lo que le parecía a alguien más cercano."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

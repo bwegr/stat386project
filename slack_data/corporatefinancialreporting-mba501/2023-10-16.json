@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "A7E68D29-AD69-4FED-B257-5A9EE7AC6EA9",
+        "type": "message",
+        "text": "I’m having TA hours in W321",
+        "user": "U03SRBYBAET",
+        "ts": "1697483076.376269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hwi7k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m having TA hours in W321"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6d964c44b7d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3918205904550_6d964c44b7d5cc71f366_72.jpg",
+            "first_name": "Coralee",
+            "real_name": "Coralee Choules",
+            "display_name": "Coralee Choules",
+            "team": "T0ZBAEL59",
+            "name": "coralee.choules",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3B7F295E-3F35-44B6-99AD-76027CAE0496",
+        "type": "message",
+        "text": "Any TA’s available tomorrow? ",
+        "user": "U05B0NHD3LZ",
+        "ts": "1697500582.846979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "soRa0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any TA’s available tomorrow? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dbbf1fbb3088",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-22\/5930352146870_dbbf1fbb3088d1bed2d7_72.png",
+            "first_name": "Kalie",
+            "real_name": "Kalie Johnson",
+            "display_name": "Kalie Johnson",
+            "team": "T0ZBAEL59",
+            "name": "kaliej424",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

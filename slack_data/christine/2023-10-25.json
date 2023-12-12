@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "86A1F698-2B98-4C57-AFCF-811D481DFE42",
+        "type": "message",
+        "text": "If we haven’t received an email does that mean we’re still waiting to be assigned a section? ",
+        "user": "U05DD0R44G5",
+        "ts": "1698265522.731479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YgqiZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If we "
+                            },
+                            {
+                                "type": "text",
+                                "text": "haven’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " received an email does that mean "
+                            },
+                            {
+                                "type": "text",
+                                "text": "we’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " still waiting to be assigned a section? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g1a32db1c729",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a32db1c729f89e1f3e02e7ed5b3ab36.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Nikki",
+            "real_name": "Nikki Maxon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nmaxon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698102538.020179",
+        "parent_user_id": "U03AVEWPUQN"
+    }
+]

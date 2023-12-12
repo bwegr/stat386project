@@ -1,0 +1,177 @@
+[
+    {
+        "client_msg_id": "55bc49a5-94a6-4cf8-914c-31c9982e6aa4",
+        "type": "message",
+        "text": "For US nationals going to SHPE\n\nP&G is recruiting. In the 2nd page of the pdf you will find  a list of codes for internships and full-time roles. Put that code in the P&G careers page to apply. After you apply, follow this <https:\/\/forms.office.com\/r\/WA4f0EvVZ0|link> to get into the interview",
+        "user": "U03LMGXDFB6",
+        "ts": "1698180854.951819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eefh6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For US nationals going to SHPE\n\nP&G is recruiting. In the 2nd page of the pdf you will find  a list of codes for internships and full-time roles. Put that code in the P&G careers page to apply. After you apply, follow this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.office.com\/r\/WA4f0EvVZ0",
+                                "text": "link"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to get into the interview"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LMGXDFB6",
+            "ts": "1698180955.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": ".",
+        "files": [
+            {
+                "id": "F0626S9BS95",
+                "created": 1698180951,
+                "timestamp": 1698180951,
+                "name": "How to Apply PG.pdf",
+                "title": "How to Apply PG.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03LMGXDFB6",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 214742,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0626S9BS95\/how_to_apply_pg.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0626S9BS95\/download\/how_to_apply_pg.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0626S9BS95-251785d16f\/how_to_apply_pg_thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 660,
+                "thumb_pdf_h": 440,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LMGXDFB6\/F0626S9BS95\/how_to_apply_pg.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0626S9BS95-e5d44d3d8a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LMGXDFB6",
+        "display_as_bot": false,
+        "ts": "1698180957.412379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/dfhg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3ff2f740-4528-4c7b-97c4-d6d4b42d5474"
+    },
+    {
+        "client_msg_id": "11ca99fd-436a-4c3a-83ab-ed4a2b1c4578",
+        "type": "message",
+        "text": "This is the <https:\/\/www.pgcareers.com\/global\/en\/assesment-overviews|page> of the assessment you have to make after applying too",
+        "user": "U03LMGXDFB6",
+        "ts": "1698181028.114239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s6dx1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pgcareers.com\/global\/en\/assesment-overviews",
+                                "text": "page"
+                            },
+                            {
+                                "type": "text",
+                                "text": " of the assessment you have to make after applying too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.phenompeople.com\/CareerConnectResources\/PGBPGNGLOBAL\/social\/1024x512-1678359001570.jpg",
+                "image_width": 1024,
+                "image_height": 512,
+                "image_bytes": 138300,
+                "from_url": "https:\/\/www.pgcareers.com\/global\/en\/assesment-overviews",
+                "service_icon": "https:\/\/cdn.phenompeople.com\/CareerConnectResources\/PGBPGNGLOBAL\/en_global\/desktop\/assets\/images\/h\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.pgcareers.com\/global\/en\/assesment-overviews",
+                "fallback": "Procter &amp; Gamble: Assesment-Overviews | Procter &amp; Gamble",
+                "text": "Assesment-Overviews",
+                "title": "Assesment-Overviews | Procter &amp; Gamble",
+                "title_link": "https:\/\/www.pgcareers.com\/global\/en\/assesment-overviews",
+                "service_name": "Procter &amp; Gamble"
+            }
+        ]
+    }
+]

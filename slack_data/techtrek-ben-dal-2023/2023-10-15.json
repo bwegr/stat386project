@@ -1,0 +1,108 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697403292.347789",
+        "user": "U03L4GP8ZMM",
+        "text": "<@U03L4GP8ZMM> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697423183.313259",
+        "user": "U05BBQFJ056",
+        "text": "<@U05BBQFJ056> has joined the channel"
+    },
+    {
+        "client_msg_id": "08f602a9-f9c6-4a23-955c-9df5f863b1f3",
+        "type": "message",
+        "text": "Does anyone already have hotel plans in Bentonville? It would be fun to stay at the same place.",
+        "user": "U05BBQFJ056",
+        "ts": "1697427506.662919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/XxX3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone already have hotel plans in Bentonville? It would be fun to stay at the same place."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "0114fc285ea5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-13\/5734585427330_0114fc285ea570cdd820_72.png",
+            "first_name": "Jason",
+            "real_name": "Jason Allred",
+            "display_name": "Jason Allred",
+            "team": "T0ZBAEL59",
+            "name": "jasonallred12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F262037B-C74A-4456-9E93-D8478FBF1745",
+        "type": "message",
+        "text": "My suggestion is the Hilton homewood suites in Rogers or the Element hotel.  Both are clean and close to most things. ",
+        "user": "U03PKR5881E",
+        "ts": "1697433594.989599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9FZ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My suggestion is the Hilton homewood suites in Rogers or the Element hotel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Both are clean and close to most things"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

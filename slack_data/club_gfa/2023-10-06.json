@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "1783a405-9e1e-477c-8433-6757de7d965c",
+        "type": "message",
+        "text": "AT&amp;T is holding an info session for their Finance Leadership Development Program Monday, October 9 at 4pm! They are recruiting for both interns and full-time.\n\nThis is a great opportunity for anyone looking to do a corporate finance rotational program at a Fortune 30 company (in Dallas, TX).\n\nThe event is technically virtual, but we are planning to meet in a TNRB classroom with some type of food (details forthcoming).\n\nBoth I and <@U03LXQH03LZ> interned there and are planning to return full-time. We will be at the event to chat with anyone interested.\n\nRegister for the event on Handshake! (especially if you want the link to join virtually)\n\n<https:\/\/byu.joinhandshake.com\/stu\/events\/1393746?ref=events-search>",
+        "user": "U03LXQH9QMP",
+        "ts": "1696629818.158959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VavUX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AT&T is holding an info session for their Finance Leadership Development Program Monday, October 9 at 4pm! They are recruiting for both interns and full-time.\n\nThis is a great opportunity for anyone looking to do a corporate finance rotational program at a Fortune 30 company (in Dallas, TX).\n\nThe event is technically virtual, but we are planning to meet in a TNRB classroom with some type of food (details forthcoming).\n\nBoth I and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LXQH03LZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " interned there and are planning to return full-time. We will be at the event to chat with anyone interested.\n\nRegister for the event on Handshake! (especially if you want the link to join virtually)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.joinhandshake.com\/stu\/events\/1393746?ref=events-search"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cb5054046f89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693679244662_cb5054046f89b6a31324_72.png",
+            "first_name": "Nate",
+            "real_name": "Nate Vance",
+            "display_name": "Nate Vance",
+            "team": "T0ZBAEL59",
+            "name": "nathanvance12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LMGS73J8",
+                    "U05D98WS6FQ",
+                    "U03M8T9G2GY",
+                    "U05DD0R44G5"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "client_msg_id": "8710c644-8846-45b1-afdc-e68752c738f7",
+        "type": "message",
+        "text": "<!channel> I sent the results to Dave for the class schedule. The rest of the schedule will go:\n\n*November 6-Lead Management (Navigating a Career in Corporate)*\n*November 13-Scaling (Navigating a Career as an Entrepreneur)* \n*November 27-Flex Day in case of emergency*\n*December 11-TBD Talk at Dave's House*\n\nThe syllabus is updated. November 27 is just as a flex day in case something comes up on the 6th or 13th.\n\nLet me know if you have questions (but also, you can figure it out :wink:)",
+        "user": "U03LCGM9XML",
+        "ts": "1697657572.677619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0yqGE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I sent the results to Dave for the class schedule. The rest of the schedule will go:\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "November 6-Lead Management (Navigating a Career in Corporate)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "November 13-Scaling (Navigating a Career as an Entrepreneur) ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "November 27-Flex Day in case of emergency",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "December 11-TBD Talk at Dave's House",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThe syllabus is updated. November 27 is just as a flex day in case something comes up on the 6th or 13th.\n\nLet me know if you have questions (but also, you can figure it out "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe4a9879d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Parry",
+            "display_name": "Evan Parry",
+            "team": "T0ZBAEL59",
+            "name": "evanparry13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "call_me_hand",
+                "users": [
+                    "U03UV6770V9",
+                    "U05PQ5BK2R2"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03L4GT3B55"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05PQ5BK2R2"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "B0A704D3-DA77-46C8-8D4B-A5132F3A2750",
+        "type": "message",
+        "text": "OH Blue Lounge til 12",
+        "user": "U03LMGYLSR2",
+        "ts": "1698686269.381989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oTslX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OH Blue Lounge til 12"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

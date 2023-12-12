@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "03b59f5b-a269-467b-8b5c-ee731c93f229",
+        "type": "message",
+        "text": "Hey Christine! Is there a limit to how many 693R (special topics in management) classes we can take?",
+        "user": "U03LK56EXJN",
+        "ts": "1696351728.463919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PgkVj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Christine! Is there a limit to how many 693R (special topics in management) classes we can take?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "f0fa35dd6a38",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-29\/3740115766211_f0fa35dd6a387887760a_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Clement",
+            "display_name": "tanman",
+            "team": "T0ZBAEL59",
+            "name": "scariotjc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696351728.463919",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696470214.553789",
+        "reply_users": [
+            "U05AN3TCTSN"
+        ],
+        "replies": [
+            {
+                "user": "U05AN3TCTSN",
+                "ts": "1696470214.553789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a67295c2-b107-4352-b4da-0f8fa38852ed",
+        "type": "message",
+        "text": "<@U05DFQNU4EP> No we mix things up and you may be in a different section.",
+        "user": "U03AVEWPUQN",
+        "ts": "1696364469.077979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EaK7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05DFQNU4EP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " No we mix things up and you may be in a different section."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1695062986.600989",
+        "parent_user_id": "U03AVEWPUQN"
+    }
+]

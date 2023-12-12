@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "0354a7cf-11b4-4fec-9063-554c9ef70f34",
+        "type": "message",
+        "text": "Ya hour now in the lounge",
+        "user": "U03LK39EPB5",
+        "ts": "1696881573.794779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4rfDH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ya hour now in the lounge"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

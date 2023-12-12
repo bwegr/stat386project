@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "6973BB16-DA51-424D-BF4C-2C15EFF09978",
+        "type": "message",
+        "text": "Maybe they should just put diesel in the cars and cut out the middle man",
+        "user": "U03LGTR0KV3",
+        "ts": "1696805430.884339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UQbSz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe they should just put diesel in the cars and cut out the middle man"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LMGTRFN0",
+                    "U03LK551XFU",
+                    "U03LCGM9XML"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

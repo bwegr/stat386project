@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "BD0A1023-FC72-45A7-9318-18F35461262F",
+        "type": "message",
+        "text": "Everyone, there are sodas and stuff for a soda bar in the free fridge and cabinet. Please feel free to make yourself a dirty soda!",
+        "user": "U03NW11JH19",
+        "ts": "1698251135.618209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r7ns8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Everyone, there are sodas and stuff for a soda bar in the free fridge and cabinet. Please feel free to make yourself a dirty soda!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03L4GT3B55",
+                    "U03LMGYLSR2"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

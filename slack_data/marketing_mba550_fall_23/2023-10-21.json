@@ -1,0 +1,171 @@
+[
+    {
+        "client_msg_id": "124a390c-0c0f-4fe9-9f1e-87a5cc319047",
+        "type": "message",
+        "text": "The <https:\/\/byu.instructure.com\/courses\/22167\/assignments\/801426?wrap=1|BMW case> team assignment doesn't have a due date, but I'm assuming it is this Wednesday before class like the Reagan-Bush assignment, correct?",
+        "user": "U05AN015NSX",
+        "ts": "1697919662.462219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G3lfX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.instructure.com\/courses\/22167\/assignments\/801426?wrap=1",
+                                "text": "BMW case"
+                            },
+                            {
+                                "type": "text",
+                                "text": " team assignment doesn't have a due date, but I'm assuming it is this Wednesday before class like the Reagan-Bush assignment, correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697919662.462219",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697923337.761399",
+        "reply_users": [
+            "U03L57R4HN3",
+            "U05AN015NSX"
+        ],
+        "replies": [
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1697920139.665799"
+            },
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697923337.761399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "F4E9C5EA-5707-49D1-A09E-2E6F6B04DDA2",
+        "type": "message",
+        "text": "Yes, you are correct. Thanks!",
+        "user": "U03L57R4HN3",
+        "ts": "1697920139.665799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tz8uu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, you are correct. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03L57R4HN3",
+            "ts": "1697920152.000000"
+        },
+        "thread_ts": "1697919662.462219",
+        "parent_user_id": "U05AN015NSX",
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1b6ca95-3ffc-4c1a-aaea-da7386926ab9",
+        "type": "message",
+        "text": "Zach got the due date updated.",
+        "user": "U05AN015NSX",
+        "ts": "1697923337.761399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NAsYN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zach got the due date updated."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697919662.462219",
+        "parent_user_id": "U05AN015NSX",
+        "reactions": [
+            {
+                "name": "good-zach",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

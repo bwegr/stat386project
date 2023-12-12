@@ -1,0 +1,148 @@
+[
+    {
+        "client_msg_id": "e2fcaeb8-c164-4b93-a874-da99b4179e55",
+        "type": "message",
+        "text": "<!channel>\n\n:alert: :passenger_ship: :alert: :passenger_ship: :alert:\n\nPlease take this super short survey asap as the survey _*closes tomorrow*_!  To be clear this survey is different and separate from the survey last spring and it _*DOES NOT*_ mean you are 100% committed to going.  If you have any interest at all of going on the cruise please take it as we want to accommodate as many people as possible.  You might be thinking to yourself \"geez a cruise--I'm not going to have money for that but I would sure like to go\" or \"I don't know what I'll be doing then--I might be going on another trip or my wife\/husband\/kids\/girlfriend\/boyfriend\/friends might not be able to go but I would like to go\" then please take the survey!  If you have any interest: take it!  DM me if you have questions!!  #dobeing\n\n<https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_b4n575CNsqUuQM6>",
+        "user": "U03LXQE14NM",
+        "ts": "1696526636.487709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OFqYH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "passenger_ship",
+                                "unicode": "1f6f3-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "passenger_ship",
+                                "unicode": "1f6f3-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPlease take this super short survey asap as the survey "
+                            },
+                            {
+                                "type": "text",
+                                "text": "closes tomorrow",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "!  To be clear this survey is different and separate from the survey last spring and it "
+                            },
+                            {
+                                "type": "text",
+                                "text": "DOES NOT",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " mean you are 100% committed to going.  If you have any interest at all of going on the cruise please take it as we want to accommodate as many people as possible.  You might be thinking to yourself \"geez a cruise--I'm not going to have money for that but I would sure like to go\" or \"I don't know what I'll be doing then--I might be going on another trip or my wife\/husband\/kids\/girlfriend\/boyfriend\/friends might not be able to go but I would like to go\" then please take the survey!  If you have any interest: take it!  DM me if you have questions!!  #dobeing\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_b4n575CNsqUuQM6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc176dbcf62e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_72.jpg",
+            "first_name": "Austin",
+            "real_name": "Austin Schofield",
+            "display_name": "Austin Schofield",
+            "team": "T0ZBAEL59",
+            "name": "schofieldda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_b4n575CNsqUuQM6",
+                "service_icon": "https:\/\/byu.az1.qualtrics.com\/brand-management\/apple-touch-icon",
+                "id": 1,
+                "original_url": "https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_b4n575CNsqUuQM6",
+                "fallback": "Qualtrics Survey | Qualtrics Experience Management",
+                "text": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.",
+                "title": "Qualtrics Survey | Qualtrics Experience Management",
+                "title_link": "https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_b4n575CNsqUuQM6",
+                "service_name": "byu.az1.qualtrics.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "alert",
+                "users": [
+                    "U03NW11JH19",
+                    "U03LK39PKRR",
+                    "U03PKR5GQUQ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "parrotfast",
+                "users": [
+                    "U03NW11JH19",
+                    "U03LK39PKRR",
+                    "U03PKR5GQUQ",
+                    "U03LKPRD403"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

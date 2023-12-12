@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "9693a347-c81d-48fa-b697-5b64a4cbd627",
+        "type": "message",
+        "text": "Can anyone retake the quiz?",
+        "user": "U03LK5295DY",
+        "ts": "1698767421.835089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KE4gd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can anyone retake the quiz?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fc0bdc6645be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-31\/3887605632561_fc0bdc6645be97c3c324_72.png",
+            "first_name": "Allison",
+            "real_name": "Allison Adams",
+            "display_name": "Allison Adams",
+            "team": "T0ZBAEL59",
+            "name": "adamsallison00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698709336.287949",
+        "parent_user_id": "U03LCGM9XML"
+    }
+]

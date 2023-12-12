@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "70A97F7A-34A1-4678-BB9C-83ADAA8BD049",
+        "type": "message",
+        "text": "Office hours for marketing today, 11:30-12:30 in the lounge!",
+        "user": "U03LXQCJA81",
+        "ts": "1697475357.444679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uEqxT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Office hours for marketing today, 11:30-12:30 in the lounge!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0785ba91-5e79-4365-a8fc-2895dbea6610",
+        "type": "message",
+        "text": "Office Hours: Thursday 12-1pm W329",
+        "user": "U03L57R4HN3",
+        "ts": "1697482580.811209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zu1Ym",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Office Hours: Thursday 12-1pm W329"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

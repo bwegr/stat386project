@@ -1,0 +1,199 @@
+[
+    {
+        "client_msg_id": "39A43168-A574-4D90-B43D-41264F7C5AF3",
+        "type": "message",
+        "text": "I’ll be in the lounge for the next 45 mins to help with the problem set!",
+        "user": "U03TVL5QZFA",
+        "ts": "1696437871.496859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fi5Fm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be in the lounge for the next 45 mins to help with the problem set!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05DJBMDG0L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3E940859-C7E0-4A82-BA0B-0A4E5C9F4D99",
+        "type": "message",
+        "text": "And I’m starting my office hours as usual. I’ll be in the lounge for the next hour or so",
+        "user": "U03NW11HA9H",
+        "ts": "1696442422.440539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0xA02",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " starting my office hours as usual"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be in the lounge for the next hour or so"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6a130392200c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4505166801655_6a130392200ca475659a_72.png",
+            "first_name": "Richie",
+            "real_name": "Richie Connolly",
+            "display_name": "Richie Connolly",
+            "team": "T0ZBAEL59",
+            "name": "richardkconnolly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7799666F-F077-4FC0-BE12-13705D9BDD9A",
+        "type": "message",
+        "text": "For the Worldcom case, our team is seeing that the assignment is “missing” under the grades tab on canvas. Except for the team member who submitted it for the team. We just wanted to check that there wasn’t anything we have to do on our end about this.",
+        "user": "U05DFQNU4EP",
+        "ts": "1696449307.636719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BOsVy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the Worldcom case, our team is seeing that the assignment is “missing” under the grades tab on canvas. Except for the team member who submitted it for the team. We just wanted to check that there "
+                            },
+                            {
+                                "type": "text",
+                                "text": "wasn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " anything we have to do on our end about this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe53c672847",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-21\/5455152209798_fbe53c672847250a8ed4_72.png",
+            "first_name": "Hunter",
+            "real_name": "Hunter Blalack",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "blalackhunter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8a66a95d-7f80-41c5-8b47-c6934248d2bf",
+        "type": "message",
+        "text": "No issue there. We should have the submission from the team member which is all that’s needed for everyone to get a grade.",
+        "user": "U03TVL5QZFA",
+        "ts": "1696452686.668639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d8Wu8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No issue there. We should have the submission from the team member which is all that’s needed for everyone to get a grade."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

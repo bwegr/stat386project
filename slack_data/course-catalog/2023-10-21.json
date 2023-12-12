@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "BB02963D-84F7-4C34-A5D0-E74918B11060",
+        "type": "message",
+        "text": "Oh and there’s also a big group project where you help a real company and make proposals. If I remember right they choose which team was the best",
+        "user": "U0171LYGQ2U",
+        "ts": "1697943729.263899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s2nuk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " also a big group project where you help a real company and make proposals. If I remember right they choose which team was the best"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "05c7c35bc546",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6059841394263_05c7c35bc546fcdc9ca9_72.png",
+            "first_name": "Kim",
+            "real_name": "Kim Taylor",
+            "display_name": "Kim Taylor",
+            "team": "T0ZBAEL59",
+            "name": "kimberly.tamo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697125384.093819",
+        "parent_user_id": "U03L4GP8ZMM"
+    }
+]

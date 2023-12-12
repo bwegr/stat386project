@@ -1,0 +1,46 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Provo YSA 31st Ward* has joined this channel by invitation from *BYU MBA*.",
+        "ts": "1698766150.179209",
+        "user": "USLACKBOT",
+        "username": "slackbot",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ve2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Provo YSA 31st Ward",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " has joined this channel by invitation from "
+                            },
+                            {
+                                "type": "text",
+                                "text": "BYU MBA",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59"
+    }
+]

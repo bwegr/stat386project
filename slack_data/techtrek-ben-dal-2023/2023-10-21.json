@@ -1,0 +1,113 @@
+[
+    {
+        "client_msg_id": "16c27b18-93be-4904-afd8-9940f0f2c06b",
+        "type": "message",
+        "text": "<!channel> Hey Everyone, Walmart\/Sams emailed me on Monday asking if we could give them a list of topics\/questions that you would be interested in having answered by a panel of Sr. Directors\/Vice Presidents.  The panel will be made up of BYU alum (not all MBA alum).  Please submit your topics\/questions on this thread.  I posted this earlier but did not get a response.  All the help I can get would be greatly appreciated.  Thanks everyone!",
+        "user": "U03PKR5881E",
+        "ts": "1697918437.675079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tJcBz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hey Everyone, Walmart\/Sams emailed me on Monday asking if we could give them a list of topics\/questions that you would be interested in having answered by a panel of Sr. Directors\/Vice Presidents.  The panel will be made up of BYU alum (not all MBA alum).  Please submit your topics\/questions on this thread.  I posted this earlier but did not get a response.  All the help I can get would be greatly appreciated.  Thanks everyone!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918437.675079",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1698079462.228249",
+        "reply_users": [
+            "U03LN7VEH2Q",
+            "U05BBQFJ056",
+            "U03LXQFQS3B"
+        ],
+        "replies": [
+            {
+                "user": "U03LN7VEH2Q",
+                "ts": "1697937792.574299"
+            },
+            {
+                "user": "U05BBQFJ056",
+                "ts": "1698075370.923069"
+            },
+            {
+                "user": "U03LXQFQS3B",
+                "ts": "1698079462.228249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "826d9b4a-3480-4478-8514-5ef770caae38",
+        "type": "message",
+        "text": "Thanks Melissa! I'll bite. Here's a couple of questions:\n\nHow does Walmart envision the future of their physical stores in an increasingly digital world?\n\nDuring your career at Walmart, what has stood out to you compared to other companies you've worked for?",
+        "user": "U03LN7VEH2Q",
+        "ts": "1697937792.574299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mLQNL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Melissa! I'll bite. Here's a couple of questions:\n\nHow does Walmart envision the future of their physical stores in an increasingly digital world?\n\nDuring your career at Walmart, what has stood out to you compared to other companies you've worked for?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "570a5ee5159b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-26\/3990981453590_570a5ee5159b9d093a84_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Peterson",
+            "display_name": "Sam Peterson",
+            "team": "T0ZBAEL59",
+            "name": "samuel.peterson324",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LN7VEH2Q",
+            "ts": "1697937800.000000"
+        },
+        "thread_ts": "1697918437.675079",
+        "parent_user_id": "U03PKR5881E"
+    }
+]

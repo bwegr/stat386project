@@ -1,0 +1,320 @@
+[
+    {
+        "client_msg_id": "649c0f0b-afd3-4b8d-9bf0-c248520fbe5a",
+        "type": "message",
+        "text": "<!channel> Hello Lovely WIM,\nI am looking for a 2nd year who could go on an MBA recruiting lunch with Hyrum Dean on Thursday. Every Tuesday and Thursday we have prospective MBA students come and have lunch and then attend a core class. This Thursday we have 4 people and need someone to help out. Any takers? Its a free lunch! And Hyrum is the best to work with.",
+        "user": "U03L4GT3B55",
+        "ts": "1697573617.905749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aQhly",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hello Lovely WIM,\nI am looking for a 2nd year who could go on an MBA recruiting lunch with Hyrum Dean on Thursday. Every Tuesday and Thursday we have prospective MBA students come and have lunch and then attend a core class. This Thursday we have 4 people and need someone to help out. Any takers? Its a free lunch! And Hyrum is the best to work with."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697573617.905749",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1697573777.147109",
+        "reply_users": [
+            "U03LCGQCM2S",
+            "U03L4GT3B55"
+        ],
+        "replies": [
+            {
+                "user": "U03LCGQCM2S",
+                "ts": "1697573681.904759"
+            },
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1697573703.669669"
+            },
+            {
+                "user": "U03LCGQCM2S",
+                "ts": "1697573726.988969"
+            },
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1697573738.673549"
+            },
+            {
+                "user": "U03LCGQCM2S",
+                "ts": "1697573769.041889"
+            },
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1697573777.147109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c0f9b425-2f08-4866-92bc-defed4494526",
+        "type": "message",
+        "text": "I can do this Thursday for lunch",
+        "user": "U03LCGQCM2S",
+        "ts": "1697573681.904759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o4c5m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can do this Thursday for lunch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "gacc00d45238",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/acc00d45238a6ceb3a20d35313d42684.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Christina",
+            "real_name": "Christina Yadan Zhang",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "christinaydz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697573617.905749",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "7553be12-fdac-490e-8516-1ce72ddb2638",
+        "type": "message",
+        "text": "12:30-2:00? That would be awesome!",
+        "user": "U03L4GT3B55",
+        "ts": "1697573703.669669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPXaH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12:30-2:00? That would be awesome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697573617.905749",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "050276d8-92e4-45d1-9c61-cff10a485b76",
+        "type": "message",
+        "text": "I have class at 2, so I'd have to leave a bit earlier than 2",
+        "user": "U03LCGQCM2S",
+        "ts": "1697573726.988969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rM6oP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have class at 2, so I'd have to leave a bit earlier than 2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "gacc00d45238",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/acc00d45238a6ceb3a20d35313d42684.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Christina",
+            "real_name": "Christina Yadan Zhang",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "christinaydz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697573617.905749",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "893082b1-b657-4b1f-85f0-2e765cdc7131",
+        "type": "message",
+        "text": "That's ok. Hyrum can take them to the core class.",
+        "user": "U03L4GT3B55",
+        "ts": "1697573738.673549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d3mUk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's ok. Hyrum can take them to the core class."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697573617.905749",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "11ae019b-746e-49f6-850e-772d5e25ac5a",
+        "type": "message",
+        "text": "Ok, that works",
+        "user": "U03LCGQCM2S",
+        "ts": "1697573769.041889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r9hrH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, that works"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "gacc00d45238",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/acc00d45238a6ceb3a20d35313d42684.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Christina",
+            "real_name": "Christina Yadan Zhang",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "christinaydz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697573617.905749",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "94126915-5592-4065-8f0e-f7cc29d6a5dd",
+        "type": "message",
+        "text": "Thank you so much!",
+        "user": "U03L4GT3B55",
+        "ts": "1697573777.147109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+mub\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697573617.905749",
+        "parent_user_id": "U03L4GT3B55"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "ade74e15-f07d-45f0-87c2-6a9cb18d0e6e",
+        "type": "message",
+        "text": "Hey guy, I still need housing. I'm looking for a place with 2 bedrooms. Let me know if something comes up pls",
+        "user": "U03M8T6EJ8G",
+        "ts": "1696634641.756439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JK75b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guy, I still need housing. I'm looking for a place with 2 bedrooms. Let me know if something comes up pls"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4dad93fa6dcf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-27\/5491285165794_4dad93fa6dcf57d01702_72.png",
+            "first_name": "Glenn",
+            "real_name": "Glenn Davalos",
+            "display_name": "Glenn Davalos",
+            "team": "T0ZBAEL59",
+            "name": "glenndavalos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

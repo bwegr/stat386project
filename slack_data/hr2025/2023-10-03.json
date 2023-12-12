@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "a29ed1c9-b366-4383-ae80-4b92ef7b97bb",
+        "type": "message",
+        "text": "Hey folks, just a quick note that Microsoft has a rotation program and their HR internship application is open (more info available on the Microsoft website). Also Melaleuca confirmed they now have an HR internship position (see Handshake for the Melaleuca info session today at 5:15pm).",
+        "user": "U05D1CFKBJT",
+        "ts": "1696352438.652299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1nIW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks, just a quick note that Microsoft has a rotation program and their HR internship application is open (more info available on the Microsoft website). Also Melaleuca confirmed they now have an HR internship position (see Handshake for the Melaleuca info session today at 5:15pm)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "gbc762b623c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc762b623c581cba60152df02c654492.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Tricia",
+            "real_name": "Tricia Allen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "triciatallen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U05BBQFJ056",
+                    "U05MZL07Q78"
+                ],
+                "count": 2
+            },
+            {
+                "name": "crown",
+                "users": [
+                    "U05BBQFJ056"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

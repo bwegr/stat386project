@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "bfd10ff2-8be9-4441-aca4-4fd2868e18dc",
+        "type": "message",
+        "text": "Hi all, the Think Tank will have its first meeting next Friday, November 3rd at 2:00 p.m. in TNRB 220.\nIf you have a tech idea put together your \"pitch deck\" (or a quick PowerPoint to help us visualize the actual idea\/product\/service), if you have a product then bring an MVP with your pitch deck, or if you're still in the idea phase without a deck or actual product then you can share your idea and we can work with what you have. Also, there are several individuals who don't have their own business ideas but want to be a part of the exciting creation and discovery phases of an early business and they will be a part of the group.\n\nPlease reach out if you have any questions before the first meeting next Friday. Also, everyone is invited, this isn't exclusive. Looking forward to seeing you all next week!",
+        "user": "U05A7HE5MTR",
+        "ts": "1698097035.390439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ywcuj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, the Think Tank will have its first meeting next Friday, November 3rd at 2:00 p.m. in TNRB 220.\nIf you have a tech idea put together your \"pitch deck\" (or a quick PowerPoint to help us visualize the actual idea\/product\/service), if you have a product then bring an MVP with your pitch deck, or if you're still in the idea phase without a deck or actual product then you can share your idea and we can work with what you have. Also, there are several individuals who don't have their own business ideas but want to be a part of the exciting creation and discovery phases of an early business and they will be a part of the group.\n\nPlease reach out if you have any questions before the first meeting next Friday. Also, everyone is invited, this isn't exclusive. Looking forward to seeing you all next week!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b0900f26836f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-10\/5556172828691_b0900f26836f20675362_72.png",
+            "first_name": "Joseph",
+            "real_name": "Joseph Pennington",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jsp3brasil",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "eb5cb023-1851-4bfa-94ac-9e14750c93e7",
+        "type": "message",
+        "text": "<@U05B0NHD3LZ> I am interested!",
+        "user": "U05B0NFQNHX",
+        "ts": "1697387221.726779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w9Q\/c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05B0NHD3LZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am interested!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d33eedf2164a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-08\/5873391491924_d33eedf2164ac42f5b07_72.png",
+            "first_name": "Altyn",
+            "real_name": "Altyn Zhekey",
+            "display_name": "Altyn Zhekey",
+            "team": "T0ZBAEL59",
+            "name": "altannur.jyekyei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

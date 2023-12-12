@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "7839C52C-818A-4D5E-AAB8-525372FFDF90",
+        "type": "message",
+        "text": "Hi Brittany, can other tracks join?",
+        "user": "U05B0NHGDG9",
+        "ts": "1698116914.723989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a\/bLL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Brittany, can other tracks join?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6aef7af62a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-13\/5893313366019_6aef7af62a81961b3c25_72.png",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Castro",
+            "display_name": "Hyrum Castro",
+            "team": "T0ZBAEL59",
+            "name": "castrohyrums",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697777380.824809",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "client_msg_id": "FAB3E125-CDE2-4F78-A03D-0BD67F349E12",
+        "type": "message",
+        "text": "<@U05B0NHGDG9> Sure.",
+        "user": "U03L57R4HN3",
+        "ts": "1698119788.747619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gtWFC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05B0NHGDG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sure."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697777380.824809",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "client_msg_id": "5e7ad80c-cfb7-4b14-ba1b-317a823ad7b0",
+        "type": "message",
+        "text": "thank you Brittany!",
+        "user": "U05B0NHGDG9",
+        "ts": "1698119806.938859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BOS9W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you Brittany!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6aef7af62a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-13\/5893313366019_6aef7af62a81961b3c25_72.png",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Castro",
+            "display_name": "Hyrum Castro",
+            "team": "T0ZBAEL59",
+            "name": "castrohyrums",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697777380.824809",
+        "parent_user_id": "U03L57R4HN3"
+    }
+]

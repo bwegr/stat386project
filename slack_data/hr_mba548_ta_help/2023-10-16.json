@@ -1,0 +1,324 @@
+[
+    {
+        "client_msg_id": "e586eb9b-9f76-433c-9896-3f96f5f06d68",
+        "type": "message",
+        "text": "Hey guys! We are having difficulty dialing in on what to attack for our clients &amp; what to include in the engagement letter. Do any TAs have hours today or tomorrow to chat? :heart_hands::skin-tone-3:",
+        "user": "U05GZPFH7SA",
+        "ts": "1697467680.993699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YXBBq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys! We are having difficulty dialing in on what to attack for our clients & what to include in the engagement letter. Do any TAs have hours today or tomorrow to chat? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6-1f3fc",
+                                "skin_tone": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2b948b9ac7ab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-24\/5793748341381_2b948b9ac7ab18f4c292_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Johnson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "tylerkennethjohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467680.993699",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1697475631.234089",
+        "reply_users": [
+            "U03LK3D5N2X",
+            "U05GZPFH7SA"
+        ],
+        "replies": [
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1697471247.025289"
+            },
+            {
+                "user": "U05GZPFH7SA",
+                "ts": "1697475573.736669"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1697475612.610829"
+            },
+            {
+                "user": "U05GZPFH7SA",
+                "ts": "1697475631.234089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b656e540-4298-4ab7-92e6-70a44477788d",
+        "type": "message",
+        "text": "<@U05GZPFH7SA> - I've got some time between 12-12:30 tomorrow?",
+        "user": "U03LK56AUHG",
+        "ts": "1697470535.840029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eJq3H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05GZPFH7SA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I've got some time between 12-12:30 tomorrow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "31bde1eb93cb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3961752105911_31bde1eb93cb41b675c1_72.jpg",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Dowdy",
+            "display_name": "Benjamin",
+            "team": "T0ZBAEL59",
+            "name": "dowdy.benjamin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f725db6b-1e42-480d-8e99-4f385759b410",
+        "type": "message",
+        "text": "I've got time between 11-2 today as well",
+        "user": "U03LK3D5N2X",
+        "ts": "1697471247.025289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OOMl+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've got time between 11-2 today as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467680.993699",
+        "parent_user_id": "U05GZPFH7SA"
+    },
+    {
+        "client_msg_id": "C2F16558-BE05-49EF-9422-18D0136B0669",
+        "type": "message",
+        "text": "<@U03LK3D5N2X> that’d be awesome! Where can we find you?",
+        "user": "U05GZPFH7SA",
+        "ts": "1697475573.736669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KNupK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK3D5N2X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "that’d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be awesome! Where can we find you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2b948b9ac7ab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-24\/5793748341381_2b948b9ac7ab18f4c292_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Johnson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "tylerkennethjohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467680.993699",
+        "parent_user_id": "U05GZPFH7SA"
+    },
+    {
+        "client_msg_id": "86d20fdf-37bc-4ea2-a623-7cc8c3f078dd",
+        "type": "message",
+        "text": "I'll be in the lounge in about 5 min, does that work?",
+        "user": "U03LK3D5N2X",
+        "ts": "1697475612.610829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YFWKe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll be in the lounge in about 5 min, does that work?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467680.993699",
+        "parent_user_id": "U05GZPFH7SA"
+    },
+    {
+        "client_msg_id": "C59316E8-F4C7-49CA-9469-320FF0A431A4",
+        "type": "message",
+        "text": "You rock. That’s perfect :pray::skin-tone-3: :pray::skin-tone-3: ",
+        "user": "U05GZPFH7SA",
+        "ts": "1697475631.234089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MOw3U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You rock"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "That’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " perfect "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fc",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fc",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2b948b9ac7ab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-24\/5793748341381_2b948b9ac7ab18f4c292_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Johnson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "tylerkennethjohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697467680.993699",
+        "parent_user_id": "U05GZPFH7SA"
+    }
+]

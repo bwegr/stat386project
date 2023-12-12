@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "2cf1676e-f881-4605-91fa-51d0f9575b56",
+        "type": "message",
+        "text": "Where would I find the link to the coursepack for the TenAlpina cases?",
+        "user": "U03LG78FBEZ",
+        "ts": "1696369268.881189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Vvbp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where would I find the link to the coursepack for the TenAlpina cases?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c31733cc8cef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-26\/4705931795428_c31733cc8cef77a6879c_72.png",
+            "first_name": "Brady",
+            "real_name": "Brady Mitchell",
+            "display_name": "Brady Mitchell",
+            "team": "T0ZBAEL59",
+            "name": "brady.mitchell13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696369268.881189",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696517350.486549",
+        "reply_users": [
+            "U03LK39EPB5"
+        ],
+        "replies": [
+            {
+                "user": "U03LK39EPB5",
+                "ts": "1696517350.486549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

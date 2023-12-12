@@ -1,0 +1,166 @@
+[
+    {
+        "client_msg_id": "99C09CBE-ACD9-48E8-8321-BBDF919B2F9F",
+        "type": "message",
+        "text": "I would love to be there! Are we sure that it’s ok for men to participate as well? I don’t want to be insensitive or take a spot that wasn’t meant for me. ",
+        "user": "U05A7HC8FF1",
+        "ts": "1696347557.808579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wlfjj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would love to be there! Are we sure that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ok for men to participate as well? I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " want to be insensitive or take a spot that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "wasn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " meant for me"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e82375f9477a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-10\/5557118263475_e82375f9477a060fd30d_72.png",
+            "first_name": "Kimball",
+            "real_name": "Kimball Palmer",
+            "display_name": "Kimball Palmer",
+            "team": "T0ZBAEL59",
+            "name": "kimball.palm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696305277.553369",
+        "parent_user_id": "U03LK52VCQ2"
+    },
+    {
+        "type": "message",
+        "text": "<@U05A7HC8FF1> Great question! YES!  See screenshot of email from Shawna: \"all are welcome\"",
+        "files": [
+            {
+                "id": "F05V2308VQC",
+                "created": 1696357482,
+                "timestamp": 1696357482,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LK52VCQ2",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 34738,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V2308VQC\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V2308VQC\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2308VQC-4b420a8055\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2308VQC-4b420a8055\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2308VQC-4b420a8055\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 142,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2308VQC-4b420a8055\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 189,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2308VQC-4b420a8055\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2308VQC-4b420a8055\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 284,
+                "original_w": 738,
+                "original_h": 291,
+                "thumb_tiny": "AwASADDQo5pQeeop2R60ANAowadRQA3BpRkUtFAERJz1pMnPXtSnr+NJ\/hQAZOepqYdKh71MOgoAKKKKAP\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK52VCQ2\/F05V2308VQC\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05V2308VQC-1b75916d79",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LK52VCQ2",
+        "display_as_bot": false,
+        "team": "T0ZBAEL59",
+        "ts": "1696357504.755299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4s2jq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05A7HC8FF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Great question! YES!  See screenshot of email from Shawna: \"all are welcome\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8f98ee57-eda6-48dd-bd23-cedf61b59d3c",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696305277.553369",
+        "parent_user_id": "U03LK52VCQ2"
+    }
+]

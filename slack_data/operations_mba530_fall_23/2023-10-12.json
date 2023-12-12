@@ -1,0 +1,581 @@
+[
+    {
+        "client_msg_id": "48DF1E2E-06B9-460B-AA1D-3E97CA3D07CC",
+        "type": "message",
+        "text": "OH in lounge",
+        "user": "U03M8TBLWTA",
+        "ts": "1697124737.744889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RicqY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OH in lounge"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "1d4607decfc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3988998567393_1d4607decfc49118e4e0_72.png",
+            "first_name": "Collin",
+            "real_name": "Collin Pope",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "collinpope123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4F3640CE-6906-4254-9279-173960BA0A12",
+        "type": "message",
+        "text": "My OH will be canceled today (sick). Slack me with questions",
+        "user": "U03LMGYLSR2",
+        "ts": "1697127497.230399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TOdIg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My OH will be canceled today (sick)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Slack me with questions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "13A14A37-CCE4-4427-97D1-D664A0459633",
+        "type": "message",
+        "text": "What is the Ops case for Monday? Dan has not posted it yet ",
+        "user": "U05BBQDD9DW",
+        "ts": "1697131139.479149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B+OqQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What is the Ops case for Monday? Dan has not posted it yet "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "ccd74c4d45f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5356386085606_ccd74c4d45f4a5c62dcf_72.jpg",
+            "first_name": "Preston",
+            "real_name": "Preston Miller",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "prestonm.blue",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5725f6a2-e335-4095-b168-dcce97fa0a0a",
+        "type": "message",
+        "text": "Did the recording of the session ever get posted?",
+        "user": "U05D98WS6FQ",
+        "ts": "1697150624.334509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tXl5z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did the recording of the session ever get posted?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "bf599ccf5e03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-30\/5822107966326_bf599ccf5e03b3d455b4_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Adams",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ekaj101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696978790.342339",
+        "parent_user_id": "U05B0NGPZTK"
+    },
+    {
+        "client_msg_id": "2958218c-ad0e-4b78-9cde-a471b360b9f9",
+        "type": "message",
+        "text": "<@U05D98WS6FQ> I haven't seen anything. The Zoom link was created in Professor Snow's account",
+        "user": "U05AN015NSX",
+        "ts": "1697151357.436369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yGin3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05D98WS6FQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I haven't seen anything. The Zoom link was created in Professor Snow's account"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696978790.342339",
+        "parent_user_id": "U05B0NGPZTK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05D98WS6FQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3ec6e8a-31ad-4c46-8bdd-eefbcc134e49",
+        "type": "message",
+        "text": "Hey everyone! I can't find the recording for the midterm review. Does anyone know where to track that down?",
+        "user": "U05GZPFH7SA",
+        "ts": "1697152858.929379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2S2rB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! I can't find the recording for the midterm review. Does anyone know where to track that down?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2b948b9ac7ab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-24\/5793748341381_2b948b9ac7ab18f4c292_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Johnson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "tylerkennethjohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697152858.929379",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1697174586.164649",
+        "reply_users": [
+            "U05AN015NSX",
+            "U03LMGYLSR2",
+            "U05GZPFH7SA",
+            "U05A7HE11LP"
+        ],
+        "replies": [
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697152949.022029"
+            },
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1697156311.964289"
+            },
+            {
+                "user": "U05GZPFH7SA",
+                "ts": "1697157853.195069"
+            },
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1697172693.640349"
+            },
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1697174467.299079"
+            },
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1697174586.164649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "874d384f-3594-4358-94ed-ce595ceda003",
+        "type": "message",
+        "text": "It was created in Professor Snow's Zoom account. So, <@U03LMGYLSR2> is reaching out to him to get the recording link.",
+        "user": "U05AN015NSX",
+        "ts": "1697152949.022029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s5uBw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It was created in Professor Snow's Zoom account. So, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LMGYLSR2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is reaching out to him to get the recording link."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697152858.929379",
+        "parent_user_id": "U05GZPFH7SA"
+    },
+    {
+        "client_msg_id": "4731DB49-5F29-427B-A74F-B8CED63C967C",
+        "type": "message",
+        "text": "The recording didn’t go work properly apparently. Dan said that they just went through the slides that are posted! ",
+        "user": "U03LMGYLSR2",
+        "ts": "1697156311.964289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Hrq7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The recording "
+                            },
+                            {
+                                "type": "text",
+                                "text": "didn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " go work properly apparently"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Dan said that they just went through the slides that are posted! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697152858.929379",
+        "parent_user_id": "U05GZPFH7SA"
+    },
+    {
+        "client_msg_id": "0ac835f7-2aa4-4dcb-904b-a31a5ca53a6a",
+        "type": "message",
+        "text": "Awesome, thanks <@U03LMGYLSR2>",
+        "user": "U05GZPFH7SA",
+        "ts": "1697157853.195069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NgojI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LMGYLSR2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2b948b9ac7ab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-24\/5793748341381_2b948b9ac7ab18f4c292_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Johnson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "tylerkennethjohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697152858.929379",
+        "parent_user_id": "U05GZPFH7SA"
+    },
+    {
+        "client_msg_id": "04bddfa4-c73f-4a0c-9b31-b03cb9e09c6e",
+        "type": "message",
+        "text": "\"awesome\" he says LOL",
+        "user": "U03LMGYLSR2",
+        "ts": "1697172693.640349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sWb0k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"awesome\" he says LOL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697152858.929379",
+        "parent_user_id": "U05GZPFH7SA",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U05AN015NSX",
+                    "U05A7HE11LP",
+                    "U05BBQEJNTA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8626a7e0-fc27-483f-a1b9-9fbeba2a4741",
+        "type": "message",
+        "text": "“Awesome” \/ “good luck with my life”",
+        "user": "U05A7HE11LP",
+        "ts": "1697174467.299079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNRIS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“Awesome” \/ “good luck with my life”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697152858.929379",
+        "parent_user_id": "U05GZPFH7SA"
+    },
+    {
+        "client_msg_id": "7936c63b-fb37-4e7b-9a08-14f4431165fb",
+        "type": "message",
+        "text": "tyler did you get a chance to go through it with your group? was anyone from your group present? If not I can do my best to fill you in! I mean, Adam would probably be more helpful, since… TA",
+        "user": "U05A7HE11LP",
+        "ts": "1697174586.164649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6YkXg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tyler did you get a chance to go through it with your group? was anyone from your group present? If not I can do my best to fill you in! I mean, Adam would probably be more helpful, since… TA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697152858.929379",
+        "parent_user_id": "U05GZPFH7SA",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LMGYLSR2"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

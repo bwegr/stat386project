@@ -1,0 +1,457 @@
+[
+    {
+        "client_msg_id": "371be84a-83da-4228-b82c-ac2519b39128",
+        "type": "message",
+        "text": "Hi Everybody! Quick question, does anybody celebrate Halloween or something similar (like Dia de los Muertos) in your countries?",
+        "user": "U03LMGXDFB6",
+        "ts": "1698278665.107139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vDEe5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Everybody! Quick question, does anybody celebrate Halloween or something similar (like Dia de los Muertos) in your countries?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698278665.107139",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1698285119.670699",
+        "reply_users": [
+            "U03LXQBTQJV",
+            "U03LMGXDFB6",
+            "U03LMGX6W1J"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQBTQJV",
+                "ts": "1698281445.432829"
+            },
+            {
+                "user": "U03LMGXDFB6",
+                "ts": "1698281529.506599"
+            },
+            {
+                "user": "U03LXQBTQJV",
+                "ts": "1698281540.705029"
+            },
+            {
+                "user": "U03LMGX6W1J",
+                "ts": "1698282863.096539"
+            },
+            {
+                "user": "U03LMGXDFB6",
+                "ts": "1698283556.432069"
+            },
+            {
+                "user": "U03LMGX6W1J",
+                "ts": "1698284180.028369"
+            },
+            {
+                "user": "U03LMGX6W1J",
+                "ts": "1698284224.285779"
+            },
+            {
+                "user": "U03LMGXDFB6",
+                "ts": "1698285119.670699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3e54061b-9043-49d3-b86d-adb86ba642da",
+        "type": "message",
+        "text": "Canada celebrates Halloween",
+        "user": "U03LXQBTQJV",
+        "ts": "1698281445.432829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "grSXu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Canada celebrates Halloween"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bf2ea7282f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-09\/4072671444257_7bf2ea7282f5542e95db_72.jpg",
+            "first_name": "Ben",
+            "real_name": "Ben Nzojibwami",
+            "display_name": "Ben Nzojibwami",
+            "team": "T0ZBAEL59",
+            "name": "benjamin.nzojibwami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698278665.107139",
+        "parent_user_id": "U03LMGXDFB6"
+    },
+    {
+        "client_msg_id": "4f667c38-505a-4cb0-b452-b58dd976a980",
+        "type": "message",
+        "text": "Is the decoration in Canada for Halloween different from the one here?",
+        "user": "U03LMGXDFB6",
+        "ts": "1698281529.506599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "92QAE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is the decoration in Canada for Halloween different from the one here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698278665.107139",
+        "parent_user_id": "U03LMGXDFB6"
+    },
+    {
+        "client_msg_id": "bb98a252-92e2-49df-815c-04e76d1debfd",
+        "type": "message",
+        "text": "Same",
+        "user": "U03LXQBTQJV",
+        "ts": "1698281540.705029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "70bSz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bf2ea7282f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-09\/4072671444257_7bf2ea7282f5542e95db_72.jpg",
+            "first_name": "Ben",
+            "real_name": "Ben Nzojibwami",
+            "display_name": "Ben Nzojibwami",
+            "team": "T0ZBAEL59",
+            "name": "benjamin.nzojibwami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698278665.107139",
+        "parent_user_id": "U03LMGXDFB6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LMGXDFB6",
+                    "U03LXQCEVKK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BAD31410-CC7B-48E1-BF04-7E87D460DDA4",
+        "type": "message",
+        "text": "We have Halloween but we don’t celebrate it like they do here in us ",
+        "user": "U03LMGX6W1J",
+        "ts": "1698282863.096539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P6SyN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have Halloween but we "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " celebrate it like they do here in us "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "af8409e31c70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-20\/5146521465492_af8409e31c707fc84cb1_72.jpg",
+            "first_name": "Gabriel",
+            "real_name": "Gabriel Henrique Zacheu",
+            "display_name": "Gabriel Zacheu",
+            "team": "T0ZBAEL59",
+            "name": "gabrielzacheu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698278665.107139",
+        "parent_user_id": "U03LMGXDFB6"
+    },
+    {
+        "client_msg_id": "118B7C0F-0A21-4F05-8D0E-DC32CABD38DF",
+        "type": "message",
+        "text": "How do you celebrate it instead?",
+        "user": "U03LMGXDFB6",
+        "ts": "1698283556.432069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4sA+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How do you celebrate it instead?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698278665.107139",
+        "parent_user_id": "U03LMGXDFB6"
+    },
+    {
+        "client_msg_id": "B9BE5C10-CFF7-4F83-BD93-16606A6258B2",
+        "type": "message",
+        "text": "Some people wil have some decoration, but I would say majority won’t do anything hahah",
+        "user": "U03LMGX6W1J",
+        "ts": "1698284180.028369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IFsap",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Some people wil have some decoration, but I would say majority "
+                            },
+                            {
+                                "type": "text",
+                                "text": "won’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do anything hahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "af8409e31c70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-20\/5146521465492_af8409e31c707fc84cb1_72.jpg",
+            "first_name": "Gabriel",
+            "real_name": "Gabriel Henrique Zacheu",
+            "display_name": "Gabriel Zacheu",
+            "team": "T0ZBAEL59",
+            "name": "gabrielzacheu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698278665.107139",
+        "parent_user_id": "U03LMGXDFB6"
+    },
+    {
+        "client_msg_id": "357F3DC5-63AA-47D4-9529-761C9F02819D",
+        "type": "message",
+        "text": "We’ll have some things in kids schools and church ",
+        "user": "U03LMGX6W1J",
+        "ts": "1698284224.285779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gOfgl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have some things in kids schools and church "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "af8409e31c70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-20\/5146521465492_af8409e31c707fc84cb1_72.jpg",
+            "first_name": "Gabriel",
+            "real_name": "Gabriel Henrique Zacheu",
+            "display_name": "Gabriel Zacheu",
+            "team": "T0ZBAEL59",
+            "name": "gabrielzacheu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698278665.107139",
+        "parent_user_id": "U03LMGXDFB6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LMGXDFB6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44EAA4FD-C79A-4C0F-A0B6-7DF26121B058",
+        "type": "message",
+        "text": "Thank you Gabriel!",
+        "user": "U03LMGXDFB6",
+        "ts": "1698285119.670699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MNNjh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you Gabriel!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698278665.107139",
+        "parent_user_id": "U03LMGXDFB6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LMGX6W1J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

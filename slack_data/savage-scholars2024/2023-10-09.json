@@ -1,0 +1,147 @@
+[
+    {
+        "client_msg_id": "2d4b1e3f-1371-47d0-a322-6aa2d86bb47e",
+        "type": "message",
+        "text": "Hi international students! I went down to chase up my CPT today and they hadn't even looked at it yet. I recommend you all do the same (they said you have to go down yourself, they wouldn't let me just fast track all of them) but if you tell them you submitted it a while ago and ask them to fast track it I think we might be able to get the forms in the next few days",
+        "user": "U03LK39EPB5",
+        "ts": "1696885752.764239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2SZ0P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi international students! I went down to chase up my CPT today and they hadn't even looked at it yet. I recommend you all do the same (they said you have to go down yourself, they wouldn't let me just fast track all of them) but if you tell them you submitted it a while ago and ask them to fast track it I think we might be able to get the forms in the next few days"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696885752.764239",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696889208.073429",
+        "reply_users": [
+            "U03LG779KGD"
+        ],
+        "replies": [
+            {
+                "user": "U03LG779KGD",
+                "ts": "1696889208.073429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LK551XFU",
+                    "U03LMGX6W1J"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca180de1-2586-4793-9b42-d49881f01985",
+        "type": "message",
+        "text": "Good to know!!!I received an email, saying my is ready. I will definitely go down and check",
+        "user": "U03LG779KGD",
+        "ts": "1696889208.073429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5YX6q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good to know!!!I received an email, saying my is ready. I will definitely go down and check"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4c81f56cddb5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4055541249281_4c81f56cddb58a01ad12_72.jpg",
+            "first_name": "Marcos",
+            "real_name": "Marcos Orfila",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mmarcosgoog",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696885752.764239",
+        "parent_user_id": "U03LK39EPB5"
+    },
+    {
+        "client_msg_id": "f22075bc-2c0c-4562-bf22-bb16f0d4d113",
+        "type": "message",
+        "text": "<!channel> Hey everyone! Sorry for the late reminder, but we will be meeting tomorrow at 5pm (normal class time). See you then!",
+        "user": "U03LN7VEH2Q",
+        "ts": "1696911660.615719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dEdWs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hey everyone! Sorry for the late reminder, but we will be meeting tomorrow at 5pm (normal class time). See you then!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "570a5ee5159b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-26\/3990981453590_570a5ee5159b9d093a84_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Peterson",
+            "display_name": "Sam Peterson",
+            "team": "T0ZBAEL59",
+            "name": "samuel.peterson324",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

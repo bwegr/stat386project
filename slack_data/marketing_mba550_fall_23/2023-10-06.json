@@ -1,0 +1,526 @@
+[
+    {
+        "type": "message",
+        "text": "Anybody else getting this message when they try to launch StratSim now that another period has ended?",
+        "files": [
+            {
+                "id": "F05V9RU8Z54",
+                "created": 1696595829,
+                "timestamp": 1696595829,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05A7HEQV71",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 228443,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V9RU8Z54\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V9RU8Z54\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9RU8Z54-d9a8c3459c\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9RU8Z54-d9a8c3459c\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9RU8Z54-d9a8c3459c\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 205,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9RU8Z54-d9a8c3459c\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 273,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9RU8Z54-d9a8c3459c\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9RU8Z54-d9a8c3459c\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 410,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9RU8Z54-d9a8c3459c\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 455,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9RU8Z54-d9a8c3459c\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 546,
+                "original_w": 1007,
+                "original_h": 573,
+                "thumb_tiny": "AwAbADC2ZVycTIB6E0obIyJVNVzZyAkKTjt0p8cEq8Y4zz0p2FckL7cZmQfWhZVB5mQj6017ZnIOSPypn2M8\/MefpSHdk\/nRf89E\/Ojzov8Anov51EtkM5LsD9BR\/Z8f99v0pi1LBXk\/KtG3\/ZWnGjt3pDAZxzilpO1BFAC0U3H1\/OlFAH\/\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05A7HEQV71\/F05V9RU8Z54\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05V9RU8Z54-6748c2f8ae",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05A7HEQV71",
+        "display_as_bot": false,
+        "ts": "1696595832.834109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HaQ98",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anybody else getting this message when they try to launch StratSim now that another period has ended?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7d522953-f1fc-46a9-9a34-e26ed4595265"
+    },
+    {
+        "type": "message",
+        "text": "I tried to log in this morning and they had this banner up",
+        "files": [
+            {
+                "id": "F060FK6UK5F",
+                "created": 1696601091,
+                "timestamp": 1696601091,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05BBQCRFU0",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 8758,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060FK6UK5F\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060FK6UK5F\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060FK6UK5F-f8a8648a24\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060FK6UK5F-f8a8648a24\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060FK6UK5F-f8a8648a24\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 30,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060FK6UK5F-f8a8648a24\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 40,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060FK6UK5F-f8a8648a24\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060FK6UK5F-f8a8648a24\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 60,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060FK6UK5F-f8a8648a24\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 67,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060FK6UK5F-f8a8648a24\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 80,
+                "original_w": 973,
+                "original_h": 81,
+                "thumb_tiny": "AwADADDRwKNopaKAE2ijApaKAEwKMClooA\/\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05BBQCRFU0\/F060FK6UK5F\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060FK6UK5F-a8bbf86722",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05BBQCRFU0",
+        "display_as_bot": false,
+        "ts": "1696601100.889029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yJCA6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I tried to log in this morning and they had this banner up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "aab8303a-1b96-4843-9200-156f205e872d"
+    },
+    {
+        "client_msg_id": "C9642AC9-91E9-467A-BCA2-8866B6A90308",
+        "type": "message",
+        "text": "Yes, same. And we’re trying to make our next decisions. ",
+        "user": "U05A7HC8FF1",
+        "ts": "1696601128.647769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YKNkO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, same"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " And "
+                            },
+                            {
+                                "type": "text",
+                                "text": "we’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " trying to make our next decisions"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e82375f9477a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-10\/5557118263475_e82375f9477a060fd30d_72.png",
+            "first_name": "Kimball",
+            "real_name": "Kimball Palmer",
+            "display_name": "Kimball Palmer",
+            "team": "T0ZBAEL59",
+            "name": "kimball.palm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FACD069D-3A75-48D1-B481-4A3360A26CF4",
+        "type": "message",
+        "text": "I have let Glenn know and he sent this text: \n“I asked for and ETA for restored access and I just got the following response.  I let you know when I get any updates.”\nResponse:\n“Hello Professor Christensen,\n \nInterpretive Simulations is currently experiencing an unscheduled outage of our simulations. We are aware of the issue and working on a resolution. We appreciate your patience and will have an update soon.\nBest,\n\nDarren Rose\nCustomer Experience Specialist\nInterpretive Simulations”\n",
+        "user": "U03LK4YF3A6",
+        "ts": "1696606440.420569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vRvKY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have let Glenn know and he sent this text: \n“I asked for and ETA for restored access and I just got the following response.  I let you know when I get any updates.”\nResponse:\n“Hello Professor Christensen,\n \nInterpretive Simulations is currently experiencing an unscheduled outage of our simulations. We are aware of the issue and working on a resolution. We appreciate your patience and will have an update soon.\nBest,\n\nDarren Rose\nCustomer Experience Specialist\nInterpretive Simulations”\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "13B40691-7DD2-4433-AFBD-F7929CED5EFB",
+        "type": "message",
+        "text": "Hi! <!channel>! Because of Stratsim’s current technical issues, Professor Christensen has extended the deadline to Saturday night at 10pm. \n",
+        "user": "U03LK4YF3A6",
+        "ts": "1696609218.135429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+xHgS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Because of Stratsim’s current technical issues, Professor Christensen has extended the deadline to Saturday night at 10pm. \n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696609218.135429",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1696610392.251669",
+        "reply_users": [
+            "U05BBQCRFU0",
+            "U03LK4YF3A6"
+        ],
+        "replies": [
+            {
+                "user": "U05BBQCRFU0",
+                "ts": "1696610197.975809"
+            },
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1696610321.123639"
+            },
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1696610349.997059"
+            },
+            {
+                "user": "U05BBQCRFU0",
+                "ts": "1696610392.251669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e4c393db-294c-4721-ac7f-be0a1108b597",
+        "type": "message",
+        "text": "Which deadline? Everything was working fine until this morning, and our next deadline isn't until Monday.",
+        "user": "U05BBQCRFU0",
+        "ts": "1696610197.975809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c6\/6k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Which deadline? Everything was working fine until this morning, and our next deadline isn't until Monday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9eb04e81c7c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-21\/5612634164502_9eb04e81c7c8bf6c7cbc_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Ruth",
+            "display_name": "Ryan Ruth",
+            "team": "T0ZBAEL59",
+            "name": "ruthry16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696609218.135429",
+        "parent_user_id": "U03LK4YF3A6"
+    },
+    {
+        "client_msg_id": "155D1217-18CD-4643-A06E-B1FCFFF08C1A",
+        "type": "message",
+        "text": "I read the schedule wrong and thought the decision was due tonight. You are correct that the next deadline isn’t until Monday. Please forgive my mistake! ",
+        "user": "U03LK4YF3A6",
+        "ts": "1696610321.123639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BVRh5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I read the schedule wrong and thought the decision was due tonight. You are correct that the next deadline "
+                            },
+                            {
+                                "type": "text",
+                                "text": "isn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " until Monday. Please forgive my mistake! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696609218.135429",
+        "parent_user_id": "U03LK4YF3A6",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05D98WS6FQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "914D9AEE-92F3-4469-B418-EBF2F13A2C14",
+        "type": "message",
+        "text": "I also didn’t realize that Thursdays decision was fine! ",
+        "user": "U03LK4YF3A6",
+        "ts": "1696610349.997059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ognJ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also "
+                            },
+                            {
+                                "type": "text",
+                                "text": "didn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " realize that Thursdays decision was fine! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696609218.135429",
+        "parent_user_id": "U03LK4YF3A6"
+    },
+    {
+        "client_msg_id": "8aa24835-1673-4169-af60-da75b9f140b4",
+        "type": "message",
+        "text": "I grant unto thee forgiveness.",
+        "user": "U05BBQCRFU0",
+        "ts": "1696610392.251669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tBybM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I grant unto thee forgiveness."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9eb04e81c7c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-21\/5612634164502_9eb04e81c7c8bf6c7cbc_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Ruth",
+            "display_name": "Ryan Ruth",
+            "team": "T0ZBAEL59",
+            "name": "ruthry16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696609218.135429",
+        "parent_user_id": "U03LK4YF3A6",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U05HW4UU20Y"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

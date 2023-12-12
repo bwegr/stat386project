@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "81cc7b5b-534f-49bc-a82b-9a046100b257",
+        "type": "message",
+        "text": "We are ordering Costa Vida for class on Tuesday. Choose what you want to <https:\/\/docs.google.com\/spreadsheets\/d\/1RD4GxtLYwBE6-cf7met-UDY3iPhoVgXdP9VGWPz_cvs\/edit?usp=sharing|order here> by Monday at noon.\n_Do not add more options to this sheet, please. If you have dietary restrictions, reach out to me. <!channel>_ ",
+        "user": "U03LMGXA3FW",
+        "ts": "1697748423.509669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cO6qs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are ordering Costa Vida for class on Tuesday. Choose what you want to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1RD4GxtLYwBE6-cf7met-UDY3iPhoVgXdP9VGWPz_cvs\/edit?usp=sharing",
+                                "text": "order here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " by Monday at noon.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Do not add more options to this sheet, please. If you have dietary restrictions, reach out to me. ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697748423.509669",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698078956.964579",
+        "reply_users": [
+            "U03LMGXA3FW",
+            "U03L4GLKLTZ"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGXA3FW",
+                "ts": "1698077102.955419"
+            },
+            {
+                "user": "U03L4GLKLTZ",
+                "ts": "1698078956.964579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1698078956.964579",
+        "reactions": [
+            {
+                "name": "call_me_hand",
+                "users": [
+                    "U03LK551XFU",
+                    "U03LG779KGD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrotfast",
+                "users": [
+                    "U03NW11JH19",
+                    "U03M8T9K6SU",
+                    "U03LG7C9P8V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "call_me_hand::skin-tone-3",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

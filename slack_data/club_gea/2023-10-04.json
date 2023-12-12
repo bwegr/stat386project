@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "3ae84b3c-7ee8-4425-a01f-754a33381c25",
+        "type": "message",
+        "text": "<!channel> Here's the GEA calendar for the next few months. We'll have at least two additional events, but wanted to get this on everyone's radar so you can plan appropriately.\n\nFriday October 6th: Guest Speaker - Chad Ingram, founder of <http:\/\/Distro.io|Distro.io>. 11-12:15 in W308 in the Tanner Building.\n\nWednesday October 11th: Growth Venture Connect, W410, 6-8pm\n\nFriday October 20th: 1pm-2:30. Guest Speaker tbd, and alumni networking. Tanner Building. Room tbd. (optional lunch+networking from 12-1, must register online for this part)\n\nFriday October 27th: Guest Speaker John Koelliker, founder of Leland. 11am-12:15 W308.\n\nFriday November 3rd: BYU tech transfer office will speak and share how students can access and license technology. They're also bringing an alumni in who has used this tech to start a company. W308, 11-12:15\n\nFriday November 17th: Guest Speaker Nathan Rich, founder of IsoTruss. 11-12:15 W308.",
+        "user": "U03LG776WFP",
+        "ts": "1696441701.394239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xBYcb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Here's the GEA calendar for the next few months. We'll have at least two additional events, but wanted to get this on everyone's radar so you can plan appropriately.\n\nFriday October 6th: Guest Speaker - Chad Ingram, founder of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Distro.io",
+                                "text": "Distro.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". 11-12:15 in W308 in the Tanner Building.\n\nWednesday October 11th: Growth Venture Connect, W410, 6-8pm\n\nFriday October 20th: 1pm-2:30. Guest Speaker tbd, and alumni networking. Tanner Building. Room tbd. (optional lunch+networking from 12-1, must register online for this part)\n\nFriday October 27th: Guest Speaker John Koelliker, founder of Leland. 11am-12:15 W308.\n\nFriday November 3rd: BYU tech transfer office will speak and share how students can access and license technology. They're also bringing an alumni in who has used this tech to start a company. W308, 11-12:15\n\nFriday November 17th: Guest Speaker Nathan Rich, founder of IsoTruss. 11-12:15 W308."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "ab1623974cd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-09\/4767396297015_ab1623974cd0a9d234d2_72.jpg",
+            "first_name": "Hunter",
+            "real_name": "Hunter Schenewark",
+            "display_name": "Hunter Schenewark",
+            "team": "T0ZBAEL59",
+            "name": "hunterschenewark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03PKR5GQUQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

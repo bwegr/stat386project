@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "DD0A6989-2BA1-4092-8B42-A02D9A22CF6E",
+        "type": "message",
+        "text": "Complete ",
+        "user": "U03LMGTRFN0",
+        "ts": "1698509194.531589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oY2L8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Complete "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698364419.096659",
+        "parent_user_id": "U03NW11JH19"
+    }
+]

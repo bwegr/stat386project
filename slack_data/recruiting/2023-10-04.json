@@ -1,0 +1,746 @@
+[
+    {
+        "client_msg_id": "57D5DDDB-1AD4-4B2A-9230-45487F92B722",
+        "type": "message",
+        "text": "<!channel> This was posted last night in another channel, so I want to make sure people are aware:\n\nFrom <@U03SZAWQBM4>:\nFIRST YEARS! Reminder: Rothschild &amp; Co investment banking info session is tomorrow. If you are interested in IB even a little, this is your chance to check it out (if you plan to apply for their internship, you should be there). Additionally, if you are interested in IB exit opportunities (i.e., PE or search fund), IB is a valuable place to start and you should go.\n\nTime\/place: Wed Oct 4 from 6:00-7:00pm in TNRB 280.\n\nSome benefits you can expect from a role with Rothschild &amp; Co:\n• Opportunity to directly shape and determine the course of the world\n• Strategic position where you will work directly with the C-suite of multiple companies\n• Group of ambitious, supportive and collaborative people\n• $175k base salary (pro-rated for internship) + annual bonus of up to $175k (full-time)\n• $60k starting bonus + $10k moving stipend\n• 5 weeks vacation + banking holidays + unlimited sick days\n• Daily free dinners + ubers + other perks\nIf you plan to attend, register on handshake (link below).\n\n<https:\/\/byu.joinhandshake.com\/stu\/events\/1363807?ref=events-search|https:\/\/byu.joinhandshake.com\/stu\/events\/1363807?ref=events-search>\n\nI recommend dressing up for the event. For reference, a suit without a tie is how I'll be dressed. Join the IB Slack channel to connect\/share tips with others: <#C0433QH7AA3|investment-banking>",
+        "user": "U03LK52VCQ2",
+        "ts": "1696430365.711659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5p1Xa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This was posted last night in another channel, so I want to make sure people are aware:\n\nFrom "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03SZAWQBM4"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "FIRST YEARS! Reminder: Rothschild & Co investment banking info session is tomorrow. If you are interested in IB even a little, this is your chance to check it out (if you plan to apply for their internship, you should be there). Additionally, if you are interested in IB exit opportunities (i.e., PE or search fund), IB is a valuable place to start and you should go."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Time\/place: Wed Oct 4 from 6:00-7:00pm in TNRB 280."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Some benefits you can expect from a role with Rothschild & Co:"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Opportunity to directly shape and determine the course of the world"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Strategic position where you will work directly with the C-suite of multiple companies"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Group of ambitious, supportive and collaborative people"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "$175k base salary (pro-rated for internship) + annual bonus of up to $175k (full-time)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "$60k starting bonus + $10k moving stipend"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "5 weeks vacation + banking holidays + unlimited sick days"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Daily free dinners + ubers + other perks"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "If you plan to attend, register on handshake (link below)."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.joinhandshake.com\/stu\/events\/1363807?ref=events-search",
+                                "text": "https:\/\/byu.joinhandshake.com\/stu\/events\/1363807?ref=events-search"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I recommend dressing up for the event. For reference, a suit without a tie is how I'll be dressed. Join the IB Slack channel to connect\/share tips with others: "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0433QH7AA3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a5aaff83-f90d-48b0-bc80-3d8248346af4",
+        "type": "message",
+        "text": "Interviews: <https:\/\/byu.joinhandshake.com\/edu\/interview_schedules\/207141><https:\/\/urldefense.com\/v3\/__https:\/byu.joinhandshake.com\/edu\/interview_schedules\/207141__;!!OkyjEqkqqe9UhNQ!yA5mCaMWhmcY3XM2e1H9S-x4zhfz4GRQjzknRcME1LUpPBtadigqr1Xyhq0NkWSM5ZKNrfhLJklF-emhqscWGa5XwgnJFGFV$| [><http:\/\/byu.joinhandshake.com|byu.joinhandshake.com><https:\/\/urldefense.com\/v3\/__https:\/byu.joinhandshake.com\/edu\/interview_schedules\/207141__;!!OkyjEqkqqe9UhNQ!yA5mCaMWhmcY3XM2e1H9S-x4zhfz4GRQjzknRcME1LUpPBtadigqr1Xyhq0NkWSM5ZKNrfhLJklF-emhqscWGa5XwgnJFGFV$|]>\n\nJob Posting: <https:\/\/byu.joinhandshake.com\/edu\/jobs\/8271378><https:\/\/urldefense.com\/v3\/__https:\/byu.joinhandshake.com\/edu\/jobs\/8271378__;!!OkyjEqkqqe9UhNQ!yA5mCaMWhmcY3XM2e1H9S-x4zhfz4GRQjzknRcME1LUpPBtadigqr1Xyhq0NkWSM5ZKNrfhLJklF-emhqscWGa5XwofQQmj6$| [><http:\/\/byu.joinhandshake.com|byu.joinhandshake.com><https:\/\/urldefense.com\/v3\/__https:\/byu.joinhandshake.com\/edu\/jobs\/8271378__;!!OkyjEqkqqe9UhNQ!yA5mCaMWhmcY3XM2e1H9S-x4zhfz4GRQjzknRcME1LUpPBtadigqr1Xyhq0NkWSM5ZKNrfhLJklF-emhqscWGa5XwofQQmj6$|]>",
+        "user": "U03L57R4HN3",
+        "ts": "1696433908.515689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bfeL3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interviews: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.joinhandshake.com\/edu\/interview_schedules\/207141"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/urldefense.com\/v3\/__https:\/byu.joinhandshake.com\/edu\/interview_schedules\/207141__;!!OkyjEqkqqe9UhNQ!yA5mCaMWhmcY3XM2e1H9S-x4zhfz4GRQjzknRcME1LUpPBtadigqr1Xyhq0NkWSM5ZKNrfhLJklF-emhqscWGa5XwgnJFGFV$",
+                                "text": " ["
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/byu.joinhandshake.com",
+                                "text": "byu.joinhandshake.com"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/urldefense.com\/v3\/__https:\/byu.joinhandshake.com\/edu\/interview_schedules\/207141__;!!OkyjEqkqqe9UhNQ!yA5mCaMWhmcY3XM2e1H9S-x4zhfz4GRQjzknRcME1LUpPBtadigqr1Xyhq0NkWSM5ZKNrfhLJklF-emhqscWGa5XwgnJFGFV$",
+                                "text": "]"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJob Posting: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.joinhandshake.com\/edu\/jobs\/8271378"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/urldefense.com\/v3\/__https:\/byu.joinhandshake.com\/edu\/jobs\/8271378__;!!OkyjEqkqqe9UhNQ!yA5mCaMWhmcY3XM2e1H9S-x4zhfz4GRQjzknRcME1LUpPBtadigqr1Xyhq0NkWSM5ZKNrfhLJklF-emhqscWGa5XwofQQmj6$",
+                                "text": " ["
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/byu.joinhandshake.com",
+                                "text": "byu.joinhandshake.com"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/urldefense.com\/v3\/__https:\/byu.joinhandshake.com\/edu\/jobs\/8271378__;!!OkyjEqkqqe9UhNQ!yA5mCaMWhmcY3XM2e1H9S-x4zhfz4GRQjzknRcME1LUpPBtadigqr1Xyhq0NkWSM5ZKNrfhLJklF-emhqscWGa5XwofQQmj6$",
+                                "text": "]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696296716.464149",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "type": "message",
+        "text": "Copeland MBA Info Session Thursday, October 12 4:30pm <https:\/\/byu.joinhandshake.com\/stu\/events\/1330289?ref=events-search|Register here for info session>\n_They will be holding mock Interviews during the day on the 12th as well, with regular interviews Oct 13th._ <https:\/\/byu.joinhandshake.com\/stu\/events\/1380622?ref=events-search|More info about mock interviews>",
+        "files": [
+            {
+                "id": "F05UYGA6JGN",
+                "created": 1696434755,
+                "timestamp": 1696434755,
+                "name": "BYUMBAInfoSessionEtc.png",
+                "title": "BYUMBAInfoSessionEtc.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LMGXA3FW",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 882755,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05UYGA6JGN\/byumbainfosessionetc.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05UYGA6JGN\/download\/byumbainfosessionetc.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UYGA6JGN-242a3a9fd2\/byumbainfosessionetc_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UYGA6JGN-242a3a9fd2\/byumbainfosessionetc_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UYGA6JGN-242a3a9fd2\/byumbainfosessionetc_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UYGA6JGN-242a3a9fd2\/byumbainfosessionetc_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UYGA6JGN-242a3a9fd2\/byumbainfosessionetc_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UYGA6JGN-242a3a9fd2\/byumbainfosessionetc_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UYGA6JGN-242a3a9fd2\/byumbainfosessionetc_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UYGA6JGN-242a3a9fd2\/byumbainfosessionetc_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UYGA6JGN-242a3a9fd2\/byumbainfosessionetc_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 1152,
+                "original_h": 864,
+                "thumb_tiny": "AwAkADCkLfP\/AC1jHGeWpTbY6SxHr0ao8L7fnRhR6fnQBItsSB+9iGR3arVsm2PbkHB6jpVHC+351PDLtTapIAJ6c1UdxMuYpcVDHMATvZj6cVN5qYz835VfMiLGVuIGMCk3H\/Ip3b7h\/Kj6ofyrI0HK6bVDbiRx0FTQH5MADGT1FV+v8Jx9Knt\/u9O5poTLCAkngflTzxj5RTAfY\/nQWH+TTshXM7cfb8qCxI7flSUVJQVoWaqbbJUHk1n1pWX\/AB7fif6UATCNDj5B0zTGROflHFSjqPpTG\/i+tIZ\/\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LMGXA3FW\/F05UYGA6JGN\/byumbainfosessionetc.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05UYGA6JGN-0a3b166b6f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LMGXA3FW",
+        "display_as_bot": false,
+        "team": "T0ZBAEL59",
+        "ts": "1696435176.449779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vEB+G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Copeland MBA Info Session Thursday, October 12 4:30pm"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.joinhandshake.com\/stu\/events\/1330289?ref=events-search",
+                                "text": "Register here for info session"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "They will be holding mock Interviews during the day on the 12th as well, with regular interviews Oct 13th. ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.joinhandshake.com\/stu\/events\/1380622?ref=events-search",
+                                "text": "More info about mock interviews"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "fdea8b37-6176-4186-ac58-8c98357103d8",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "*BYU + Silicon Slopes: Growth Venture Connect*\n*Meet &amp; Greet*\n\n*What:* This is an MBA-only event where you can connect with local Growth companies. Not all are hiring at this moment, but the connections you make will be invaluable.\n\n*Where:* N. Eldon Tanner Building (TNRB), Brigham Young University, Provo, Utah 84602\nRoom 410 (4th floor)\n\n*When:* Wednesday, October 11th, 2023\n\n*Time:* 6pm – 9pm *Light refreshments provided*\n\nWe hope to see you there! _*Register <https:\/\/marriott.byu.edu\/event\/growthventure2023\/registration|here> or by using the QR code.*_",
+        "files": [
+            {
+                "id": "F05V2KZV45T",
+                "created": 1696438395,
+                "timestamp": 1696438395,
+                "name": "Growth-Venture-Connect_Web-Banner.jpg",
+                "title": "Growth-Venture-Connect_Web-Banner.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03L57R4HN3",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 202131,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V2KZV45T\/growth-venture-connect_web-banner.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V2KZV45T\/download\/growth-venture-connect_web-banner.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 222,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 295,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "original_w": 650,
+                "original_h": 400,
+                "thumb_tiny": "AwAdADDTpCQKjkkKtgCnFgoG\/r60AI0hIwqkH1I\/+vTd8mPf\/d\/+vTw6E4FO49qYiHdL6\/8Ajv8A9enIZC2GPH0\/+vUny+1HHtQBG8m18Y\/GlcjAJp5UE5NBUHqM0hkKkZHFPPU07Yo7CnYHpTER0q\/ep+B6UYFIZ\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03L57R4HN3\/F05V2KZV45T\/growth-venture-connect_web-banner.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05V2KZV45T-40d284b1d0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0604727CTT",
+                "created": 1696438400,
+                "timestamp": 1696438400,
+                "name": "Untitled design (5).png",
+                "title": "Untitled design (5).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03L57R4HN3",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 65038,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0604727CTT\/untitled_design__5_.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0604727CTT\/download\/untitled_design__5_.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "original_w": 900,
+                "original_h": 900,
+                "thumb_tiny": "AwAwADDTooozQBFK3TnHOOuB60kTZwQ2VPByc4PtT3TIIxkHnFMjjICg8BTnnqTTETUUZopDCs6UYuGOR979frWjVGYKJXO4A7hgZyDxQBXLs0g3NtIODxnBPrT2KKpLMSOQVb16\/wCRSuw3hdpOOS2cZ9x+dIY1bec5J4B659+P8mgB8K7rkEEcMfQd60Kz7YLuTocNgbckD1rQoAKzrhGeV\/mXOSAMgemPrWjVR7Z2lLBhgnpn+lAELyyMAAwIH9M\/mPaoyxjRlI3Ln5TjJPfHHSrIs34LNkg8fN0\/+vSm1dnO5gA3UrkHFAEduFEiqGk3A\/xDHHp9Kv1VjtWjkUq3Axk7j834VaoA\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03L57R4HN3\/F0604727CTT\/untitled_design__5_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0604727CTT-dbe11d5abe",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03L57R4HN3",
+        "team": "T0ZBAEL59",
+        "ts": "1696438406.941159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fIa2j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BYU + Silicon Slopes: Growth Venture Connect",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Meet & Greet",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "What:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " This is an MBA-only event where you can connect with local Growth companies. Not all are hiring at this moment, but the connections you make will be invaluable.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Where:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " N. Eldon Tanner Building (TNRB), Brigham Young University, Provo, Utah 84602\nRoom 410 (4th floor)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "When:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Wednesday, October 11th, 2023\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Time:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 6pm – 9pm "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Light refreshments provided",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWe hope to see you there! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Register ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/marriott.byu.edu\/event\/growthventure2023\/registration",
+                                "text": "here",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " or by using the QR code.",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8ca5495f-861a-48f1-8b0d-9eb68159a9a4",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/marriott.byu.edu\/event\/growthventure2023\/registration",
+                "service_icon": "https:\/\/marriott.byu.edu\/msm\/theme\/variant\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/marriott.byu.edu\/event\/growthventure2023\/registration",
+                "fallback": "BYU Marriott School of Business - Growth Venture Connect - Registration",
+                "text": "Growth Company Meet and Greet",
+                "title": "BYU Marriott School of Business - Growth Venture Connect - Registration",
+                "title_link": "https:\/\/marriott.byu.edu\/event\/growthventure2023\/registration",
+                "service_name": "marriott.byu.edu"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08f13a11-c400-433c-9d61-996c8d707960",
+        "type": "message",
+        "text": "So has anyone done any research about the BYU CAreer Fair tomorrow? I know it is targeted at undergrads but I'm thinking it would be valuable to go.",
+        "user": "U03LK5295DY",
+        "ts": "1696455859.147199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I4HIR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So has anyone done any research about the BYU CAreer Fair tomorrow? I know it is targeted at undergrads but I'm thinking it would be valuable to go."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fc0bdc6645be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-31\/3887605632561_fc0bdc6645be97c3c324_72.png",
+            "first_name": "Allison",
+            "real_name": "Allison Adams",
+            "display_name": "Allison Adams",
+            "team": "T0ZBAEL59",
+            "name": "adamsallison00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696455859.147199",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696463667.742729",
+        "reply_users": [
+            "U03LXQCJA81"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQCJA81",
+                "ts": "1696463667.742729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U03LXQCEVKK",
+                    "U03TVL5E0M6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AC3FBB4A-6FE9-4755-92CE-5602B4EE9C40",
+        "type": "message",
+        "text": "I think it may be helpful in some cases. I’m going to swing by for a bit at least!",
+        "user": "U03LXQCJA81",
+        "ts": "1696463667.742729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U\/qG1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it may be helpful in some cases"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " going to swing by for a bit at least!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696455859.147199",
+        "parent_user_id": "U03LK5295DY"
+    }
+]

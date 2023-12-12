@@ -1,0 +1,348 @@
+[
+    {
+        "client_msg_id": "80365ed7-554f-4900-84e2-7fbade8d40d2",
+        "type": "message",
+        "text": "Won't be holding office hours at 9:30am today - reach out if you have any questions",
+        "user": "U03LK533VR8",
+        "ts": "1696259582.700199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z67z7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Won't be holding office hours at 9:30am today - reach out if you have any questions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d80d35c2-9338-4132-bde4-5bbd8f6d2707",
+        "type": "message",
+        "text": "OH: W229 11-12",
+        "user": "U03LMGYLSR2",
+        "ts": "1696260328.112819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VYAUp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OH: W229 11-12"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a13b8e4f-7fdc-446c-86b1-17c3770313ae",
+        "type": "message",
+        "text": "I was just looking into midterm schedules and I couldn't find anything about Ops. Any info relating to when it or they are?",
+        "user": "U05DD0R2J6R",
+        "ts": "1696272126.164339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nEVJn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was just looking into midterm schedules and I couldn't find anything about Ops. Any info relating to when it or they are?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9f2aa0222f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-23\/5782069155622_9f2aa0222f3469b2f8ea_72.jpg",
+            "first_name": "Danny",
+            "real_name": "Danny Gundersen",
+            "display_name": "Danny Gundersen",
+            "team": "T0ZBAEL59",
+            "name": "gundydc1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696272126.164339",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696272241.307209",
+        "reply_users": [
+            "U03LK533VR8"
+        ],
+        "replies": [
+            {
+                "user": "U03LK533VR8",
+                "ts": "1696272241.307209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "45c9cf31-a243-484c-88a7-ca517e40bfbd",
+        "type": "message",
+        "text": "This just came up this morning - it's still TBD but you'll be hearing more details in the next week or so.",
+        "user": "U03LK533VR8",
+        "ts": "1696272241.307209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pz7sK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This just came up this morning - it's still TBD but you'll be hearing more details in the next week or so."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696272126.164339",
+        "parent_user_id": "U05DD0R2J6R"
+    },
+    {
+        "client_msg_id": "29221947-B12C-4E7B-BE2D-86C543CEEA6B",
+        "type": "message",
+        "text": "Late to the party, and this is completely unimportant, but did anyone else notice that the chocolate case was co-authored by our very own Director Snow? (I’m assuming that C is his middle initial) ",
+        "user": "U05DD0R44G5",
+        "ts": "1696272488.922269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "85W26",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Late to the party, and this is completely unimportant, but did anyone else notice that the chocolate case was co-authored by our very own Director Snow? ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " assuming that C is his middle initial) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g1a32db1c729",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a32db1c729f89e1f3e02e7ed5b3ab36.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Nikki",
+            "real_name": "Nikki Maxon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nmaxon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696272488.922269",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696281429.195389",
+        "reply_users": [
+            "U05AMVCTLRZ",
+            "U05DD0R44G5"
+        ],
+        "replies": [
+            {
+                "user": "U05AMVCTLRZ",
+                "ts": "1696281200.630849"
+            },
+            {
+                "user": "U05DD0R44G5",
+                "ts": "1696281429.195389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05A7HE11LP",
+                    "U05B0NHD3LZ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "trophy",
+                "users": [
+                    "U05A7HE11LP",
+                    "U03LMGYLSR2",
+                    "U05BBQEJNTA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62DD608F-186A-48B4-A080-49C9DB3C4B74",
+        "type": "message",
+        "text": "Lol he actually has this case framed up as a poster in his house.",
+        "user": "U05AMVCTLRZ",
+        "ts": "1696281200.630849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aziZl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lol he actually has this case framed up as a poster in his house."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21cea2f50db5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5357074088198_21cea2f50db509542cea_72.png",
+            "first_name": "Travis",
+            "real_name": "Travis Crosby",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "crosbytrc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696272488.922269",
+        "parent_user_id": "U05DD0R44G5"
+    },
+    {
+        "client_msg_id": "BF0308D8-F026-4B59-BF89-DDA32A8D4CD3",
+        "type": "message",
+        "text": "That’s amazing! ",
+        "user": "U05DD0R44G5",
+        "ts": "1696281429.195389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hyxoh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " amazing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g1a32db1c729",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a32db1c729f89e1f3e02e7ed5b3ab36.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Nikki",
+            "real_name": "Nikki Maxon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nmaxon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696272488.922269",
+        "parent_user_id": "U05DD0R44G5"
+    }
+]

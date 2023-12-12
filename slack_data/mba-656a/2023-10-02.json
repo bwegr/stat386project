@@ -1,0 +1,286 @@
+[
+    {
+        "client_msg_id": "201d8711-8b85-4ef8-8876-28b0c2d90241",
+        "type": "message",
+        "text": "Is the *Intermediate Python* on Canvas due tomorrow? Also, is there any word on the TURF analysis midterm?",
+        "user": "U03LXQBTQJV",
+        "ts": "1696268380.094649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AbMfU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Intermediate Python ",
+                                "style": {
+                                    "bold": true,
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "on Canvas due tomorrow? Also, is there any word on the TURF analysis midterm?",
+                                "style": {
+                                    "unlink": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bf2ea7282f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-09\/4072671444257_7bf2ea7282f5542e95db_72.jpg",
+            "first_name": "Ben",
+            "real_name": "Ben Nzojibwami",
+            "display_name": "Ben Nzojibwami",
+            "team": "T0ZBAEL59",
+            "name": "benjamin.nzojibwami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696268380.094649",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1696271103.854659",
+        "reply_users": [
+            "U03LK52CR7U",
+            "U03LXQBTQJV",
+            "U03LG78FBEZ"
+        ],
+        "replies": [
+            {
+                "user": "U03LK52CR7U",
+                "ts": "1696269005.365569"
+            },
+            {
+                "user": "U03LXQBTQJV",
+                "ts": "1696270294.731769"
+            },
+            {
+                "user": "U03LK52CR7U",
+                "ts": "1696270440.797769"
+            },
+            {
+                "user": "U03LG78FBEZ",
+                "ts": "1696271103.854659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b66b0bab-1747-4520-aca5-24431b84a069",
+        "type": "message",
+        "text": "Yeah I thought he said we were done with Python so I was surprised to see this next module due tomorrow. And it might take 4+ hours.",
+        "user": "U03LK52CR7U",
+        "ts": "1696269005.365569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVWmC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah I thought he said we were done with Python so I was surprised to see this next module due tomorrow. And it might take 4+ hours."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6e53b4fccca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-23\/4005980232208_6e53b4fccca86101bc89_72.png",
+            "first_name": "Dallin",
+            "real_name": "Dallin Webb",
+            "display_name": "Dallin Webb",
+            "team": "T0ZBAEL59",
+            "name": "dallin.webb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696268380.094649",
+        "parent_user_id": "U03LXQBTQJV"
+    },
+    {
+        "client_msg_id": "c6a91310-d942-469c-b7b3-ad8d898f602f",
+        "type": "message",
+        "text": "Here's what John said:\n\n\"The Intermediate Python Course needs to be delayed. I put in a date for next week on Canvas, but we will have to see how things go tomorrow.\n\nThe new project changes plans around the TURF midterm. I still might talk about TURF analysis, but the we probably won’t have it as a midterm project.\n\nSorry the class is in flux so much. I had things scheduled out fairly well, but the project threw a curveball into my plans and schedule and it is going to be a little while before things settle down.\"",
+        "user": "U03LXQBTQJV",
+        "ts": "1696270294.731769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lgbHD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's what John said:\n\n\"The Intermediate Python Course needs to be delayed. I put in a date for next week on Canvas, but we will have to see how things go tomorrow.\n\nThe new project changes plans around the TURF midterm. I still might talk about TURF analysis, but the we probably won’t have it as a midterm project.\n\nSorry the class is in flux so much. I had things scheduled out fairly well, but the project threw a curveball into my plans and schedule and it is going to be a little while before things settle down.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bf2ea7282f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-09\/4072671444257_7bf2ea7282f5542e95db_72.jpg",
+            "first_name": "Ben",
+            "real_name": "Ben Nzojibwami",
+            "display_name": "Ben Nzojibwami",
+            "team": "T0ZBAEL59",
+            "name": "benjamin.nzojibwami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696268380.094649",
+        "parent_user_id": "U03LXQBTQJV",
+        "reactions": [
+            {
+                "name": "cool-doge",
+                "users": [
+                    "U03LG779KGD",
+                    "U03LXQFU5SM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U05A7HF1DJB",
+                    "U03LXQFU5SM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70d04bf6-cc44-48b1-936c-4955879368a1",
+        "type": "message",
+        "text": "Thanks for clearing that up Ben, that’s a relief :sweat_smile:",
+        "user": "U03LK52CR7U",
+        "ts": "1696270440.797769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0A1Ha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for clearing that up Ben, that’s a relief "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6e53b4fccca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-23\/4005980232208_6e53b4fccca86101bc89_72.png",
+            "first_name": "Dallin",
+            "real_name": "Dallin Webb",
+            "display_name": "Dallin Webb",
+            "team": "T0ZBAEL59",
+            "name": "dallin.webb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696268380.094649",
+        "parent_user_id": "U03LXQBTQJV",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-6",
+                "users": [
+                    "U03LXQBTQJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e2f401a-96bf-4cb6-b0ec-2a5a2d670f56",
+        "type": "message",
+        "text": "All hail our hero and president, Ben",
+        "user": "U03LG78FBEZ",
+        "ts": "1696271103.854659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LwMKl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All hail our hero and president, Ben"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c31733cc8cef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-26\/4705931795428_c31733cc8cef77a6879c_72.png",
+            "first_name": "Brady",
+            "real_name": "Brady Mitchell",
+            "display_name": "Brady Mitchell",
+            "team": "T0ZBAEL59",
+            "name": "brady.mitchell13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696268380.094649",
+        "parent_user_id": "U03LXQBTQJV",
+        "reactions": [
+            {
+                "name": "bow-1",
+                "users": [
+                    "U03LXQBTQJV",
+                    "U03LK39PKRR"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

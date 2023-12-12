@@ -1,0 +1,490 @@
+[
+    {
+        "client_msg_id": "A5EFFB3A-1A17-46B8-A91D-9563C4F24FC4",
+        "type": "message",
+        "text": "<@U03LXQCJA81> will this be recorded? I'm not sure if I can stay until 6",
+        "user": "U05E5KMHERE",
+        "ts": "1697730771.887579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "itgub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LXQCJA81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will this be recorded? I'm not sure if I can stay until 6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "aab3cbd5e251",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-04\/5846730557411_aab3cbd5e2511e28c4e9_72.png",
+            "first_name": "Sydney",
+            "real_name": "Sydney Buckner",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "sydneypbuckner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697684791.662529",
+        "parent_user_id": "U05B0NFJ1S5"
+    },
+    {
+        "client_msg_id": "C7C62BC7-571F-499E-9B5E-668EC0CB8105",
+        "type": "message",
+        "text": "I asked Benjamin (TA) and he shared that the TAs won’t be setting up a Zoom link, so there won’t be a recording.",
+        "user": "U05AN015NSX",
+        "ts": "1697741265.250079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Mc\/A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I asked Benjamin (TA) and he shared that the TAs "
+                            },
+                            {
+                                "type": "text",
+                                "text": "won’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be setting up a Zoom link, so there "
+                            },
+                            {
+                                "type": "text",
+                                "text": "won’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be a recording."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697684791.662529",
+        "parent_user_id": "U05B0NFJ1S5"
+    },
+    {
+        "type": "message",
+        "text": "Here's an example of what I did to help study for the midterm. I built the first slide with the topics, and then made a slide for each section where I went into further detail. Hopefully this helps!",
+        "files": [
+            {
+                "id": "F0622F6UA84",
+                "created": 1697758197,
+                "timestamp": 1697758197,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LXQCJA81",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 245984,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0622F6UA84\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0622F6UA84\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0622F6UA84-0655204a64\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0622F6UA84-0655204a64\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0622F6UA84-0655204a64\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0622F6UA84-0655204a64\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0622F6UA84-0655204a64\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0622F6UA84-0655204a64\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0622F6UA84-0655204a64\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0622F6UA84-0655204a64\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "original_w": 960,
+                "original_h": 540,
+                "thumb_tiny": "AwAbADDS289T+dQyypE4Vi\/PPWnCRt5G3Pt3qpdktMvylcr3+tJlRV2Wo5hIpKbuuORTjJt+9x+FQWkipC24jO44GetOuHV1XaQeecdqNdxS0JDcIP4v0qUHIB9az2781ILl1mWMKMcDHc+9CZCdy5VW6hkkkBQZG3HWrVFMtOxmmNogocYJJPX6U+KNnDBccHvU90oLJntS2oA349ar7NiHrIjNu57L+dWlGFUHqBiloqLDSsf\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LXQCJA81\/F0622F6UA84\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0622F6UA84-74dbfae5d6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F061KFQLBPZ",
+                "created": 1697758208,
+                "timestamp": 1697758208,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LXQCJA81",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 267106,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061KFQLBPZ\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061KFQLBPZ\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061KFQLBPZ-1e1e17a7d0\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061KFQLBPZ-1e1e17a7d0\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061KFQLBPZ-1e1e17a7d0\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061KFQLBPZ-1e1e17a7d0\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061KFQLBPZ-1e1e17a7d0\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061KFQLBPZ-1e1e17a7d0\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061KFQLBPZ-1e1e17a7d0\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061KFQLBPZ-1e1e17a7d0\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "original_w": 960,
+                "original_h": 540,
+                "thumb_tiny": "AwAbADCy93iRlCn5TjrTTfY\/5Z\/+PVXl\/wBfL\/vUw8+n5VF2bKKLX9oD\/nl\/49R\/aA\/55f8Aj1UsUlF2PkiXv7QH\/PL\/AMep0d9vkVPLxk4zms+pLf8A4+I\/94UXYOCsSSj9\/IfVjTM+xq88EZckryTnqaT7NEf4f1NOwuZFEkehppP+zV\/7LD\/c\/U0fZYf7n6mlYOdFOCMSTBWzg5q0tsiOrLnIIp4t4lOVUg+oJp6xruH3uvdjTsS5XP\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LXQCJA81\/F061KFQLBPZ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061KFQLBPZ-9d857d62cd",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LXQCJA81",
+        "ts": "1697758260.297169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3x0xL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's an example of what I did to help study for the midterm. I built the first slide with the topics, and then made a slide for each section where I went into further detail. Hopefully this helps!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3d564c96-3728-4ead-aefa-cdefa54e5c45",
+        "reactions": [
+            {
+                "name": "good-zach",
+                "users": [
+                    "U05AN015NSX",
+                    "U05AMVCTLRZ",
+                    "U05BBQG6MKJ",
+                    "U05B0NHGDG9"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U05BBQDP59N",
+                    "U05GZPFMAA2"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Even though the TAs didn’t do a recording of the midterm session, I did an audio recording and got permission from Zach to post it here since people are at Prospanica. ",
+        "files": [
+            {
+                "id": "F061KJFC695",
+                "created": 1697760154,
+                "timestamp": 1697760154,
+                "name": "New Recording 3.m4a",
+                "title": "New Recording 3",
+                "mimetype": "audio\/mp4",
+                "filetype": "m4a",
+                "pretty_type": "MPEG 4 Audio",
+                "user": "U05AN015NSX",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 29572702,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "complete",
+                    "locale": "en-US",
+                    "preview": {
+                        "content": "By SMK and OI. Yeah, it, it's actually it's tomorrow. So that, that's the blood comes to the animal, right? That's, that's kind of. So hopefully, all",
+                        "has_more": true
+                    }
+                },
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061KJFC695\/new_recording_3.m4a?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061KJFC695\/download\/new_recording_3.m4a?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "vtt": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061KJFC695-a6c59e0896\/file.vtt?_xcb=a20f2&t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "audio_wave_samples": [
+                    11,
+                    22,
+                    33,
+                    44,
+                    55,
+                    66,
+                    77,
+                    88,
+                    99,
+                    10,
+                    21,
+                    32,
+                    43,
+                    54,
+                    65,
+                    76,
+                    87,
+                    98,
+                    9,
+                    20,
+                    31,
+                    42,
+                    53,
+                    64,
+                    75,
+                    86,
+                    97,
+                    8,
+                    19,
+                    30,
+                    41,
+                    52,
+                    63,
+                    74,
+                    85,
+                    96,
+                    7,
+                    18,
+                    29,
+                    40,
+                    51,
+                    62,
+                    73,
+                    84,
+                    95,
+                    6,
+                    17,
+                    28,
+                    39,
+                    50,
+                    61,
+                    72,
+                    83,
+                    94,
+                    5,
+                    16,
+                    27,
+                    38,
+                    49,
+                    60,
+                    71,
+                    82,
+                    93,
+                    4,
+                    15,
+                    26,
+                    37,
+                    48,
+                    59,
+                    70,
+                    81,
+                    92,
+                    3,
+                    14,
+                    25,
+                    36,
+                    47,
+                    58,
+                    69,
+                    80,
+                    91,
+                    2,
+                    13,
+                    24,
+                    35,
+                    46,
+                    57,
+                    68,
+                    79,
+                    90,
+                    1,
+                    12,
+                    23,
+                    34,
+                    45,
+                    56,
+                    67,
+                    78,
+                    89,
+                    0
+                ],
+                "media_display_type": "audio",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05AN015NSX\/F061KJFC695\/new_recording_3.m4a",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061KJFC695-232893ba7f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05AN015NSX",
+        "display_as_bot": false,
+        "ts": "1697760369.129669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Seox",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even though the TAs didn’t do a recording of the midterm session, I did an audio recording and got permission from Zach to post it here since people are at Prospanica."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05D98WS6FQ",
+                    "U05AMVCTLRZ",
+                    "U05B0NFJ1S5",
+                    "U05H8SL2HFE",
+                    "U05AK5J04P7",
+                    "U05BBQFD4V6",
+                    "U05AN02C0E7",
+                    "U05AN0097RR",
+                    "U05B0NGPZTK",
+                    "U05BBQD8SKS"
+                ],
+                "count": 10
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U05B0NHGDG9",
+                    "U03LXQCJA81",
+                    "U05DFQNU4EP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e4dec6c-6457-4b80-acd6-9535755b103a",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U03TVL5E0M6",
+        "ts": "1697766407.053349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcxlo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

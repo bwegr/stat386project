@@ -1,0 +1,192 @@
+[
+    {
+        "type": "message",
+        "text": "Problem Set #4 question #8 is tied to RWJ, Chapter 10, #9 and #10. So, I have attached a screenshot for those who don't have the updated textbook <@U05AN02C0E7>",
+        "files": [
+            {
+                "id": "F063MQM2YSD",
+                "created": 1698544060,
+                "timestamp": 1698544060,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05AN015NSX",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 45659,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F063MQM2YSD\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F063MQM2YSD\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063MQM2YSD-7f23ca1b53\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063MQM2YSD-7f23ca1b53\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063MQM2YSD-7f23ca1b53\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 88,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063MQM2YSD-7f23ca1b53\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 118,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063MQM2YSD-7f23ca1b53\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063MQM2YSD-7f23ca1b53\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 177,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063MQM2YSD-7f23ca1b53\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 196,
+                "original_w": 848,
+                "original_h": 208,
+                "thumb_tiny": "AwALADCsvSgkd6FPGaXPFMBMijIppJz1o3H1NADsijIwabuPqaMn1NAH\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05AN015NSX\/F063MQM2YSD\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F063MQM2YSD-62c9a09e6a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05AN015NSX",
+        "display_as_bot": false,
+        "ts": "1698544372.675809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MeG9G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Problem Set #4 question #8 is tied to RWJ, Chapter 10, #9 and #10. So, I have attached a screenshot for those who don't have the updated textbook "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AN02C0E7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c024789b-2ac1-4fe1-aa41-d0cee38bf33b",
+        "thread_ts": "1698544372.675809",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698548381.281569",
+        "reply_users": [
+            "U05AN02C0E7"
+        ],
+        "replies": [
+            {
+                "user": "U05AN02C0E7",
+                "ts": "1698548381.281569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05GZPFMAA2",
+                    "U05AN02C0E7",
+                    "U05B0NFJ1S5",
+                    "U05A7HE11LP",
+                    "U05A7HEQV71",
+                    "U05HW4UU20Y"
+                ],
+                "count": 6
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U05DD0R44G5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F06394T0F8T",
+                "created": 1698548378,
+                "timestamp": 1698548378,
+                "name": "tenor_gif7029503380791507739.gif",
+                "title": "tenor_gif7029503380791507739.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U05AN02C0E7",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 341704,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F06394T0F8T\/tenor_gif7029503380791507739.gif?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F06394T0F8T\/download\/tenor_gif7029503380791507739.gif?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06394T0F8T-6d018c40d3\/tenor_gif7029503380791507739_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06394T0F8T-6d018c40d3\/tenor_gif7029503380791507739_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06394T0F8T-6d018c40d3\/tenor_gif7029503380791507739_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 220,
+                "thumb_360_h": 220,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06394T0F8T-6d018c40d3\/tenor_gif7029503380791507739_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06394T0F8T-6d018c40d3\/tenor_gif7029503380791507739_360.gif?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "original_w": 220,
+                "original_h": 220,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06394T0F8T-6d018c40d3\/tenor_gif7029503380791507739_deanimate.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06394T0F8T-6d018c40d3\/tenor_gif7029503380791507739_deanimate_gif.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_tiny": "AwAwADDOxQRxT9h9KGHympuMj6CpEAAz3pCpLACrTQhEUnkkc0XKSK+OuRURGKmdjnjjFRsOaYmWkdXOBnNMnHB+lNg\/1p+lOnPX6VHUOg6JRuHrVogngiqgI71IhO3hzu9M0i4vQmkgV1xjDdiKqTRmKEbjyx6fSrMcwBwM57mm3MJePzF6jt60JhIqwH94x9qJjyabDwW+lI5yxq2tSOhIWApqycnOajzT4gGYA9M80WBaE8R8xgF6D8qtb88dhUC7ldi3Q9vSgtWdrs0Z\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05AN02C0E7\/F06394T0F8T\/tenor_gif7029503380791507739.gif",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F06394T0F8T-a395691fbe",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05AN02C0E7",
+        "display_as_bot": false,
+        "ts": "1698548381.281569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCn+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "fc4bca3e-cb47-4c9c-8bb3-4fc740a1a999",
+        "thread_ts": "1698544372.675809",
+        "parent_user_id": "U05AN015NSX",
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "client_msg_id": "79874ef8-3371-49dc-8abe-d427ba089de7",
+        "type": "message",
+        "text": "I see that there is no official pro sem scheduled for October 13th, but on our course it says, \"program meeting #1\" Does anyone know what that means?",
+        "user": "U05DD0R2J6R",
+        "ts": "1696864121.390779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CWomT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I see that there is no official pro sem scheduled for October 13th, but on our course it says, \"program meeting #1\" Does anyone know what that means?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9f2aa0222f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-23\/5782069155622_9f2aa0222f3469b2f8ea_72.jpg",
+            "first_name": "Danny",
+            "real_name": "Danny Gundersen",
+            "display_name": "Danny Gundersen",
+            "team": "T0ZBAEL59",
+            "name": "gundydc1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696864121.390779",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696866781.662789",
+        "reply_users": [
+            "U03L4GN325D"
+        ],
+        "replies": [
+            {
+                "user": "U03L4GN325D",
+                "ts": "1696866781.662789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "AA8625DE-2B1D-45E3-84A3-2E2315492645",
+        "type": "message",
+        "text": "I haven’t heard anything about it yet - but in the past it has meant a program wide guest speaker or event. ",
+        "user": "U03L4GN325D",
+        "ts": "1696866781.662789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G8Wk6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "haven’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " heard anything about it yet - but in the past it has meant a program wide guest speaker or event. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696864121.390779",
+        "parent_user_id": "U05DD0R2J6R"
+    },
+    {
+        "type": "message",
+        "text": "MBA-WIDE EVENT DURING PRO-SEMS THIS FRIDAY!\n\nThis Friday we are having an MBA Program Activity. Please join us any time from 10am - 12pm in the *Hinckley Center* on the 3rd floor. We will have cornhole, Yahtzee, card games, and snacks out the whole time. *At 12pm we will have pizza, veggies, and brief remarks from Dan Snow.*",
+        "files": [
+            {
+                "id": "F0612KL808Y",
+                "created": 1696892865,
+                "timestamp": 1696892865,
+                "name": "Pizza Party.png",
+                "title": "Pizza Party.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LK52VCQ2",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 332509,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0612KL808Y\/pizza_party.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0612KL808Y\/download\/pizza_party.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KL808Y-4cc44480d8\/pizza_party_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KL808Y-4cc44480d8\/pizza_party_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KL808Y-4cc44480d8\/pizza_party_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KL808Y-4cc44480d8\/pizza_party_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KL808Y-4cc44480d8\/pizza_party_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KL808Y-4cc44480d8\/pizza_party_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KL808Y-4cc44480d8\/pizza_party_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KL808Y-4cc44480d8\/pizza_party_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0612KL808Y-4cc44480d8\/pizza_party_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADCbe28FiQPTFKsZD5OAAfzp65I+YDHamsZMH5QeeKsgkyPWjI9ahUndyOOec\/lSZbHQZx696LDJiARg8imKzBtuw4HGRSjfxwMZ9O1PqWgRD8xcKx7\/AKUqyZbB7\/pWYCRxS7jjHH5VdhGrj5cZ\/WgA55P61lZzRuIpWC5pTblG5M546VIudo3Yz3rJ3H\/IpCSRiiwH\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK52VCQ2\/F0612KL808Y\/pizza_party.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0612KL808Y-778a60fbd0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LK52VCQ2",
+        "display_as_bot": false,
+        "ts": "1696892903.481769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Et2Te",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MBA-WIDE EVENT DURING PRO-SEMS THIS FRIDAY!\n\nThis Friday we are having an MBA Program Activity. Please join us any time from 10am - 12pm in the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hinckley Center",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " on the 3rd floor. We will have cornhole, Yahtzee, card games, and snacks out the whole time. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "At 12pm we will have pizza, veggies, and brief remarks from Dan Snow.",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b61d0964-e6ef-4147-970b-9db2fc0e7296",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U03LK56EXJN",
+                    "U05AN3R7398",
+                    "U03LG7C9P8V",
+                    "U03LCGM9XML",
+                    "U03L4GP8ZMM",
+                    "U05D98WS6FQ",
+                    "U05BBQEJNTA",
+                    "U05AN02C0E7",
+                    "U03LXQCJA81",
+                    "U05BBQD8SKS",
+                    "U05BBQFJ056"
+                ],
+                "count": 11
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05A7HEQV71",
+                    "U03L4GP8ZMM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "corn",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

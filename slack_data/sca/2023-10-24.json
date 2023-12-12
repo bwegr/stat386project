@@ -1,0 +1,211 @@
+[
+    {
+        "client_msg_id": "9eb3be7e-dc8f-4546-adac-71b5974fe85c",
+        "type": "message",
+        "text": "So excited for this!",
+        "user": "U03LK3EKMNF",
+        "ts": "1698156900.586819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XSid2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So excited for this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "708e718cb860",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-13\/3950037790081_708e718cb8606d3fadb8_72.png",
+            "first_name": "Jake",
+            "real_name": "Jake Preslar",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jacobpres4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698081468.063359",
+        "parent_user_id": "U03NW11JH19"
+    },
+    {
+        "client_msg_id": "90221279-C183-439E-9D8E-CE2D4FA2A15A",
+        "type": "message",
+        "text": "Hey Everyone! It’s finally here! There will be companies with full-time and internship opportunities at this networking event today Oct 24th at 6pm in the Hinckley Building East Conference room. We are inviting all past MBA SCA Alumni and friends of the program that what to see BYU MBA's get into strategy or consulting roles!\n\nConsulting Companies committed: *McKinsey, Bain, PwC, Slalom, Cicero, Clozd* (looking to get more to come)\nStrategy Roles\/Companies Committed: *Bill, Dees Limited, School Leadership Alliance, Henry Schein One, Security Metrics, BYU TV* (looking to get more to come)\n\nIf you are interested in Consulting it will be a great opportunity!\n\nIf you are interested in Strategic roles or strategy roles this will be a great opportunity!\n\n*Many of these companies are looking for interns and full-time roles or have connections to opportunities!*\n\nThere will be a soda bar and Hors d'oeuvres\n*NOW FREE for everyone - we have decided to drop the fee (thank you, anonymous supporter)*\nBusiness Casual",
+        "user": "U03NW11JH19",
+        "ts": "1698161840.333819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pVf4c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Everyone! It’s finally here! There will be companies with full-time and internship opportunities at this networking event today Oct 24th at 6pm in the Hinckley Building East Conference room. We are inviting all past MBA SCA Alumni and friends of the program that what to see BYU MBA's get into strategy or consulting roles!"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Consulting Companies committed:"
+                            },
+                            {
+                                "type": "text",
+                                "text": " McKinsey, Bain, PwC, Slalom, Cicero, Clozd",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (looking to get more to come)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Strategy Roles\/Companies Committed: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Bill, Dees Limited, School Leadership Alliance, Henry Schein One, Security Metrics, BYU TV ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(looking to get more to come)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "If you are interested in Consulting it will be a great opportunity!"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "If you are interested in Strategic roles or strategy roles this will be a great opportunity!"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Many of these companies are looking for interns and full-time roles or have connections to opportunities!",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "There will be a soda bar and Hors d'oeuvres"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "NOW FREE for everyone - we have decided to drop the fee (thank you, anonymous supporter)",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Business Casual"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "call_me_hand",
+                "users": [
+                    "U03UV6770V9",
+                    "U03LMGXDFB6",
+                    "U05BBQDP59N",
+                    "U03LK3EKMNF"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LMGXDFB6",
+                    "U03LK3EKMNF",
+                    "U05A7HEBCDV"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

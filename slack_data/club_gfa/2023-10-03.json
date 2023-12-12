@@ -1,0 +1,187 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel> I wanted to share the excel sheet that Kevin James, a second year, made for course offerings. It is not the end all be all, and it was made way back in April, but it is a great guide! I'm not sure that he's going to make a new edition of it, but this is a great resource to help plan your schedules! Make sure you say thanks when you run into him!",
+        "files": [
+            {
+                "id": "F05V08NN934",
+                "created": 1696364677,
+                "timestamp": 1696364677,
+                "name": "MBA Fall 2023 Courses (4.5.2023).xlsx",
+                "title": "MBA Fall 2023 Courses (4.5.2023).xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U03LMGYLSR2",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 25870,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V08NN934\/mba_fall_2023_courses__4.5.2023_.xlsx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V08NN934\/download\/mba_fall_2023_courses__4.5.2023_.xlsx?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V08NN934-14c9cb9aa9\/mba_fall_2023_courses__4.5.2023__converted.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V08NN934-14c9cb9aa9\/mba_fall_2023_courses__4.5.2023__thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LMGYLSR2\/F05V08NN934\/mba_fall_2023_courses__4.5.2023_.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05V08NN934-8cf7cea905",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LMGYLSR2",
+        "display_as_bot": false,
+        "ts": "1696364775.109449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nXyYZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I wanted to share the excel sheet that Kevin James, a second year, made for course offerings. It is not the end all be all, and it was made way back in April, but it is a great guide! I'm not sure that he's going to make a new edition of it, but this is a great resource to help plan your schedules! Make sure you say thanks when you run into him!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "327fba9b-1ff7-402e-b9db-aa8fa3c0e5e9",
+        "thread_ts": "1696364775.109449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696367392.842729",
+        "reply_users": [
+            "U03SZAWQBM4"
+        ],
+        "replies": [
+            {
+                "user": "U03SZAWQBM4",
+                "ts": "1696367392.842729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7BV35K",
+                    "U05BBQFD4V6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e35e1aa-3c42-4448-bd82-c9af0aeb82be",
+        "type": "message",
+        "text": "Nate and I have put together a fairly comprehensive finance specific document as well. We can send that out during the next GFA leadership meeting.",
+        "user": "U03SZAWQBM4",
+        "ts": "1696367392.842729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9rpJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nate and I have put together a fairly comprehensive finance specific document as well. We can send that out during the next GFA leadership meeting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696364775.109449",
+        "parent_user_id": "U03LMGYLSR2",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LMGYLSR2",
+                    "U03L4GN325D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9fc7ee2d-76ed-4b5a-add4-a216152280de",
+        "type": "message",
+        "text": "*Case Overview Pro-Sem*\n\nThis Friday, the finance Pro-Sem will be a “how to” lesson in casing.\n\nCome learn from the outstanding finance professor himself, Ben Iverson, about how to handle quantitative cases and what he looks for in a case. Then, get a student perspective from VCIC competition champion Adam Navar as he talks about tips for cases and case competitions.\n\nOnce again, this will be 9:30-10:45am in w208. A light breakfast will be provided. We look forward to seeing you there!",
+        "user": "U03L4GN325D",
+        "ts": "1696386972.789699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oFda0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Case Overview Pro-Sem",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis Friday, the finance Pro-Sem will be a “how to” lesson in casing.\n\nCome learn from the outstanding finance professor himself, Ben Iverson, about how to handle quantitative cases and what he looks for in a case. Then, get a student perspective from VCIC competition champion Adam Navar as he talks about tips for cases and case competitions.\n\nOnce again, this will be 9:30-10:45am in w208. A light breakfast will be provided. We look forward to seeing you there!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

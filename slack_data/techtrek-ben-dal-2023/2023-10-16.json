@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "f657d1f7-bd79-4f63-a220-9bc2690760df",
+        "type": "message",
+        "text": "<!channel> Walmart\/Sams emailed me this morning asking if we could give them a list of topics\/questions that you would be interested in having answered by a panel of Sr. Directors\/Vice Presidents.  The panel will be made up of BYU alum (not all MBA alum).  Please submit your topics\/questions on this thread.  I will be submitting them tomorrow at noon.  Thank you.",
+        "user": "U03PKR5881E",
+        "ts": "1697485381.350119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wyOZw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Walmart\/Sams emailed me this morning asking if we could give them a list of topics\/questions that you would be interested in having answered by a panel of Sr. Directors\/Vice Presidents.  The panel will be made up of BYU alum (not all MBA alum).  Please submit your topics\/questions on this thread.  I will be submitting them tomorrow at noon.  Thank you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

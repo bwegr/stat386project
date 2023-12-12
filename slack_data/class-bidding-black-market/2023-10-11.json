@@ -1,0 +1,519 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697080586.221389",
+        "user": "U03LG7C5QAH",
+        "text": "<@U03LG7C5QAH> has joined the channel"
+    },
+    {
+        "client_msg_id": "F7C19C35-EB79-40BF-9423-5E0B74DD22CB",
+        "type": "message",
+        "text": "<!channel> waddaya got <@U03LK39PKRR> ? :joy: ",
+        "user": "U03LG7C5QAH",
+        "ts": "1697080628.852979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6nitz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " waddaya got "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LK39PKRR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0c2ee268-51c3-40bd-ad56-2b7337f9d11c",
+        "type": "message",
+        "text": "<@U03LG7C5QAH> I can get you in _*any*_ class you want for $5000, no questions asked.\nHide the money (hard cash, no funny business) at the bottom of the ping-pong ball bucket in the lounge before 8am tomorrow, and the class will show up on your registration by 11am. Guaranteed.",
+        "user": "U03LK39PKRR",
+        "ts": "1697082458.427129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GLQDU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LG7C5QAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I can get you in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "any",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "class you want for $5000, no questions asked.\nHide the money (hard cash, no funny business) at the bottom of the ping-pong ball bucket in the lounge before 8am tomorrow, and the class will show up on your registration by 11am. Guaranteed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LMGYLSR2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FF9A32A7-271F-4149-9285-B9FE3FB82CD4",
+        "type": "message",
+        "text": "Monopoly money ok?",
+        "user": "U03LG7C5QAH",
+        "ts": "1697082484.025229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "leMR2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "onopoly money ok?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697082484.025229",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1697083754.344579",
+        "reply_users": [
+            "U03LK39PKRR",
+            "U03LG7C5QAH"
+        ],
+        "replies": [
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1697082561.954579"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697082796.596719"
+            },
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1697083200.421779"
+            },
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1697083218.172759"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697083754.344579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9bbf46c4-cb0b-429c-ae27-af539c956434",
+        "type": "message",
+        "text": "Toss in another $5k and I'll get the class on your _*transcript*_ for _*last semester*_ with an *A.*",
+        "user": "U03LK39PKRR",
+        "ts": "1697082507.018449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SYh5s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Toss in another $5k and I'll get the class on your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "transcript",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "last semester",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with an "
+                            },
+                            {
+                                "type": "text",
+                                "text": "A.",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5F75E9DD-B09A-45BD-BCE8-151A8EDCD503",
+        "type": "message",
+        "text": "Done",
+        "user": "U03LG7C5QAH",
+        "ts": "1697082515.501649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EXVQa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d1bd3b5d-a247-4d41-b041-0235c09605e2",
+        "type": "message",
+        "text": "I don't know the exchange rate on this, so probably not.",
+        "user": "U03LK39PKRR",
+        "ts": "1697082561.954579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1SGot",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know the exchange rate on this, so probably not."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697082484.025229",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "8038356F-EE9B-4C28-A095-E2C035EE9E05",
+        "type": "message",
+        "text": "Monopoly money is appreciating like crazy compared to the US dollar. Interest rates raised when Hasbro announced they were turning water works into an amusement park and capital is streaming in",
+        "user": "U03LG7C5QAH",
+        "ts": "1697082796.596719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O18hd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Monopoly money is appreciating like crazy compared to the US dollar. Interest rates raised when Hasbro announced they were turning water works into an amusement park and capital is streaming in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697082484.025229",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "14e8d56a-3d82-44f6-aed7-dccb16c69f06",
+        "type": "message",
+        "text": "Hhhmmmm...my finance people are telling me that there's $20,580 in a standard monopoly set and with an estimated 250 million sets sold, we're looking at a pretty saturated market - it's flooded with at least $5,145,000,000,000...",
+        "user": "U03LK39PKRR",
+        "ts": "1697083200.421779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hf8ys",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hhhmmmm...my finance people are telling me that there's $20,580 in a standard monopoly set and with an estimated 250 million sets sold, we're looking at a pretty saturated market - it's flooded with at least $5,145,000,000,000..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697082484.025229",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "6cc2d381-51c3-47b4-b476-9b65d7a4fd8d",
+        "type": "message",
+        "text": "But if you say it's appreciating, I won't challenge a loyal customer. Let me just do a bit of due diligence and verify a couple things with my team first...",
+        "user": "U03LK39PKRR",
+        "ts": "1697083218.172759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r+tfu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But if you say it's appreciating, I won't challenge a loyal customer. Let me just do a bit of due diligence and verify a couple things with my team first..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697082484.025229",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "01088BEC-49CE-44A4-9539-A5B55EDA3FAB",
+        "type": "message",
+        "text": "Ok but the GDP’s insane",
+        "user": "U03LG7C5QAH",
+        "ts": "1697083754.344579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sJIM0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok but the GDP’s insane"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697082484.025229",
+        "parent_user_id": "U03LG7C5QAH"
+    }
+]

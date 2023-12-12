@@ -1,0 +1,963 @@
+[
+    {
+        "client_msg_id": "35084540-24b6-4ebb-b547-db007c8cf4d5",
+        "type": "message",
+        "text": "VOTE FOR TRAVEL OPTIONS by *tonight*!\n1. Bangkok &gt; ChiangMai &gt; Manila (~$500 out of pocket)\n2. Bangkok &gt; Manila (~$200 out of pocket)\n3. Just the Philippines ($0 out of pocket)",
+        "user": "U03L4GLKLTZ",
+        "ts": "1698191458.567159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ESiNE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "VOTE FOR TRAVEL OPTIONS by "
+                            },
+                            {
+                                "type": "text",
+                                "text": "tonight",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bangkok > ChiangMai > Manila (~$500 out of pocket)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bangkok > Manila (~$200 out of pocket)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Just the Philippines ($0 out of pocket)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4e7196d104cf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-11\/3933734501588_4e7196d104cf80cb4cab_72.png",
+            "first_name": "Gretel",
+            "real_name": "Gretel Tam",
+            "display_name": "Gretel",
+            "team": "T0ZBAEL59",
+            "name": "greteltam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698191458.567159",
+        "reply_count": 10,
+        "reply_users_count": 7,
+        "latest_reply": "1698248030.373529",
+        "reply_users": [
+            "U03LKPR8N75",
+            "U03M8T9K6SU",
+            "U023PGS313M",
+            "U03NW11JH19",
+            "U03LK551XFU",
+            "U03LG779KGD",
+            "U03LK533VR8"
+        ],
+        "replies": [
+            {
+                "user": "U03LKPR8N75",
+                "ts": "1698191586.764269"
+            },
+            {
+                "user": "U03M8T9K6SU",
+                "ts": "1698193403.744859"
+            },
+            {
+                "user": "U023PGS313M",
+                "ts": "1698196608.165259"
+            },
+            {
+                "user": "U03NW11JH19",
+                "ts": "1698208337.914169"
+            },
+            {
+                "user": "U03LK551XFU",
+                "ts": "1698215450.723429"
+            },
+            {
+                "user": "U03LG779KGD",
+                "ts": "1698244814.313429"
+            },
+            {
+                "user": "U03NW11JH19",
+                "ts": "1698244905.848379"
+            },
+            {
+                "user": "U03LG779KGD",
+                "ts": "1698244961.920599"
+            },
+            {
+                "user": "U03LK533VR8",
+                "ts": "1698245093.896079"
+            },
+            {
+                "user": "U03LK551XFU",
+                "ts": "1698248030.373529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "three",
+                "users": [
+                    "U03LMGXA3FW",
+                    "U03LMGTRFN0",
+                    "U03M8T9K6SU",
+                    "U03LK385119",
+                    "U03LN7VEH2Q",
+                    "U03NW11JH19",
+                    "U03LK39EPB5",
+                    "U03LCGQP0LW",
+                    "U03L4GLKLTZ",
+                    "U03LK39LQ2F",
+                    "U03LG7DG3TP",
+                    "U03LK551XFU"
+                ],
+                "count": 12
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U03LKPR8N75",
+                    "U03LK4ZPZ4J",
+                    "U03LN7VEH2Q",
+                    "U03LG7C9P8V",
+                    "U023PGS313M",
+                    "U03LXQFQS3B",
+                    "U03LG779KGD",
+                    "U03L4GN325D"
+                ],
+                "count": 8
+            },
+            {
+                "name": "one",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9D29E771-98CC-4759-AB11-FFB970664590",
+        "type": "message",
+        "text": "I’d like :two:  but take those $200 out of the activities budget so that if we spend less on activities, we don’t lose that money",
+        "user": "U03LKPR8N75",
+        "ts": "1698191586.764269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fuITu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " like "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  but take those $200 out of the activities budget so that if we spend less on activities, we "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " lose that money"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67476f8f74f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-27\/3730625234548_67476f8f74f9500769f9_72.jpg",
+            "first_name": "Orson",
+            "real_name": "Orson Ellsworth",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "orson.ells",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698191458.567159",
+        "parent_user_id": "U03L4GLKLTZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LCGQP0LW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6DB3925A-884D-4C36-A03F-1895DCB9B8A4",
+        "type": "message",
+        "text": "<!channel> :point_up_2: :point_up_2: :point_up_2: ",
+        "user": "U03L4GLKLTZ",
+        "ts": "1698191931.927859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "44m0j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4e7196d104cf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-11\/3933734501588_4e7196d104cf80cb4cab_72.png",
+            "first_name": "Gretel",
+            "real_name": "Gretel Tam",
+            "display_name": "Gretel",
+            "team": "T0ZBAEL59",
+            "name": "greteltam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8695BD65-C1DC-46B7-B16E-A3CE91E3F2F8",
+        "type": "message",
+        "text": "<@U03LKPR8N75> you left your swag. I’m in room w247. Come get it from me. ",
+        "user": "U03LK385119",
+        "ts": "1698193128.440489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "myMV3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LKPR8N75"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you left your swag"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in room w247"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Come get it from me"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "1b12450db465",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3684886566439_1b12450db465bd81f446_72.jpg",
+            "first_name": "Tangaloa",
+            "real_name": "Tangaloa Kaufusi",
+            "display_name": "tangaloa",
+            "team": "T0ZBAEL59",
+            "name": "tangaloa.kaufusi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698193128.440489",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1698197848.444069",
+        "reply_users": [
+            "U03LKPR8N75",
+            "U03LK385119"
+        ],
+        "replies": [
+            {
+                "user": "U03LKPR8N75",
+                "ts": "1698196723.585799"
+            },
+            {
+                "user": "U03LK385119",
+                "ts": "1698196774.661749"
+            },
+            {
+                "user": "U03LKPR8N75",
+                "ts": "1698196939.590119"
+            },
+            {
+                "user": "U03LK385119",
+                "ts": "1698197793.352739"
+            },
+            {
+                "user": "U03LKPR8N75",
+                "ts": "1698197848.444069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "84ED012E-C72A-498B-ABCD-54DDED16278D",
+        "type": "message",
+        "text": "I voted for option 3 as is, but Orson's description of option 2 would change my vote.",
+        "user": "U03M8T9K6SU",
+        "ts": "1698193403.744859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oQAwk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I voted for option 3 as is, but Orson's description of option 2 would change my vote."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bb5517fdae8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6005443083891_7bb5517fdae8974e301c_72.png",
+            "first_name": "Chris",
+            "real_name": "Chris Lundy",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "lundycw09",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698191458.567159",
+        "parent_user_id": "U03L4GLKLTZ"
+    },
+    {
+        "client_msg_id": "d37e4df1-4dd7-4bb4-8bf7-eb9c8431b80b",
+        "type": "message",
+        "text": "I third Orson's vote!",
+        "user": "U023PGS313M",
+        "ts": "1698196608.165259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y4id+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I third Orson's vote!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e426a52b02ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-08\/2134257457031_e426a52b02efc87a4a42_72.jpg",
+            "first_name": "Dyllan",
+            "real_name": "Dyllan Beccari",
+            "display_name": "Dyllan Beccari",
+            "team": "T0ZBAEL59",
+            "name": "dyllan.beccari",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698191458.567159",
+        "parent_user_id": "U03L4GLKLTZ"
+    },
+    {
+        "client_msg_id": "CFBE5C4F-4CBC-4378-81EB-EA02D1F0DB40",
+        "type": "message",
+        "text": "I can’t believe I did that. I am so sorry. I just saw this, are you still on campus?",
+        "user": "U03LKPR8N75",
+        "ts": "1698196723.585799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nMumX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "can’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " believe I did that"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am so sorry"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " I just saw this, are you still on campus?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67476f8f74f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-27\/3730625234548_67476f8f74f9500769f9_72.jpg",
+            "first_name": "Orson",
+            "real_name": "Orson Ellsworth",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "orson.ells",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698193128.440489",
+        "parent_user_id": "U03LK385119"
+    },
+    {
+        "client_msg_id": "6510a202-aca2-4eef-afef-31a7d4c81fad",
+        "type": "message",
+        "text": "yes, i’ll be here until 8pm",
+        "user": "U03LK385119",
+        "ts": "1698196774.661749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d\/Y6d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, i’ll be here until 8pm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "1b12450db465",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3684886566439_1b12450db465bd81f446_72.jpg",
+            "first_name": "Tangaloa",
+            "real_name": "Tangaloa Kaufusi",
+            "display_name": "tangaloa",
+            "team": "T0ZBAEL59",
+            "name": "tangaloa.kaufusi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698193128.440489",
+        "parent_user_id": "U03LK385119"
+    },
+    {
+        "client_msg_id": "BA2DDD8E-C6EB-47B7-A662-63574FAC6022",
+        "type": "message",
+        "text": "Do you think you could stash it somewhere in the blue lounge or something? I don’t want to make you deal with it anymore than you’ve already had to. I’ve already gone home but if you don’t feel comfortable leaving it somewhere for me to pick up when I’m on campus tomorrow then I can absolutely comeback and grab it from you",
+        "user": "U03LKPR8N75",
+        "ts": "1698196939.590119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pJuG1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "o you think you could stash it somewhere in the blue lounge or something? I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " want to make you deal with it anymore than "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " already had to"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " already gone home but if you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " feel comfortable leaving it somewhere for me to pick up when "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on campus tomorrow then I can absolutely comeback and grab it from you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67476f8f74f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-27\/3730625234548_67476f8f74f9500769f9_72.jpg",
+            "first_name": "Orson",
+            "real_name": "Orson Ellsworth",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "orson.ells",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698193128.440489",
+        "parent_user_id": "U03LK385119"
+    },
+    {
+        "client_msg_id": "8aef5f0a-105b-4e27-9bae-87106141e77d",
+        "type": "message",
+        "text": "i’ll leave it in the blue lounge for you!",
+        "user": "U03LK385119",
+        "ts": "1698197793.352739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U7VId",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i’ll leave it in the blue lounge for you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "1b12450db465",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3684886566439_1b12450db465bd81f446_72.jpg",
+            "first_name": "Tangaloa",
+            "real_name": "Tangaloa Kaufusi",
+            "display_name": "tangaloa",
+            "team": "T0ZBAEL59",
+            "name": "tangaloa.kaufusi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698193128.440489",
+        "parent_user_id": "U03LK385119",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LK551XFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84D1D5B0-B297-41B9-B64D-7A88982763EE",
+        "type": "message",
+        "text": "You’re the best! I feel so bad. I’ll grab it as soon as I can tomorrow!",
+        "user": "U03LKPR8N75",
+        "ts": "1698197848.444069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x997J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the best! I feel so bad"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " grab it as soon as I can tomorrow!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67476f8f74f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-27\/3730625234548_67476f8f74f9500769f9_72.jpg",
+            "first_name": "Orson",
+            "real_name": "Orson Ellsworth",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "orson.ells",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698193128.440489",
+        "parent_user_id": "U03LK385119",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LK551XFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9080BFC6-F54F-4B3A-9152-04A5890983A3",
+        "type": "message",
+        "text": "I normally would be game for Orson’s however, We would have to cut everything we have planned and it would still not cover the $500 or $200 each. It is $4,600 -$11,500 that would need to be covered. I personally think there is benefit to doing activities as a group here in the US. But I will do as the group calls for.",
+        "user": "U03NW11JH19",
+        "ts": "1698208337.914169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i5Cyq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I normally would be game for Orson’s however, We would have to cut everything we have planned and it would still not cover the $500 or $200 each. It is $4,600 -$11,500 that would need to be covered. I personally think there is benefit to doing activities as a group here in the US. But I will do as the group calls for."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698191458.567159",
+        "parent_user_id": "U03L4GLKLTZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LK551XFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3d65024-d583-4ae9-9e69-04f0ece16ebc",
+        "type": "message",
+        "text": "<@U03LK533VR8> <@U03LK39LQ2F> <@U03L4GN325D> <@U03LG7DG3TP> <@U03LG779KGD> <@U03LXQFQS3B> Please cast your vote.",
+        "user": "U03LK551XFU",
+        "ts": "1698215450.723429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IlFlL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK533VR8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LK39LQ2F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03L4GN325D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LG7DG3TP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LG779KGD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LXQFQS3B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Please cast your vote."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698191458.567159",
+        "parent_user_id": "U03L4GLKLTZ"
+    }
+]

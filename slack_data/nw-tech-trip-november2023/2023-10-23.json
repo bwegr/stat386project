@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "1487a38f-60d3-4644-8a69-965509d770b4",
+        "type": "message",
+        "text": "I also already have an arrangement for Portland",
+        "user": "U05MZL0CBF0",
+        "ts": "1698083438.117099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wRjdE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also already have an arrangement for Portland"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g195c4e0e70e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/195c4e0e70e05c3e70c8aebb37309b97.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Nate",
+            "real_name": "Nate Hardy",
+            "display_name": "Nate Hardy",
+            "team": "T0ZBAEL59",
+            "name": "natechardy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697935582.204699",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "4936ee8b-c749-4858-a03a-9222716d4685",
+        "type": "message",
+        "text": "Thanks! I already found a place.",
+        "user": "U05AFDRFJ3Y",
+        "ts": "1698112579.828279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NraJI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! I already found a place."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "38764a32b503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-12\/5886625645250_38764a32b503769b43f0_72.png",
+            "first_name": "YiHuan",
+            "real_name": "YiHuan Liao",
+            "display_name": "Evan Liao",
+            "team": "T0ZBAEL59",
+            "name": "evanliao9541",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697922787.052219",
+        "parent_user_id": "U05AMVCTLRZ"
+    }
+]

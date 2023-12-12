@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "4F9FA70C-19A0-4148-90BA-DEB7F17B7367",
+        "type": "message",
+        "text": "Correct!",
+        "user": "U03LK4YJGQJ",
+        "ts": "1696709108.236839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pXf24",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Correct!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4bfa602a3916",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/4026473552256_4bfa602a39169e79a840_72.jpg",
+            "first_name": "Aaron",
+            "real_name": "Aaron Daines",
+            "display_name": "Aaron Daines",
+            "team": "T0ZBAEL59",
+            "name": "aaron.daines",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696661547.813679",
+        "parent_user_id": "U05AQGJMMT6"
+    }
+]

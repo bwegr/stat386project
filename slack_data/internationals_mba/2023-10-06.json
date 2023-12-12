@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "ee217a2b-9677-4920-8e63-c28ac0a7c59c",
+        "type": "message",
+        "text": "Who wants to take scuba diving?",
+        "user": "U03LXQCM22D",
+        "ts": "1696611856.031529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "McTf6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who wants to take scuba diving?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9503006ea617",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4075282164805_9503006ea6173bf3fdea_72.png",
+            "first_name": "Cheryl",
+            "real_name": "Cheryl Wong",
+            "display_name": "Cheryl Wong",
+            "team": "T0ZBAEL59",
+            "name": "cheryl.wong419",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696269398.512189",
+        "parent_user_id": "U03LK39EPB5"
+    }
+]

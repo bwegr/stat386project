@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "c71557b4-3255-47f1-98bc-3a98d27bb384",
+        "type": "message",
+        "text": "Anybody interested between 3:15-5pm today?",
+        "user": "U03LK533VR8",
+        "ts": "1696521860.766199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bNctH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anybody interested between 3:15-5pm today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

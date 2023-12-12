@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "0fffabcf-7a2d-4ec8-a5a7-28b005474788",
+        "type": "message",
+        "text": "<https:\/\/www.instagram.com\/reel\/CxRBI5GSfC_\/?utm_source=ig_web_copy_link>",
+        "user": "U03LK5045V0",
+        "ts": "1698124125.677719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ICYob",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/reel\/CxRBI5GSfC_\/?utm_source=ig_web_copy_link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b0a4fbd21f41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-25\/3705740993831_b0a4fbd21f41527354e8_72.jpg",
+            "first_name": "Cristian",
+            "real_name": "Cristian Torres",
+            "display_name": "Cristian Torres",
+            "team": "T0ZBAEL59",
+            "name": "cntorres",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LXQCJA81",
+                    "U05A7HE11LP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

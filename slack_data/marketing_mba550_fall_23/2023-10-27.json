@@ -1,0 +1,87 @@
+[
+    {
+        "type": "message",
+        "text": "Whoever you are, congrats ind4-e! :hat-tip:",
+        "files": [
+            {
+                "id": "F06316Z5WS2",
+                "created": 1698467503,
+                "timestamp": 1698467503,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05AN015NSX",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 81328,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F06316Z5WS2\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F06316Z5WS2\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06316Z5WS2-0ef3be5cce\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06316Z5WS2-0ef3be5cce\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06316Z5WS2-0ef3be5cce\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 320,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06316Z5WS2-0ef3be5cce\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 426,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06316Z5WS2-0ef3be5cce\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "original_w": 677,
+                "original_h": 601,
+                "thumb_tiny": "AwAqADCyrFmIEnTttpdsnTzf\/HakHel70XYrEW1\/+ev\/AI7S4k6iX\/x2pf8AGk\/xouwsR\/vf+ev\/AI7SjzMj973\/ALtPoFF2FhB3pe9IO9L3oGH+NH+NH+NL\/jQAn+NA7fWj0+tA7fWgBB3p3emjvTqAD\/Gj\/Gj\/ABo9PrQAD+tA7fWj\/Gj0+tAH\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05AN015NSX\/F06316Z5WS2\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F06316Z5WS2-93ffe84ae0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05AN015NSX",
+        "display_as_bot": false,
+        "ts": "1698467582.821789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V+ZWq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Whoever you are, congrats ind4-e! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hat-tip"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9a8fa5ca-e73b-46b2-9865-e00da608dcd4",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U05DFU87M98",
+                    "U05AMVD19GT",
+                    "U05H6DGRMRQ",
+                    "U03LXQCJA81"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

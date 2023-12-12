@@ -1,0 +1,158 @@
+[
+    {
+        "client_msg_id": "20cb5ab8-6637-4697-81de-b3083f4be3f9",
+        "type": "message",
+        "text": "Class is canceled right now but I’ll be in the class room (W210) to answer any questions!",
+        "user": "U03TVL5QZFA",
+        "ts": "1697729367.383409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8THlW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Class is canceled right now but I’ll be in the class room (W210) to answer any questions!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A98A2EE3-A6FC-4DD8-AEFE-1A285F820075",
+        "type": "message",
+        "text": "Moving my office hours up- room W255 from 11-12! Stop on by for any questions!",
+        "user": "U03LK4YJGQJ",
+        "ts": "1697734006.536369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s0ld6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moving my office hours up- room W255 from 11-12! Stop on by for any questions!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4bfa602a3916",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/4026473552256_4bfa602a39169e79a840_72.jpg",
+            "first_name": "Aaron",
+            "real_name": "Aaron Daines",
+            "display_name": "Aaron Daines",
+            "team": "T0ZBAEL59",
+            "name": "aaron.daines",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6C2F69FB-C65E-40E3-80C0-4B647DE682F5",
+        "type": "message",
+        "text": "<!channel> (just making sure people see this)",
+        "user": "U03LK4YJGQJ",
+        "ts": "1697735025.075909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dJc02",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (just making sure people see this)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4bfa602a3916",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/4026473552256_4bfa602a39169e79a840_72.jpg",
+            "first_name": "Aaron",
+            "real_name": "Aaron Daines",
+            "display_name": "Aaron Daines",
+            "team": "T0ZBAEL59",
+            "name": "aaron.daines",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ee968dcf-6c0a-4a56-ac22-82bc5b9d00a6",
+        "type": "message",
+        "text": "Going there",
+        "user": "U05AN02C0E7",
+        "ts": "1697735118.150879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lfh1F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Going there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c8a8b5ae6726",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5361571737781_c8a8b5ae6726bf382cce_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Antuña",
+            "display_name": "Julian Antuña",
+            "team": "T0ZBAEL59",
+            "name": "julian.rosario93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

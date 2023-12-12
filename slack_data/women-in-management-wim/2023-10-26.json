@@ -1,0 +1,371 @@
+[
+    {
+        "client_msg_id": "e33b91e0-78c3-4a25-8b18-33bf8b91da9a",
+        "type": "message",
+        "text": "Final reminder about the *Dell Top Golf event today from 5-7 in Vineyard!* The recruiters have advised me that there will be heaters, snacks, and raffle prizes so you won't want to miss out!!!",
+        "user": "U03LN7V9M0U",
+        "ts": "1698337747.083619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y+w6p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Final reminder about the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Dell Top Golf event today from 5-7 in Vineyard!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " The recruiters have advised me that there will be heaters, snacks, and raffle prizes so you won't want to miss out!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8cac14895c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3697224317173_8cac14895c8164615ff9_72.png",
+            "first_name": "Brenna",
+            "real_name": "Brenna Porter",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "brennaporter1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03PKR5GQUQ",
+                    "U05BBQDP59N",
+                    "U03L57R4HN3",
+                    "UKA415K3N",
+                    "U03LMGYLSR2",
+                    "U03LK5295DY"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e975322c-3db5-44ca-8885-56a77001410a",
+        "type": "message",
+        "text": "When you get to Top Golf, just tell them that you're with the BYU WIM &amp; Dell Event and they'll direct you to the right area!",
+        "user": "U03LN7V9M0U",
+        "ts": "1698354940.935759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aBHhS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When you get to Top Golf, just tell them that you're with the BYU WIM & Dell Event and they'll direct you to the right area!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8cac14895c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3697224317173_8cac14895c8164615ff9_72.png",
+            "first_name": "Brenna",
+            "real_name": "Brenna Porter",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "brennaporter1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "partying_face",
+                "users": [
+                    "U03PKR5GQUQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9D61A200-B2D5-4217-8110-AD78D66F47D5",
+        "type": "message",
+        "text": "For the Top Golf event, we are in bays 225 - 232",
+        "user": "U03LK5295DY",
+        "ts": "1698361241.472009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7oBve",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the Top Golf event, we are in bays 225 - 232"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fc0bdc6645be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-31\/3887605632561_fc0bdc6645be97c3c324_72.png",
+            "first_name": "Allison",
+            "real_name": "Allison Adams",
+            "display_name": "Allison Adams",
+            "team": "T0ZBAEL59",
+            "name": "adamsallison00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698361241.472009",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698361265.122019",
+        "reply_users": [
+            "U03LN7V9M0U"
+        ],
+        "replies": [
+            {
+                "user": "U03LN7V9M0U",
+                "ts": "1698361265.122019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U03LN7V9M0U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31EDF3D7-49A8-476C-92DA-646AA92D02C3",
+        "type": "message",
+        "text": "Thanks Allison!",
+        "user": "U03LN7V9M0U",
+        "ts": "1698361265.122019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pHsvW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Allison!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8cac14895c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3697224317173_8cac14895c8164615ff9_72.png",
+            "first_name": "Brenna",
+            "real_name": "Brenna Porter",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "brennaporter1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698361241.472009",
+        "parent_user_id": "U03LK5295DY"
+    },
+    {
+        "type": "message",
+        "text": "Come get dinner and snacks at Top Golf!",
+        "files": [
+            {
+                "id": "F062UR7PVBQ",
+                "created": 1698363328,
+                "timestamp": 1698363328,
+                "name": "IMG_6551.jpg",
+                "title": "IMG_6551",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03LN7V9M0U",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 1346928,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062UR7PVBQ\/img_6551.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062UR7PVBQ\/download\/img_6551.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062UR7PVBQ-52a609aad5\/img_6551_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062UR7PVBQ-52a609aad5\/img_6551_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062UR7PVBQ-52a609aad5\/img_6551_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062UR7PVBQ-52a609aad5\/img_6551_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062UR7PVBQ-52a609aad5\/img_6551_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062UR7PVBQ-52a609aad5\/img_6551_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062UR7PVBQ-52a609aad5\/img_6551_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062UR7PVBQ-52a609aad5\/img_6551_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062UR7PVBQ-52a609aad5\/img_6551_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADCpJFscjOD70hRhjIqaWVJH3FSMdjUeT8y4IY89aAGEHv2q1j92PwprR4tyCMtkH6CnD7gGR2pXHYsouVFNmGB+FM8x\/uqcD2pHL7SHJyPWquTYor9455FSFht49c1HilHQ0DLDF3XoExyTSqemCDx1zUMjsynJz9KSK4KgKAB9B1qbDLMUnHI3UrncT2yajOEj4Bz604N0Lev9KBFSgdaKB1qhDl5P4UiqBIvuRSr1P0oH30+ooY0X0jVl5GeajkAB4HvU0f3D9ail61Az\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LN7V9M0U\/F062UR7PVBQ\/img_6551.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F062UR7PVBQ-5e47fd2a94",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0633TXG84U",
+                "created": 1698363329,
+                "timestamp": 1698363329,
+                "name": "IMG_6550.jpg",
+                "title": "IMG_6550",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03LN7V9M0U",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 1455161,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0633TXG84U\/img_6550.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0633TXG84U\/download\/img_6550.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0633TXG84U-68e3d8d4bb\/img_6550_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0633TXG84U-68e3d8d4bb\/img_6550_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0633TXG84U-68e3d8d4bb\/img_6550_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0633TXG84U-68e3d8d4bb\/img_6550_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0633TXG84U-68e3d8d4bb\/img_6550_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0633TXG84U-68e3d8d4bb\/img_6550_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0633TXG84U-68e3d8d4bb\/img_6550_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0633TXG84U-68e3d8d4bb\/img_6550_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0633TXG84U-68e3d8d4bb\/img_6550_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADBggJ\/i+lPFuvdjRlcff\/Sjn1NK4CiFQSQW49cYNK8QUZABHpioZJfLOCDmnLIGTKscj1FFx2HFBx+7HPtTGAH8A\/KgNlhzx35pGcEZBP5UARynzHA\/gX3qaNmkkVQSAT0zUJljJ7\/lTknjRiwzkjHTpTsJMLl45mGxcEZBpib8bRgDNOMsR+v0ojmiXryQcjjpRYLjXQoducHuKlSImI5Oe\/FQsyNLv349RipmuIyuAcDuKLBcp0lLSUxBRRRQAUlFFAH\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LN7V9M0U\/F0633TXG84U\/img_6550.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0633TXG84U-8ff0056507",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LN7V9M0U",
+        "team": "T0ZBAEL59",
+        "ts": "1698363353.874219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4MZg9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Come get dinner and snacks at Top Golf!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "C3004BF7-E846-41D8-8398-E6AB2EB7D7D0",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8cac14895c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3697224317173_8cac14895c8164615ff9_72.png",
+            "first_name": "Brenna",
+            "real_name": "Brenna Porter",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "brennaporter1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heartpulse",
+                "users": [
+                    "U03P8MY0DR7",
+                    "U03L4GP8ZMM"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

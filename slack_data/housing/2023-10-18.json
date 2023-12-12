@@ -1,0 +1,325 @@
+[
+    {
+        "client_msg_id": "8CC38F8C-4F11-40CA-AB84-5A0BE0FBEBD0",
+        "type": "message",
+        "text": "How much is rent?",
+        "user": "U0171LYGQ2U",
+        "ts": "1697621914.904969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "leO+p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How much is rent?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "05c7c35bc546",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6059841394263_05c7c35bc546fcdc9ca9_72.png",
+            "first_name": "Kim",
+            "real_name": "Kim Taylor",
+            "display_name": "Kim Taylor",
+            "team": "T0ZBAEL59",
+            "name": "kimberly.tamo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696689637.435459",
+        "parent_user_id": "U05DFQNU4EP"
+    },
+    {
+        "client_msg_id": "A6198554-34BB-4FBC-BF27-B4CC2566B4B3",
+        "type": "message",
+        "text": "I assume this is men’s only?",
+        "user": "U0171LYGQ2U",
+        "ts": "1697621963.690899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WEbIm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I assume this is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "men’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " only?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "05c7c35bc546",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6059841394263_05c7c35bc546fcdc9ca9_72.png",
+            "first_name": "Kim",
+            "real_name": "Kim Taylor",
+            "display_name": "Kim Taylor",
+            "team": "T0ZBAEL59",
+            "name": "kimberly.tamo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1692034693.130769",
+        "parent_user_id": "U026ANC3WH1"
+    },
+    {
+        "client_msg_id": "DD94FB0C-D3E9-4628-9649-AB1BD51542D7",
+        "type": "message",
+        "text": "Omg Im looking for a place that also allows cats!! Did she find a place?",
+        "user": "U0171LYGQ2U",
+        "ts": "1697622046.732759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R2eQB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Omg Im looking for a place that also allows cats!! Did she find a place?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "05c7c35bc546",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6059841394263_05c7c35bc546fcdc9ca9_72.png",
+            "first_name": "Kim",
+            "real_name": "Kim Taylor",
+            "display_name": "Kim Taylor",
+            "team": "T0ZBAEL59",
+            "name": "kimberly.tamo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690861038.069589",
+        "parent_user_id": "U03LXQCEVKK"
+    },
+    {
+        "client_msg_id": "86A3EC8A-F189-4E6F-A971-75184430B771",
+        "type": "message",
+        "text": "Hi!! I’m looking for a private room for rent\n\n - I’d love to live with other MBA roommates, but not a deal breaker\n - I have furniture in storage and can provide my own if needed. \n - My husband and I are doing long distance while I finish the program, and he’ll be visiting me every month\n - I would love to bring my cats with me, so a place that allows cats would be superb! But if not I’d just leave them with my husband back home.\n - Private bathroom would be nice, but also not a deal breaker\n - The closer to campus the better, but I do have a car and can be flexible\n\nThanks!!",
+        "user": "U0171LYGQ2U",
+        "ts": "1697622363.369019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z0a6r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi!! I’m looking for a private room for rent\n\n - "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " love to live with other MBA roommates, but not a deal breaker\n - I have furniture in storage and can provide my own if needed. \n - My husband and I are doing long distance while I finish the program, and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "he’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be visiting me every month\n - I would love to bring my cats with me, so a place that allows cats would be superb! But if not "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just leave them with my husband back home.\n - Private bathroom would be nice, but also not a deal breaker\n - The closer to campus the better, but I do have a car and can be flexible\n\nThanks!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "05c7c35bc546",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6059841394263_05c7c35bc546fcdc9ca9_72.png",
+            "first_name": "Kim",
+            "real_name": "Kim Taylor",
+            "display_name": "Kim Taylor",
+            "team": "T0ZBAEL59",
+            "name": "kimberly.tamo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "607674CE-F9B1-4280-9748-4FBBAFE61B38",
+        "type": "message",
+        "text": "She did eventually! And she took it :joy: ",
+        "user": "U03LXQCEVKK",
+        "ts": "1697638620.289869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RFksg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "She did eventually! And she took it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690861038.069589",
+        "parent_user_id": "U03LXQCEVKK"
+    },
+    {
+        "client_msg_id": "ac742797-54ee-41e9-b5ea-6867ac4a3341",
+        "type": "message",
+        "text": "$1,400 for rent and $150 a month for utilities.",
+        "user": "U05DFQNU4EP",
+        "ts": "1697639097.690639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Mmg4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "$1,400 for rent and $150 a month for utilities."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe53c672847",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-21\/5455152209798_fbe53c672847250a8ed4_72.png",
+            "first_name": "Hunter",
+            "real_name": "Hunter Blalack",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "blalackhunter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696689637.435459",
+        "parent_user_id": "U05DFQNU4EP"
+    },
+    {
+        "client_msg_id": "CE7858BC-104C-4342-9F42-AFD683B385AF",
+        "type": "message",
+        "text": "Lmk if she needs a roommate!",
+        "user": "U0171LYGQ2U",
+        "ts": "1697657646.245519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q9omv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lmk if she needs a roommate"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "05c7c35bc546",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6059841394263_05c7c35bc546fcdc9ca9_72.png",
+            "first_name": "Kim",
+            "real_name": "Kim Taylor",
+            "display_name": "Kim Taylor",
+            "team": "T0ZBAEL59",
+            "name": "kimberly.tamo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690861038.069589",
+        "parent_user_id": "U03LXQCEVKK"
+    }
+]

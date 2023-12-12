@@ -1,0 +1,910 @@
+[
+    {
+        "client_msg_id": "1E80658F-14E7-4668-9D47-511E66D0BE7E",
+        "type": "message",
+        "text": "GAME DAY",
+        "user": "U05BBQG6MKJ",
+        "ts": "1697901291.061389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JHcV\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GAME DAY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a9f193706d79",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6104144667268_a9f193706d795ed42fc5_72.png",
+            "first_name": "Thomas",
+            "real_name": "Thomas Niedfeldt",
+            "display_name": "Thomas",
+            "team": "T0ZBAEL59",
+            "name": "tcniedfeldt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B4CCD897-CC15-4771-94AB-0646E2E2E3CF",
+        "type": "message",
+        "text": "Who all wants to sit together?",
+        "user": "U05BBQG6MKJ",
+        "ts": "1697901330.682999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oc5Mb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who all wants to sit together?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a9f193706d79",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6104144667268_a9f193706d795ed42fc5_72.png",
+            "first_name": "Thomas",
+            "real_name": "Thomas Niedfeldt",
+            "display_name": "Thomas",
+            "team": "T0ZBAEL59",
+            "name": "tcniedfeldt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "hand",
+                "users": [
+                    "U03LG7C5QAH",
+                    "U03NW11JH19"
+                ],
+                "count": 2
+            },
+            {
+                "name": "hand::skin-tone-3",
+                "users": [
+                    "U03LK533VR8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AA6CD9ED-D33B-4184-BE10-72D6EE4D165E",
+        "type": "message",
+        "text": "When are folks heading over? I’m thinking I’ll try to get there around 4:30ish",
+        "user": "U05BBQG6MKJ",
+        "ts": "1697924880.920449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kBHeI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When are folks heading over? "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thinking "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " try to get there around 4:30ish"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a9f193706d79",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6104144667268_a9f193706d795ed42fc5_72.png",
+            "first_name": "Thomas",
+            "real_name": "Thomas Niedfeldt",
+            "display_name": "Thomas",
+            "team": "T0ZBAEL59",
+            "name": "tcniedfeldt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697924880.920449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697925034.698349",
+        "reply_users": [
+            "U03LK533VR8"
+        ],
+        "replies": [
+            {
+                "user": "U03LK533VR8",
+                "ts": "1697925034.698349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8008D3E6-5A58-4924-B82C-761AC0641EA5",
+        "type": "message",
+        "text": "Going to park around the RB in 20 ish, at LES around 4:30 as well",
+        "user": "U03LK533VR8",
+        "ts": "1697925034.698349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ovp5F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Going"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to park around the RB in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "20 ish, at LES around 4:30 as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697924880.920449",
+        "parent_user_id": "U05BBQG6MKJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05BBQG6MKJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1F647CF9-07C9-4285-984D-8493911433D1",
+        "type": "message",
+        "text": "Let me know where you guys are sitting. I am going to be coming late ",
+        "user": "U03NW11HA9H",
+        "ts": "1697926489.897869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yl8tk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me know where you guys are sitting"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am going to be coming late "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6a130392200c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4505166801655_6a130392200ca475659a_72.png",
+            "first_name": "Richie",
+            "real_name": "Richie Connolly",
+            "display_name": "Richie Connolly",
+            "team": "T0ZBAEL59",
+            "name": "richardkconnolly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LG7C5QAH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63292756-E55C-4AE8-92A6-6C7DC79D6B34",
+        "type": "message",
+        "text": "<@U03LK533VR8> you there yet?",
+        "user": "U05BBQG6MKJ",
+        "ts": "1697927079.681079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8rLjL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK533VR8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you there yet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a9f193706d79",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6104144667268_a9f193706d795ed42fc5_72.png",
+            "first_name": "Thomas",
+            "real_name": "Thomas Niedfeldt",
+            "display_name": "Thomas",
+            "team": "T0ZBAEL59",
+            "name": "tcniedfeldt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "405C001A-B633-485A-A3C9-4B2F19F4B91F",
+        "type": "message",
+        "text": "I’m approaching the stadium now, but it’ll be another 15 before I’m inside",
+        "user": "U05BBQG6MKJ",
+        "ts": "1697927097.099139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yAf5S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " approaching the stadium now, but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be another 15 before "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " inside"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a9f193706d79",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6104144667268_a9f193706d795ed42fc5_72.png",
+            "first_name": "Thomas",
+            "real_name": "Thomas Niedfeldt",
+            "display_name": "Thomas",
+            "team": "T0ZBAEL59",
+            "name": "tcniedfeldt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CBDE473B-27D5-40E0-A8BB-C99F43EF7E64",
+        "type": "message",
+        "text": "I’m probably thirty out ",
+        "user": "U03LK533VR8",
+        "ts": "1697927118.391669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vUgCN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m probably thirty out "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05BBQG6MKJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7DC7BEBF-1BF2-4AA5-8876-DF050CF434A4",
+        "type": "message",
+        "text": "I’ll try to grab some seats ",
+        "user": "U05BBQG6MKJ",
+        "ts": "1697927139.421429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FZqVf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " try to grab some seats "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a9f193706d79",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6104144667268_a9f193706d795ed42fc5_72.png",
+            "first_name": "Thomas",
+            "real_name": "Thomas Niedfeldt",
+            "display_name": "Thomas",
+            "team": "T0ZBAEL59",
+            "name": "tcniedfeldt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03LG7C5QAH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4D60790C-3A52-4A26-A15F-6D7E9C02C548",
+        "type": "message",
+        "text": "I’m parked just had to make an emergency run to Wendy’s",
+        "user": "U03LG7C5QAH",
+        "ts": "1697927483.913329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vmMhq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " parked just had to make an emergency run to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Wendy’s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7EF2CCAF-D9F3-4052-8F5C-FAE1277A6441",
+        "type": "message",
+        "text": "I’m saving about 3-4 seats",
+        "user": "U05BBQG6MKJ",
+        "ts": "1697927727.501739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CZl7t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " saving about 3-4 seats"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a9f193706d79",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6104144667268_a9f193706d795ed42fc5_72.png",
+            "first_name": "Thomas",
+            "real_name": "Thomas Niedfeldt",
+            "display_name": "Thomas",
+            "team": "T0ZBAEL59",
+            "name": "tcniedfeldt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "047B60F0-6386-4CAB-B80C-D4B801E2F428",
+        "type": "message",
+        "text": "Portal RR\nSection 136\nRow 18\nI’m in the middle",
+        "user": "U05BBQG6MKJ",
+        "ts": "1697927802.103999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VQRyY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Portal RR\nSection 136\nRow 18\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the middle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a9f193706d79",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6104144667268_a9f193706d795ed42fc5_72.png",
+            "first_name": "Thomas",
+            "real_name": "Thomas Niedfeldt",
+            "display_name": "Thomas",
+            "team": "T0ZBAEL59",
+            "name": "tcniedfeldt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697927802.103999",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697929539.894819",
+        "reply_users": [
+            "U03NW11JH19",
+            "U03LK533VR8"
+        ],
+        "replies": [
+            {
+                "user": "U03NW11JH19",
+                "ts": "1697929131.221959"
+            },
+            {
+                "user": "U03LK533VR8",
+                "ts": "1697929539.894819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5958E04A-C767-42DD-95E4-F1E879FB93BB",
+        "type": "message",
+        "text": "We’re coming!",
+        "user": "U03LG7C5QAH",
+        "ts": "1697928078.824659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Kh+d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " coming!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "76F07D67-A4F9-44A7-88F8-997FCA2049EB",
+        "type": "message",
+        "text": "Are there more seats by you ",
+        "user": "U03NW11JH19",
+        "ts": "1697929131.221959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLQBi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are there more seats by you "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697927802.103999",
+        "parent_user_id": "U05BBQG6MKJ"
+    },
+    {
+        "client_msg_id": "18BFD089-435B-4C8C-B886-89BFA5895E01",
+        "type": "message",
+        "text": "<@U05BBQG6MKJ> do you still have seats?",
+        "user": "U05B0NHGDG9",
+        "ts": "1697929141.181079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6+0h0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQG6MKJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you still have seats?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6aef7af62a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-13\/5893313366019_6aef7af62a81961b3c25_72.png",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Castro",
+            "display_name": "Hyrum Castro",
+            "team": "T0ZBAEL59",
+            "name": "castrohyrums",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E65E34F9-9E5F-44F2-917A-50A7FE94B9F0",
+        "type": "message",
+        "text": "<@U05B0NHGDG9> we still have seats ",
+        "user": "U03PKR5881E",
+        "ts": "1697929392.892299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CegaP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05B0NHGDG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we still have seats "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4B4B31D9-1E4E-41A5-9968-17AA1A4D7EC9",
+        "type": "message",
+        "text": "Yes come over!",
+        "user": "U03LK533VR8",
+        "ts": "1697929539.894819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UUzSU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes come over!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697927802.103999",
+        "parent_user_id": "U05BBQG6MKJ"
+    },
+    {
+        "client_msg_id": "4B772598-AAEE-4FE3-9711-360DFA9CF8C2",
+        "type": "message",
+        "text": "Yep!",
+        "user": "U05BBQG6MKJ",
+        "ts": "1697929691.434509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "flseh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a9f193706d79",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6104144667268_a9f193706d795ed42fc5_72.png",
+            "first_name": "Thomas",
+            "real_name": "Thomas Niedfeldt",
+            "display_name": "Thomas",
+            "team": "T0ZBAEL59",
+            "name": "tcniedfeldt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "05A3C6A0-CFB6-493D-BBDC-6618D8D310B9",
+        "type": "message",
+        "text": "Omw there, thank you!",
+        "user": "U05B0NHGDG9",
+        "ts": "1697929879.931339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gdIDE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Omw there, thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6aef7af62a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-13\/5893313366019_6aef7af62a81961b3c25_72.png",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Castro",
+            "display_name": "Hyrum Castro",
+            "team": "T0ZBAEL59",
+            "name": "castrohyrums",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

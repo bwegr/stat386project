@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "4A9669AD-F64D-4659-AF06-0C957EF646B8",
+        "type": "message",
+        "text": "<https:\/\/news.byu.edu\/byu-business-professor-is-hunting-a-different-type-of-ghost-this-halloween|https:\/\/news.byu.edu\/byu-business-professor-is-hunting-a-different-type-of-ghost-this-halloween>\n:eyes: ",
+        "user": "U05AMVCTLRZ",
+        "ts": "1698339412.371089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Br1Yk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/news.byu.edu\/byu-business-professor-is-hunting-a-different-type-of-ghost-this-halloween",
+                                "text": "https:\/\/news.byu.edu\/byu-business-professor-is-hunting-a-different-type-of-ghost-this-halloween"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21cea2f50db5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5357074088198_21cea2f50db509542cea_72.png",
+            "first_name": "Travis",
+            "real_name": "Travis Crosby",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "crosbytrc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "jeff2",
+                "users": [
+                    "U05AN015NSX",
+                    "U05A7HE5MTR",
+                    "U05DD0R44G5",
+                    "U03LK3D5N2X",
+                    "U05B0NHGDG9",
+                    "U05H6DGRMRQ",
+                    "U03LK56AUHG",
+                    "U05AQGJMMT6"
+                ],
+                "count": 8
+            },
+            {
+                "name": "ghost",
+                "users": [
+                    "U05AN015NSX",
+                    "U05A7HE11LP",
+                    "U05AFDRH8AJ",
+                    "U03LXQCJA81",
+                    "U03LK56AUHG",
+                    "U05H8SL2HFE"
+                ],
+                "count": 6
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U03LK56AUHG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "jack_o_lantern",
+                "users": [
+                    "U03LK56AUHG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

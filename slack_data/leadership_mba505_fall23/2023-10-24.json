@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "5b91f49c-0cfb-472a-a858-02fc0345668f",
+        "type": "message",
+        "text": "What is @channel? I can't seem to find this.",
+        "user": "U05DD0R2J6R",
+        "ts": "1698161135.099189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "miZWx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What is @channel? I can't seem to find this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9f2aa0222f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-23\/5782069155622_9f2aa0222f3469b2f8ea_72.jpg",
+            "first_name": "Danny",
+            "real_name": "Danny Gundersen",
+            "display_name": "Danny Gundersen",
+            "team": "T0ZBAEL59",
+            "name": "gundydc1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697744843.339149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "CDDC715B-0FCD-4B3F-949D-F0985EBEA109",
+        "type": "message",
+        "text": "It’s under module 6 on canvas ",
+        "user": "U03LMGXA3FW",
+        "ts": "1698161296.602669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AI1En",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " under module 6 on canvas "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697744843.339149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "9fcff2cc-7860-472e-9312-5808942d49e5",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U05DD0R2J6R",
+        "ts": "1698162653.016819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ye0AT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9f2aa0222f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-23\/5782069155622_9f2aa0222f3469b2f8ea_72.jpg",
+            "first_name": "Danny",
+            "real_name": "Danny Gundersen",
+            "display_name": "Danny Gundersen",
+            "team": "T0ZBAEL59",
+            "name": "gundydc1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697744843.339149",
+        "parent_user_id": "U03LMGXA3FW"
+    }
+]

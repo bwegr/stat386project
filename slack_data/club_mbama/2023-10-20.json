@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "4BFF11B8-1D36-4CF6-B43E-9D8048455739",
+        "type": "message",
+        "text": "Marketers, join us STARTING NOW In W240 for Dave Boyce’s presentation.",
+        "user": "U03L57R4HN3",
+        "ts": "1697828554.829639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IZxlU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marketers, join us STARTING NOW In W240 for Dave Boyce’s presentation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2d6d47b9-2ba5-42b7-9796-f17b8720d5df",
+        "type": "message",
+        "text": "I'd be interested in helping out with this!",
+        "user": "U05AFDTJEUW",
+        "ts": "1697838321.252909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CscUZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd be interested in helping out with this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "72b4e8495ef2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-18\/5924924451553_72b4e8495ef27fb8d9ff_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Chamberlain",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexander.chamberlain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697484686.854309",
+        "parent_user_id": "U03LK4YF3A6",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LK4YF3A6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

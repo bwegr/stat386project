@@ -1,0 +1,1166 @@
+[
+    {
+        "client_msg_id": "33101384-335F-4F0F-AC3C-7BF335C94F6D",
+        "type": "message",
+        "text": "So what should I call my chili then? Since Evan decided it will be vegan…\n“The most ethical”?\n“Murder-free”?\n“Tofu** your meat”?",
+        "user": "U03LGTR0KV3",
+        "ts": "1696624150.306089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0JmLY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So what should I call my chili then? Since Evan decided it will be vegan"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n“The most ethical”?\n“Murder-free”?\n“Tofu** your meat”?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "213B175B-F2B9-4268-A157-5834BAA5C240",
+        "type": "message",
+        "text": "Murder free has a nice ring to it ",
+        "user": "U03LCGM9XML",
+        "ts": "1696624626.635829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X0SuK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Murder free has a nice ring to it "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe4a9879d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Parry",
+            "display_name": "Evan Parry",
+            "team": "T0ZBAEL59",
+            "name": "evanparry13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3C2E07A2-CEF7-4641-B187-1BEF1419FD9D",
+        "type": "message",
+        "text": "I think I’m coming tonight.",
+        "user": "U03LMGTRFN0",
+        "ts": "1696624678.839959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l8bGF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "think I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " coming tonight."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "BCE8DDEB-58D9-4698-9869-A69234D388B0",
+        "type": "message",
+        "text": "Yea you are ",
+        "user": "U03LCGM9XML",
+        "ts": "1696624706.901939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T8Fbz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yea you are "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe4a9879d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Parry",
+            "display_name": "Evan Parry",
+            "team": "T0ZBAEL59",
+            "name": "evanparry13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696624706.901939",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696625008.290239",
+        "reply_users": [
+            "U03LMGTRFN0",
+            "U03LCGM9XML"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGTRFN0",
+                "ts": "1696624795.831799"
+            },
+            {
+                "user": "U03LCGM9XML",
+                "ts": "1696625008.290239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9D62E2B6-147A-4B01-9B71-811212DF6E55",
+        "type": "message",
+        "text": "How about Chili Verdegan",
+        "user": "U03LMGTRFN0",
+        "ts": "1696624769.882589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m1p4G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How about Chili Verdegan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "AB9266C8-3323-4BDD-8D79-7C4219C4F0E3",
+        "type": "message",
+        "text": "Get it. Like verde and vegan combined..",
+        "user": "U03LMGTRFN0",
+        "ts": "1696624780.315699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WwMfr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Get it. Like verde and vegan combined.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "18C0FA29-2BA4-4C32-A205-35B98B2CBC78",
+        "type": "message",
+        "text": "Okay, now I’m not coming….",
+        "user": "U03LMGTRFN0",
+        "ts": "1696624795.831799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OYSkU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, now "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not coming"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696624706.901939",
+        "parent_user_id": "U03LCGM9XML"
+    },
+    {
+        "client_msg_id": "BE1AC736-CF63-4200-B95F-5F9B49A5D53D",
+        "type": "message",
+        "text": "That’s good! It’s not green though…",
+        "user": "U03LGTR0KV3",
+        "ts": "1696624808.701399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G51Oa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " good! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "It’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not green though"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "EAFE6833-B790-4C31-938D-8626D13ED4C3",
+        "type": "message",
+        "text": "Or “Plant-astic Chili”",
+        "user": "U03LMGTRFN0",
+        "ts": "1696624834.509499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wy2ZK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or “Plant-astic Chili”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C6DAA8B4-C167-4778-A56F-150829B2027F",
+        "type": "message",
+        "text": "Or “Chili Non-Carne”",
+        "user": "U03LMGTRFN0",
+        "ts": "1696624861.374839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dL86y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or “Chili Non-Carne”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0AD9D71A-FDFB-455D-80DD-35A2CA2DF29C",
+        "type": "message",
+        "text": "Man you really need to go into branding\/advertising, Jared!",
+        "user": "U03LGTR0KV3",
+        "ts": "1696624901.605079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aJAfO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Man you really need to go into branding\/advertising, Jared"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E486F514-89ED-4DC7-9983-FFA04D7648DD",
+        "type": "message",
+        "text": "These are :fire: ",
+        "user": "U03LGTR0KV3",
+        "ts": "1696624908.389409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c3\/Cs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "These are "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2B1D5AF8-180C-4E41-80D3-0F839527D83B",
+        "type": "message",
+        "text": "You don’t mean that ",
+        "user": "U03LCGM9XML",
+        "ts": "1696625008.290239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "44SX8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mean that "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe4a9879d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Parry",
+            "display_name": "Evan Parry",
+            "team": "T0ZBAEL59",
+            "name": "evanparry13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696624706.901939",
+        "parent_user_id": "U03LCGM9XML"
+    },
+    {
+        "client_msg_id": "0C6405EA-EFB5-46B8-845C-15CD461BE4F6",
+        "type": "message",
+        "text": "How about “Bean There, Done that Chili”",
+        "user": "U03LMGTRFN0",
+        "ts": "1696625228.715529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DNTgU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How about “Bean There, Done that Chili”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3A688F67-0E10-4327-BB7F-39517CB08F1C",
+        "type": "message",
+        "text": "Or “Vegan Gastro-Blaster”",
+        "user": "U03LMGTRFN0",
+        "ts": "1696625246.781129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gk\/Mn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or “Vegan Gastro-Blaster”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "893D5075-1A83-4FF1-95FB-F912138A377F",
+        "type": "message",
+        "text": "Or the “Toot-ally Vegan Chilli”",
+        "user": "U03LMGTRFN0",
+        "ts": "1696625269.424599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uMDNj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or the “Toot-ally Vegan Chilli”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B36474BF-FFA7-4F15-B338-C85FF2DF3CC9",
+        "type": "message",
+        "text": "I want people to eat it, not think their bowels are gonna explode",
+        "user": "U03LGTR0KV3",
+        "ts": "1696625555.117659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I66XL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want people to eat it, not think their bowels are gonna explode"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D78A1B21-0FB0-4535-BAA7-ED6AAD1B6680",
+        "type": "message",
+        "text": "If you want people to eat it, don’t say it’s vegan. Then when it wins, you can yell “it’s vegan bitches!”",
+        "user": "U03LCGM9XML",
+        "ts": "1696625608.423619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gBkgY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you want people to eat it, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "say it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " vegan. Then when it wins, you can yell “"
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " vegan bitches!”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe4a9879d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Parry",
+            "display_name": "Evan Parry",
+            "team": "T0ZBAEL59",
+            "name": "evanparry13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "067B1E81-2A58-43FE-B41B-82C6E5A9DA1B",
+        "type": "message",
+        "text": "Yes!",
+        "user": "U03LGTR0KV3",
+        "ts": "1696625632.795389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ic8PB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ready for showtime! Is there a category for funniest?",
+        "files": [
+            {
+                "id": "F060596EGSX",
+                "created": 1696629614,
+                "timestamp": 1696629614,
+                "name": "IMG_1758.jpg",
+                "title": "IMG_1758",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03LGTR0KV3",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 1784070,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060596EGSX\/img_1758.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060596EGSX\/download\/img_1758.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060596EGSX-bece79a5f3\/img_1758_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060596EGSX-bece79a5f3\/img_1758_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060596EGSX-bece79a5f3\/img_1758_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060596EGSX-bece79a5f3\/img_1758_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060596EGSX-bece79a5f3\/img_1758_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060596EGSX-bece79a5f3\/img_1758_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060596EGSX-bece79a5f3\/img_1758_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060596EGSX-bece79a5f3\/img_1758_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060596EGSX-bece79a5f3\/img_1758_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACRRI5BLED6cU3qc+\/fmjduOFOB\/tU4NgcY5\/iFAAuzqQSfc0rAZAAIH600KSOSPrT1UAYPUnnmgBceqr7c0YH91fzoaTDHnP4U3zP8AOKAGRx78KOmM5NPa3ZuNy0lrjcxBzxVjNc85tOyGRLA4AGVwKR0KEFgCCfWp81HOCVGDjmiFRt2YhmT\/AA9PejLe1AHHJFGB6iugCOOVUBEYGO9SNO2Mqox71CgAPAGPWnE+nUdKzcIvUZJ57d0pHk3JyAO4pinDEtSZzkA7vTHahQitQFEjEZAA\/Cje3ov5U3LDgAijc\/8AtVoI\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LGTR0KV3\/F060596EGSX\/img_1758.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060596EGSX-e8a00956f6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LGTR0KV3",
+        "display_as_bot": false,
+        "ts": "1696629684.029539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xcS9O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ready for showtime! Is there a category for funniest?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5BE215A4-BC7E-444B-9E9F-A1E9F5839107",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LCGM9XML"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "616F6D69-E70B-4E39-8F00-9A73FAEDE860",
+        "type": "message",
+        "text": "I’m also thinking of putting a blue ribbon on the pot for anchoring bias",
+        "user": "U03LGTR0KV3",
+        "ts": "1696629747.081709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2rV9i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " also thinking of putting a blue ribbon on the pot for anchoring bias"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LMGTRFN0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Literally Hyrum’s face when I asked him what he thought of my chili",
+        "files": [
+            {
+                "id": "F0605UGRZNF",
+                "created": 1696656969,
+                "timestamp": 1696656969,
+                "name": "Image from iOS.gif",
+                "title": "Image from iOS",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U03LGTR0KV3",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 1452826,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0605UGRZNF\/image_from_ios.gif?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0605UGRZNF\/download\/image_from_ios.gif?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0605UGRZNF-384b0d89c4\/image_from_ios_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0605UGRZNF-384b0d89c4\/image_from_ios_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0605UGRZNF-384b0d89c4\/image_from_ios_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0605UGRZNF-384b0d89c4\/image_from_ios_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0605UGRZNF-384b0d89c4\/image_from_ios_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0605UGRZNF-384b0d89c4\/image_from_ios_360.gif?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_gif": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0605UGRZNF-384b0d89c4\/image_from_ios_480.gif?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "original_w": 498,
+                "original_h": 498,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0605UGRZNF-384b0d89c4\/image_from_ios_deanimate.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0605UGRZNF-384b0d89c4\/image_from_ios_deanimate_gif.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_tiny": "AwAwADDPfqabUrIMk5qMrg0DHR9KdgHqM0Y2ik3Ec4pDJ4FAfaF4fg0wDDYoEj4BUYNOzmQk9e\/1oExjDJFNZflB7iplHeo5T81AxARTgRgmo80fWgCWNlBwx4NOY5lJHeokYBuEzTwQXyOlAMVjhAR9aic7jkUE9Pakzg47HpTYkMzilzSkUBQFyRSGKnJ+9UiMp5HUVEh+8vrTVGWxTEf\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LGTR0KV3\/F0605UGRZNF\/image_from_ios.gif",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0605UGRZNF-98a2797563",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LGTR0KV3",
+        "display_as_bot": false,
+        "ts": "1696657001.232439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pYH3A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Literally "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hyrum’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " face when I asked him what he thought of my chili"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "493CFC6A-0712-489B-AE5D-89714F97BD21",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U03LK551XFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43DD63D4-5E9D-4127-A4B4-55B50D6A4F1C",
+        "type": "message",
+        "text": "Don’t worry. Evan agreed with you",
+        "user": "U03LGTR0KV3",
+        "ts": "1696657010.200629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jclWv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " worry"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Evan agreed with you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "654E279D-804D-4DA5-A176-39DF0F142F1A",
+        "type": "message",
+        "text": ":rolling_on_the_floor_laughing: ",
+        "user": "U03LGTR0KV3",
+        "ts": "1696657570.368299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ElyYV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

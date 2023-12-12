@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "2dbafc45-2491-4a8c-91a5-f3b0e7fe8793",
+        "type": "message",
+        "text": "*Tonight*, Tim Pehrson, the CEO of Integris Health, will be hosting an Information Session for Administrative Summer 2024 internships (<https:\/\/integrisok.com\/careers\/career-development\/administrative-fellowship\/administrative-internship-program>).\n\nThe internships roles in finance, operations, strategy, and HR.\n\nThey will also be discussing part-time remote jobs (10+ hours a week; $15-$17 per hour) that begin in January.\n\n*Date: Thursday, October 19th*\nTime: 5:00 - 6:00 PM MT\nLocation: TNRB W-310\n*Crumbl cookies will be provided\n\nPLEASE REGISTER ON HANDSHAKE AHEAD OF TIME:\n\n<https:\/\/byu.joinhandshake.com\/events\/1401428\/share_preview>",
+        "user": "U03LMGXA3FW",
+        "ts": "1697744660.345079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1kb5A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tonight",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Tim Pehrson, the CEO of Integris Health, will be hosting an Information Session for Administrative Summer 2024 internships ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/integrisok.com\/careers\/career-development\/administrative-fellowship\/administrative-internship-program"
+                            },
+                            {
+                                "type": "text",
+                                "text": ").\n\nThe internships roles in finance, operations, strategy, and HR.\n\nThey will also be discussing part-time remote jobs (10+ hours a week; $15-$17 per hour) that begin in January.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Date: Thursday, October 19th",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTime: 5:00 - 6:00 PM MT\nLocation: TNRB W-310\n*Crumbl cookies will be provided\n\nPLEASE REGISTER ON HANDSHAKE AHEAD OF TIME:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.joinhandshake.com\/events\/1401428\/share_preview"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

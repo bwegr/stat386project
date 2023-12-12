@@ -1,0 +1,246 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696138.654949",
+        "user": "U03LK5045V0",
+        "text": "<@U03LK5045V0> has joined the channel",
+        "reactions": [
+            {
+                "name": "christmas_tree",
+                "users": [
+                    "U03L4GUGBF1",
+                    "U05BBQG6MKJ",
+                    "U03LXQLBGCR"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696143.364249",
+        "user": "U05AN3RPDFU",
+        "text": "<@U05AN3RPDFU> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696224.347869",
+        "user": "U05GRT17A87",
+        "text": "<@U05GRT17A87> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696224.463329",
+        "user": "U05M4TRTJHY",
+        "text": "<@U05M4TRTJHY> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696224.556369",
+        "user": "U03LK4YF3A6",
+        "text": "<@U03LK4YF3A6> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696224.675709",
+        "user": "U05A7HE11LP",
+        "text": "<@U05A7HE11LP> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696224.786839",
+        "user": "U05BBQG8FTJ",
+        "text": "<@U05BBQG8FTJ> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696224.874129",
+        "user": "U05AK5GQJ5B",
+        "text": "<@U05AK5GQJ5B> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696378.143299",
+        "user": "U03L4GQK4KZ",
+        "text": "<@U03L4GQK4KZ> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696378.240629",
+        "user": "U05MZL07Q78",
+        "text": "<@U05MZL07Q78> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696378.338749",
+        "user": "U05H8SL2HFE",
+        "text": "<@U05H8SL2HFE> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696378.425869",
+        "user": "U05MZL0DLVC",
+        "text": "<@U05MZL0DLVC> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696378.538269",
+        "user": "U03L4GUGBF1",
+        "text": "<@U03L4GUGBF1> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696378.629499",
+        "user": "U03LMGSGBQC",
+        "text": "<@U03LMGSGBQC> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696378.708669",
+        "user": "U03LCGM9XML",
+        "text": "<@U03LCGM9XML> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696378.789959",
+        "user": "U05B0NFT057",
+        "text": "<@U05B0NFT057> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698696378.891429",
+        "user": "U03LXQLBGCR",
+        "text": "<@U03LXQLBGCR> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1698702051.946539",
+        "user": "U05BBQG6MKJ",
+        "text": "<@U05BBQG6MKJ> has joined the channel",
+        "inviter": "U03LK5045V0"
+    },
+    {
+        "client_msg_id": "9a8c7279-9bbc-4104-9bb9-e4a1c43db78f",
+        "type": "message",
+        "text": "Greetings! Thanks for your interest in performing in the Christmas program! I'm going to give as many details as we have so far—feel free to leave the channel if these logistics won't work for you!\n\nWe will be performing at a Christmas event that the MBA program is _likely_ hosting on December 8. This date is not finalized yet so don't advertise anything until we hear more. This will _not_ be the big formal dinner thing that the MBA puts on every year (apparently often called \"MBA prom\"... I think Gail Miller came and spoke at it last year... _that_ event has yet to be scheduled).\n\n<@U05AN3RPDFU> and I have just found out that we have a slot to perform 2 songs with the choir. Should be pretty easy! (Since we know everyone is busy!) Apparently we won't have time in the program for any smaller musical numbers, so for those of you who were interested in doing a number by yourself, save it for a later day I guess!\n\nWe'll be nailing down a rehearsal schedule soon, which I suspect is what most people need to know about before they commit... stay tuned and we'll let you know!",
+        "user": "U03LK5045V0",
+        "ts": "1698717183.974549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6AhQ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Greetings! Thanks for your interest in performing in the Christmas program! I'm going to give as many details as we have so far—feel free to leave the channel if these logistics won't work for you!\n\nWe will be performing at a Christmas event that the MBA program is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "likely",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " hosting on December 8. This date is not finalized yet so don't advertise anything until we hear more. This will "
+                            },
+                            {
+                                "type": "text",
+                                "text": "not",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " be the big formal dinner thing that the MBA puts on every year (apparently often called \"MBA prom\"... I think Gail Miller came and spoke at it last year... "
+                            },
+                            {
+                                "type": "text",
+                                "text": "that ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "event has yet to be scheduled).\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AN3RPDFU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I have just found out that we have a slot to perform 2 songs with the choir. Should be pretty easy! (Since we know everyone is busy!) Apparently we won't have time in the program for any smaller musical numbers, so for those of you who were interested in doing a number by yourself, save it for a later day I guess!\n\nWe'll be nailing down a rehearsal schedule soon, which I suspect is what most people need to know about before they commit... stay tuned and we'll let you know!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b0a4fbd21f41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-25\/3705740993831_b0a4fbd21f41527354e8_72.jpg",
+            "first_name": "Cristian",
+            "real_name": "Cristian Torres",
+            "display_name": "Cristian Torres",
+            "team": "T0ZBAEL59",
+            "name": "cntorres",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "christmas_tree",
+                "users": [
+                    "U05AN3RPDFU",
+                    "U03LXQLBGCR",
+                    "U03LMGSGBQC"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

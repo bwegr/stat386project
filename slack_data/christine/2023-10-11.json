@@ -1,0 +1,219 @@
+[
+    {
+        "client_msg_id": "75be5cb6-da9d-450c-9d21-4404ca6ad155",
+        "type": "message",
+        "text": "Here is your answer: \"our thought is that nearly all finance students should probably take both Adv. Corporate and Investments, but those who are more on the corporate side might take Adv. Corporate their 1st year and Investments their 2nd year, while those more on the investments side will do the reverse. So, they should be able to take both! And, both classes are for 1st and 2nd years.\"",
+        "user": "U03AVEWPUQN",
+        "ts": "1697045188.024709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KoIiw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is your answer: \"our thought is that nearly all finance students should probably take both Adv. Corporate and Investments, but those who are more on the corporate side might take Adv. Corporate their 1st year and Investments their 2nd year, while those more on the investments side will do the reverse. So, they should be able to take both! And, both classes are for 1st and 2nd years.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696808393.183499",
+        "parent_user_id": "U05A7HC8FF1"
+    },
+    {
+        "client_msg_id": "8dd2a5e0-bbf6-4a17-9037-8f466627a914",
+        "type": "message",
+        "text": "But, they are offered at the same time, therefore we can't take both unless we happened to already take one last year.",
+        "user": "U03SZAWQBM4",
+        "ts": "1697048626.087229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HhH0D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But, they are offered at the same time, therefore we can't take both unless we happened to already take one last year."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696808393.183499",
+        "parent_user_id": "U05A7HC8FF1"
+    },
+    {
+        "client_msg_id": "3c3502a4-af7e-4551-badf-7a66b4a58b53",
+        "type": "message",
+        "text": "Right, so you will just have to pick the one you want this year.  If you want to push back talk to Professor Iverson.  You may also want to look and see what they are offering equivalent within the Undergrad if you haven't taken many 300\/400 level courses.",
+        "user": "U03AVEWPUQN",
+        "ts": "1697053501.609049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6EuZV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right, so you will just have to pick the one you want this year.  If you want to push back talk to Professor Iverson.  You may also want to look and see what they are offering equivalent within the Undergrad if you haven't taken many 300\/400 level courses."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03AVEWPUQN",
+            "ts": "1697053597.000000"
+        },
+        "thread_ts": "1696808393.183499",
+        "parent_user_id": "U05A7HC8FF1"
+    },
+    {
+        "client_msg_id": "0816aea3-1291-4f16-a4d7-795461fc3ef4",
+        "type": "message",
+        "text": "That’s an interesting idea … MBAs could take Fin 410 which is the undergrad equivalent of Investments (Fin 410 even uses the same textbook, written by Professor Brian Boyer)",
+        "user": "U03TVL5QZFA",
+        "ts": "1697055124.373539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hqtYi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s an interesting idea … MBAs could take Fin 410 which is the undergrad equivalent of Investments (Fin 410 even uses the same textbook, written by Professor Brian Boyer)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696808393.183499",
+        "parent_user_id": "U05A7HC8FF1"
+    },
+    {
+        "client_msg_id": "8f20ee92-1b73-4359-934e-6fa348221a4b",
+        "type": "message",
+        "text": "You are welcome to take this course and have it count towards the 64 credit hours.  Just make sure that you don't take more than 9 credit hours of 300\/400.  These courses also need to be approved by me prior.  I would accept Fin 410.",
+        "user": "U03AVEWPUQN",
+        "ts": "1697056705.929359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wuyCP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You are welcome to take this course and have it count towards the 64 credit hours.  Just make sure that you don't take more than 9 credit hours of 300\/400.  These courses also need to be approved by me prior.  I would accept Fin 410."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T03AZ3P2QHE",
+        "source_team": "T03AZ3P2QHE",
+        "user_profile": {
+            "avatar_hash": "6a3406c2a58e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-31\/4011183052822_6a3406c2a58e0f0bed30_72.jpg",
+            "first_name": "Christine",
+            "real_name": "Christine Roundy",
+            "display_name": "Christine Roundy",
+            "team": "T03AZ3P2QHE",
+            "name": "croundy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03AVEWPUQN",
+            "ts": "1697056744.000000"
+        },
+        "thread_ts": "1696808393.183499",
+        "parent_user_id": "U05A7HC8FF1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SZAWQBM4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

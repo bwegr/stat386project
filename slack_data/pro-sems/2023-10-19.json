@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "d4da3422-2afa-4e35-811a-dc18212d7121",
+        "type": "message",
+        "text": "Devin, I noticed that canvas says a VBA demonstration for pro sem. Will that be happening at 9:30 still? No worries if not!",
+        "user": "U05DD0R2J6R",
+        "ts": "1697740810.406929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fqKu8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Devin, I noticed that canvas says a VBA demonstration for pro sem. Will that be happening at 9:30 still? No worries if not!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9f2aa0222f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-23\/5782069155622_9f2aa0222f3469b2f8ea_72.jpg",
+            "first_name": "Danny",
+            "real_name": "Danny Gundersen",
+            "display_name": "Danny Gundersen",
+            "team": "T0ZBAEL59",
+            "name": "gundydc1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697594162.700029",
+        "parent_user_id": "U03L4GN325D"
+    },
+    {
+        "client_msg_id": "C91A834E-317C-41F6-BB96-13A613FEF26E",
+        "type": "message",
+        "text": "That won’t be this Friday, but has been moved to November 17th at our regular time and place. Thanks for pointing this out though! I forgot to change the canvas calendar when homecoming adjusted our schedule. I’ll go change it later today. \n\nThis Friday we just have the 1-2:15 event above. ",
+        "user": "U03L4GN325D",
+        "ts": "1697741011.038729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qHjcF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That "
+                            },
+                            {
+                                "type": "text",
+                                "text": "won’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be this Friday, but has been moved to November 17th at our regular time and place. Thanks for pointing this out though! I forgot to change the canvas calendar when homecoming adjusted our schedule. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " go change it later today. \n\nThis Friday we just have the 1-2:15 event above. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697594162.700029",
+        "parent_user_id": "U03L4GN325D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05DD0R2J6R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

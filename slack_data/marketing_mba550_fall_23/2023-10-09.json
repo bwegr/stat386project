@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "6510e316-ab04-4e0e-8e34-0a8601cc1e12",
+        "type": "message",
+        "text": "I'm doing office hours today from 11-12! I'll be in the lounge for the first half and in room W359 from 11:30-12:00",
+        "user": "U03LXQCJA81",
+        "ts": "1696863984.639379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qhp5f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm doing office hours today from 11-12! I'll be in the lounge for the first half and in room W359 from 11:30-12:00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

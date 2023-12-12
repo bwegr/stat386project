@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "bf3ea5b1-6597-4cb6-9b88-d576ed3b69f5",
+        "type": "message",
+        "text": "What up team! Can we get a reaction of :cake: to the above if you’re planning on attending so we can get a headcount for food??",
+        "user": "U03LXQCEVKK",
+        "ts": "1697227235.387529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yR5bg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What up team! Can we get a reaction of "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cake",
+                                "unicode": "1f370"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to the above if you’re planning on attending so we can get a headcount for food??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "cake",
+                "users": [
+                    "U03LK39PKRR",
+                    "U05BBQEJNTA",
+                    "U03LMGV8Y12",
+                    "U03LG7DNSUV",
+                    "U03LXQCEVKK",
+                    "U05B0NFJ1S5",
+                    "U05A7HD4XE3"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5f7789b-eee5-4206-bcd4-c22f15520729",
+        "type": "message",
+        "text": "I responded with an invisible hand emoji...",
+        "user": "U03LK39PKRR",
+        "ts": "1697229613.922439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XFxUP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I responded with an invisible hand emoji..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696460160.789429",
+        "parent_user_id": "U03LG7DNSUV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LG7DNSUV",
+                    "U03LXQCEVKK"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

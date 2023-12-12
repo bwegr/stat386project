@@ -1,0 +1,193 @@
+[
+    {
+        "client_msg_id": "dfe128bb-d625-4648-9903-99341ee20a01",
+        "type": "message",
+        "text": "I'll add on to what Chad said, you can add any class to your cart and the software will attempt to register you for those classes.\n\nThe MBA puts a general restriction on all MBA classes except those who won the bid.  MBA class restrictions will be removed next week (Thursday, I think?) so that anyone can add the class. \n\nIf the cart can't register you for the class, it won't do anything or (if you checked the box) will put you on the class wait-list.",
+        "user": "U03LK3AD1V1",
+        "ts": "1697219790.193049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yuH53",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll add on to what Chad said, you can add any class to your cart and the software will attempt to register you for those classes.\n\nThe MBA puts a general restriction on all MBA classes except those who won the bid.  MBA class restrictions will be removed next week (Thursday, I think?) so that anyone can add the class. \n\nIf the cart can't register you for the class, it won't do anything or (if you checked the box) will put you on the class wait-list."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b31fd5fbeeee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-10\/4633719656865_b31fd5fbeeeea29df80a_72.jpg",
+            "first_name": "Kevin",
+            "real_name": "Kevin James",
+            "display_name": "Kevin James",
+            "team": "T0ZBAEL59",
+            "name": "kevinjames1985",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697154707.836279",
+        "parent_user_id": "U05AN3TCTSN"
+    },
+    {
+        "client_msg_id": "1e83d6ec-0a42-4ad0-9c9e-6855f14aea56",
+        "type": "message",
+        "text": "Thanks Kevin. Do I need to add the core classes to the cart as well?",
+        "user": "U05AN3TCTSN",
+        "ts": "1697221728.908679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "unxaz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Kevin. Do I need to add the core classes to the cart as well?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697154707.836279",
+        "parent_user_id": "U05AN3TCTSN"
+    },
+    {
+        "client_msg_id": "b8e03204-fcd2-4611-8730-97e27ae4b227",
+        "type": "message",
+        "text": "No. They will be added as an envelope close to the end of fall semester",
+        "user": "U03LK3AD1V1",
+        "ts": "1697227195.738629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RmfUk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No. They will be added as an envelope close to the end of fall semester"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b31fd5fbeeee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-01-10\/4633719656865_b31fd5fbeeeea29df80a_72.jpg",
+            "first_name": "Kevin",
+            "real_name": "Kevin James",
+            "display_name": "Kevin James",
+            "team": "T0ZBAEL59",
+            "name": "kevinjames1985",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697154707.836279",
+        "parent_user_id": "U05AN3TCTSN",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05AN3TCTSN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30F528F7-6359-4B72-9108-09F0BE965C45",
+        "type": "message",
+        "text": "<@U03AVEWPUQN> I noticed the email recommending our application to Coca-Cola Swire. Most of the job descriptions are seeking undergraduates. Is it weird for MBA’s to be applying for these?",
+        "user": "U05HW4UU20Y",
+        "ts": "1697249532.909829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0\/61b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03AVEWPUQN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I noticed the email recommending our application to Coca-Cola Swire. Most of the job descriptions are seeking undergraduates. Is it weird for MBA’s to be applying for these?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2aa9fe727431",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-25\/5660749208768_2aa9fe7274319249fef0_72.png",
+            "first_name": "Sterling",
+            "real_name": "Sterling Baker",
+            "display_name": "Sterling Baker",
+            "team": "T0ZBAEL59",
+            "name": "wyomingbaker44",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697249532.909829",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697475429.185599",
+        "reply_users": [
+            "U03AVEWPUQN",
+            "U05HW4UU20Y"
+        ],
+        "replies": [
+            {
+                "user": "U03AVEWPUQN",
+                "ts": "1697466507.636279"
+            },
+            {
+                "user": "U05HW4UU20Y",
+                "ts": "1697475429.185599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

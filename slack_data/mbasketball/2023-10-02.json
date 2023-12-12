@@ -1,0 +1,260 @@
+[
+    {
+        "bot_id": "B01ASAAC249",
+        "type": "message",
+        "text": "How many are interested in getting basketball goin in the mornings again?",
+        "user": "U01ADTASMMZ",
+        "ts": "1696303294.683069",
+        "app_id": "A0HFW7MR6",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-ba6b99ed-0fc0-4fe6-af99-23a6b8bf0d6f-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*How many are interested in getting basketball goin in the mornings again?*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: Edit Poll",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":lock: Close Poll",
+                                "emoji": true
+                            },
+                            "value": "close_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":recycle: Recreate this Poll",
+                                "emoji": true
+                            },
+                            "value": "create_poll_from_recent_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":arrow_heading_down: Promote Poll",
+                                "emoji": true
+                            },
+                            "value": "promote_poll"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-ba6b99ed-0fc0-4fe6-af99-23a6b8bf0d6f-vote-46764369",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Yessir    `13`\n<@U03LK52CR7U>, <@U05B0NHGDG9>, <@U03LXQCJA81>, <@U03LK39PKRR>, <@U03M8TCTA6L>, <@U03LXQH9QMP>, <@U03LG75NYSZ>, <@U05AK5GQJ5B>, <@U05DD0R0XHB>, <@U03LK56AUHG>, <@U03LCGQ9L6S>, <@U05AFDSJH70>, <@U05BBQD8SKS>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-46764369",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-ba6b99ed-0fc0-4fe6-af99-23a6b8bf0d6f-vote-46764370",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: Nah\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-46764370",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-ba6b99ed-0fc0-4fe6-af99-23a6b8bf0d6f-vote-46764371",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: Maybe next semester\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-46764371",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "s02th",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Respondents:* `13`",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "add_option_to_poll&ba6b99ed-0fc0-4fe6-af99-23a6b8bf0d6f",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "open_unified_modal",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Respond \/ Results",
+                            "emoji": true
+                        },
+                        "style": "primary"
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "NKihu",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U03M8TCTA6L> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "bot_profile": {
+            "id": "B01ASAAC249",
+            "deleted": false,
+            "name": "Simple Poll",
+            "updated": 1599699711,
+            "app_id": "A0HFW7MR6",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_72.png"
+            },
+            "team_id": "T0ZBAEL59"
+        },
+        "edited": {
+            "user": "B01ASAAC249",
+            "ts": "1696377695.000000"
+        }
+    },
+    {
+        "client_msg_id": "7c537ff6-915b-4680-91f0-b7336e2812c6",
+        "type": "message",
+        "text": "Trying to gauge interest  :eyes: ^^^",
+        "user": "U03M8TCTA6L",
+        "ts": "1696303367.043069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0hbqj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trying to gauge interest  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "696ba2b7-9df9-4734-9603-35f09c735d76",
+        "type": "message",
+        "text": "<!here>",
+        "user": "U03M8TCTA6L",
+        "ts": "1696303415.091609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mK6AI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

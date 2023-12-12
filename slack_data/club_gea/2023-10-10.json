@@ -1,0 +1,199 @@
+[
+    {
+        "client_msg_id": "ffa02596-bfce-4b4a-8702-d2fd55eb4fea",
+        "type": "message",
+        "text": "<!channel> everyone in GEA should come be a part of this:\n\nWe're having an info session on *buying a business* on October 17th, 5p -6p, room TBD.\n• What the economics of buying a business look like\n• What the benefits to buying a business are\n• How to start looking for a business to buy\n• Listen to experiences from a few BYU MBA grads that have bought businesses\n• Intro to the Acquisition Case Competition that will take place in November ($1000 cash prize to the winner) -- 1st\/2nd years can enter\n^^The Acquisition Case Comp will be on Saturday, November 18th at the Kiln in Provo. It will be an awesome chance to pitch your acquisition idea(s) to potential investors.\n\nIt's open to anybody 1st or 2nd years -- just give us a thumbs up so we have a headcount for food.",
+        "user": "U03LKPR602X",
+        "ts": "1696964528.948139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Kksh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " everyone in GEA should come be a part of this:\n\nWe're having an info session on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "buying a business ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "on October 17th, 5p -6p, room TBD.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What the economics of buying a business look like"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What the benefits to buying a business are"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How to start looking for a business to buy"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Listen to experiences from a few BYU MBA grads that have bought businesses"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Intro to the Acquisition Case Competition that will take place in November ($1000 cash prize to the winner) -- 1st\/2nd years can enter"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n^^The Acquisition Case Comp will be on Saturday, November 18th at the Kiln in Provo. It will be an awesome chance to pitch your acquisition idea(s) to potential investors.\n\nIt's open to anybody 1st or 2nd years -- just give us a thumbs up so we have a headcount for food."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e44703c70bf5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-19\/3960224283206_e44703c70bf5c3980b3d_72.jpg",
+            "first_name": "James",
+            "real_name": "James Lincoln",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "james.lincoln1995",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LKPR602X",
+            "ts": "1696964597.000000"
+        },
+        "thread_ts": "1696964528.948139",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1697581805.802909",
+        "reply_users": [
+            "U03LCGL1GK0",
+            "U05AMVCV3RR",
+            "U03LKPR602X"
+        ],
+        "replies": [
+            {
+                "user": "U03LCGL1GK0",
+                "ts": "1697576568.998279"
+            },
+            {
+                "user": "U05AMVCV3RR",
+                "ts": "1697577743.661859"
+            },
+            {
+                "user": "U03LKPR602X",
+                "ts": "1697581798.174579"
+            },
+            {
+                "user": "U03LKPR602X",
+                "ts": "1697581805.802909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03LG776WFP",
+                    "U03PKR5GQUQ",
+                    "U05B0NFJ1S5",
+                    "U05DD0R0XHB",
+                    "U03L57R4HN3",
+                    "U03NW11HA9H"
+                ],
+                "count": 6
+            },
+            {
+                "name": "the_horns",
+                "users": [
+                    "U03LG776WFP",
+                    "U03PKR5GQUQ",
+                    "U05B0NFJ1S5",
+                    "U05DD0R0XHB",
+                    "U03L57R4HN3",
+                    "U05H6A4184T"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03LG776WFP",
+                    "U03PKR5GQUQ",
+                    "U05B0NFJ1S5",
+                    "U03LK52CR7U",
+                    "U05DD0R0XHB",
+                    "U05A7HE5MTR",
+                    "U03L57R4HN3",
+                    "U05DFU87M98",
+                    "U05AMVCV3RR"
+                ],
+                "count": 9
+            },
+            {
+                "name": "middle_finger",
+                "users": [
+                    "U05DD0R0XHB",
+                    "U03L57R4HN3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

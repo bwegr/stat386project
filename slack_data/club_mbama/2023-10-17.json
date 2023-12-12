@@ -1,0 +1,224 @@
+[
+    {
+        "client_msg_id": "12e03721-2e2f-4112-a363-09198a974e54",
+        "type": "message",
+        "text": "<!channel> :alert::alert:FREE LUNCH THIS THURSDAY:alert::alert:\nHappy Happy Tuesday! We have some incredible good news for you! The MBAMA leadership knows that midterms can be tough, and we are thinking about each of you a lot. If you need someone to talk to or need a little study break, we are here for you!!!\n*For now, we want to FEED YOU!*\nCome hungry this Thursday, we will have your lunch covered with some yummy subway wraps!\n_**Exclusively for our valued paid MBAMA members, as our resources are limited, and we want to ensure our paying members are well-fed!*_\n_**If you have any dietary restrictions, please feel free to comment or reach out to me privately - we've got your needs covered!*_",
+        "user": "U03LXQCM22D",
+        "ts": "1697572762.718709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XxAjv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "text",
+                                "text": "FREE LUNCH THIS THURSDAY"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHappy Happy Tuesday! We have some incredible good news for you! The MBAMA leadership knows that midterms can be tough, and we are thinking about each of you a lot. If you need someone to talk to or need a little study break, we are here for you!!!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "For now, we want to FEED YOU!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCome hungry this Thursday, we will have your lunch covered with some yummy subway wraps!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "*Exclusively for our valued paid MBAMA members, as our resources are limited, and we want to ensure our paying members are well-fed!",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "*If you have any dietary restrictions, please feel free to comment or reach out to me privately - we've got your needs covered!",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9503006ea617",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4075282164805_9503006ea6173bf3fdea_72.png",
+            "first_name": "Cheryl",
+            "real_name": "Cheryl Wong",
+            "display_name": "Cheryl Wong",
+            "team": "T0ZBAEL59",
+            "name": "cheryl.wong419",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697572762.718709",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697573127.518309",
+        "reply_users": [
+            "U03LXQCEVKK"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1697573127.518309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U05GZPF8ZGW",
+                    "U03LXQLBGCR",
+                    "U03LXQCEVKK",
+                    "U05A7HF1DJB",
+                    "U03P8MY0DR7",
+                    "U03LCGM9XML",
+                    "U05AMVD19GT",
+                    "U03LG7DNSUV",
+                    "U05AQGJMMT6",
+                    "U03LK3D5N2X",
+                    "U03LK56AUHG",
+                    "U03LK4YF3A6",
+                    "U03LXQCJA81",
+                    "U05AFDTJEUW",
+                    "U03LCGQ9L6S",
+                    "U05A7HCQPDM",
+                    "U03M8T6EJ8G",
+                    "U05AN02C0E7",
+                    "U05AN0097RR",
+                    "U03LXQFU5SM",
+                    "U05BQNKAUSX"
+                ],
+                "count": 21
+            },
+            {
+                "name": "smile",
+                "users": [
+                    "U05GZPF8ZGW",
+                    "U03LXQLBGCR",
+                    "U03LXQCEVKK",
+                    "U03LCGM9XML"
+                ],
+                "count": 4
+            },
+            {
+                "name": "parrotcage",
+                "users": [
+                    "U03LXQCM22D",
+                    "U03LCGM9XML"
+                ],
+                "count": 2
+            },
+            {
+                "name": "slay",
+                "users": [
+                    "U03LXQCM22D",
+                    "U03LCGM9XML"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ahhhhhhh",
+                "users": [
+                    "U03LXQCM22D",
+                    "U03LCGM9XML"
+                ],
+                "count": 2
+            },
+            {
+                "name": "partywizard",
+                "users": [
+                    "U03LCGM9XML"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac53b682-1ae4-43ad-99c3-a73a46918ae5",
+        "type": "message",
+        "text": "omgrsh, im so exctd fr this. Heccin luvved",
+        "user": "U03LXQCEVKK",
+        "ts": "1697573127.518309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+44MY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "omgrsh, im so exctd fr this. Heccin luvved"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697572762.718709",
+        "parent_user_id": "U03LXQCM22D"
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "client_msg_id": "290c0905-759c-4385-890f-336b189012ca",
+        "type": "message",
+        "text": "Which room is this in?",
+        "user": "U05D98WS6FQ",
+        "ts": "1697815380.143569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F0oZM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Which room is this in?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "bf599ccf5e03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-30\/5822107966326_bf599ccf5e03b3d455b4_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Adams",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ekaj101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697603377.649879",
+        "parent_user_id": "U03LCGM9XML"
+    },
+    {
+        "client_msg_id": "59EF16DA-A693-4759-89D5-B12FE00F0DB3",
+        "type": "message",
+        "text": "W240",
+        "user": "U03LCGM9XML",
+        "ts": "1697815391.061079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f658i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "W240"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe4a9879d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Parry",
+            "display_name": "Evan Parry",
+            "team": "T0ZBAEL59",
+            "name": "evanparry13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697603377.649879",
+        "parent_user_id": "U03LCGM9XML",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05D98WS6FQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ce1d7e1-7753-4d72-a749-777f7a3f53db",
+        "type": "message",
+        "text": "Pro Sem Reminder!\n\nToday from 1:00-2:15 p.m. in W242 is our pro sem :slightly_smiling_face:\n\nWe will not be holding HR mentoring hours today. Continue working hard on recruiting and midterms, you got this!",
+        "user": "U03LK52VCQ2",
+        "ts": "1697815888.635579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wRIWf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pro Sem Reminder!\n\nToday from 1:00-2:15 p.m. in W242 is our pro sem "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWe will not be holding HR mentoring hours today. Continue working hard on recruiting and midterms, you got this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LK52VCQ2",
+            "ts": "1697816454.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN015NSX",
+                    "U05AK5J04P7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99ACE167-8993-425C-B607-92F5F2FA51E9",
+        "type": "message",
+        "text": "At 1 pm, the entrepreneurship alumni and students will be listening to David Doty, 2017 BYU MBA grad. He bought a small business while in the MBA and after a short stint at Hanes, used it to start his restaurant empire. He now owns Lehi Bakery, Edna's, and Magleby's (minority owner?). Last time I talked to him, he was looking for a COO, so this could be a great opportunity to meet with him for anyone interested in becoming an operator or getting experience in that field. ",
+        "user": "U03LG776WFP",
+        "ts": "1697823492.419159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tTwPj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "At 1 pm, the entrepreneurship alumni and students will be listening to David Doty, 2017 BYU MBA grad. He bought a small business while in the MBA and after a short stint at Hanes, used it to start his restaurant empire. He now owns Lehi Bakery, Edna's, and Magleby's (minority owner?). Last time I talked to him, he was looking for a COO, so this could be a great opportunity to meet with"
+                            },
+                            {
+                                "type": "text",
+                                "text": " him for anyone interested in becoming an operator or getting experience in that field. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "ab1623974cd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-09\/4767396297015_ab1623974cd0a9d234d2_72.jpg",
+            "first_name": "Hunter",
+            "real_name": "Hunter Schenewark",
+            "display_name": "Hunter Schenewark",
+            "team": "T0ZBAEL59",
+            "name": "hunterschenewark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U03LG7BV35K",
+                    "U05AFDTJEUW"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

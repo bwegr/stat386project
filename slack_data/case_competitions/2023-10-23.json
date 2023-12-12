@@ -1,0 +1,185 @@
+[
+    {
+        "type": "message",
+        "text": ":alert:REMINDER :alert:Dell Case Competition:alert:\n\nPLEASE SIGN UP! The Dell case competition is fast approaching. Get your favorite people together to take down your foes and win some sweet prizes!\n\nDeadline to sign up will be *10\/27,* kickoff will be *10\/30.* The judging will be at the Dell building in Draper!\n\nDM me if you have any specific questions!\n\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfSiD80dRWXnJlho3jKO0PjVwJ8unJRnF5TuVaPJ_QDlaasaw\/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;usp=mail_form_link|Case Competition Sign-up Form>",
+        "files": [
+            {
+                "id": "F06351J662U",
+                "created": 1698114798,
+                "timestamp": 1698114798,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LCGM9XML",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 292673,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F06351J662U\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F06351J662U\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06351J662U-7e16c705b1\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06351J662U-7e16c705b1\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06351J662U-7e16c705b1\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 201,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06351J662U-7e16c705b1\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 267,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06351J662U-7e16c705b1\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06351J662U-7e16c705b1\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 401,
+                "original_w": 720,
+                "original_h": 401,
+                "thumb_tiny": "AwAaADC35nPNJLKokjBPTLUtyApDDv2qtIjMBIuTgYYe1AF4HzI8q2Ce\/pTVOf8AlqCfpUdkCIefWpCMHp9OKAE\/eEn95tHbKilCyZ\/1wPttFL83p+lKmc0AZ8rvdXBWIZA6e3vV9I9sQU8kdaZZAC2XAAz1qegBkahEwvApp256mnjrQfvCgAH3etIv40rdKaB81AH\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LCGM9XML\/F06351J662U\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F06351J662U-a73957fafb",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LCGM9XML",
+        "display_as_bot": false,
+        "ts": "1698114803.714999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wh5hP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "text",
+                                "text": "REMINDER "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Dell Case Competition"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "alert"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPLEASE SIGN UP! The Dell case competition is fast approaching. Get your favorite people together to take down your foes and win some sweet prizes!\n\nDeadline to sign up will be "
+                            },
+                            {
+                                "type": "text",
+                                "text": "10\/27, ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "kickoff will be "
+                            },
+                            {
+                                "type": "text",
+                                "text": "10\/30. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "The judging will be at the Dell building in Draper!\n\nDM me if you have any specific questions!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfSiD80dRWXnJlho3jKO0PjVwJ8unJRnF5TuVaPJ_QDlaasaw\/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link",
+                                "text": "Case Competition Sign-up Form"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "acbb855a-8777-4bd3-8b14-992e9439896c",
+        "thread_ts": "1698114803.714999",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698116331.089819",
+        "reply_users": [
+            "U05AQGJMMT6"
+        ],
+        "replies": [
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1698116331.089819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "computer",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4615244f-1a5a-43de-b02c-b2f88998c1a2",
+        "type": "message",
+        "text": "Looking for 2 people willing to join forces in this comp. Anyone without a group yet, or just wanting to practice?",
+        "user": "U05AQGJMMT6",
+        "ts": "1698116331.089819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rRTjQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looking for 2 people willing to join forces in this comp. Anyone without a group yet, or just wanting to practice?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698114803.714999",
+        "parent_user_id": "U03LCGM9XML"
+    }
+]

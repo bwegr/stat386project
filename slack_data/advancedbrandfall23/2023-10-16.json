@@ -1,0 +1,151 @@
+[
+    {
+        "client_msg_id": "702162dc-4118-4c27-8780-4c144313084e",
+        "type": "message",
+        "text": "Should we do a when to meet? No Monday unless after 5, no wed or thur night, fridays are usually good",
+        "user": "U03L4GUGBF1",
+        "ts": "1697486925.399059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xw7rJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should we do a when to meet? No Monday unless after 5, no wed or thur night, fridays are usually good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "eb3966201c83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-19\/5902942359639_eb3966201c8379302340_72.png",
+            "first_name": "Hillary",
+            "real_name": "Hillary Slater",
+            "display_name": "Hillary Slater",
+            "team": "T0ZBAEL59",
+            "name": "hslater07",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697486925.399059",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697515283.186269",
+        "reply_users": [
+            "U03LK4YF3A6",
+            "U03L57R4HN3"
+        ],
+        "replies": [
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1697492512.891979"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1697515283.186269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03L4GSNM7Z",
+                    "U03LXQCM22D",
+                    "U03LK3D5N2X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55766480-9ce4-4798-a06e-71286ba59c0e",
+        "type": "message",
+        "text": "Friday November 3?",
+        "user": "U03LK4YF3A6",
+        "ts": "1697492512.891979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QnHoH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Friday November 3?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697486925.399059",
+        "parent_user_id": "U03L4GUGBF1"
+    },
+    {
+        "client_msg_id": "7f8eaa82-4319-4865-a22a-82347e6cc6f6",
+        "type": "message",
+        "text": "Friday, Nov 3rd is the Dell Case Competition, but that shouldn't be a huge problem.\n\nI just have class from 9:30am-12pm on Fridays. If we could possibly avoid those times.",
+        "user": "U03L57R4HN3",
+        "ts": "1697515283.186269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a\/ZIh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Friday, Nov 3rd is the Dell Case Competition, but that shouldn't be a huge problem.\n\nI just have class from 9:30am-12pm on Fridays. If we could possibly avoid those times."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697486925.399059",
+        "parent_user_id": "U03L4GUGBF1"
+    }
+]

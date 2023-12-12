@@ -1,0 +1,153 @@
+[
+    {
+        "client_msg_id": "994193b0-1664-4f87-8bcf-914e69e62632",
+        "type": "message",
+        "text": "Looks like Friday is a definite winner! With Monday and Wednesday having some strong interest.\n\nLet's definitely plan on playing next week on Friday at 6:15 am!",
+        "user": "U03M8TCTA6L",
+        "ts": "1696709024.138719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NGpKF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like Friday is a definite winner! With Monday and Wednesday having some strong interest.\n\nLet's definitely plan on playing next week on Friday at 6:15 am!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "34eeb995-3f5a-4d48-883d-54f0a07dd33a",
+        "type": "message",
+        "text": "I want to see if we can get something going on Monday as well. Hit the basketball emoji, if you're in for Monday!",
+        "user": "U03M8TCTA6L",
+        "ts": "1696709105.636149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8AGaG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want to see if we can get something going on Monday as well. Hit the basketball emoji, if you're in for Monday!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696709105.636149",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696828051.072069",
+        "reply_users": [
+            "U03LXQCJA81",
+            "U03M8TCTA6L"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQCJA81",
+                "ts": "1696827417.403799"
+            },
+            {
+                "user": "U03M8TCTA6L",
+                "ts": "1696828051.072069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U03M8TCTA6L",
+                    "U03LG75NYSZ",
+                    "U03LK52CR7U",
+                    "U03LXQCJA81",
+                    "U03LMGX6W1J"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14e164ec-8437-4ff8-925a-4f6fc046f4be",
+        "type": "message",
+        "text": "<!here> ^^",
+        "user": "U03M8TCTA6L",
+        "ts": "1696709124.750239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7wwDM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

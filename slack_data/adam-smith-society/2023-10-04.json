@@ -1,0 +1,306 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel> Okay SmithSoc members, the moment you've all been waiting for :drum_with_drumsticks: :drum_with_drumsticks: :drum_with_drumsticks: \nOur Opening Social! \nTuesday, October 17 5:30 at The Wash. Free (BYU appropriate) drinks and food. Invite your friends. Respond with an emoji that represents free markets for to RSVP",
+        "files": [
+            {
+                "id": "F05V9GTQ960",
+                "created": 1696455152,
+                "timestamp": 1696455152,
+                "name": "BAC5B9D8-D212-46F2-8207-87E7A7CD2E12.png",
+                "title": "BAC5B9D8-D212-46F2-8207-87E7A7CD2E12",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LG7DNSUV",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 762396,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V9GTQ960\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V9GTQ960\/download\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 340,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V9GTQ960-3c33c1547d\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "original_w": 1588,
+                "original_h": 2245,
+                "thumb_tiny": "AwAwACGoOopQOnHp2ptGKsY4Dpx+lNP9KXBx0pCCOtABRRRQIVfrinZP96mU7LHtQGoderGkIHrSktTaACiiigB4iYgEDqM00EipmYLhlABIxTdiknvQCuxh3Fc449cUqpuGRnnpxTwwwASM457UgzkrnkGkmNkNFWN8XqKN8XqKZNz\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LG7DNSUV\/F05V9GTQ960\/bac5b9d8-d212-46f2-8207-87e7a7cd2e12.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05V9GTQ960-8be99778f4",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LG7DNSUV",
+        "display_as_bot": false,
+        "ts": "1696460160.789429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JqsHq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Okay SmithSoc members, the moment you've all been waiting for "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "drum_with_drumsticks",
+                                "unicode": "1f941"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "drum_with_drumsticks",
+                                "unicode": "1f941"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "drum_with_drumsticks",
+                                "unicode": "1f941"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nOur Opening Social! \nTuesday, October 17 5:30 at The Wash. Free (BYU appropriate) drinks and food. Invite your friends. Respond with an emoji that represents free markets for to RSVP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "22F9265B-CE83-45BD-BB82-4548DDE017CA",
+        "thread_ts": "1696460160.789429",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1697229613.922439",
+        "reply_users": [
+            "U03M8T51VUY",
+            "U03LG7DNSUV",
+            "U03LK39PKRR"
+        ],
+        "replies": [
+            {
+                "user": "U03M8T51VUY",
+                "ts": "1696460809.763629"
+            },
+            {
+                "user": "U03LG7DNSUV",
+                "ts": "1696485381.677439"
+            },
+            {
+                "user": "U03LK39PKRR",
+                "ts": "1697229613.922439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "free",
+                "users": [
+                    "U03TVL5QZFA",
+                    "U03M8T87HDE",
+                    "U03NW11JH19"
+                ],
+                "count": 3
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U03LXQCM22D",
+                    "U05BBQEJNTA",
+                    "U05B0NFJ1S5",
+                    "U03NW11JH19"
+                ],
+                "count": 4
+            },
+            {
+                "name": "alert",
+                "users": [
+                    "U03LXQCM22D",
+                    "U05BBQEJNTA",
+                    "U03NW11JH19"
+                ],
+                "count": 3
+            },
+            {
+                "name": "eagle",
+                "users": [
+                    "U03LG7DNSUV",
+                    "U03LMGV8Y12",
+                    "U03LXQCM22D",
+                    "U03NW11JH19"
+                ],
+                "count": 4
+            },
+            {
+                "name": "statue_of_liberty",
+                "users": [
+                    "U05B0NF7Y57",
+                    "U03NW11JH19"
+                ],
+                "count": 2
+            },
+            {
+                "name": "adam-smith",
+                "users": [
+                    "U03LK39PKRR",
+                    "U05AFDSJH70",
+                    "U03NW11JH19"
+                ],
+                "count": 3
+            },
+            {
+                "name": "cake",
+                "users": [
+                    "U03LK39PKRR",
+                    "U05GZPFH7SA",
+                    "U03M8T87HDE",
+                    "U03NW11JH19",
+                    "U03LXQCEVKK"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cfe35078-6cbf-4b7c-b792-92c24e6aaf13",
+        "type": "message",
+        "text": ":smiling_face_with_tear: the same week of Prospanica, but enjoy, make a free market, and a better world :awkward_monkey_look:",
+        "user": "U03M8T51VUY",
+        "ts": "1696460809.763629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tGmgL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the same week of Prospanica, but enjoy, make a free market, and a better world "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "awkward_monkey_look"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696460160.789429",
+        "parent_user_id": "U03LG7DNSUV"
+    },
+    {
+        "client_msg_id": "79E49898-75D5-43EA-B2DC-B97FD9055B48",
+        "type": "message",
+        "text": "No!! You are the biggest champion of free markets and free food! ",
+        "user": "U03LG7DNSUV",
+        "ts": "1696485381.677439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zt94t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No!! You are the biggest champion of free markets and free food! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "f3b8802bc2bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4003016629493_f3b8802bc2bc4748803b_72.png",
+            "first_name": "Jamie",
+            "real_name": "Jamie Wadsworth",
+            "display_name": "Jamie Wadsworth",
+            "team": "T0ZBAEL59",
+            "name": "jamie.p.wadsworth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696460160.789429",
+        "parent_user_id": "U03LG7DNSUV",
+        "reactions": [
+            {
+                "name": "excuseme",
+                "users": [
+                    "U03M8T51VUY",
+                    "U03LXQCEVKK"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

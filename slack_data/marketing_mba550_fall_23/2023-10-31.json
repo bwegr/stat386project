@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "34c0b18c-db33-44af-ac5c-396743c0fe18",
+        "type": "message",
+        "text": "Celebrate Halloween by stopping by Prof. Christensen's home for trick-or-treating tonight. Details can be found in your emails.",
+        "user": "U03L57R4HN3",
+        "ts": "1698764402.274959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sHJTF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Celebrate Halloween by stopping by Prof. Christensen's home for trick-or-treating tonight. Details can be found in your emails."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "514b5d11-ff09-4e3b-b882-4401f95ffc56",
+        "type": "message",
+        "text": "<@U03L57R4HN3> do you need any help with pizza for Thursday?",
+        "user": "U03LK4YF3A6",
+        "ts": "1698775799.423349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k\/Grb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L57R4HN3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you need any help with pizza for Thursday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

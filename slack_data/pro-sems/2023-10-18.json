@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "8FF21BEF-D5D9-4642-8326-F9DE32E7F214",
+        "type": "message",
+        "text": "Supply Chain &amp; Operations Pro Sem Reminder:\nThis week our “pro sem” will be with other Alumni and our guest speaker will be *David Porter, Chief Operating Officer @ Vivint!* It will be from 1-2:15 in W210! ",
+        "user": "U03LG7C9P8V",
+        "ts": "1697639076.844979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yFxdq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Supply Chain & Operations "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Pro Sem Reminder:"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week our "
+                            },
+                            {
+                                "type": "text",
+                                "text": "“"
+                            },
+                            {
+                                "type": "text",
+                                "text": "pro sem"
+                            },
+                            {
+                                "type": "text",
+                                "text": "” "
+                            },
+                            {
+                                "type": "text",
+                                "text": "will be with other Alumni and our guest speaker will be "
+                            },
+                            {
+                                "type": "text",
+                                "text": "David Porter, Chief Operating Officer ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "@ ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Vivint! ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "It will be from 1-2:15 in W210"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4f3bd79ef29c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-26\/5487388985763_4f3bd79ef29c7560553f_72.png",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Dean",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.dean",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03LCGQP0LW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LCGQP0LW",
+                    "U05GZPFMAA2"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

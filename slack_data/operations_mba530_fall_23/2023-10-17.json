@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "195f7597-beac-4f3a-9dcf-118149f5f766",
+        "type": "message",
+        "text": "OH in lounge 9:30-10:30 am",
+        "user": "U03M8TBLWTA",
+        "ts": "1697556706.237309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pG1+b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OH in lounge 9:30-10:30 am"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "1d4607decfc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3988998567393_1d4607decfc49118e4e0_72.png",
+            "first_name": "Collin",
+            "real_name": "Collin Pope",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "collinpope123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

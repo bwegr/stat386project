@@ -1,0 +1,188 @@
+[
+    {
+        "client_msg_id": "4EF51747-90D7-4E6F-BE61-16763FCD8A6D",
+        "type": "message",
+        "text": "I’ll be doing an office hour from 11-12 outside of the lounge, space permitting ",
+        "user": "U03LKPRD403",
+        "ts": "1696524862.106479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Hfj7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be doing an office hour from 11-12 outside of the lounge, space permitting "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3713f7e206fb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-27\/3723723290418_3713f7e206fb82b542cb_72.png",
+            "first_name": "Micah",
+            "real_name": "Micah Perry",
+            "display_name": "Micah",
+            "team": "T0ZBAEL59",
+            "name": "micahfperry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3f282632-e2bb-4eef-a20b-32514c40f500",
+        "type": "message",
+        "text": "Here is the Capital IQ database through BYU library that Professor Iverson mentioned: <https:\/\/resourceaccess.lib.byu.edu\/resources\/capital-iq\/>",
+        "user": "U05AN015NSX",
+        "ts": "1696525137.878439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OBzEe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is the Capital IQ database through BYU library that Professor Iverson mentioned: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/resourceaccess.lib.byu.edu\/resources\/capital-iq\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5C785133-2ADA-49A5-9856-D6C4CF306BEE",
+        "type": "message",
+        "text": "I’m on the couches in front of 208!",
+        "user": "U03LK4YJGQJ",
+        "ts": "1696526962.768459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ndR3r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on the couches in front of 208!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4bfa602a3916",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/4026473552256_4bfa602a39169e79a840_72.jpg",
+            "first_name": "Aaron",
+            "real_name": "Aaron Daines",
+            "display_name": "Aaron Daines",
+            "team": "T0ZBAEL59",
+            "name": "aaron.daines",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "344668ea-b6bb-4d57-b11b-5b1542315026",
+        "type": "message",
+        "text": "FYI budding financiers -- if you haven't added the Google Calendar yet to keep track of the TA office hours, add it <https:\/\/calendar.google.com\/calendar\/u\/0?cid=YzM3NTk5MTdmZjFjMDZkNWRhMThmNTc4ZDNlYzdlNGVmYjJlMjc5YTMzZjFhMzhmMTc2NGIyZmFiZDQyMjM4YkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t|here>. With the case due next Tuesday, note the various openings. Good luck on the case!",
+        "user": "U03NW11HA9H",
+        "ts": "1696535824.644499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JlB1\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI budding financiers -- if you haven't added the Google Calendar yet to keep track of the TA office hours, add it "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/calendar.google.com\/calendar\/u\/0?cid=YzM3NTk5MTdmZjFjMDZkNWRhMThmNTc4ZDNlYzdlNGVmYjJlMjc5YTMzZjFhMzhmMTc2NGIyZmFiZDQyMjM4YkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". With the case due next Tuesday, note the various openings. Good luck on the case!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6a130392200c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-14\/4505166801655_6a130392200ca475659a_72.png",
+            "first_name": "Richie",
+            "real_name": "Richie Connolly",
+            "display_name": "Richie Connolly",
+            "team": "T0ZBAEL59",
+            "name": "richardkconnolly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/calendar.google.com\/calendar\/u\/0?cid=YzM3NTk5MTdmZjFjMDZkNWRhMThmNTc4ZDNlYzdlNGVmYjJlMjc5YTMzZjFhMzhmMTc2NGIyZmFiZDQyMjM4YkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+                "service_icon": "https:\/\/workspace.google.com\/lp\/static\/images\/favicon.ico?fingerprint=913d48cd5d48ba34313131f246f99d6b",
+                "id": 1,
+                "original_url": "https:\/\/calendar.google.com\/calendar\/u\/0?cid=YzM3NTk5MTdmZjFjMDZkNWRhMThmNTc4ZDNlYzdlNGVmYjJlMjc5YTMzZjFhMzhmMTc2NGIyZmFiZDQyMjM4YkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+                "fallback": "Google Workspace: Google Calendar - Easier Time Management, Appointments &amp; Scheduling",
+                "text": "Learn how Google Calendar helps you stay on top of your plans - at home, at work and everywhere in between.",
+                "title": "Google Calendar - Easier Time Management, Appointments &amp; Scheduling",
+                "title_link": "https:\/\/calendar.google.com\/calendar\/u\/0?cid=YzM3NTk5MTdmZjFjMDZkNWRhMThmNTc4ZDNlYzdlNGVmYjJlMjc5YTMzZjFhMzhmMTc2NGIyZmFiZDQyMjM4YkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+                "service_name": "Google Workspace"
+            }
+        ]
+    }
+]

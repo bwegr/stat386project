@@ -1,0 +1,394 @@
+[
+    {
+        "type": "message",
+        "text": "Reminder about the Optum\/United Healthgroup Info session at 5-6pm tonight!! <https:\/\/byu.joinhandshake.com\/stu\/events\/1327301?ref=events-search|More info here>",
+        "files": [
+            {
+                "id": "F060NLNJ3EU",
+                "created": 1696545133,
+                "timestamp": 1696545133,
+                "name": "IMG_4391.jpg",
+                "title": "IMG_4391",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03LMGXA3FW",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 161274,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060NLNJ3EU\/img_4391.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060NLNJ3EU\/download\/img_4391.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NLNJ3EU-7322d32af4\/img_4391_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NLNJ3EU-7322d32af4\/img_4391_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NLNJ3EU-7322d32af4\/img_4391_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 294,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NLNJ3EU-7322d32af4\/img_4391_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 392,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NLNJ3EU-7322d32af4\/img_4391_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NLNJ3EU-7322d32af4\/img_4391_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 588,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NLNJ3EU-7322d32af4\/img_4391_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 654,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NLNJ3EU-7322d32af4\/img_4391_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 784,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060NLNJ3EU-7322d32af4\/img_4391_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 837,
+                "original_w": 1443,
+                "original_h": 1179,
+                "thumb_tiny": "AwAnADC+xbcQGx+FLh8\/fGPpSMpLHikCHPTFO4h2JP76\/lSruz8zAj2FN8v6flR5Z9qLjJKKj8s+op6gqMcUgGEHeSMZpfn9RSNt398\/hTuP75\/OgAAbu1KAe5zScf3\/ANadQBWkuWR2XaODxUkEplUkgDBxxUUtszyMw28nvUtvE0SkMQcnPFAEhHsCaTn+6Pzp1FACdugzTGl25G05qSq8n+sNAD\/P\/wBk0omU9jUNA+8PrQB\/\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LMGXA3FW\/F060NLNJ3EU\/img_4391.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060NLNJ3EU-e6bf7dec3b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LMGXA3FW",
+        "display_as_bot": false,
+        "team": "T0ZBAEL59",
+        "ts": "1696545157.222929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W7UuC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reminder about the Optum\/United Healthgroup Info session at 5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "-6pm"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tonight!! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.joinhandshake.com\/stu\/events\/1327301?ref=events-search",
+                                "text": "More info here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "264854D5-79C2-4693-ABFC-8E33032505B7",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9c4ebdd3-1afa-4406-8fdb-a9e4922fa42d",
+        "type": "message",
+        "text": "Does anyone know if the Delta event tonight is targeted towards internships or for full time positions?",
+        "user": "U03L4HB0BM5",
+        "ts": "1696545909.856059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hcQdr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone know if the Delta event tonight is targeted towards internships or for full time positions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b8e2be55e92a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-13\/4217060934309_b8e2be55e92a91910f26_72.jpg",
+            "first_name": "Kurt",
+            "real_name": "Kurt Jensen",
+            "display_name": "Kurt Jensen",
+            "team": "T0ZBAEL59",
+            "name": "kurtjen1995968",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696545909.856059",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696546120.205489",
+        "reply_users": [
+            "U03LG7C5QAH"
+        ],
+        "replies": [
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1696546120.205489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a559cb4e-bc36-4c52-89f4-321ef969a082",
+        "type": "message",
+        "text": "It will be targeted for internships. It’s hard to squeak in full-time right after MBA but not impossible. Keep the networking open though if you’re interested in the future",
+        "user": "U03LG7C5QAH",
+        "ts": "1696546120.205489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p6Uu\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It will be targeted for internships. It’s hard to squeak in full-time right after MBA but not impossible. Keep the networking open though if you’re interested in the future"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696545909.856059",
+        "parent_user_id": "U03L4HB0BM5",
+        "reactions": [
+            {
+                "name": "cool-doge",
+                "users": [
+                    "U03L4HB0BM5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81F75C4C-08EA-442E-B954-C75C3BE7F750",
+        "type": "message",
+        "text": "United Health Group info session starting in TNRB 174!",
+        "user": "U05AN0097RR",
+        "ts": "1696547340.208399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wiaB4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "United Health Group info session starting in TNRB 174!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "46b881f493b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-12\/5889612046788_46b881f493b3c09be337_72.png",
+            "first_name": "Paula",
+            "real_name": "Paula",
+            "display_name": "Paula",
+            "team": "T0ZBAEL59",
+            "name": "kremserpaula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "78e3b471-23c7-428c-aea9-4cb9f9f9a63d",
+        "type": "message",
+        "text": "Hey first years!  I interned at Dell last year, but my internship did not come from on campus recruiting.  I interned with Dell Technologies Services (DTS) which doesn't recruit on campus, but does recruit MBA and graduate level interns.  I was talking with some people in DTS HR and they sent me some QR codes for internships in DTS.  There are some business, analytics, and data science MBA\/graduate level internships.  Scan the QR codes and apply if you are interested!",
+        "user": "U03LXQE14NM",
+        "ts": "1696559532.660739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GD6kF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey first years!  I interned at Dell last year, but my internship did not come from on campus recruiting.  I interned with Dell Technologies Services (DTS) which doesn't recruit on campus, but does recruit MBA and graduate level interns.  I was talking with some people in DTS HR and they sent me some QR codes for internships in DTS.  There are some business, analytics, and data science MBA\/graduate level internships.  Scan the QR codes and apply if you are interested!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc176dbcf62e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_72.jpg",
+            "first_name": "Austin",
+            "real_name": "Austin Schofield",
+            "display_name": "Austin Schofield",
+            "team": "T0ZBAEL59",
+            "name": "schofieldda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0171LXH940",
+                    "U03LXQCEVKK",
+                    "U03LCGQP0LW",
+                    "U05BBQG8FTJ",
+                    "U05AN02C0E7",
+                    "U03LXQLBGCR",
+                    "U03LK56EXJN",
+                    "U05AQGJMMT6",
+                    "U03TVL5E0M6",
+                    "U05A7HCQPDM",
+                    "U05BBQG6MKJ",
+                    "U03LXQE14NM",
+                    "U05GRT17A87"
+                ],
+                "count": 13
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U03M8TCTA6L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F060077UAH1",
+                "created": 1696559573,
+                "timestamp": 1696559573,
+                "name": "image001 (1).png",
+                "title": "image001 (1).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LXQE14NM",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 461601,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060077UAH1\/image001__1_.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060077UAH1\/download\/image001__1_.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060077UAH1-2ec35c1aea\/image001__1__64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060077UAH1-2ec35c1aea\/image001__1__80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060077UAH1-2ec35c1aea\/image001__1__360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060077UAH1-2ec35c1aea\/image001__1__480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060077UAH1-2ec35c1aea\/image001__1__160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060077UAH1-2ec35c1aea\/image001__1__720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060077UAH1-2ec35c1aea\/image001__1__800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060077UAH1-2ec35c1aea\/image001__1__960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060077UAH1-2ec35c1aea\/image001__1__1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 2500,
+                "original_h": 1406,
+                "thumb_tiny": "AwAaADDSJwM0i8jOTRLjy2z0xzSQ48tdv3e1ACt8oJyaF+YAgmiTHltnpjmkhIMQK9O1AAx2cnOPrTx0qOYAqAwBGakHSgBshIQkAk+gojJKAkEH0NOFFADXyEJAJOOgojJKAkEH0NOooAZKxUDClue1PoooA\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LXQE14NM\/F060077UAH1\/image001__1_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060077UAH1-b5a485ab3d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LXQE14NM",
+        "display_as_bot": false,
+        "team": "T0ZBAEL59",
+        "ts": "1696559604.253189",
+        "client_msg_id": "23a394df-5d62-4a84-a46e-bb636d0d4517",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc176dbcf62e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_72.jpg",
+            "first_name": "Austin",
+            "real_name": "Austin Schofield",
+            "display_name": "Austin Schofield",
+            "team": "T0ZBAEL59",
+            "name": "schofieldda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

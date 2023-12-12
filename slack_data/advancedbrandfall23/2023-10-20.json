@@ -1,0 +1,319 @@
+[
+    {
+        "client_msg_id": "de2a0985-72ad-43a5-954d-acabffb3dc9d",
+        "type": "message",
+        "text": "hmmmm seems timely...<https:\/\/www.linkedin.com\/jobs\/view\/3738094543|https:\/\/www.linkedin.com\/jobs\/view\/3738094543>",
+        "user": "U03LK4YF3A6",
+        "ts": "1697813220.280529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N6tgQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmmmm seems timely..."
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/jobs\/view\/3738094543",
+                                "text": "https:\/\/www.linkedin.com\/jobs\/view\/3738094543"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "hushed",
+                "users": [
+                    "U03LK3D5N2X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f88d6c23-21a6-4553-9583-9ec3f9dbcf66",
+        "type": "message",
+        "text": "To your earlier comment on #3, then to find the trade\/unit do you subtract the 1.67 from 2.41 to get .74? Multiplied by 8 to get a case?",
+        "user": "U03LK52CR7U",
+        "ts": "1697817719.144839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oS1h4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To your earlier comment on #3, then to find the trade\/unit do you subtract the 1.67 from 2.41 to get .74? Multiplied by 8 to get a case?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6e53b4fccca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-23\/4005980232208_6e53b4fccca86101bc89_72.png",
+            "first_name": "Dallin",
+            "real_name": "Dallin Webb",
+            "display_name": "Dallin Webb",
+            "team": "T0ZBAEL59",
+            "name": "dallin.webb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "e69fa744-49bb-4f0f-af01-a034a65c6e66",
+        "type": "message",
+        "text": "That's what I did!",
+        "user": "U03LK3D5N2X",
+        "ts": "1697818590.989089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zkzn1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's what I did!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "27bc2616-5924-45a7-aa7d-4e5c34132389",
+        "type": "message",
+        "text": "This is hard for me to understand because the 1.67 is the VC at a 10% margin, but the 2.41 VC is at a 35% margin so it feels like you shouldn’t be able to do this haha do you have an explanation that might help me? His example in the slides assumes a consistent margin.",
+        "user": "U03LK52CR7U",
+        "ts": "1697819576.799679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EPXhT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is hard for me to understand because the 1.67 is the VC at a 10% margin, but the 2.41 VC is at a 35% margin so it feels like you shouldn’t be able to do this haha do you have an explanation that might help me? His example in the slides assumes a consistent margin."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6e53b4fccca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-23\/4005980232208_6e53b4fccca86101bc89_72.png",
+            "first_name": "Dallin",
+            "real_name": "Dallin Webb",
+            "display_name": "Dallin Webb",
+            "team": "T0ZBAEL59",
+            "name": "dallin.webb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X"
+    },
+    {
+        "client_msg_id": "fbbf702d-38c6-4e21-ab62-34d2c525de58",
+        "type": "message",
+        "text": "For me, I think about 2.41 being the standard list price that can only be changed by trade. As a retailer, you can choose to adjust your target price and margin, but those targets are only achievable if the brand offers you a trade discount. So for question 3, the retailer decided that they wanted to adjust price to be a BOGO and lower their margin (so they don't screw over the brand) and the brand wants to help them make that happen so they offer trade to reduce the VC from its original $2.41. Does that help?",
+        "user": "U03LK3D5N2X",
+        "ts": "1697821865.004699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z5T92",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For me, I think about 2.41 being the standard list price that can only be changed by trade. As a retailer, you can choose to adjust your target price and margin, but those targets are only achievable if the brand offers you a trade discount. So for question 3, the retailer decided that they wanted to adjust price to be a BOGO and lower their margin (so they don't screw over the brand) and the brand wants to help them make that happen so they offer trade to reduce the VC from its original $2.41. Does that help?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKA415K3N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7edf196a-3cdd-4412-bee7-cd440d7868c3",
+        "type": "message",
+        "text": "Yes, you are the best!",
+        "user": "U03LK52CR7U",
+        "ts": "1697822983.950999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KsKaz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, you are the best!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6e53b4fccca8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-23\/4005980232208_6e53b4fccca86101bc89_72.png",
+            "first_name": "Dallin",
+            "real_name": "Dallin Webb",
+            "display_name": "Dallin Webb",
+            "team": "T0ZBAEL59",
+            "name": "dallin.webb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X",
+        "reactions": [
+            {
+                "name": "spiderman",
+                "users": [
+                    "U03LK52CR7U"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U03LK3D5N2X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a117474-f231-4cc9-a3c6-940d9c216ea5",
+        "type": "message",
+        "text": "Just finished the problem set, although I'm sure it's not 100% correct. I just want to validate my reasoning - I kept going back to that original retailer cost per unit of $2.41 to get my trade answers. Even down to #7.\n\nHowever, if I found the regular cost of Publix on shelf [$3.69=VC\/(1.35)] that puts the regular VC at $2.40, not $2.41.\n\nDoes that make sense to anyone? Or am I crazy and need to go to sleep. Lol.",
+        "user": "U03L57R4HN3",
+        "ts": "1697863629.778339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qAVNu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just finished the problem set, although I'm sure it's not 100% correct. I just want to validate my reasoning - I kept going back to that original retailer cost per unit of $2.41 to get my trade answers. Even down to #7.\n\nHowever, if I found the regular cost of Publix on shelf [$3.69=VC\/(1.35)] that puts the regular VC at $2.40, not $2.41.\n\nDoes that make sense to anyone? Or am I crazy and need to go to sleep. Lol."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697771220.470749",
+        "parent_user_id": "U03LK3D5N2X"
+    }
+]

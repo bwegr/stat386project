@@ -1,0 +1,319 @@
+[
+    {
+        "type": "message",
+        "text": "Devin with enough injuries to open a hospital over there :joy: :rip: ",
+        "files": [
+            {
+                "id": "F063QNR4V6U",
+                "created": 1698369464,
+                "timestamp": 1698369464,
+                "name": "IMG_0919.jpg",
+                "title": "IMG_0919",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03LK533VR8",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 56057,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F063QNR4V6U\/img_0919.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F063QNR4V6U\/download\/img_0919.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063QNR4V6U-4eb29e241a\/img_0919_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063QNR4V6U-4eb29e241a\/img_0919_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063QNR4V6U-4eb29e241a\/img_0919_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 124,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063QNR4V6U-4eb29e241a\/img_0919_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 166,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063QNR4V6U-4eb29e241a\/img_0919_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063QNR4V6U-4eb29e241a\/img_0919_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 249,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063QNR4V6U-4eb29e241a\/img_0919_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 276,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063QNR4V6U-4eb29e241a\/img_0919_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 332,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063QNR4V6U-4eb29e241a\/img_0919_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 354,
+                "thumb_1024_h": 1024,
+                "original_w": 498,
+                "original_h": 1442,
+                "thumb_tiny": "AwAwABDQ2Dnknml4GBgUA5796caAEFBooNACClPSgUUAf\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK533VR8\/F063QNR4V6U\/img_0919.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F063QNR4V6U-33d2b2bb1d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LK533VR8",
+        "display_as_bot": false,
+        "ts": "1698369489.966529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aL4r6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Devin with enough injuries to open a hospital over there "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rip"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8AF25D2E-1053-4AE5-AA6D-DF51721C5477",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U05DJBMDG0L",
+                    "U03M8TCTA6L",
+                    "U03LCGQ9L6S"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4FC581BE-BEC7-49D9-AA20-6147FC638211",
+        "type": "message",
+        "text": "As Elder Renlund said “Fantasy Football is like a big hospital, and we are all sick in our own way”\n\n\nOr something like that :joy: ",
+        "user": "U05DJBMDG0L",
+        "ts": "1698369723.773449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "15izt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As Elder Renlund said “Fantasy Football is like a big hospital, and we are all sick in our own way”\n\n\nOr something like that "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "05cc2cf46691",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-06\/5853483419606_05cc2cf4669182a318bb_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Despain",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "devindespain79",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK533VR8",
+                    "U03LG7C5QAH",
+                    "U03M8TCTA6L",
+                    "U05DD0R0XHB",
+                    "U03TVL5QZFA"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AFD1F6A0-2940-440D-A14C-1CDAB44E7E92",
+        "type": "message",
+        "text": "Who goes for 2 there!!?!?!?!?!?!?!\nGive me a break",
+        "user": "U03LGTR0KV3",
+        "ts": "1698376085.585949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y9TLM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who goes for 2 there!!?!?!?!?!?!?!\nGive me a break"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698376085.585949",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698377081.192969",
+        "reply_users": [
+            "U03LK533VR8",
+            "U03LGTR0KV3"
+        ],
+        "replies": [
+            {
+                "user": "U03LK533VR8",
+                "ts": "1698376924.732569"
+            },
+            {
+                "user": "U03LGTR0KV3",
+                "ts": "1698377081.192969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK533VR8",
+                    "U03M8TCTA6L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aef9ae88-2b10-4002-bedb-0cc7a4d23ce6",
+        "type": "message",
+        "text": "Can't believe Godwin missed that! hahah",
+        "user": "U03LK533VR8",
+        "ts": "1698376924.732569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3jHsw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can't believe Godwin missed that! hahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698376085.585949",
+        "parent_user_id": "U03LGTR0KV3"
+    },
+    {
+        "client_msg_id": "28d35d59-15a1-4cbf-bcf0-c74a361cec10",
+        "type": "message",
+        "text": "Me too, given how bad the fantasy gods want me to lose apparently",
+        "user": "U03LGTR0KV3",
+        "ts": "1698377081.192969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VSOdZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me too, given how bad the fantasy gods want me to lose apparently"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "d68beaa6511e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-03\/3753672143922_d68beaa6511ea35a2527_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Holden",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bholden222",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698376085.585949",
+        "parent_user_id": "U03LGTR0KV3"
+    }
+]

@@ -1,0 +1,293 @@
+[
+    {
+        "client_msg_id": "4123be8c-d3ae-4917-8f18-a13435a7aeb1",
+        "type": "message",
+        "text": ":rotating_light: Supply Chain &amp; Ops Pro Sem :rotating_light:\n\n*When*: Friday, October 27th @ 11am\n*Who:* Robb Gordon (Senior Policy Director and Managing Legal Counsel @ Intel)\n*Where*: TNRB W208; in-person event",
+        "user": "U03LG7C9P8V",
+        "ts": "1698245455.309659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rxLH+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Supply Chain & Ops Pro Sem "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "When",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Friday, October 27th @ 11am\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Who: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Robb Gordon (Senior Policy Director and Managing Legal Counsel @ Intel)\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Where",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": TNRB W208; in-person event"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4f3bd79ef29c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-26\/5487388985763_4f3bd79ef29c7560553f_72.png",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Dean",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.dean",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U03LCGQP0LW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09B7E4ED-6C35-407F-B1EF-CB4330C4B08F",
+        "type": "message",
+        "text": "HR Pro Sem! :sunny:\n\nWhen: Friday, October 27th 9:30-10:45 a.m.\nWho: Dave Long and Sara Isom from DecisionWise\nWhere: TNRB W242; in-person \n• *Lunch provided at 11am!!* :knife_fork_plate: :knife_fork_plate: ",
+        "user": "U03LK4YBK7C",
+        "ts": "1698252948.939199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YvzjH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "H"
+                            },
+                            {
+                                "type": "text",
+                                "text": "R "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Pro Sem"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "When: Friday, October "
+                            },
+                            {
+                                "type": "text",
+                                "text": "27th "
+                            },
+                            {
+                                "type": "text",
+                                "text": "9:30-10:45 a.m."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Wh"
+                            },
+                            {
+                                "type": "text",
+                                "text": "o: Dave Long and Sara Isom from DecisionWise"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Where: TNRB W242"
+                            },
+                            {
+                                "type": "text",
+                                "text": "; in-person "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lunch ",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false,
+                                            "strike": false
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "provided at 11am!! ",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false,
+                                            "strike": false
+                                        }
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "knife_fork_plate",
+                                        "unicode": "1f37d-fe0f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false,
+                                            "strike": false
+                                        }
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "knife_fork_plate",
+                                        "unicode": "1f37d-fe0f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false,
+                                            "strike": false
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9269f939505a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-09\/5895560464112_9269f939505a8d44f86b_72.png",
+            "first_name": "Kirsi",
+            "real_name": "Kirsi Jarvis",
+            "display_name": "Kirsi Jarvis",
+            "team": "T0ZBAEL59",
+            "name": "kirsijarvis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U05AN015NSX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "yum",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U05AN015NSX",
+                    "U03LK385119"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

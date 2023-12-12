@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "ce0322a7-bf48-4e61-91b4-5541197ba668",
+        "type": "message",
+        "text": "First year MBAs:\n\nBYU’s Silver Fund is taking applications to join the team winter of 2024. Applications will be due October 31. Decisions will be made and announced by November 13.  Please apply using the following google form link:\n\n<https:\/\/forms.gle\/565RQauJt5BLE5Q6A>\n\nThanks - please feel free to reach out to me directly with any questions.",
+        "user": "U03LMGV8Y12",
+        "ts": "1697839218.211659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KC7\/1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "First year MBAs:\n\nBYU’s Silver Fund is taking applications to join the team winter of 2024. Applications will be due October 31. Decisions will be made and announced by November 13.  Please apply using the following google form link:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/565RQauJt5BLE5Q6A"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThanks - please feel free to reach out to me directly with any questions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "11faedfd4201",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-16\/4093144696930_11faedfd42013ff3c8c3_72.png",
+            "first_name": "Aaron",
+            "real_name": "Aaron Ranger",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "aarontranger",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Be sure to sign up for the stock pitch competition, kickoff meeting this upcoming Thursday (10\/26) at 6pm in 170 TNRB.",
+        "files": [
+            {
+                "id": "F06265PSC1Z",
+                "created": 1697849937,
+                "timestamp": 1697849937,
+                "name": "Stock Pitch Competition—Silver Fund.png",
+                "title": "Stock Pitch Competition—Silver Fund.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LMGV8Y12",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 905433,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F06265PSC1Z\/stock_pitch_competition___silver_fund.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F06265PSC1Z\/download\/stock_pitch_competition___silver_fund.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06265PSC1Z-8f75cf3353\/stock_pitch_competition___silver_fund_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06265PSC1Z-8f75cf3353\/stock_pitch_competition___silver_fund_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06265PSC1Z-8f75cf3353\/stock_pitch_competition___silver_fund_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06265PSC1Z-8f75cf3353\/stock_pitch_competition___silver_fund_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06265PSC1Z-8f75cf3353\/stock_pitch_competition___silver_fund_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06265PSC1Z-8f75cf3353\/stock_pitch_competition___silver_fund_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 556,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06265PSC1Z-8f75cf3353\/stock_pitch_competition___silver_fund_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1036,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06265PSC1Z-8f75cf3353\/stock_pitch_competition___silver_fund_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F06265PSC1Z-8f75cf3353\/stock_pitch_competition___silver_fund_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 791,
+                "thumb_1024_h": 1024,
+                "original_w": 1545,
+                "original_h": 2000,
+                "thumb_tiny": "AwAwACW1INrcf+g5pvPv\/wB81Kw5OaMD+8v51VxWIpF\/0Zm7\/THeobZhlsgYA5NWLgH7K4HJPT86jjtSi7PM+YjJGOKAJI\/nTcBwaftPpTLVSsbKwwQ5qei4rEcmCeaFUY5TP60y4k8tlGM596jFwV\/h\/WiwXLLJuQqOPSm7uuY23H0Gf1qL7Uf7g\/OkN2R1QfnRYLlhFIBz1JyadSK25Q3qM0tIZFPGrgEgkjpg4pnkJ\/dfp60kjAr680gbjo3T1piHeQno9ILaMn7r\/nSbz\/dNOWQZ5U\/iaNQ0LAAUADoOKKi872o86iwXP\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LMGV8Y12\/F06265PSC1Z\/stock_pitch_competition___silver_fund.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F06265PSC1Z-306839ea28",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LMGV8Y12",
+        "display_as_bot": false,
+        "ts": "1697849988.312699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tf8Vl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Be sure to sign up for the stock pitch competition, kickoff meeting this upcoming Thursday (10\/26) at 6pm in 170 TNRB."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "953e0344-0ff2-4572-a478-7ec0912afce0",
+        "thread_ts": "1697849988.312699",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698175236.189509",
+        "reply_users": [
+            "U05A7HC8FF1",
+            "U03LMGV8Y12"
+        ],
+        "replies": [
+            {
+                "user": "U05A7HC8FF1",
+                "ts": "1698167188.088379"
+            },
+            {
+                "user": "U03LMGV8Y12",
+                "ts": "1698175236.189509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "client_msg_id": "be771274-39be-4385-9a51-20baade65eaf",
+        "type": "message",
+        "text": "Any TA hours today?",
+        "user": "U05A7HEQV71",
+        "ts": "1697559162.145879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gdyrJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any TA hours today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fa48ca75f03b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-04\/5839586086774_fa48ca75f03bd5ed2885_72.png",
+            "first_name": "Harrison",
+            "real_name": "Harrison Christensen",
+            "display_name": "Harrison Christensen",
+            "team": "T0ZBAEL59",
+            "name": "hjchristensen97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "303ec21d-7c58-49d9-81ce-d29d5032e732",
+        "type": "message",
+        "text": "For question 4 from the problem set, is there an assumption that the $ 2,173 from required 2 is the assumption that is in required 3 4 and 5.",
+        "user": "U05B0NGPZTK",
+        "ts": "1697564825.724929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Op2Ua",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For question 4 from the problem set, is there an assumption that the $ 2,173 from required 2 is the assumption that is in required 3 4 and 5."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3a61673f1e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-30\/5840515508529_3a61673f1e89faa453cf_72.jpg",
+            "first_name": "Gabriel",
+            "real_name": "Gabriel Suttner",
+            "display_name": "Gabriel Suttner",
+            "team": "T0ZBAEL59",
+            "name": "suttnerg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697564825.724929",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697588015.493059",
+        "reply_users": [
+            "U05AN015NSX"
+        ],
+        "replies": [
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697588015.493059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4F502D6C-B0E7-49FB-ADA6-7FC783E74C3F",
+        "type": "message",
+        "text": "Room number for 3:15 office hours?",
+        "user": "U05A7HEQV71",
+        "ts": "1697577480.530899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ol5D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Room number for 3:15 office hours?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fa48ca75f03b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-04\/5839586086774_fa48ca75f03bd5ed2885_72.png",
+            "first_name": "Harrison",
+            "real_name": "Harrison Christensen",
+            "display_name": "Harrison Christensen",
+            "team": "T0ZBAEL59",
+            "name": "hjchristensen97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "85d7fa91-1a05-4d1a-b0a7-6e2ecd006d56",
+        "type": "message",
+        "text": "3:30pm in W353",
+        "user": "U03LK39EPB5",
+        "ts": "1697577805.807999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5vEX9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3:30pm in W353"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a0326a03-631e-4efb-b1be-1ba188650ebc",
+        "type": "message",
+        "text": "Yes, I got 30\/30 on the quiz. The $2,173 (current balance before adjustment) is cooked into the Allowance for Uncollectible Accounts (estimated ending balance), alongside the year-end adjustment (bad debt expense).",
+        "user": "U05AN015NSX",
+        "ts": "1697588015.493059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ycj4j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I got 30\/30 on the quiz. The $2,173 (current balance before adjustment) is cooked into the Allowance for Uncollectible Accounts (estimated ending balance), alongside the year-end adjustment (bad debt expense)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697564825.724929",
+        "parent_user_id": "U05B0NGPZTK"
+    }
+]

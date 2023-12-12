@@ -1,0 +1,211 @@
+[
+    {
+        "client_msg_id": "e69d511e-7bf3-494a-b424-d1b51780c413",
+        "type": "message",
+        "text": "<https:\/\/www.linkedin.com\/jobs\/view\/3730085241>",
+        "user": "U03L4GLKLTZ",
+        "ts": "1698420804.976409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M2fFc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/jobs\/view\/3730085241"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4e7196d104cf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-11\/3933734501588_4e7196d104cf80cb4cab_72.png",
+            "first_name": "Gretel",
+            "real_name": "Gretel Tam",
+            "display_name": "Gretel",
+            "team": "T0ZBAEL59",
+            "name": "greteltam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/jobs\/view\/3730085241",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/jobs\/view\/3730085241",
+                "fallback": "Property Finder hiring MBA Associate (Dubai based) in San Francisco, California, United States | LinkedIn",
+                "text": "Posted 10:44:50 AM. DUBAI BASED ROLE. Relocation would be required.\n3-6 Month Assignment - MBA Associate - Business…See this and similar jobs on LinkedIn.",
+                "title": "Property Finder hiring MBA Associate (Dubai based) in San Francisco, California, United States | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/jobs\/view\/3730085241",
+                "service_name": "linkedin.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9ffe249-e688-43db-a261-3d62bfee85b4",
+        "type": "message",
+        "text": "Amazon Pathways Internship Virtual Info session Fri Nov 3. Register <https:\/\/register.gotowebinar.com\/register\/2867443196952644446|here>\nMore details about the Pathways Program <https:\/\/amazonpathwaysna.splashthat.com\/|here>",
+        "user": "U03LMGXA3FW",
+        "ts": "1698437247.921749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DnnuL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazon Pathways Internship Virtual Info session Fri Nov 3. Register "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/register.gotowebinar.com\/register\/2867443196952644446",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMore details about the Pathways Program "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/amazonpathwaysna.splashthat.com\/",
+                                "text": "here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LMGXA3FW",
+            "ts": "1698437373.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/amazonpathwaysna.splashthat.com\/",
+                "service_icon": "https:\/\/d24wuq6o951i2g.cloudfront.net\/img\/events\/id\/305\/3056092\/assets\/765.favicon-0.png",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/s3.clients.splashthat.com\/img\/events\/splash\/cards\/458732243.x3.8d8c2b60.png",
+                "thumb_width": 750,
+                "thumb_height": 1050,
+                "id": 1,
+                "original_url": "https:\/\/amazonpathwaysna.splashthat.com\/",
+                "fallback": "Pathways Operations Leadership Development Program North America",
+                "text": "Are you looking to become a leader in a global Fortune 100 company where you manage people, processes, and technology in one of the world’s leading logistics, transportation, and fulfillment operations? Would you enjoy the challenge of delivering a continuously improving customer experience to over 285 million customers globally? Does being on a fast track toward senior leadership roles at Amazon interest you? If the answer is yes, then the Amazon Pathways program may be right for you!  This site provides information for currently enrolled graduate students seeking Pathways roles (full-time and internship) in the United States and Canada. Pathways opportunities are also available in EMEA, India, Japan, and Mexico - all currently open Pathways roles can be found here.",
+                "title": "Pathways Operations Leadership Development Program North America",
+                "title_link": "https:\/\/amazonpathwaysna.splashthat.com\/",
+                "service_name": "amazonpathwaysna.splashthat.com"
+            }
+        ],
+        "thread_ts": "1698437247.921749",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698442580.328469",
+        "reply_users": [
+            "U03LG7C9P8V"
+        ],
+        "replies": [
+            {
+                "user": "U03LG7C9P8V",
+                "ts": "1698442580.328469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1698442580.328469",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LMGX6W1J",
+                    "U05D98WQKFG",
+                    "U05DW80RSQM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U05D98WQKFG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4B4AC1BF-8542-4382-A172-F0711935429F",
+        "type": "message",
+        "text": "<@U05D98WQKFG> <@U05DW80RSQM> ",
+        "user": "U03LG7C9P8V",
+        "ts": "1698442580.328469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TGteK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05D98WQKFG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05DW80RSQM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4f3bd79ef29c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-26\/5487388985763_4f3bd79ef29c7560553f_72.png",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Dean",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.dean",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698437247.921749",
+        "parent_user_id": "U03LMGXA3FW"
+    }
+]

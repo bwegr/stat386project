@@ -1,0 +1,1109 @@
+[
+    {
+        "client_msg_id": "909e9a8a-812b-4c4e-910b-4b849f07cccc",
+        "type": "message",
+        "text": "I still have a hold on my account. With the 16th Monday being the day when registration opens up, I would love this to be resolved today or Friday. Otherwise, we will lose any advantage for classes that we get as graduate students and possible not get into our classes. How is this being bird-dogged? And escalated in a timely manner?",
+        "user": "U03NW11JH19",
+        "ts": "1697131018.865849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CmcA1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I still have a hold on my account. With the 16th Monday being the day when registration opens up, I would love this to be resolved today or Friday. Otherwise, we will lose any advantage for classes that we get as graduate students and possible not get into our classes. How is this being bird-dogged? And escalated in a timely manner?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697131018.865849",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1697133698.523619",
+        "reply_users": [
+            "U03NW11JH19",
+            "U03LK551XFU"
+        ],
+        "replies": [
+            {
+                "user": "U03NW11JH19",
+                "ts": "1697131598.477999"
+            },
+            {
+                "user": "U03LK551XFU",
+                "ts": "1697131680.758199"
+            },
+            {
+                "user": "U03LK551XFU",
+                "ts": "1697132639.097309"
+            },
+            {
+                "user": "U03NW11JH19",
+                "ts": "1697133127.077909"
+            },
+            {
+                "user": "U03LK551XFU",
+                "ts": "1697133441.462289"
+            },
+            {
+                "user": "U03NW11JH19",
+                "ts": "1697133637.135879"
+            },
+            {
+                "user": "U03LK551XFU",
+                "ts": "1697133698.523619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "same",
+                "users": [
+                    "U03LK533VR8",
+                    "U03LK551XFU",
+                    "U03LG779KGD",
+                    "U03LG7C9P8V"
+                ],
+                "count": 4
+            },
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U03L4GLKLTZ",
+                    "U03LN7VEH2Q"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "079e8c46-41a7-4466-be1c-3762701db366",
+        "type": "message",
+        "text": "<@U03LK551XFU>",
+        "user": "U03NW11JH19",
+        "ts": "1697131598.477999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fdtS0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK551XFU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697131018.865849",
+        "parent_user_id": "U03NW11JH19"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "I talked to them about it yesterday and they said they were going to go talk to the office. I emailed them just a few minutes ago. I will let you know. we will get this resolved by Friday.",
+        "user": "U03LK551XFU",
+        "ts": "1697131680.758199",
+        "thread_ts": "1697131018.865849",
+        "root": {
+            "client_msg_id": "909e9a8a-812b-4c4e-910b-4b849f07cccc",
+            "type": "message",
+            "text": "I still have a hold on my account. With the 16th Monday being the day when registration opens up, I would love this to be resolved today or Friday. Otherwise, we will lose any advantage for classes that we get as graduate students and possible not get into our classes. How is this being bird-dogged? And escalated in a timely manner?",
+            "user": "U03NW11JH19",
+            "ts": "1697131018.865849",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "CmcA1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I still have a hold on my account. With the 16th Monday being the day when registration opens up, I would love this to be resolved today or Friday. Otherwise, we will lose any advantage for classes that we get as graduate students and possible not get into our classes. How is this being bird-dogged? And escalated in a timely manner?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0ZBAEL59",
+            "thread_ts": "1697131018.865849",
+            "reply_count": 7,
+            "reply_users_count": 2,
+            "latest_reply": "1697133698.523619",
+            "reply_users": [
+                "U03NW11JH19",
+                "U03LK551XFU"
+            ],
+            "replies": [
+                {
+                    "user": "U03NW11JH19",
+                    "ts": "1697131598.477999"
+                },
+                {
+                    "user": "U03LK551XFU",
+                    "ts": "1697131680.758199"
+                },
+                {
+                    "user": "U03LK551XFU",
+                    "ts": "1697132639.097309"
+                },
+                {
+                    "user": "U03NW11JH19",
+                    "ts": "1697133127.077909"
+                },
+                {
+                    "user": "U03LK551XFU",
+                    "ts": "1697133441.462289"
+                },
+                {
+                    "user": "U03NW11JH19",
+                    "ts": "1697133637.135879"
+                },
+                {
+                    "user": "U03LK551XFU",
+                    "ts": "1697133698.523619"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hwQ3v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I talked to them about it yesterday and they said they were going to go talk to the office. I emailed them just a few minutes ago. I will let you know. we will get this resolved by Friday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2528e54d-f206-420c-857e-dd6a0ea55033",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03NW11JH19"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U03NW11JH19",
+                    "U03L4GLKLTZ",
+                    "U03LG779KGD",
+                    "U03LG7C9P8V"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Robyn has also sent an email to Barry including Christine. Thanks Robyn ",
+        "files": [
+            {
+                "id": "F0619UY1HFT",
+                "created": 1697132591,
+                "timestamp": 1697132591,
+                "name": "IMG_5479.png",
+                "title": "IMG_5479",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LK551XFU",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 376184,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0619UY1HFT\/img_5479.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0619UY1HFT\/download\/img_5479.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0619UY1HFT-ee9ff197bf\/img_5479_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0619UY1HFT-ee9ff197bf\/img_5479_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0619UY1HFT-ee9ff197bf\/img_5479_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0619UY1HFT-ee9ff197bf\/img_5479_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0619UY1HFT-ee9ff197bf\/img_5479_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0619UY1HFT-ee9ff197bf\/img_5479_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0619UY1HFT-ee9ff197bf\/img_5479_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0619UY1HFT-ee9ff197bf\/img_5479_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0619UY1HFT-ee9ff197bf\/img_5479_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "original_w": 828,
+                "original_h": 1792,
+                "thumb_tiny": "AwAwABbS3D3\/ACo3fX8qTH+0aXHvQAd80uaMUUAMO7PejDe9IetJQBIoI6mlpqdTTqAGHPPAoyfalPfIpNw46UAOGe+KWm59qWgD\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK551XFU\/F0619UY1HFT\/img_5479.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0619UY1HFT-f61358d336",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F060ZPFCAMS",
+                "created": 1697132591,
+                "timestamp": 1697132591,
+                "name": "IMG_5480.png",
+                "title": "IMG_5480",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LK551XFU",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 444276,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060ZPFCAMS\/img_5480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060ZPFCAMS\/download\/img_5480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060ZPFCAMS-c9da6ae9b7\/img_5480_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060ZPFCAMS-c9da6ae9b7\/img_5480_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060ZPFCAMS-c9da6ae9b7\/img_5480_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060ZPFCAMS-c9da6ae9b7\/img_5480_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060ZPFCAMS-c9da6ae9b7\/img_5480_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060ZPFCAMS-c9da6ae9b7\/img_5480_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060ZPFCAMS-c9da6ae9b7\/img_5480_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060ZPFCAMS-c9da6ae9b7\/img_5480_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060ZPFCAMS-c9da6ae9b7\/img_5480_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "original_w": 828,
+                "original_h": 1792,
+                "thumb_tiny": "AwAwABbR3AZ4o3+1DEg9abk+poAcOTnBp1NUmnUAMfrTaewJPFJtNACrTqaowadQAzbknml2CjJ5zSbwccj86AHBcUtJmigD\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK551XFU\/F060ZPFCAMS\/img_5480.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060ZPFCAMS-4edd07e1c0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LK551XFU",
+        "ts": "1697132639.097309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AsNsG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Robyn has also sent an email to Barry including Christine. Thanks Robyn "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "A0AE2417-7197-4A5B-B11A-78CF6BADDD7D",
+        "thread_ts": "1697131018.865849",
+        "parent_user_id": "U03NW11JH19"
+    },
+    {
+        "client_msg_id": "55ab0578-be1c-4439-8262-fe2501ba0c8e",
+        "type": "message",
+        "text": "Thanks Robyn! Hyrum we probably need some in-person interaction for this to be elevated in a timely manner. I am glad to help but I don't want to step on someone's toes or overwhelm Christine",
+        "user": "U03NW11JH19",
+        "ts": "1697133127.077909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wJgTi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Robyn! Hyrum we probably need some in-person interaction for this to be elevated in a timely manner. I am glad to help but I don't want to step on someone's toes or overwhelm Christine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03NW11JH19",
+            "ts": "1697133259.000000"
+        },
+        "thread_ts": "1697131018.865849",
+        "parent_user_id": "U03NW11JH19"
+    },
+    {
+        "client_msg_id": "7424A07E-569D-4624-A0CB-F84777C12D90",
+        "type": "message",
+        "text": "You do whatever is needed. I’m sick at home. Emails have been sent. I’ve texted Scott. The problem needs to be resolved. If and when I hear something I will let you know. ",
+        "user": "U03LK551XFU",
+        "ts": "1697133441.462289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d24cx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You do whatever is needed. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sick at home. Emails have been sent. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " texted Scott. The problem needs to be resolved. If and when I hear something I will let you know. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697131018.865849",
+        "parent_user_id": "U03NW11JH19"
+    },
+    {
+        "client_msg_id": "38434926-8e4f-4c66-8c61-5f1d5ec12b58",
+        "type": "message",
+        "text": "I know Barry said that he talked with Kennedy center and they said they would push the date back. I also, know IT is working on the issue to resolve it. However, I am unclear on the timeline and urgency at which any of this is being resolved.",
+        "user": "U03NW11JH19",
+        "ts": "1697133637.135879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xTgN0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know Barry said that he talked with Kennedy center and they said they would push the date back. I also, know IT is working on the issue to resolve it. However, I am unclear on the timeline and urgency at which any of this is being resolved."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697131018.865849",
+        "parent_user_id": "U03NW11JH19"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F060UFL0YDT",
+                "created": 1697133693,
+                "timestamp": 1697133693,
+                "name": "IMG_5481.png",
+                "title": "IMG_5481",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LK551XFU",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 209297,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060UFL0YDT\/img_5481.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060UFL0YDT\/download\/img_5481.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060UFL0YDT-6202574fd0\/img_5481_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060UFL0YDT-6202574fd0\/img_5481_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060UFL0YDT-6202574fd0\/img_5481_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060UFL0YDT-6202574fd0\/img_5481_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060UFL0YDT-6202574fd0\/img_5481_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060UFL0YDT-6202574fd0\/img_5481_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060UFL0YDT-6202574fd0\/img_5481_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060UFL0YDT-6202574fd0\/img_5481_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060UFL0YDT-6202574fd0\/img_5481_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "original_w": 828,
+                "original_h": 1792,
+                "thumb_tiny": "AwAwABbSozSADn5j19aX8aADHOaWiigBmCSaNtKc+9Lk+lAAoxS0CigBhPJ\/xpd\/tSZ65FG9Tj7tADgcilpufaloA\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK551XFU\/F060UFL0YDT\/img_5481.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060UFL0YDT-4b66483da0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LK551XFU",
+        "display_as_bot": false,
+        "ts": "1697133698.523619",
+        "client_msg_id": "9647AD49-405E-4BC5-A3A1-59B7B365FFAE",
+        "thread_ts": "1697131018.865849",
+        "parent_user_id": "U03NW11JH19",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "909e9a8a-812b-4c4e-910b-4b849f07cccc",
+            "type": "message",
+            "text": "I still have a hold on my account. With the 16th Monday being the day when registration opens up, I would love this to be resolved today or Friday. Otherwise, we will lose any advantage for classes that we get as graduate students and possible not get into our classes. How is this being bird-dogged? And escalated in a timely manner?",
+            "user": "U03NW11JH19",
+            "ts": "1697131018.865849",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "CmcA1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I still have a hold on my account. With the 16th Monday being the day when registration opens up, I would love this to be resolved today or Friday. Otherwise, we will lose any advantage for classes that we get as graduate students and possible not get into our classes. How is this being bird-dogged? And escalated in a timely manner?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0ZBAEL59",
+            "thread_ts": "1697131018.865849",
+            "reply_count": 7,
+            "reply_users_count": 2,
+            "latest_reply": "1697133698.523619",
+            "reply_users": [
+                "U03NW11JH19",
+                "U03LK551XFU"
+            ],
+            "replies": [
+                {
+                    "user": "U03NW11JH19",
+                    "ts": "1697131598.477999"
+                },
+                {
+                    "user": "U03LK551XFU",
+                    "ts": "1697131680.758199"
+                },
+                {
+                    "user": "U03LK551XFU",
+                    "ts": "1697132639.097309"
+                },
+                {
+                    "user": "U03NW11JH19",
+                    "ts": "1697133127.077909"
+                },
+                {
+                    "user": "U03LK551XFU",
+                    "ts": "1697133441.462289"
+                },
+                {
+                    "user": "U03NW11JH19",
+                    "ts": "1697133637.135879"
+                },
+                {
+                    "user": "U03LK551XFU",
+                    "ts": "1697133698.523619"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        }
+    },
+    {
+        "client_msg_id": "3D660580-6B1B-4DDA-9265-2B67DA924727",
+        "type": "message",
+        "text": "<!channel> Just got a text from Barry that the charges will be backed out by the financial office today or tomorrow. They are just going to do one large payment in November, which will show up in a couple weeks.",
+        "user": "U03LMGXA3FW",
+        "ts": "1697139994.142149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L9S3j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Just got a text from Barry that the charges will be backed out by the financial office today or tomorrow. They are just going to do one large payment in November, which will show up in a couple weeks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03M8T9K6SU",
+                    "U03LMGX6W1J",
+                    "U03LXQFQS3B",
+                    "U03L4GLKLTZ",
+                    "U03LN7VEH2Q",
+                    "U03LG779KGD",
+                    "U03LG7C9P8V",
+                    "U03LCGQP0LW",
+                    "U03NW11JH19"
+                ],
+                "count": 9
+            },
+            {
+                "name": "moneybag",
+                "users": [
+                    "U03LCGQP0LW",
+                    "U03NW11JH19"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7C12F605-A645-4F2E-87E6-ED5681DBB755",
+        "type": "message",
+        "text": "The charges are still on my account but there are no holds on the account. What is the status of everyone else’s? ",
+        "user": "U03LK551XFU",
+        "ts": "1697147749.313939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Qa7L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The charges are still on my account but there are no holds on the account. What is the status of everyone "
+                            },
+                            {
+                                "type": "text",
+                                "text": "else’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Mine are still past due",
+        "files": [
+            {
+                "id": "F060S0YSHAS",
+                "created": 1697149227,
+                "timestamp": 1697149227,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 16399,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060S0YSHAS\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060S0YSHAS\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S0YSHAS-8fbe78a46e\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S0YSHAS-8fbe78a46e\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S0YSHAS-8fbe78a46e\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 92,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S0YSHAS-8fbe78a46e\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 123,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S0YSHAS-8fbe78a46e\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S0YSHAS-8fbe78a46e\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 185,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S0YSHAS-8fbe78a46e\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 205,
+                "original_w": 803,
+                "original_h": 206,
+                "thumb_tiny": "AwAMADC95Keh\/M0vkRnsfzNPpaLgRGCMdj\/30aaYowQNjn3BNTdaWi4Fdkt1baxIP+8aFW3LAKee3JqYqpOSAfwoCqDwoH4UXYrH\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F060S0YSHAS\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060S0YSHAS-23682b9ef0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03NW11JH19",
+        "display_as_bot": false,
+        "ts": "1697149235.157409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "flLIk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mine are still past due"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5b2fee0d-b959-4d08-8cdc-605f5c1db0bf"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F061B989S6M",
+                "created": 1697149265,
+                "timestamp": 1697149265,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 126139,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061B989S6M\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061B989S6M\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061B989S6M-9fe26edf18\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061B989S6M-9fe26edf18\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061B989S6M-9fe26edf18\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 170,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061B989S6M-9fe26edf18\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 226,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061B989S6M-9fe26edf18\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061B989S6M-9fe26edf18\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 340,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061B989S6M-9fe26edf18\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 377,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061B989S6M-9fe26edf18\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 453,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061B989S6M-9fe26edf18\/image_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 483,
+                "original_w": 1562,
+                "original_h": 737,
+                "thumb_tiny": "AwAWADCx\/Z8ePvP+dJ\/Z0X95\/wA6nlQsykEDHqM00iUf8tR+VO7FYhOnRDu\/50DTofV\/zqUeaf8AlqP++adiX\/nqPyouFiH+zof7z\/mKX+z4em5\/zH+FS7Zf+eo\/75pyrIGG6QMPTFFwsPIzRtFLRSGJtH+TRtHuPxpaKAExgdTUaSKZSgByO9S1Wj\/4\/H\/GgTP\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F061B989S6M\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061B989S6M-ab691e1628",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03NW11JH19",
+        "display_as_bot": false,
+        "ts": "1697149268.481469",
+        "client_msg_id": "b1ca6d60-7ff7-4018-82b5-97cfada63312"
+    },
+    {
+        "client_msg_id": "406C4370-927F-46F0-A530-7096D8232454",
+        "type": "message",
+        "text": "Same here",
+        "user": "U03LMGX6W1J",
+        "ts": "1697149466.443949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5zim+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "af8409e31c70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-20\/5146521465492_af8409e31c707fc84cb1_72.jpg",
+            "first_name": "Gabriel",
+            "real_name": "Gabriel Henrique Zacheu",
+            "display_name": "Gabriel Zacheu",
+            "team": "T0ZBAEL59",
+            "name": "gabrielzacheu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "It looks like on the financials side it still shows the hold, however on my map it shows no holds",
+        "files": [
+            {
+                "id": "F060S1TV38W",
+                "created": 1697149794,
+                "timestamp": 1697149794,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 131829,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060S1TV38W\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060S1TV38W\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S1TV38W-f3c5d4519f\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S1TV38W-f3c5d4519f\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S1TV38W-f3c5d4519f\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 135,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S1TV38W-f3c5d4519f\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 180,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S1TV38W-f3c5d4519f\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S1TV38W-f3c5d4519f\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 269,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S1TV38W-f3c5d4519f\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 299,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S1TV38W-f3c5d4519f\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 359,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060S1TV38W-f3c5d4519f\/image_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 383,
+                "original_w": 1817,
+                "original_h": 680,
+                "thumb_tiny": "AwARADC95bn\/AJat+Q\/wpCpX70zD6hf8KeTg9T\/SlwG6j8xQBFn\/AKeD\/wCO0Z\/6eD\/47UuxP7q\/lSbE\/ur+VAiPI\/5+f\/QaXcMY84E+vGafsT+4v5UbEH8C\/lQAUtJS0DHUUUUAFFFFAH\/\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F060S1TV38W\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060S1TV38W-0e1475c79d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03NW11JH19",
+        "display_as_bot": false,
+        "ts": "1697149840.332929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XY19P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It looks like on the financials side it still shows the hold, however on my map it shows no holds"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "76e2d85c-09fc-4132-8a51-3573a68069b8"
+    },
+    {
+        "client_msg_id": "c8f49c52-74c0-429c-aee8-8d8f77f6d8e4",
+        "type": "message",
+        "text": "It might be that the financial side takes 24 hours to change",
+        "user": "U03NW11JH19",
+        "ts": "1697149930.739289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kJR6G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It might be that the financial side takes 24 hours to change"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "97ca5c89-fd5f-4273-96ae-df05eef70d54",
+        "type": "message",
+        "text": "Mine's good :+1:",
+        "user": "U03LXQFQS3B",
+        "ts": "1697167183.632389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "drZ96",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mine's good "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3bfb7137657e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-07\/4063615469025_3bfb7137657ec172494c_72.jpg",
+            "first_name": "Justin",
+            "real_name": "Justin Crandall",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jhcrandall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "bbff6e9f-f314-41a7-a295-3ee03f084a6d",
+        "type": "message",
+        "text": "Hey <@U03LK39EPB5>, have you been able to get a shareable calendar link? I can’t find it in the thread :thinking_face: I’m still getting the “Could not find the requested event”",
+        "user": "U05A7HE11LP",
+        "ts": "1696736691.717609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ihqrb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LK39EPB5"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", have you been able to get a shareable calendar link? I can’t find it in the thread "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’m still getting the “Could not find the requested event”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1695054250.849449",
+        "parent_user_id": "U03LK39EPB5"
+    },
+    {
+        "client_msg_id": "25e67216-ec31-4c0b-8c11-9e45ba1f99f3",
+        "type": "message",
+        "text": "<@U03SRBYBAET> including you in the thread in case you’ve got access to the calendar!",
+        "user": "U05A7HE11LP",
+        "ts": "1696736720.934749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jSDE9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03SRBYBAET"
+                            },
+                            {
+                                "type": "text",
+                                "text": " including you in the thread in case you’ve got access to the calendar!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1695054250.849449",
+        "parent_user_id": "U03LK39EPB5"
+    }
+]

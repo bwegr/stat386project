@@ -1,0 +1,384 @@
+[
+    {
+        "client_msg_id": "9876d443-0e8f-4db7-9e69-e7d5086ade62",
+        "type": "message",
+        "text": "For the Team Leadership Self-Reflection - Essay, one of the questions is \"What feedback did you receive from your teammates and what have you learned from their feedback?\" How do we see the feedback that was submitted by our teamates?",
+        "user": "U05B0NGPZTK",
+        "ts": "1696603758.327409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0J0ty",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the Team Leadership Self-Reflection - Essay, one of the questions is \"What feedback did you receive from your teammates and what have you learned from their feedback?\" How do we see the feedback that was submitted by our teamates?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3a61673f1e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-30\/5840515508529_3a61673f1e89faa453cf_72.jpg",
+            "first_name": "Gabriel",
+            "real_name": "Gabriel Suttner",
+            "display_name": "Gabriel Suttner",
+            "team": "T0ZBAEL59",
+            "name": "suttnerg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696603758.327409",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696613671.479069",
+        "reply_users": [
+            "U05AN015NSX",
+            "U05B0NGPZTK"
+        ],
+        "replies": [
+            {
+                "user": "U05AN015NSX",
+                "ts": "1696612098.027799"
+            },
+            {
+                "user": "U05B0NGPZTK",
+                "ts": "1696613671.479069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05B0NGPZTK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8451BCFC-977F-4155-8654-6066AF8BD002",
+        "type": "message",
+        "text": "I thought she said she will share those results with the team lead. ",
+        "user": "U05A7HCQPDM",
+        "ts": "1696605572.894469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t9b9q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought she said she will share those results with the team lead. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "5c524fe22b9b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-09\/5399582764435_5c524fe22b9bc184debd_72.png",
+            "first_name": "Natalie",
+            "real_name": "Natalie Koon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nataliekoon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FAD200C5-B19E-41DC-A9CD-22C8C1A3BC4E",
+        "type": "message",
+        "text": "So you might want to email the professor ",
+        "user": "U05A7HCQPDM",
+        "ts": "1696605584.222939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iMNBr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So you might want to email the professor "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "5c524fe22b9b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-09\/5399582764435_5c524fe22b9bc184debd_72.png",
+            "first_name": "Natalie",
+            "real_name": "Natalie Koon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nataliekoon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05B0NGPZTK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EF3C95B8-0D8A-4469-ACC5-8C38741CD770",
+        "type": "message",
+        "text": "For the Written Assignment #1, Professor Howell sent me (team lead) the team feedback\/scores in an email on Monday around noon. If you were the team lead for the first assignment, the feedback email could have been sent around a similar time.",
+        "user": "U05AN015NSX",
+        "ts": "1696612098.027799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "giJb8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the Written Assignment #1, Professor Howell sent me (team lead) the team feedback\/scores in an email on Monday around noon. If you were the team lead for the first assignment, the feedback email could have been sent around a similar time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696603758.327409",
+        "parent_user_id": "U05B0NGPZTK"
+    },
+    {
+        "client_msg_id": "c1f6656f-5901-42e1-8904-c34bb8d813da",
+        "type": "message",
+        "text": "It was sent to the wrong email. I got it figured out",
+        "user": "U05B0NGPZTK",
+        "ts": "1696613671.479069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YGt\/Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It was sent to the wrong email. I got it figured out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3a61673f1e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-30\/5840515508529_3a61673f1e89faa453cf_72.jpg",
+            "first_name": "Gabriel",
+            "real_name": "Gabriel Suttner",
+            "display_name": "Gabriel Suttner",
+            "team": "T0ZBAEL59",
+            "name": "suttnerg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696603758.327409",
+        "parent_user_id": "U05B0NGPZTK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Professor Howell shared, \"I have also posted the study guide for the Midterm on Canvas.\" Currently, though, the <https:\/\/byu.instructure.com\/courses\/22263\/pages\/6-midterm-study-guide|midterm study guide> is locked. So, could one of you TA's unlock it for us, unless Professor Howell is making changes and will republish it later?",
+        "files": [
+            {
+                "id": "F060J1S0SBT",
+                "created": 1696629869,
+                "timestamp": 1696629869,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05AN015NSX",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 17534,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060J1S0SBT\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060J1S0SBT\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060J1S0SBT-dc7fef5247\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060J1S0SBT-dc7fef5247\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060J1S0SBT-dc7fef5247\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 105,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060J1S0SBT-dc7fef5247\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 139,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060J1S0SBT-dc7fef5247\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060J1S0SBT-dc7fef5247\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 209,
+                "original_w": 782,
+                "original_h": 227,
+                "thumb_tiny": "AwANADDSz7ijPuKWigBu73FKD70tFACZFLRRQB\/\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05AN015NSX\/F060J1S0SBT\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060J1S0SBT-85b264f758",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05AN015NSX",
+        "display_as_bot": false,
+        "ts": "1696630008.751399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QqeAE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Professor Howell shared, \"I have also posted the study guide for the Midterm on Canvas.\" Currently, though, the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.instructure.com\/courses\/22263\/pages\/6-midterm-study-guide",
+                                "text": "midterm study guide"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is locked. So, could one of you TA's unlock it for us, unless Professor Howell is making changes and will republish it later?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1ebcbc02-6b16-41fe-b803-4129cee1277b"
+    },
+    {
+        "client_msg_id": "D5607EA6-45B8-4B52-8FCE-05A22A7B34FB",
+        "type": "message",
+        "text": "<@U05AN015NSX> it is now unlocked, but I had to move it to the end of Module 5, as to not also unlock the exam early :grimacing:. You can see it there now, and then I we’ll work on getting it moved to the right place. ",
+        "user": "U03LMGTRFN0",
+        "ts": "1696630702.607599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7YgB3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05AN015NSX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it is now unlocked, but I had to move it to the end of Module 5, as to not also unlock the exam early "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing",
+                                "unicode": "1f62c"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". You can see it there now, and then I we’ll work on getting it moved to the right place. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

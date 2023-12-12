@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "E34E4300-8DE0-4428-B554-C6EF5824FE4A",
+        "type": "message",
+        "text": "This is a really insightful Ted Talk relating to todays class discussion if anyone is interested. \n\n<https:\/\/youtu.be\/D9Ihs241zeg?si=ti6EmUB1qHtEwRdH|https:\/\/youtu.be\/D9Ihs241zeg?si=ti6EmUB1qHtEwRdH>\n",
+        "user": "U05A7HC8FF1",
+        "ts": "1698789185.665099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oX+Ar",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a really insightful Ted Talk relating to todays class discussion if anyone is interested"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/D9Ihs241zeg?si=ti6EmUB1qHtEwRdH",
+                                "text": "https:\/\/youtu.be\/D9Ihs241zeg?si=ti6EmUB1qHtEwRdH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e82375f9477a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-10\/5557118263475_e82375f9477a060fd30d_72.png",
+            "first_name": "Kimball",
+            "real_name": "Kimball Palmer",
+            "display_name": "Kimball Palmer",
+            "team": "T0ZBAEL59",
+            "name": "kimball.palm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/D9Ihs241zeg?si=ti6EmUB1qHtEwRdH",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/D9Ihs241zeg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/D9Ihs241zeg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Chimamanda Ngozi Adichie: The danger of a single story | TED\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/D9Ihs241zeg?si=ti6EmUB1qHtEwRdH",
+                "fallback": "YouTube Video: Chimamanda Ngozi Adichie: The danger of a single story | TED",
+                "title": "Chimamanda Ngozi Adichie: The danger of a single story | TED",
+                "title_link": "https:\/\/youtu.be\/D9Ihs241zeg?si=ti6EmUB1qHtEwRdH",
+                "author_name": "TED",
+                "author_link": "https:\/\/www.youtube.com\/@TED",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AN015NSX",
+                    "U05B0NFT057",
+                    "U05HW4UU20Y",
+                    "U05AK5HTE77",
+                    "U05BBQFJ056",
+                    "U05B0NFJ1S5"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

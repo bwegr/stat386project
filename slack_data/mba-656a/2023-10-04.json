@@ -1,0 +1,316 @@
+[
+    {
+        "client_msg_id": "759c88e2-ab75-439e-a00c-3e376197d7cc",
+        "type": "message",
+        "text": "Is someone representing us at the LDB fair today?",
+        "user": "U03L4HB0BM5",
+        "ts": "1696434926.516499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uehs9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is someone representing us at the LDB fair today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b8e2be55e92a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-13\/4217060934309_b8e2be55e92a91910f26_72.jpg",
+            "first_name": "Kurt",
+            "real_name": "Kurt Jensen",
+            "display_name": "Kurt Jensen",
+            "team": "T0ZBAEL59",
+            "name": "kurtjen1995968",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1a40c590-f868-4cf1-acf8-d84cbacf0c87",
+        "type": "message",
+        "text": "Y-metrics is in the deck but wasn't sure who was in charge of it",
+        "user": "U03LXQBTQJV",
+        "ts": "1696435637.669249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vUnxD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y-metrics is in the deck but wasn't sure who was in charge of it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bf2ea7282f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-09\/4072671444257_7bf2ea7282f5542e95db_72.jpg",
+            "first_name": "Ben",
+            "real_name": "Ben Nzojibwami",
+            "display_name": "Ben Nzojibwami",
+            "team": "T0ZBAEL59",
+            "name": "benjamin.nzojibwami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5566ff11-a436-406b-bff5-f67ebacbb68c",
+        "type": "message",
+        "text": "I won't be available this afternoon to be at the booth...is anyone else willing to talk about Ymetrics?",
+        "user": "U03L4HB0BM5",
+        "ts": "1696450266.902899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "epm56",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I won't be available this afternoon to be at the booth...is anyone else willing to talk about Ymetrics?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b8e2be55e92a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-13\/4217060934309_b8e2be55e92a91910f26_72.jpg",
+            "first_name": "Kurt",
+            "real_name": "Kurt Jensen",
+            "display_name": "Kurt Jensen",
+            "team": "T0ZBAEL59",
+            "name": "kurtjen1995968",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B67B4905-6E21-4ED9-B2A8-AAEBA334539E",
+        "type": "message",
+        "text": "I am out for the day",
+        "user": "U03LG779KGD",
+        "ts": "1696450520.917739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fYxH\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am out for the day"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4c81f56cddb5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4055541249281_4c81f56cddb58a01ad12_72.jpg",
+            "first_name": "Marcos",
+            "real_name": "Marcos Orfila",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mmarcosgoog",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CCE76A36-9241-436C-85F5-37E932FD1180",
+        "type": "message",
+        "text": "Sorry",
+        "user": "U03LG779KGD",
+        "ts": "1696450527.226599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SiP+W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4c81f56cddb5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4055541249281_4c81f56cddb58a01ad12_72.jpg",
+            "first_name": "Marcos",
+            "real_name": "Marcos Orfila",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mmarcosgoog",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C742DAF0-6680-44AA-98AA-B33E47A42AFA",
+        "type": "message",
+        "text": "I also am not on campus or available :( ",
+        "user": "U03LK5295DY",
+        "ts": "1696450548.418999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r2Kt6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also am not on campus or available :( "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fc0bdc6645be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-31\/3887605632561_fc0bdc6645be97c3c324_72.png",
+            "first_name": "Allison",
+            "real_name": "Allison Adams",
+            "display_name": "Allison Adams",
+            "team": "T0ZBAEL59",
+            "name": "adamsallison00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6b558090-a847-4039-b180-9ccd2162ba06",
+        "type": "message",
+        "text": "I would've been, but I have other commitments at that time now.",
+        "user": "U03LK39PKRR",
+        "ts": "1696450830.289419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9S3p5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would've been, but I have other commitments at that time now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eccca435-ac24-43d7-8bba-8ce90769a709",
+        "type": "message",
+        "text": "I can talk about it",
+        "user": "U03LXQBTQJV",
+        "ts": "1696452661.248949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WZO8f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can talk about it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bf2ea7282f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-09\/4072671444257_7bf2ea7282f5542e95db_72.jpg",
+            "first_name": "Ben",
+            "real_name": "Ben Nzojibwami",
+            "display_name": "Ben Nzojibwami",
+            "team": "T0ZBAEL59",
+            "name": "benjamin.nzojibwami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "cool-doge",
+                "users": [
+                    "U03L4HB0BM5",
+                    "U03LG779KGD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

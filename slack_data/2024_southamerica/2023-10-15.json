@@ -1,0 +1,272 @@
+[
+    {
+        "client_msg_id": "5b908bbd-f022-46a7-b21f-33c7ce551b20",
+        "type": "message",
+        "text": "Maggie, I know you are following up with the Kennedy center, but do you know if Lee has firm dates chosen or if he will when the Kennedy center gets back to us? I'm trying to buy plane tickets home for Christmas and need to know when I have to be back in Utah",
+        "user": "U03LK3D5N2X",
+        "ts": "1697403148.478009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BLSri",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maggie, I know you are following up with the Kennedy center, but do you know if Lee has firm dates chosen or if he will when the Kennedy center gets back to us? I'm trying to buy plane tickets home for Christmas and need to know when I have to be back in Utah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1229630f-105f-4e50-9fdd-3e3db1d86220",
+        "type": "message",
+        "text": "He wants to leave January 1 and be back January 14\/15.",
+        "user": "U03L4GT3B55",
+        "ts": "1697403381.988529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8qNKp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He wants to leave January 1 and be back January 14\/15."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697403381.988529",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1697403617.037779",
+        "reply_users": [
+            "U03LK3D5N2X",
+            "U03L4GT3B55"
+        ],
+        "replies": [
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1697403570.377819"
+            },
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1697403585.255959"
+            },
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1697403596.858339"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1697403617.037779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6a98f8b5-1cfe-405c-b0a5-a8db655277f2",
+        "type": "message",
+        "text": "Is Jan 1st an early flight or late flight?",
+        "user": "U03LK3D5N2X",
+        "ts": "1697403570.377819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Z3pj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is Jan 1st an early flight or late flight?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697403381.988529",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "13ff9b5d-8c67-495e-a3af-872367c218e8",
+        "type": "message",
+        "text": ":joy:",
+        "user": "U03L4GT3B55",
+        "ts": "1697403585.255959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aOWYF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697403381.988529",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "2167b125-ba67-430e-9dce-3da2d0c7ca25",
+        "type": "message",
+        "text": "I can't help you there",
+        "user": "U03L4GT3B55",
+        "ts": "1697403596.858339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k1uhY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can't help you there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697403381.988529",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "client_msg_id": "be2907c5-1933-4c5f-a9fc-2c9b7beb767c",
+        "type": "message",
+        "text": "And Lee cancelled class on Tuesday so I can even bother him in person :joy:",
+        "user": "U03LK3D5N2X",
+        "ts": "1697403617.037779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MORCA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And Lee cancelled class on Tuesday so I can even bother him in person "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697403381.988529",
+        "parent_user_id": "U03L4GT3B55"
+    }
+]

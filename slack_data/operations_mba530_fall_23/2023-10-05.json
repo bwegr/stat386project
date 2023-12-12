@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "2DE672DD-8E2F-4B27-B7AE-2FC9A5FD6C52",
+        "type": "message",
+        "text": "OH 9:30-10:30 in the lounge ",
+        "user": "U03M8TBLWTA",
+        "ts": "1696519158.450179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rIzOK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OH 9:30-10:30 in the lounge "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "1d4607decfc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3988998567393_1d4607decfc49118e4e0_72.png",
+            "first_name": "Collin",
+            "real_name": "Collin Pope",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "collinpope123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "584A82F0-52ED-4C6A-9201-DE92D662EBE7",
+        "type": "message",
+        "text": "OH 11-12 W251",
+        "user": "U03LMGYLSR2",
+        "ts": "1696525000.238789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tdVNm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OH 11-12 W251"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

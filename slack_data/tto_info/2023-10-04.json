@@ -1,0 +1,56 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696439030.873059",
+        "user": "U03LCGL1GK0",
+        "text": "<@U03LCGL1GK0> has joined the channel"
+    },
+    {
+        "client_msg_id": "22de5821-bd0a-45dc-8bab-6f6d801d8f46",
+        "type": "message",
+        "text": "Welcome to the channel! The purpose of this channel is to provide information to BYU MBA students who are interested in working with the Technology Transfer Office (TTO). The office provides internships, excellent networking with early and growth-stage technology companies, and opportunities to earn significant licensing bounties.",
+        "user": "U03LCGL1GK0",
+        "ts": "1696439263.769409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tFfXD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to the channel! The purpose of this channel is to provide information to BYU MBA students who are interested in working with the Technology Transfer Office (TTO). The office provides internships, excellent networking with early and growth-stage technology companies, and opportunities to earn significant licensing bounties."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9e5d4c92387a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3684719193415_9e5d4c92387a9ab3fd0b_72.jpg",
+            "first_name": "S.",
+            "real_name": "S. Kirk Tompkinson",
+            "display_name": "S. Kirk Tompkinson",
+            "team": "T0ZBAEL59",
+            "name": "kirk.tompkinson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U05H6A4184T"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

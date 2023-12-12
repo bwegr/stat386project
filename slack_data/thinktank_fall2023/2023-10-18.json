@@ -1,0 +1,199 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697649458.695339",
+        "user": "U05A7HE5MTR",
+        "text": "<@U05A7HE5MTR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697649476.514509",
+        "user": "U05A7HE11LP",
+        "text": "<@U05A7HE11LP> has joined the channel",
+        "inviter": "U05A7HE5MTR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697649476.670359",
+        "user": "U05BBQDA9K2",
+        "text": "<@U05BBQDA9K2> has joined the channel",
+        "inviter": "U05A7HE5MTR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697649476.749129",
+        "user": "U05MZL07Q78",
+        "text": "<@U05MZL07Q78> has joined the channel",
+        "inviter": "U05A7HE5MTR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697649476.845779",
+        "user": "U05DJBMDG0L",
+        "text": "<@U05DJBMDG0L> has joined the channel",
+        "inviter": "U05A7HE5MTR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697649476.915689",
+        "user": "U05MZL0EKHU",
+        "text": "<@U05MZL0EKHU> has joined the channel",
+        "inviter": "U05A7HE5MTR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697649476.986339",
+        "user": "U05MZL0CBF0",
+        "text": "<@U05MZL0CBF0> has joined the channel",
+        "inviter": "U05A7HE5MTR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697649477.047209",
+        "user": "U05AK5GQJ5B",
+        "text": "<@U05AK5GQJ5B> has joined the channel",
+        "inviter": "U05A7HE5MTR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697649477.107459",
+        "user": "U05GZPFMAA2",
+        "text": "<@U05GZPFMAA2> has joined the channel",
+        "inviter": "U05A7HE5MTR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697649477.168999",
+        "user": "U05HK2S6TLZ",
+        "text": "<@U05HK2S6TLZ> has joined the channel",
+        "inviter": "U05A7HE5MTR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697649477.253349",
+        "user": "U05B0NFJ1S5",
+        "text": "<@U05B0NFJ1S5> has joined the channel",
+        "inviter": "U05A7HE5MTR"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697649477.322599",
+        "user": "U05H6A4184T",
+        "text": "<@U05H6A4184T> has joined the channel",
+        "inviter": "U05A7HE5MTR"
+    },
+    {
+        "type": "message",
+        "text": "Hi all, I'm excited to start meeting and building our ideas in the next few weeks. I have attached a Google Sheet with a schedule template. Please mark out what times during the week you are available so we can schedule a time to meet that best suits the group. Don't worry about filling out all of the calendar just make sure you at least mark the green spaces. Thanks.\n<https:\/\/docs.google.com\/spreadsheets\/d\/1zNJFFxH2q_oJhmzvubXoAWs9SbBn79E1FxFyUXoyP9I\/edit#gid=0>\n\nAlso, this isn't an exclusive group so, if someone expresses interest in joining feel free to invite them.",
+        "files": [
+            {
+                "id": "F062EG4AJHE",
+                "created": 1697649700,
+                "timestamp": 1697649700,
+                "name": "BYU MBA Think Tank - Fall 2023",
+                "title": "BYU MBA Think Tank - Fall 2023",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "G Suite Spreadsheet",
+                "user": "U05A7HE5MTR",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 99205,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1zNJFFxH2q_oJhmzvubXoAWs9SbBn79E1FxFyUXoyP9I\/edit#gid=0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062EG4AJHE-0cf858acf7\/byu_mba_think_tank_-_fall_2023_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062EG4AJHE-0cf858acf7\/byu_mba_think_tank_-_fall_2023_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062EG4AJHE-0cf858acf7\/byu_mba_think_tank_-_fall_2023_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062EG4AJHE-0cf858acf7\/byu_mba_think_tank_-_fall_2023_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062EG4AJHE-0cf858acf7\/byu_mba_think_tank_-_fall_2023_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062EG4AJHE-0cf858acf7\/byu_mba_think_tank_-_fall_2023_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062EG4AJHE-0cf858acf7\/byu_mba_think_tank_-_fall_2023_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062EG4AJHE-0cf858acf7\/byu_mba_think_tank_-_fall_2023_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062EG4AJHE-0cf858acf7\/byu_mba_think_tank_-_fall_2023_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "original_w": 1024,
+                "original_h": 1449,
+                "thumb_tiny": "AwAwACHQZmD4ABGKAzZ+7+tI+d3BA+tRzyNDHu4JzikNK7shHvURypVsipo5N6qwXAIz1rNnZRO+Vyc9c1ft8+UnTGBxSTNJxSimiaiiiqMhjDL9T0ppjVuGyw9DT2RW6jNGxcYxQBmzlhO+FBGf7tXoB+7Qknp0oa2RiTlhn0apFjVQMDp3qUjSck0kh1FFFUZhRRRQAUUUUAFFFFAH\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05A7HE5MTR\/F062EG4AJHE\/byu_mba_think_tank_-_fall_2023",
+                "is_starred": false,
+                "external_id": "1zNJFFxH2q_oJhmzvubXoAWs9SbBn79E1FxFyUXoyP9I",
+                "external_url": "https:\/\/docs.google.com\/spreadsheets\/d\/1zNJFFxH2q_oJhmzvubXoAWs9SbBn79E1FxFyUXoyP9I\/edit#gid=0",
+                "has_rich_preview": true,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05A7HE5MTR",
+        "display_as_bot": false,
+        "x_files": [
+            "F062EG4AJHE"
+        ],
+        "ts": "1697649698.308759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vk6Ze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, I'm excited to start meeting and building our ideas in the next few weeks. I have attached a Google Sheet with a schedule template. Please mark out what times during the week you are available so we can schedule a time to meet that best suits the group. Don't worry about filling out all of the calendar just make sure you at least mark the green spaces. Thanks.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1zNJFFxH2q_oJhmzvubXoAWs9SbBn79E1FxFyUXoyP9I\/edit#gid=0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAlso, this isn't an exclusive group so, if someone expresses interest in joining feel free to invite them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7ed3f3c3-6dd0-4a22-a227-b36e1be33d54",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05HK2S6TLZ",
+                    "U05B0NFJ1S5"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

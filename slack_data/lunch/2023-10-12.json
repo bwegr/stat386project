@@ -1,0 +1,236 @@
+[
+    {
+        "type": "message",
+        "text": "Anyone want to try out the Pendulum Cafe for lunch today after the bidding? It's a restaurant on campus run by BYU dietetics students, and today's main feature is Penne al Forno with Zucchini and an Italian Baci Roll.\n\nAnyone in?",
+        "files": [
+            {
+                "id": "F060Q2HRC3Y",
+                "created": 1697126381,
+                "timestamp": 1697126381,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LXQCJA81",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 707153,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060Q2HRC3Y\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060Q2HRC3Y\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060Q2HRC3Y-1e5b59af7b\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060Q2HRC3Y-1e5b59af7b\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060Q2HRC3Y-1e5b59af7b\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 359,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060Q2HRC3Y-1e5b59af7b\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 478,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060Q2HRC3Y-1e5b59af7b\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "original_w": 614,
+                "original_h": 616,
+                "thumb_tiny": "AwAwAC++74IUdT+lMEw84R8k4zmmr1eRvpVaNzIZCnLOdueyj61F7jJxKHlwrdeAc1KzlQMZwO9VcRxSKobdIPyFTct1OV9qm9hpEhkYc9RUgOeagzjjHFSxnKg1UWDRXuckiJeFbq3oKrSSF8LAAsanr61bngMzYLYTrgUrxeXEREuSfWgEVEhdnUMGUHoak3sMKQeO+KtgKAoGOOlV7hNr55Ib370mtCk7sVN7delWUGFFQW5B+U5zVgU4pEyImcpJtI4PQ05uQcdcUrDPUU0ZHWmwK8KSRtl+g9allYMACMY5zT5AGjKkH5hikjiwBu5I9aVgWgy1jKqSRjPSrGaTpQOuTVJWE3c\/\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LXQCJA81\/F060Q2HRC3Y\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060Q2HRC3Y-24ca0d115e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LXQCJA81",
+        "display_as_bot": false,
+        "ts": "1697126411.171959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+bnkN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone want to try out the Pendulum Cafe for lunch today after the bidding? It's a restaurant on campus run by BYU dietetics students, and today's main feature is Penne al Forno with Zucchini and an Italian Baci Roll.\n\nAnyone in?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4cbdbab8-fde6-4ded-8bad-86e22d96856d",
+        "thread_ts": "1697126411.171959",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697130488.468029",
+        "reply_users": [
+            "U03L4GUGBF1"
+        ],
+        "replies": [
+            {
+                "user": "U03L4GUGBF1",
+                "ts": "1697130488.468029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e2f6b770-89f0-493d-89a1-1a932fec1e7c",
+        "type": "message",
+        "text": "<@U03LXQCM22D>",
+        "user": "U03L4GUGBF1",
+        "ts": "1697130488.468029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AeAro",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LXQCM22D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "eb3966201c83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-19\/5902942359639_eb3966201c8379302340_72.png",
+            "first_name": "Hillary",
+            "real_name": "Hillary Slater",
+            "display_name": "Hillary Slater",
+            "team": "T0ZBAEL59",
+            "name": "hslater07",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697126411.171959",
+        "parent_user_id": "U03LXQCJA81"
+    },
+    {
+        "client_msg_id": "C77DF4EE-1324-4B61-9B9C-8A01CCBD1047",
+        "type": "message",
+        "text": "Anyone wanna join a grub hub order with me because I’m lazy? ",
+        "user": "U03LK5295DY",
+        "ts": "1697133348.014029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7sHrT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone wanna join a grub hub order with me because "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " lazy? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fc0bdc6645be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-31\/3887605632561_fc0bdc6645be97c3c324_72.png",
+            "first_name": "Allison",
+            "real_name": "Allison Adams",
+            "display_name": "Allison Adams",
+            "team": "T0ZBAEL59",
+            "name": "adamsallison00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697133348.014029",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697133440.450429",
+        "reply_users": [
+            "U03NW11JH19"
+        ],
+        "replies": [
+            {
+                "user": "U03NW11JH19",
+                "ts": "1697133440.450429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "284b13d5-31ac-4fed-9212-c2575e98c5be",
+        "type": "message",
+        "text": "I brought my own lunch but I would love to eat lunch at the same time as you.",
+        "user": "U03NW11JH19",
+        "ts": "1697133440.450429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r474a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I brought my own lunch but I would love to eat lunch at the same time as you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697133348.014029",
+        "parent_user_id": "U03LK5295DY",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U03LK5295DY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

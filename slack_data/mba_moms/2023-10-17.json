@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "c1f954ed-bf1d-4043-99fc-1024658b86e0",
+        "type": "message",
+        "text": "If you haven't read this article yet, I highly recommend it:\n\n<https:\/\/www.forbes.com\/sites\/forbesbusinesscouncil\/2023\/10\/11\/empowering-your-workforce-with-mothers\/?fbclid=IwAR05w7H8d_poxQqSxkZ9tn9TF1JB8l-Mvs5-DyjDyWAID-ep1DDf1KXHnjU_aem_Aej-k0woaJSYWk5whpJKsAKiUspZaWRPrsWemQZTmcq0onpOxzSDsgTSplYyMLJZO74&amp;sh=15087ac11742|https:\/\/www.forbes.com\/sites\/forbesbusinesscouncil\/2023\/10\/11\/empowering-your-workfo[…]KiUspZaWRPrsWemQZTmcq0onpOxzSDsgTSplYyMLJZO74&amp;sh=15087ac11742>",
+        "user": "U03L57R4HN3",
+        "ts": "1697575793.957539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TRTYi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you haven't read this article yet, I highly recommend it:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.forbes.com\/sites\/forbesbusinesscouncil\/2023\/10\/11\/empowering-your-workforce-with-mothers\/?fbclid=IwAR05w7H8d_poxQqSxkZ9tn9TF1JB8l-Mvs5-DyjDyWAID-ep1DDf1KXHnjU_aem_Aej-k0woaJSYWk5whpJKsAKiUspZaWRPrsWemQZTmcq0onpOxzSDsgTSplYyMLJZO74&sh=15087ac11742",
+                                "text": "https:\/\/www.forbes.com\/sites\/forbesbusinesscouncil\/2023\/10\/11\/empowering-your-workfo[…]KiUspZaWRPrsWemQZTmcq0onpOxzSDsgTSplYyMLJZO74&sh=15087ac11742"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.forbes.com\/sites\/forbesbusinesscouncil\/2023\/10\/11\/empowering-your-workforce-with-mothers\/?fbclid=IwAR05w7H8d_poxQqSxkZ9tn9TF1JB8l-Mvs5-DyjDyWAID-ep1DDf1KXHnjU_aem_Aej-k0woaJSYWk5whpJKsAKiUspZaWRPrsWemQZTmcq0onpOxzSDsgTSplYyMLJZO74&sh=15087ac11742",
+                "image_url": "https:\/\/imageio.forbes.com\/specials-images\/imageserve\/6525641c6047ff7fa79da135\/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+                "image_width": 1350,
+                "image_height": 900,
+                "image_bytes": 114930,
+                "service_icon": "https:\/\/i.forbesimg.com\/48X48-F.png",
+                "id": 1,
+                "original_url": "https:\/\/www.forbes.com\/sites\/forbesbusinesscouncil\/2023\/10\/11\/empowering-your-workforce-with-mothers\/?fbclid=IwAR05w7H8d_poxQqSxkZ9tn9TF1JB8l-Mvs5-DyjDyWAID-ep1DDf1KXHnjU_aem_Aej-k0woaJSYWk5whpJKsAKiUspZaWRPrsWemQZTmcq0onpOxzSDsgTSplYyMLJZO74&amp;sh=15087ac11742",
+                "fallback": "Forbes: Council Post: Empowering Your Workforce With Mothers",
+                "text": "I wish to shed light on the hurdles confronted by women, particularly mothers, and elaborate on how incorporating more mothers into your team can help your businesses. ",
+                "title": "Council Post: Empowering Your Workforce With Mothers",
+                "title_link": "https:\/\/www.forbes.com\/sites\/forbesbusinesscouncil\/2023\/10\/11\/empowering-your-workforce-with-mothers\/?fbclid=IwAR05w7H8d_poxQqSxkZ9tn9TF1JB8l-Mvs5-DyjDyWAID-ep1DDf1KXHnjU_aem_Aej-k0woaJSYWk5whpJKsAKiUspZaWRPrsWemQZTmcq0onpOxzSDsgTSplYyMLJZO74&sh=15087ac11742",
+                "service_name": "Forbes"
+            }
+        ]
+    }
+]

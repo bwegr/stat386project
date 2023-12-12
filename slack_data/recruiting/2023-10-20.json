@@ -1,0 +1,180 @@
+[
+    {
+        "client_msg_id": "b68aaa97-f605-4f4a-9361-fd0b195ff196",
+        "type": "message",
+        "text": "BD in Sandy is hiring for a full-time MBA Marketing Leadership Development Program:\n<https:\/\/www.linkedin.com\/jobs\/view\/3701243391>",
+        "user": "U03PKR5DAQY",
+        "ts": "1697813524.673239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7orzI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BD in Sandy is hiring for a full-time MBA Marketing Leadership Development Program:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/jobs\/view\/3701243391"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "52b5593dad8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-09\/5563230941697_52b5593dad8edd81526e_72.jpg",
+            "first_name": "Carter",
+            "real_name": "Carter Fritz",
+            "display_name": "Carter Fritz",
+            "team": "T0ZBAEL59",
+            "name": "w.carter.fritz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/jobs\/view\/3701243391",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/jobs\/view\/3701243391",
+                "fallback": "BD hiring MBA Marketing Leadership Development Program in Sandy, Utah, United States | LinkedIn",
+                "text": "Posted 12:00:00 AM. Job Description SummaryJob DescriptionWe are the makers of possible!BD is one of the largest global…See this and similar jobs on LinkedIn.",
+                "title": "BD hiring MBA Marketing Leadership Development Program in Sandy, Utah, United States | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/jobs\/view\/3701243391",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "thread_ts": "1697813524.673239",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697815763.334689",
+        "reply_users": [
+            "U03LK4YF3A6"
+        ],
+        "replies": [
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1697815763.334689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4BAE9587-A359-4DFC-8B8C-F081F60F5E23",
+        "type": "message",
+        "text": "Great find Carter!! <@U03L4GUGBF1> this looks like you’d slay this! ",
+        "user": "U03LK4YF3A6",
+        "ts": "1697815763.334689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1acam",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great find Carter!! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03L4GUGBF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this looks like you’d slay this! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697813524.673239",
+        "parent_user_id": "U03PKR5DAQY"
+    },
+    {
+        "client_msg_id": "b9e38fe6-5f9e-45d9-b548-39a55656b62f",
+        "type": "message",
+        "text": "Mercer | Career Consulting Summer Associate (MBA Track) - Los Angeles - MBA Program 2024\n\n<https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_240424\/Mercer-Career-Consulting-Summer-Associate-MBA-Track-Los-Angeles-MBA-Program-2024?userId=e78g1dv1akt11vn9a2r99bdkq3&amp;utm_source=phenom&amp;utm_medium=email&amp;utm_campaign=5f7c6a08c9e77c00063db41c-1697787601778-JTC+Subscription+Campaign_English(Global)&amp;utm_term=e78g1dv1akt11vn9a2r99bdkq3|https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_240424\/Mercer-Career-Consulting-Summer-[…]aign_English(Global)&amp;utm_term=e78g1dv1akt11vn9a2r99bdkq3>",
+        "user": "U03LXQBTQJV",
+        "ts": "1697820638.597079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yYwwl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mercer | Career Consulting Summer Associate (MBA Track) - Los Angeles - MBA Program 2024\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_240424\/Mercer-Career-Consulting-Summer-Associate-MBA-Track-Los-Angeles-MBA-Program-2024?userId=e78g1dv1akt11vn9a2r99bdkq3&utm_source=phenom&utm_medium=email&utm_campaign=5f7c6a08c9e77c00063db41c-1697787601778-JTC+Subscription+Campaign_English(Global)&utm_term=e78g1dv1akt11vn9a2r99bdkq3",
+                                "text": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_240424\/Mercer-Career-Consulting-Summer-[…]aign_English(Global)&utm_term=e78g1dv1akt11vn9a2r99bdkq3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bf2ea7282f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-09\/4072671444257_7bf2ea7282f5542e95db_72.jpg",
+            "first_name": "Ben",
+            "real_name": "Ben Nzojibwami",
+            "display_name": "Ben Nzojibwami",
+            "team": "T0ZBAEL59",
+            "name": "benjamin.nzojibwami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_240424\/Mercer-Career-Consulting-Summer-Associate-MBA-Track-Los-Angeles-MBA-Program-2024?userId=e78g1dv1akt11vn9a2r99bdkq3&utm_source=phenom&utm_medium=email&utm_campaign=5f7c6a08c9e77c00063db41c-1697787601778-JTC+Subscription+Campaign_English(Global)&utm_term=e78g1dv1akt11vn9a2r99bdkq3",
+                "image_url": "https:\/\/assets.phenompeople.com\/CareerConnectResources\/MAMCGLOBAL\/images\/TwitterLogo-1615927853951.png",
+                "image_width": 1024,
+                "image_height": 512,
+                "image_bytes": 57644,
+                "service_icon": "https:\/\/careers.marshmclennan.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_240424\/Mercer-Career-Consulting-Summer-Associate-MBA-Track-Los-Angeles-MBA-Program-2024?userId=e78g1dv1akt11vn9a2r99bdkq3&amp;utm_source=phenom&amp;utm_medium=email&amp;utm_campaign=5f7c6a08c9e77c00063db41c-1697787601778-JTC+Subscription+Campaign_English(Global)&amp;utm_term=e78g1dv1akt11vn9a2r99bdkq3",
+                "fallback": "Marsh McLennan: Mercer | Career Consulting Summer Associate (MBA Track) - Los Angeles - MBA Program 2024 in 633 West 5th Street, Los Angeles, CA 90071, United States of America | Consulting at Marsh McLennan",
+                "text": "Apply for Mercer | Career Consulting Summer Associate (MBA Track) - Los Angeles - MBA Program 2024 job with Marsh McLennan in 633 West 5th Street, Los Angeles, CA 90071, United States of America",
+                "title": "Mercer | Career Consulting Summer Associate (MBA Track) - Los Angeles - MBA Program 2024 in 633 West 5th Street, Los Angeles, CA 90071, United States of America | Consulting at Marsh McLennan",
+                "title_link": "https:\/\/careers.marshmclennan.com\/global\/en\/job\/R_240424\/Mercer-Career-Consulting-Summer-Associate-MBA-Track-Los-Angeles-MBA-Program-2024?userId=e78g1dv1akt11vn9a2r99bdkq3&utm_source=phenom&utm_medium=email&utm_campaign=5f7c6a08c9e77c00063db41c-1697787601778-JTC+Subscription+Campaign_English(Global)&utm_term=e78g1dv1akt11vn9a2r99bdkq3",
+                "service_name": "Marsh McLennan"
+            }
+        ]
+    }
+]

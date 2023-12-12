@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "67a7a862-d294-4b96-b963-b7bda96bf86c",
+        "type": "message",
+        "text": "~Is anyone having a hard time finding their group for the game? My ticket just says general admission, which is what the ROC is.~\nNevermind, found it on the email!",
+        "user": "U03LK56EXJN",
+        "ts": "1697678196.754509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wbTjD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is anyone having a hard time finding their group for the game? My ticket just says general admission, which is what the ROC is.",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nNevermind, found it on the email!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "f0fa35dd6a38",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-29\/3740115766211_f0fa35dd6a387887760a_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Clement",
+            "display_name": "tanman",
+            "team": "T0ZBAEL59",
+            "name": "scariotjc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LK56EXJN",
+            "ts": "1697678270.000000"
+        }
+    },
+    {
+        "client_msg_id": "7E353264-603E-4449-982C-64E5C753E74B",
+        "type": "message",
+        "text": "Groups",
+        "user": "U05BBQG6MKJ",
+        "ts": "1697680542.613719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wTsiZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Groups"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a9f193706d79",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-26\/6104144667268_a9f193706d795ed42fc5_72.png",
+            "first_name": "Thomas",
+            "real_name": "Thomas Niedfeldt",
+            "display_name": "Thomas",
+            "team": "T0ZBAEL59",
+            "name": "tcniedfeldt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "five",
+                "users": [
+                    "U05BBQG6MKJ",
+                    "U03LK56EXJN",
+                    "U03LK533VR8"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

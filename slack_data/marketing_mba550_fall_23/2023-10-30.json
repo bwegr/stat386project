@@ -1,0 +1,207 @@
+[
+    {
+        "client_msg_id": "6319f9b4-dd1f-4480-ab03-f704b559892e",
+        "type": "message",
+        "text": "Please remember to submit your Value Analysis company\/brand of choice to your TAs (via a quick email) by Wednesday, Nov 1.",
+        "user": "U03L57R4HN3",
+        "ts": "1698678002.192739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pN6bp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please remember to submit your Value Analysis company\/brand of choice to your TAs (via a quick email) by Wednesday, Nov 1."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3bf7bdb0-6fde-4f98-ac54-853564fb68e6",
+        "type": "message",
+        "text": "TA hours happening now in the lounge until noon!",
+        "user": "U03LXQCJA81",
+        "ts": "1698685135.628489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w9Nng",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TA hours happening now in the lounge until noon!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ceb4ed50-3587-4614-a08b-98138a28e28a",
+        "type": "message",
+        "text": "<!here> ^",
+        "user": "U03LXQCJA81",
+        "ts": "1698685184.979059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1yX5l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Here is a single-page document I've created for the value analysis cards. I found it easier to use when doing zoom interviews.",
+        "files": [
+            {
+                "id": "F0639B6KMNJ",
+                "created": 1698695174,
+                "timestamp": 1698695174,
+                "name": "Value Map Cards.pdf",
+                "title": "Value Map Cards.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03L57R4HN3",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 14700,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0639B6KMNJ\/value_map_cards.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0639B6KMNJ\/download\/value_map_cards.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0639B6KMNJ-e5e001ffe4\/value_map_cards_thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 1210,
+                "thumb_pdf_h": 935,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03L57R4HN3\/F0639B6KMNJ\/value_map_cards.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0639B6KMNJ-af11112e8f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03L57R4HN3",
+        "display_as_bot": false,
+        "ts": "1698695177.700399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t6EDG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is a single-page document I've created for the value analysis cards. I found it easier to use when doing zoom interviews."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a7f3532a-1f16-4f63-a58f-beed5cbf53e5",
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AN015NSX",
+                    "U05DD0R44G5",
+                    "U05BBQFJ056"
+                ],
+                "count": 3
+            },
+            {
+                "name": "thank-you",
+                "users": [
+                    "U05AMVCTLRZ",
+                    "U05A7HEQV71"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05A7HEQV71",
+                    "U05BBQDP59N"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

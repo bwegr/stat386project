@@ -1,0 +1,222 @@
+[
+    {
+        "client_msg_id": "7698c62d-f6ce-4a9f-9e9e-5c6055606576",
+        "type": "message",
+        "text": "<@U05BBQFJ056>, <@U05MZL07Q78>, and I are going with some friends to the Payson temple on Saturday at 6:45pm to do baptisms if anyone else wants to join!",
+        "user": "U05BBQDP59N",
+        "ts": "1698676021.654079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PkSqz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQFJ056"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05MZL07Q78"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and I are going with some friends to the Payson temple on Saturday at 6:45pm to do baptisms if anyone else wants to join!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9d365c02ed39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-08\/5714397176628_9d365c02ed398a6d3fb4_72.png",
+            "first_name": "Kjerstin",
+            "real_name": "Kjerstin Roberts",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "robertskjerstin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698676021.654079",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1698703054.612009",
+        "reply_users": [
+            "U05AFDRH8AJ",
+            "U05BBQDP59N",
+            "U05BBQFJ056"
+        ],
+        "replies": [
+            {
+                "user": "U05AFDRH8AJ",
+                "ts": "1698702846.649759"
+            },
+            {
+                "user": "U05BBQDP59N",
+                "ts": "1698703035.217089"
+            },
+            {
+                "user": "U05BBQFJ056",
+                "ts": "1698703054.612009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "DA729D12-9A9B-47FA-8174-FABB6B66941F",
+        "type": "message",
+        "text": "I love to join! Do I need to make a separate appointment?",
+        "user": "U05AFDRH8AJ",
+        "ts": "1698702846.649759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WG05D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I love to join! Do I need to make a separate appointment?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "940e70cd357f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5367297384708_940e70cd357fc3d23775_72.png",
+            "first_name": "Liz",
+            "real_name": "Liz Frost",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "liz.b.frost",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698676021.654079",
+        "parent_user_id": "U05BBQDP59N"
+    },
+    {
+        "client_msg_id": "e36e523d-c307-4a04-8c81-cd8648f8ead8",
+        "type": "message",
+        "text": "<@U05AFDRH8AJ> I believe so!",
+        "user": "U05BBQDP59N",
+        "ts": "1698703035.217089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jfewt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05AFDRH8AJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I believe so!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9d365c02ed39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-08\/5714397176628_9d365c02ed398a6d3fb4_72.png",
+            "first_name": "Kjerstin",
+            "real_name": "Kjerstin Roberts",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "robertskjerstin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698676021.654079",
+        "parent_user_id": "U05BBQDP59N"
+    },
+    {
+        "client_msg_id": "5A5CF2CF-1185-4162-8B22-C589C5B9CBD1",
+        "type": "message",
+        "text": "I’m sure if you show up they’ll accommodate though ",
+        "user": "U05BBQFJ056",
+        "ts": "1698703054.612009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hlgRf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sure if you show up "
+                            },
+                            {
+                                "type": "text",
+                                "text": "they’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " accommodate though "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "0114fc285ea5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-13\/5734585427330_0114fc285ea570cdd820_72.png",
+            "first_name": "Jason",
+            "real_name": "Jason Allred",
+            "display_name": "Jason Allred",
+            "team": "T0ZBAEL59",
+            "name": "jasonallred12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698676021.654079",
+        "parent_user_id": "U05BBQDP59N",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05BBQDP59N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

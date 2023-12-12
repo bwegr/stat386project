@@ -1,0 +1,281 @@
+[
+    {
+        "client_msg_id": "a5fe6487-5f54-41a6-9e38-9dc22a2ff359",
+        "type": "message",
+        "text": ":large_blue_diamond: *Important* Blue Lounge Updates :large_blue_diamond:\n\n1. We will be changing the door code to the MBA lounge this week on *Friday morning.* The *new door code will be 20234* (think of the school year 2023-24). We know that the mid-year change is a pain and tried to hold off on changing it, but the existing code is pretty broadly known outside the MBA and we've had multiple issues of non-MBAs spending time here late in the evening\/on the weekends and want to keep things locked and safe.\n2. A huge THANK YOU to <@U03PKR5GQUQ> and her helper <@U03LMGSGBQC> for decorating the lounge for us - it looks amazing!!",
+        "user": "U03LK533VR8",
+        "ts": "1698167589.776759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JgkxE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "large_blue_diamond",
+                                "unicode": "1f537"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Important",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Blue Lounge Updates "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "large_blue_diamond",
+                                "unicode": "1f537"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We will be changing the door code to the MBA lounge this week on "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Friday morning. ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "The "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "new door code will be 20234",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (think of the school year 2023-24). We know that the mid-year change is a pain and tried to hold off on changing it, but the existing code is pretty broadly known outside the MBA and we've had multiple issues of non-MBAs spending time here late in the evening\/on the weekends and want to keep things locked and safe."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A huge THANK YOU to "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U03PKR5GQUQ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and her helper "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U03LMGSGBQC"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " for decorating the lounge for us - it looks amazing!!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "clapping_inclusive",
+                "users": [
+                    "U03LK3D5N2X",
+                    "U03LXQLBGCR",
+                    "U03NW11JH19",
+                    "U03L57R4HN3",
+                    "U03LK4YF3A6",
+                    "U03LXQFQS3B",
+                    "U03LXQCJA81"
+                ],
+                "count": 7
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN015NSX",
+                    "U03NW11JH19",
+                    "U03L4GPCL5V",
+                    "U03LXQLBGCR",
+                    "U03L57R4HN3",
+                    "U03LK4YF3A6",
+                    "U03LXQFQS3B"
+                ],
+                "count": 7
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03NW11JH19",
+                    "U03LXQLBGCR",
+                    "U03L57R4HN3",
+                    "U03LK4YF3A6"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U03NW11JH19",
+                    "U03LXQLBGCR",
+                    "U03L57R4HN3",
+                    "U03LK4YF3A6",
+                    "U03LXQCJA81"
+                ],
+                "count": 5
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03NW11JH19",
+                    "U03LXQLBGCR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03NW11JH19",
+                    "U03LXQLBGCR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "done",
+                "users": [
+                    "U03NW11JH19"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hat-tip",
+                "users": [
+                    "U03NW11JH19",
+                    "U03LK4YF3A6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "shia_clap2",
+                "users": [
+                    "U03NW11JH19"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yesss",
+                "users": [
+                    "U03NW11JH19"
+                ],
+                "count": 1
+            },
+            {
+                "name": "kelsee",
+                "users": [
+                    "U03NW11JH19"
+                ],
+                "count": 1
+            },
+            {
+                "name": "smart_thinking",
+                "users": [
+                    "U03NW11JH19"
+                ],
+                "count": 1
+            },
+            {
+                "name": "spongebob-hearts",
+                "users": [
+                    "U03NW11JH19",
+                    "U03LK4YF3A6",
+                    "U03LXQCJA81"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "caiokiss",
+                "users": [
+                    "U03LK4YF3A6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "airplane",
+                "users": [
+                    "U03LG7C5QAH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "extreme-teamwork",
+                "users": [
+                    "U03NW11JH19"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

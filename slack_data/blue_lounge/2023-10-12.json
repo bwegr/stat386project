@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "6fea3bff-ebdd-45c8-a7bb-954887d682f6",
+        "type": "message",
+        "text": "We have 20 lbs of BBQ Meatball in the Blue Lounge fridge. PLEASE have some for lunch.",
+        "user": "U03L57R4HN3",
+        "ts": "1697130413.134129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/9VR\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have 20 lbs of BBQ Meatball in the Blue Lounge fridge. PLEASE have some for lunch."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U03LK5045V0",
+                    "U03LXQCEVKK",
+                    "U03L4GUGBF1",
+                    "U03L4GT3B55",
+                    "U03LK3D5N2X"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

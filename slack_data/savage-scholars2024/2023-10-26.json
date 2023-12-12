@@ -1,0 +1,703 @@
+[
+    {
+        "client_msg_id": "E09CC8DF-9CE7-489A-93DA-49FEEE49A6C0",
+        "type": "message",
+        "text": "Mine have cleared ",
+        "user": "U03NW11JH19",
+        "ts": "1698320784.011869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NTJEU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mine have cleared "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698303589.070459",
+        "parent_user_id": "U03LK551XFU"
+    },
+    {
+        "client_msg_id": "8BDEA447-A7E5-4BC9-8EE5-10BD8D8EF5F9",
+        "type": "message",
+        "text": "Mine are cleared as well.",
+        "user": "U03M8T9K6SU",
+        "ts": "1698326050.298849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oG6Hz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mine are cleared as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7bb5517fdae8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6005443083891_7bb5517fdae8974e301c_72.png",
+            "first_name": "Chris",
+            "real_name": "Chris Lundy",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "lundycw09",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698303589.070459",
+        "parent_user_id": "U03LK551XFU"
+    },
+    {
+        "client_msg_id": "ec135172-f83c-4d9e-9b05-19e5db8ad231",
+        "type": "message",
+        "text": "<mailto:dyllan.beccari@gmail.com|dyllan.beccari@gmail.com>",
+        "user": "U023PGS313M",
+        "ts": "1698328787.108899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fslrz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:dyllan.beccari@gmail.com",
+                                "text": "dyllan.beccari@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e426a52b02ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-08\/2134257457031_e426a52b02efc87a4a42_72.jpg",
+            "first_name": "Dyllan",
+            "real_name": "Dyllan Beccari",
+            "display_name": "Dyllan Beccari",
+            "team": "T0ZBAEL59",
+            "name": "dyllan.beccari",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "04FEC800-ABD3-415A-9532-4B9FE1CFBF5D",
+        "type": "message",
+        "text": "<mailto:mmarcosgoog@hotmail.com|mmarcosgoog@hotmail.com>",
+        "user": "U03LG779KGD",
+        "ts": "1698332608.311629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xQi6c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:mmarcosgoog@hotmail.com",
+                                "text": "mmarcosgoog@hotmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4c81f56cddb5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4055541249281_4c81f56cddb58a01ad12_72.jpg",
+            "first_name": "Marcos",
+            "real_name": "Marcos Orfila",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mmarcosgoog",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "D78C18A2-04E6-4A56-83F2-064E4DC2C9A3",
+        "type": "message",
+        "text": "<mailto:jlcardozoloverde@gmail.com|jlcardozoloverde@gmail.com>",
+        "user": "U03LK4ZPZ4J",
+        "ts": "1698333283.593029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T+ip\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:jlcardozoloverde@gmail.com",
+                                "text": "jlcardozoloverde@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "76b3ba4c9ee5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-03\/4893429811013_76b3ba4c9ee5cb7be525_72.png",
+            "first_name": "Jose",
+            "real_name": "Jose Luis Cardozo",
+            "display_name": "Jose Luis",
+            "team": "T0ZBAEL59",
+            "name": "jlcardozoloverde",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698285541.747149",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "e1c0c5b1-5c08-4651-9e39-34418e78c7c7",
+        "type": "message",
+        "text": "<!channel> As promised here is the SECRET SANTA! Please use the link to get your name!\n\nWe're going to draw names for Savage Scholars Secret Santa 2023! Make a wish list and draw a name so that everyone has time to buy or make a gift. (note it is a $10 max on the gift)\n\nOn the date, we will be having a guess who gave you your gift game before you can open it! So don't let anyone know who you have! Your present should be wrapped and have only the name of the person it is intended for. This will be a great time!\n\nMembers:\nSavage Scholars + Scott and Barry\n\nDate of the gift exchange:\nTuesday, December 05, 2023\n\nGift amount:\nUS$10\n\nClick on the invitation link to join.\n<https:\/\/drawnames.app\/t\/U-BdJ4o>",
+        "user": "U03NW11JH19",
+        "ts": "1698342760.972839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sJIJD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " As promised here is the SECRET SANTA! Please use the link to get your name!\n\nWe're going to draw names for Savage Scholars Secret Santa 2023! Make a wish list and draw a name so that everyone has time to buy or make a gift. (note it is a $10 max on the gift)\n\nOn the date, we will be having a guess who gave you your gift game before you can open it! So don't let anyone know who you have! Your present should be wrapped and have only the name of the person it is intended for. This will be a great time!\n\nMembers:\nSavage Scholars + Scott and Barry\n\nDate of the gift exchange:\nTuesday, December 05, 2023\n\nGift amount:\nUS$10\n\nClick on the invitation link to join.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drawnames.app\/t\/U-BdJ4o"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/drawnames.app\/t\/U-BdJ4o",
+                "service_icon": "https:\/\/drawnames.app\/favicon.ico",
+                "thumb_url": "https:\/\/drawnames.app\/Content\/Assets\/og-image.png",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "id": 1,
+                "original_url": "https:\/\/drawnames.app\/t\/U-BdJ4o",
+                "fallback": "Join to draw names!",
+                "text": "You're invited. Join the fun through the website or the app.",
+                "title": "Join to draw names!",
+                "title_link": "https:\/\/drawnames.app\/t\/U-BdJ4o",
+                "service_name": "drawnames.app"
+            }
+        ],
+        "thread_ts": "1698342760.972839",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1698369768.800169",
+        "reply_users": [
+            "U03NW11JH19",
+            "U03LCGQP0LW",
+            "U03LK533VR8"
+        ],
+        "replies": [
+            {
+                "user": "U03NW11JH19",
+                "ts": "1698343244.535979"
+            },
+            {
+                "user": "U03LCGQP0LW",
+                "ts": "1698358813.996409"
+            },
+            {
+                "user": "U03LK533VR8",
+                "ts": "1698369021.034989"
+            },
+            {
+                "user": "U03NW11JH19",
+                "ts": "1698369768.800169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "When you click on the link make sure to hit the someone else, then select your own name, add your name, and then click join. Let me know if you have any quesitons!",
+        "files": [
+            {
+                "id": "F062KAU7AEB",
+                "created": 1698343059,
+                "timestamp": 1698343059,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 46002,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062KAU7AEB\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062KAU7AEB\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062KAU7AEB-8aa8703682\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062KAU7AEB-8aa8703682\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062KAU7AEB-8aa8703682\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 281,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062KAU7AEB-8aa8703682\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 375,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062KAU7AEB-8aa8703682\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "original_w": 661,
+                "original_h": 516,
+                "thumb_tiny": "AwAlADCfTc\/YRjrk4qePzcNu454zUGmnFiD6E9an81uyqT\/vUDuSjOOaKj8xieAp\/wCBUu6TH3Bn60CH0U0F8jKgDvzTqAKemf8AHkPqas4UfwrVXTg32RSG4ycg96t5HoKAEAUchVFOyfQfnSZHoKNw9vzoAcPeik3en86WgCppf\/Hmv1NW6qaX\/wAea\/U1boAKKKKACiiigD\/\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F062KAU7AEB\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F062KAU7AEB-764f74919b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F062T7RB0B0",
+                "created": 1698343091,
+                "timestamp": 1698343091,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 43224,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062T7RB0B0\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062T7RB0B0\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062T7RB0B0-e2c0f73c7f\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062T7RB0B0-e2c0f73c7f\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062T7RB0B0-e2c0f73c7f\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 291,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062T7RB0B0-e2c0f73c7f\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 388,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062T7RB0B0-e2c0f73c7f\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062T7RB0B0-e2c0f73c7f\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 582,
+                "original_w": 720,
+                "original_h": 582,
+                "thumb_tiny": "AwAmADDTqJPN+bdgc8ZqWo8v6r+RoGSDpzRUeZMjlcfQ0Zk9V\/I0CJKKahJHzYz7U6gApmF\/vCn0mPpQAm0HvS7fWlooAAAOlFFFABVfyG9VNWKSmm0K1yDyG9QPzqxSUtDbYWsFFFFIZ\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F062T7RB0B0\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F062T7RB0B0-4647f506be",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03NW11JH19",
+        "ts": "1698343244.535979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s9o\/O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When you click on the link make sure to hit the someone else, then select your own name, add your name, and then click join. Let me know if you have any quesitons!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4bcf7063-87c4-44cc-831c-93f593b93db6",
+        "thread_ts": "1698342760.972839",
+        "parent_user_id": "U03NW11JH19"
+    },
+    {
+        "client_msg_id": "d5bcd3c2-973f-464a-a035-ba70f79494c4",
+        "type": "message",
+        "text": "I'm being introduced to this fancy technology the very year that my family stopped drawing names for Christmas. :crying_jordan:",
+        "user": "U03LCGQP0LW",
+        "ts": "1698358813.996409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7yTQ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm being introduced to this fancy technology the very year that my family stopped drawing names for Christmas. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crying_jordan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "854c6c8cafe5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-15\/5271050025428_854c6c8cafe5c412a0a5_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Poulton",
+            "display_name": "Tanner Poulton",
+            "team": "T0ZBAEL59",
+            "name": "tannerjpoulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698342760.972839",
+        "parent_user_id": "U03NW11JH19",
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U03LK551XFU",
+                    "U03NW11JH19"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DF52495F-2C43-46FF-81EF-7A38BC793FC6",
+        "type": "message",
+        "text": "<@U03LK39LQ2F> <@U03LG7DG3TP> <@U023PGS313M> <@U03L4GLKLTZ> <@U03LK551XFU> <@U03LMGTRFN0> <@U03LKPR8N75> <@U03LXQCJA81>\nStill looking to have the above people draw names for the Secret Santa!",
+        "user": "U03NW11JH19",
+        "ts": "1698364419.096659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FFrlp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK39LQ2F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LG7DG3TP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U023PGS313M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03L4GLKLTZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LK551XFU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LMGTRFN0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LKPR8N75"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LXQCJA81"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nStill looking to have the above people draw names for the Secret Santa!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698364419.096659",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1698509194.531589",
+        "reply_users": [
+            "U03LK39LQ2F",
+            "U03LMGTRFN0"
+        ],
+        "replies": [
+            {
+                "user": "U03LK39LQ2F",
+                "ts": "1698390873.800979"
+            },
+            {
+                "user": "U03LK39LQ2F",
+                "ts": "1698390960.759519"
+            },
+            {
+                "user": "U03LMGTRFN0",
+                "ts": "1698509194.531589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03L4GLKLTZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0a9a96c-0e11-4cba-bc18-80533d52119f",
+        "type": "message",
+        "text": "So...  I was multi-tasking when I got to this thread and definitely pulled my own name... hahah\nCan you help, Mr. Admin\/<@U03NW11JH19>?",
+        "user": "U03LK533VR8",
+        "ts": "1698369021.034989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zXAmq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So...  I was multi-tasking when I got to this thread and definitely pulled my own name... hahah\nCan you help, Mr. Admin\/"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03NW11JH19"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698342760.972839",
+        "parent_user_id": "U03NW11JH19"
+    },
+    {
+        "client_msg_id": "30B462E4-3508-4D47-9746-1613368C738F",
+        "type": "message",
+        "text": "Jared looks like according to the website it shows you have not drawn a name. It also suggest your name has not be drawn. Will you try again? Make sure to select your name when joining. Let me know if you have any questions.",
+        "user": "U03NW11JH19",
+        "ts": "1698369768.800169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d\/eGV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jared looks like according to the website it shows you have not drawn a name. It also suggest your name has not be drawn. Will you try again? Make sure to select your name when joining. Let me know if you have any questions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03NW11JH19",
+            "ts": "1698370221.000000"
+        },
+        "thread_ts": "1698342760.972839",
+        "parent_user_id": "U03NW11JH19",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LK533VR8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "client_msg_id": "6C686D92-AFB0-4C70-8DC7-90071F9F0725",
+        "type": "message",
+        "text": "<@U03L57R4HN3> if our class doesn’t start until 2:00 PM does that mean our BMW case is not due until then or is is due at 9:29 as posted on canvas?",
+        "user": "U05HW4UU20Y",
+        "ts": "1698177544.615839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7K4yc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L57R4HN3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if our class "
+                            },
+                            {
+                                "type": "text",
+                                "text": "doesn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " start until 2:00 PM does that mean our BMW case is not due until then or is is due at 9:29 as posted on canvas?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2aa9fe727431",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-25\/5660749208768_2aa9fe7274319249fef0_72.png",
+            "first_name": "Sterling",
+            "real_name": "Sterling Baker",
+            "display_name": "Sterling Baker",
+            "team": "T0ZBAEL59",
+            "name": "wyomingbaker44",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698177544.615839",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1698200793.106119",
+        "reply_users": [
+            "U05HW4UU20Y",
+            "U03L57R4HN3",
+            "U05AN015NSX"
+        ],
+        "replies": [
+            {
+                "user": "U05HW4UU20Y",
+                "ts": "1698181330.282459"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1698195091.693519"
+            },
+            {
+                "user": "U05AN015NSX",
+                "ts": "1698200747.755079"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1698200793.106119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "exclamation",
+                "users": [
+                    "U05DD0R2J6R",
+                    "U05AMVD19GT"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "937C7A56-54E9-4B39-82EC-DBDE3B377B87",
+        "type": "message",
+        "text": "<@U03LXQCJA81> any ideas?",
+        "user": "U05HW4UU20Y",
+        "ts": "1698181330.282459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6dhPv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LXQCJA81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " any ideas?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2aa9fe727431",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-25\/5660749208768_2aa9fe7274319249fef0_72.png",
+            "first_name": "Sterling",
+            "real_name": "Sterling Baker",
+            "display_name": "Sterling Baker",
+            "team": "T0ZBAEL59",
+            "name": "wyomingbaker44",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698177544.615839",
+        "parent_user_id": "U05HW4UU20Y"
+    },
+    {
+        "client_msg_id": "586DB6A2-8B4F-41EF-89AF-FD7D9C746442",
+        "type": "message",
+        "text": "Before class. So if you are at 2pm, it’s 2pm.\n\nThere’s just no way for Prof. Christensen to set separate due dates based on how he set up the course.",
+        "user": "U03L57R4HN3",
+        "ts": "1698195091.693519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xKYI9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Before class. So if you are at 2pm, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2pm.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "There’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just no way for Prof. Christensen to set separate due dates based on how he set up the course."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698177544.615839",
+        "parent_user_id": "U05HW4UU20Y"
+    },
+    {
+        "client_msg_id": "a3d82b9a-c044-49fb-9233-3de6f6f378c4",
+        "type": "message",
+        "text": "<@U03L57R4HN3> You can see if Prof. Christensen knows about this <https:\/\/athelp.sfsu.edu\/hc\/en-us\/articles\/8124247200659-Setting-up-different-due-dates-for-one-assignment#:~:text=Select%20the%20Edit%20button.,Select%20a%20Due%20date.|method>, which is a fast and easy option to add different due dates for each section.",
+        "user": "U05AN015NSX",
+        "ts": "1698200747.755079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yfHmy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03L57R4HN3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You can see if Prof. Christensen knows about this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/athelp.sfsu.edu\/hc\/en-us\/articles\/8124247200659-Setting-up-different-due-dates-for-one-assignment#:~:text=Select%20the%20Edit%20button.,Select%20a%20Due%20date.",
+                                "text": "method"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", which is a fast and easy option to add different due dates for each section."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698177544.615839",
+        "parent_user_id": "U05HW4UU20Y"
+    },
+    {
+        "client_msg_id": "34C5A3B5-24AE-4C67-A343-116A1239636D",
+        "type": "message",
+        "text": "Thank you for that info. I will definitely pass it along. :heart: ",
+        "user": "U03L57R4HN3",
+        "ts": "1698200793.106119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EmIVr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for that info. I will definitely pass it along. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698177544.615839",
+        "parent_user_id": "U05HW4UU20Y",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

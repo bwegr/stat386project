@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "8F6AEBB6-E511-4420-994F-10D43B635034",
+        "type": "message",
+        "text": "On this, do we need to bid for both or if we just get A through bidding are we set to register for both? ",
+        "user": "U03L4GN325D",
+        "ts": "1697126786.411639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aFmyX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On this, do we need to bid for both or if we just get A through bidding are we set to register for both? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696553335.428929",
+        "parent_user_id": "U05AK5HTE77"
+    },
+    {
+        "client_msg_id": "91583117-0cac-43ff-b0d6-177baa8f70cf",
+        "type": "message",
+        "text": "Just bid on A, A is a pre-req for B",
+        "user": "U03SZAWQBM4",
+        "ts": "1697126811.556489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OUbjk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just bid on A, A is a pre-req for B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696553335.428929",
+        "parent_user_id": "U05AK5HTE77"
+    },
+    {
+        "client_msg_id": "A0114B47-93AD-4ECD-B8B8-82465EAAD2BF",
+        "type": "message",
+        "text": "Perfect, thank you! I know I procrastinated so thanks for the quick answer! ",
+        "user": "U03L4GN325D",
+        "ts": "1697127140.944509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BhaMb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect, thank you! I know I procrastinated so thanks for the quick answer! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696553335.428929",
+        "parent_user_id": "U05AK5HTE77"
+    }
+]

@@ -1,0 +1,141 @@
+[
+    {
+        "client_msg_id": "b5e11769-faec-43a7-814c-9fa08d4809ae",
+        "type": "message",
+        "text": "Anyone has the link to register our teams for Dell competition?",
+        "user": "U03TVL5E0M6",
+        "ts": "1698342660.706289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bcYPK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone has the link to register our teams for Dell competition?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698342660.706289",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698343427.009899",
+        "reply_users": [
+            "U03LCGM9XML",
+            "U03TVL5E0M6"
+        ],
+        "replies": [
+            {
+                "user": "U03LCGM9XML",
+                "ts": "1698343409.253849"
+            },
+            {
+                "user": "U03TVL5E0M6",
+                "ts": "1698343427.009899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1498C126-72FF-41A6-81C7-385F91FE4B4C",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfSiD80dRWXnJlho3jKO0PjVwJ8unJRnF5TuVaPJ_QDlaasaw\/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;usp=mail_form_link|https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfSiD80dRWXnJlho3jKO0PjVwJ8unJRnF5TuVaPJ_QDlaasaw\/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;usp=mail_form_link>",
+        "user": "U03LCGM9XML",
+        "ts": "1698343409.253849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SH46p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfSiD80dRWXnJlho3jKO0PjVwJ8unJRnF5TuVaPJ_QDlaasaw\/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link",
+                                "text": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfSiD80dRWXnJlho3jKO0PjVwJ8unJRnF5TuVaPJ_QDlaasaw\/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe4a9879d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-11\/4782206995686_fbe4a9879d5432da3d7a_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Parry",
+            "display_name": "Evan Parry",
+            "team": "T0ZBAEL59",
+            "name": "evanparry13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698342660.706289",
+        "parent_user_id": "U03TVL5E0M6"
+    },
+    {
+        "client_msg_id": "f2bc62d6-3fdf-4100-afcc-930065cb7e62",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U03TVL5E0M6",
+        "ts": "1698343427.009899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcxlo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e5acbd2fa72a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905541680293_e5acbd2fa72aa7c8905b_72.jpg",
+            "first_name": "Diego",
+            "real_name": "Diego Torres",
+            "display_name": "Diego Torres",
+            "team": "T0ZBAEL59",
+            "name": "dtorrese18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698342660.706289",
+        "parent_user_id": "U03TVL5E0M6"
+    }
+]

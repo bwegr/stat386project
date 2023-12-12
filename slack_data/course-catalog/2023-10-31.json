@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "A512BED8-E11A-4BDD-8E55-6C117AAC8E29",
+        "type": "message",
+        "text": "<@U03LK3AD1V1> when you consider that you don’t have in class time for sport psychology- I don’t think the time is a lot. You basically spend the time you would in class doing all the work for your class. It actually feels like a lighter load to me.",
+        "user": "U03LK39LQ2F",
+        "ts": "1698739025.839849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9s2WC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK3AD1V1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " when you consider that you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have in class time for sport psychology- I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " think the time is a lot. You basically spend the time you would in class doing all the work for your class. It actually feels like a lighter load to me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "127e7339b511",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4045053911267_127e7339b511c9e7bfca_72.png",
+            "first_name": "Ashli",
+            "real_name": "Ashli Asay",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ashliasay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696368456.250229",
+        "parent_user_id": "U03LK52VCQ2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LK3AD1V1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

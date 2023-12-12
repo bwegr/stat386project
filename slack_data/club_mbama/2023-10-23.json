@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "16880f83-94a6-4312-b8c6-09c601136962",
+        "type": "message",
+        "text": "I took Marketing Research last year and am in Pricing this semester! I like both! Just depends on what you want, but I'm happy to chat and answer questions",
+        "user": "U03LG7DNSUV",
+        "ts": "1698067989.063489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TlgqQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I took Marketing Research last year and am in Pricing this semester! I like both! Just depends on what you want, but I'm happy to chat and answer questions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "f3b8802bc2bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4003016629493_f3b8802bc2bc4748803b_72.png",
+            "first_name": "Jamie",
+            "real_name": "Jamie Wadsworth",
+            "display_name": "Jamie Wadsworth",
+            "team": "T0ZBAEL59",
+            "name": "jamie.p.wadsworth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697938923.292709",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "client_msg_id": "9f2b11a5-9258-4e48-828a-90598eb32770",
+        "type": "message",
+        "text": "Our champ <@U05AFDTJEUW> is on top of marketing recruiting opportunities! If you haven't already, join <#CKZ3F37N3|recruiting> to stay up to date on opportunities!!",
+        "user": "U03LK4YF3A6",
+        "ts": "1698116839.401269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1bDKY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our champ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AFDTJEUW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is on top of marketing recruiting opportunities! If you haven't already, join "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CKZ3F37N3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to stay up to date on opportunities!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LK3D5N2X",
+                    "U05AMVD19GT",
+                    "U03L57R4HN3",
+                    "U05A7HCQPDM",
+                    "U03LXQLBGCR"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

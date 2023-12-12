@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "af9a33f6-b6c9-4bf7-a598-3410e910d125",
+        "type": "message",
+        "text": "I may be interested! I'll let you know Thursday :slightly_smiling_face:",
+        "user": "U05BBQFJ056",
+        "ts": "1698075753.508209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2SwDE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I may be interested! I'll let you know Thursday "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "0114fc285ea5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-13\/5734585427330_0114fc285ea570cdd820_72.png",
+            "first_name": "Jason",
+            "real_name": "Jason Allred",
+            "display_name": "Jason Allred",
+            "team": "T0ZBAEL59",
+            "name": "jasonallred12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698016889.146249",
+        "parent_user_id": "U05BBQDP59N",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05BBQDP59N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

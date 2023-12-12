@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "text": "For those of you who came to Aaron Robinson's (Kodiak Cakes) Pro Sem last week!",
+        "files": [
+            {
+                "id": "F063EHZ3KDY",
+                "created": 1698681760,
+                "timestamp": 1698681760,
+                "name": "BYU Pro Sem_Oct 2023.pdf",
+                "title": "BYU Pro Sem_Oct 2023.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03LCGM9XML",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 6312524,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F063EHZ3KDY\/byu_pro_sem_oct_2023.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F063EHZ3KDY\/download\/byu_pro_sem_oct_2023.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F063EHZ3KDY-2985cd3da9\/byu_pro_sem_oct_2023_thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 2933,
+                "thumb_pdf_h": 1650,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LCGM9XML\/F063EHZ3KDY\/byu_pro_sem_oct_2023.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F063EHZ3KDY-5165b2070a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LCGM9XML",
+        "display_as_bot": false,
+        "ts": "1698681769.791939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EZxjS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For those of you who came to Aaron Robinson's (Kodiak Cakes) Pro Sem last week!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a4286dce-946a-4d61-b0bb-b1d26025fc8c",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LG763EKF",
+                    "U03LXQE14NM"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

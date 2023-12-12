@@ -1,0 +1,902 @@
+[
+    {
+        "client_msg_id": "26105fcc-d4e1-4dcb-82c1-f1b9edfe906e",
+        "type": "message",
+        "text": "If anyone is interested in learning more about internship roles at Ford Motor Co., please reach out to me. They are coming to campus on Thursday from 1-5pm for the Strategy and Planning Development internship and I'd love to make some personal introductions. :car::car::car:",
+        "user": "U03L57R4HN3",
+        "ts": "1696952386.531599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4T+At",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If anyone is interested in learning more about internship roles at Ford Motor Co., please reach out to me. They are coming to campus on Thursday from 1-5pm for the Strategy and Planning Development internship and I'd love to make some personal introductions. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "car",
+                                "unicode": "1f697"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "car",
+                                "unicode": "1f697"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "car",
+                                "unicode": "1f697"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696952386.531599",
+        "reply_count": 12,
+        "reply_users_count": 7,
+        "latest_reply": "1697118686.291049",
+        "reply_users": [
+            "U03LK52VCQ2",
+            "U03LXQCEVKK",
+            "U03L57R4HN3",
+            "U05GZPF8ZGW",
+            "U05HK2S6TLZ",
+            "U05GRT17A87",
+            "U05BBQFJ056"
+        ],
+        "replies": [
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1696952978.808319"
+            },
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1696952996.849699"
+            },
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1696953023.694549"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1696953044.914089"
+            },
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1696953098.304079"
+            },
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1696953103.211159"
+            },
+            {
+                "user": "U05GZPF8ZGW",
+                "ts": "1696953467.684199"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1696953814.625419"
+            },
+            {
+                "user": "U05HK2S6TLZ",
+                "ts": "1696957300.070259"
+            },
+            {
+                "user": "U03L57R4HN3",
+                "ts": "1696960675.117649"
+            },
+            {
+                "user": "U05GRT17A87",
+                "ts": "1696964158.176919"
+            },
+            {
+                "user": "U05BBQFJ056",
+                "ts": "1697118686.291049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "car",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U03LMGYLSR2",
+                    "U03LK56EXJN",
+                    "U05GRT17A87",
+                    "U05BBQFJ056"
+                ],
+                "count": 5
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32c0d949-cf40-4b4b-8345-a13b3e82f737",
+        "type": "message",
+        "text": "Brittany, I'm interested in a FT HR role at Ford. Do you think it would be beneficial for me to speak to a Ford rep on Thursday or go a different route?",
+        "user": "U03LK52VCQ2",
+        "ts": "1696952978.808319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KF+H4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brittany, I'm interested in a FT HR role at Ford. Do you think it would be beneficial for me to speak to a Ford rep on Thursday or go a different route?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696952386.531599",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "client_msg_id": "d242c557-af49-47f6-a5e2-dd4064e01fa3",
+        "type": "message",
+        "text": "Brittany, I really want to make sure you get this message from Megan",
+        "user": "U03LXQCEVKK",
+        "ts": "1696952996.849699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HV26j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brittany, I really want to make sure you get this message from Megan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696952386.531599",
+        "parent_user_id": "U03L57R4HN3",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f725dc3-2feb-4af3-a41b-8155d351d607",
+        "type": "message",
+        "text": "Megan would be a great candidate. Cannot recommend enough.",
+        "user": "U03LXQCEVKK",
+        "ts": "1696953023.694549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Mc6\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Megan would be a great candidate. Cannot recommend enough."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696952386.531599",
+        "parent_user_id": "U03L57R4HN3",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0299da01-6e5b-456f-bfd0-06895533bd3a",
+        "type": "message",
+        "text": "Great question. The recruiter on Thursday is coming specifically for the strategy and planning internship, but I don't ever think it's bad to try and make any connection you can. I'd love to chat with you for 30 seconds first. Do you have a minute or two sometime today?",
+        "user": "U03L57R4HN3",
+        "ts": "1696953044.914089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "894nZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great question. The recruiter on Thursday is coming specifically for the strategy and planning internship, but I don't ever think it's bad to try and make any connection you can. I'd love to chat with you for 30 seconds first. Do you have a minute or two sometime today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696952386.531599",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "client_msg_id": "8ae65759-cb6f-4f3f-95e5-469ab4bc9fc7",
+        "type": "message",
+        "text": "Yeah, let's chat today!",
+        "user": "U03LK52VCQ2",
+        "ts": "1696953098.304079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JbOx6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, let's chat today!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696952386.531599",
+        "parent_user_id": "U03L57R4HN3",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03L57R4HN3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "609ba317-5348-4693-8922-3fd2771ea58f",
+        "type": "message",
+        "text": "Thanks, Taylor :wink:",
+        "user": "U03LK52VCQ2",
+        "ts": "1696953103.211159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vPXyW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Taylor "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696952386.531599",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "client_msg_id": "34ddcdd8-42a7-4a39-b5f4-65d65d2c5adf",
+        "type": "message",
+        "text": "Brittany, do you know if they're willing to sponsor international students?",
+        "user": "U05GZPF8ZGW",
+        "ts": "1696953467.684199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uvmB7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brittany, do you know if they're willing to sponsor international students?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "945acac7f6df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-25\/5638334753522_945acac7f6df9148f163_72.jpg",
+            "first_name": "Francisco",
+            "real_name": "Francisco Sachun",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "franciscosachunsalaza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696952386.531599",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "client_msg_id": "b961f7a3-e91f-4496-b3ef-4b5fec0ea445",
+        "type": "message",
+        "text": "<@U05GZPF8ZGW> Unfortunately, not for this role.",
+        "user": "U03L57R4HN3",
+        "ts": "1696953814.625419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g0tMr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05GZPF8ZGW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Unfortunately, not for this role."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696952386.531599",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "type": "message",
+        "text": "Last reminder to register for the BYU + Silicon Slopes: Growth Venture Connect Meet &amp; Greet\n\n*Registration will close at 4pm today.  If you register your resume will be sent out in the resume book to the company.  You can still come to the event if you do not register; however, your resume will not be included in the resume book.*\n\nThis event is a networking event NOT a hiring event but this is an opportunity to get your name on the radar of local growth stage companies.  We will have another event in the winter semester that will be focussed on hiring.\n\nAttire: Business casual and please wear your MBA name tag",
+        "user": "U03PKR5881E",
+        "ts": "1696955330.011299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gUEKe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last reminder to register for the BYU + Silicon Slopes: Growth Venture Connect Meet & Greet\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Registration will close at 4pm today.  If you register your resume will be sent out in the resume book to the company.  You can still come to the event if you do not register; however, your resume will not be included in the resume book.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis event is a networking event NOT a hiring event but this is an opportunity to get your name on the radar of local growth stage companies.  We will have another event in the winter semester that will be focussed on hiring.\n\nAttire: Business casual and please wear your MBA name tag"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1696438406.941159",
+                "author_id": "U03L57R4HN3",
+                "channel_id": "CKZ3F37N3",
+                "channel_team": "T0ZBAEL59",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T0ZBAEL59",
+                        "channel": "CKZ3F37N3",
+                        "ts": "1696438406.941159",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "fIa2j",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "BYU + Silicon Slopes: Growth Venture Connect",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Meet & Greet",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "What:",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " This is an MBA-only event where you can connect with local Growth companies. Not all are hiring at this moment, but the connections you make will be invaluable.\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Where:",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " N. Eldon Tanner Building (TNRB), Brigham Young University, Provo, Utah 84602\nRoom 410 (4th floor)\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "When:",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " Wednesday, October 11th, 2023\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Time:",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " 6pm – 9pm "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Light refreshments provided",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nWe hope to see you there! "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Register ",
+                                                    "style": {
+                                                        "bold": true,
+                                                        "italic": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/marriott.byu.edu\/event\/growthventure2023\/registration",
+                                                    "text": "here",
+                                                    "style": {
+                                                        "bold": true,
+                                                        "italic": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " or by using the QR code.",
+                                                    "style": {
+                                                        "bold": true,
+                                                        "italic": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F05V2KZV45T",
+                        "created": 1696438395,
+                        "timestamp": 1696438395,
+                        "name": "Growth-Venture-Connect_Web-Banner.jpg",
+                        "title": "Growth-Venture-Connect_Web-Banner.jpg",
+                        "mimetype": "image\/jpeg",
+                        "filetype": "jpg",
+                        "pretty_type": "JPEG",
+                        "user": "U03L57R4HN3",
+                        "user_team": "T0ZBAEL59",
+                        "editable": false,
+                        "size": 202131,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V2KZV45T\/growth-venture-connect_web-banner.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V2KZV45T\/download\/growth-venture-connect_web-banner.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 222,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 295,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "original_w": 650,
+                        "original_h": 400,
+                        "thumb_tiny": "AwAdADDTpCQKjkkKtgCnFgoG\/r60AI0hIwqkH1I\/+vTd8mPf\/d\/+vTw6E4FO49qYiHdL6\/8Ajv8A9enIZC2GPH0\/+vUny+1HHtQBG8m18Y\/GlcjAJp5UE5NBUHqM0hkKkZHFPPU07Yo7CnYHpTER0q\/ep+B6UYFIZ\/\/Z",
+                        "permalink": "https:\/\/byumba.slack.com\/files\/U03L57R4HN3\/F05V2KZV45T\/growth-venture-connect_web-banner.jpg",
+                        "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05V2KZV45T-40d284b1d0",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    },
+                    {
+                        "id": "F0604727CTT",
+                        "created": 1696438400,
+                        "timestamp": 1696438400,
+                        "name": "Untitled design (5).png",
+                        "title": "Untitled design (5).png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U03L57R4HN3",
+                        "user_team": "T0ZBAEL59",
+                        "editable": false,
+                        "size": 65038,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0604727CTT\/untitled_design__5_.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0604727CTT\/download\/untitled_design__5_.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 360,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 480,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 720,
+                        "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 800,
+                        "original_w": 900,
+                        "original_h": 900,
+                        "thumb_tiny": "AwAwADDTooozQBFK3TnHOOuB60kTZwQ2VPByc4PtT3TIIxkHnFMjjICg8BTnnqTTETUUZopDCs6UYuGOR979frWjVGYKJXO4A7hgZyDxQBXLs0g3NtIODxnBPrT2KKpLMSOQVb16\/wCRSuw3hdpOOS2cZ9x+dIY1bec5J4B659+P8mgB8K7rkEEcMfQd60Kz7YLuTocNgbckD1rQoAKzrhGeV\/mXOSAMgemPrWjVR7Z2lLBhgnpn+lAELyyMAAwIH9M\/mPaoyxjRlI3Ln5TjJPfHHSrIs34LNkg8fN0\/+vSm1dnO5gA3UrkHFAEduFEiqGk3A\/xDHHp9Kv1VjtWjkUq3Axk7j834VaoA\/9k=",
+                        "permalink": "https:\/\/byumba.slack.com\/files\/U03L57R4HN3\/F0604727CTT\/untitled_design__5_.png",
+                        "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0604727CTT-dbe11d5abe",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/byumba.slack.com\/archives\/CKZ3F37N3\/p1696438406941159",
+                "is_share": true,
+                "fallback": "[October 4th, 2023 10:53 AM] britbennion: *BYU + Silicon Slopes: Growth Venture Connect*\n*Meet &amp; Greet*\n\n*What:* This is an MBA-only event where you can connect with local Growth companies. Not all are hiring at this moment, but the connections you make will be invaluable.\n\n*Where:* N. Eldon Tanner Building (TNRB), Brigham Young University, Provo, Utah 84602\nRoom 410 (4th floor)\n\n*When:* Wednesday, October 11th, 2023\n\n*Time:* 6pm – 9pm *Light refreshments provided*\n\nWe hope to see you there! _*Register <https:\/\/marriott.byu.edu\/event\/growthventure2023\/registration|here> or by using the QR code.*_",
+                "text": "*BYU + Silicon Slopes: Growth Venture Connect*\n*Meet &amp; Greet*\n\n*What:* This is an MBA-only event where you can connect with local Growth companies. Not all are hiring at this moment, but the connections you make will be invaluable.\n\n*Where:* N. Eldon Tanner Building (TNRB), Brigham Young University, Provo, Utah 84602\nRoom 410 (4th floor)\n\n*When:* Wednesday, October 11th, 2023\n\n*Time:* 6pm – 9pm *Light refreshments provided*\n\nWe hope to see you there! _*Register <https:\/\/marriott.byu.edu\/event\/growthventure2023\/registration|here> or by using the QR code.*_",
+                "author_name": "Brittany Bennion",
+                "author_link": "https:\/\/byumba.slack.com\/team\/U03L57R4HN3",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_48.jpg",
+                "author_subname": "Brittany Bennion",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed6aad5e-94a1-4e76-9cb4-cd29df91a10c",
+        "type": "message",
+        "text": "Where would the event be? I am interested in learning more :)",
+        "user": "U05HK2S6TLZ",
+        "ts": "1696957300.070259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qm8TU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where would the event be? I am interested in learning more :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g1cd54823b40",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1cd54823b40b27a77cf84d0161f71dae.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Ling-Yu",
+            "real_name": "Ling-Yu Lee",
+            "display_name": "Ling-Yu Lee",
+            "team": "T0ZBAEL59",
+            "name": "llee25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696952386.531599",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "client_msg_id": "7056c040-a16e-4931-b17e-9ebbed9b4926",
+        "type": "message",
+        "text": "The office hours will be held in the Tanner Building.",
+        "user": "U03L57R4HN3",
+        "ts": "1696960675.117649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w6WV0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The office hours will be held in the Tanner Building."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696952386.531599",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "client_msg_id": "EFBFCA13-CEF1-4EC0-BD0B-6AFA39637779",
+        "type": "message",
+        "text": "Yes please",
+        "user": "U05GRT17A87",
+        "ts": "1696964158.176919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "szJ\/y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g01a9e79bf95",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/01a9e79bf959f8978335f03bcf02acb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Stone",
+            "real_name": "Stone Taylor Airoso",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "stoneairoso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696952386.531599",
+        "parent_user_id": "U03L57R4HN3"
+    }
+]

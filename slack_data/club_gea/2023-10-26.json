@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "0dee9afb-9855-43cf-80af-ea080f3d5171",
+        "type": "message",
+        "text": "This week's Pro-Sem for entrepreneurship is with <https:\/\/www.linkedin.com\/in\/john-koelliker\/|John Koelliker>. He is the founder+CEO of Leland, a marketplace for ambitious people to access the coaching, classes, and community they need to reach career and educational goals. Join us tomorrow in W308 at 11 am! Prior to business school, he worked in several tech companies, both growth venture and more established (LinkedIn). He started Leland as a student and since graduating, has raised $4m+ and nailed product market fit.",
+        "user": "U03LG776WFP",
+        "ts": "1698348907.333309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AOtwq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This week's Pro-Sem for entrepreneurship is with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/john-koelliker\/",
+                                "text": "John Koelliker"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". He is the founder+CEO of Leland, a marketplace for ambitious people to access the coaching, classes, and community they need to reach career and educational goals. Join us tomorrow in W308 at 11 am! Prior to business school, he worked in several tech companies, both growth venture and more established (LinkedIn). He started Leland as a student and since graduating, has raised $4m+ and nailed product market fit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "ab1623974cd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-09\/4767396297015_ab1623974cd0a9d234d2_72.jpg",
+            "first_name": "Hunter",
+            "real_name": "Hunter Schenewark",
+            "display_name": "Hunter Schenewark",
+            "team": "T0ZBAEL59",
+            "name": "hunterschenewark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LG7BV35K",
+                    "U03NW11HA9H"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U03PKR5GQUQ",
+                    "U05A7HE11LP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

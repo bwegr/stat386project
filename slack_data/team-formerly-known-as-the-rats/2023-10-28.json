@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "B6783DB5-9BA4-40CB-ACDB-27835A382A30",
+        "type": "message",
+        "text": "Playing army ",
+        "user": "U03LK551XFU",
+        "ts": "1698546807.128629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+hq0o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Playing army "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

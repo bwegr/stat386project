@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "D363958A-190C-405D-8DD7-3D7E98AF3212",
+        "type": "message",
+        "text": ":large_blue_diamond: Final reminder that the Blue Lounge door code will be changing! We’re going to move that change up to *today at 3:30pm.*\n\n*20234* will be the new door code :closed_lock_with_key:",
+        "user": "U03LK533VR8",
+        "ts": "1698337283.488259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "voxX6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "large_blue_diamond",
+                                "unicode": "1f537"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Final reminder that the Blue Lounge door code will be changing! We’re going to move that change up to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "today at 3:30pm.",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "20234 ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "will be the new door code "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "closed_lock_with_key",
+                                "unicode": "1f510"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c99d68a0715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3713244393605_c99d68a0715f1985730b_72.jpg",
+            "first_name": "Jared",
+            "real_name": "Jared Dyer",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "dyer.jaredj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U03NW11JH19",
+                    "U03L4GUGBF1",
+                    "U03LK39PKRR",
+                    "U03LXQCJA81"
+                ],
+                "count": 4
+            },
+            {
+                "name": "hat-tip",
+                "users": [
+                    "U03NW11JH19"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bandit",
+                "users": [
+                    "U03NW11JH19"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "1b56a077-795b-43c5-a30d-48dc71e53844",
+        "type": "message",
+        "text": "Are there TA office hours today?",
+        "user": "U05B0NFT057",
+        "ts": "1697734765.109289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eFrI0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are there TA office hours today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b4fae223f474",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5821020410403_b4fae223f47431494eed_72.jpg",
+            "first_name": "Ashley",
+            "real_name": "Ashley Southard",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "asouthar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

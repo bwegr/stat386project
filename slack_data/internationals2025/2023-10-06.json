@@ -1,0 +1,104 @@
+[
+    {
+        "type": "message",
+        "text": "For anyone looking to connect with Dell, Austin has some great information.  ",
+        "user": "U03PKR5881E",
+        "ts": "1696609959.333389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZCk\/i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For anyone looking to connect with Dell, Austin has some great information"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1696559532.660739",
+                "author_id": "U03LXQE14NM",
+                "channel_id": "CKZ3F37N3",
+                "channel_team": "T0ZBAEL59",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T0ZBAEL59",
+                        "channel": "CKZ3F37N3",
+                        "ts": "1696559532.660739",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "GD6kF",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Hey first years!  I interned at Dell last year, but my internship did not come from on campus recruiting.  I interned with Dell Technologies Services (DTS) which doesn't recruit on campus, but does recruit MBA and graduate level interns.  I was talking with some people in DTS HR and they sent me some QR codes for internships in DTS.  There are some business, analytics, and data science MBA\/graduate level internships.  Scan the QR codes and apply if you are interested!"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/byumba.slack.com\/archives\/CKZ3F37N3\/p1696559532660739",
+                "is_share": true,
+                "fallback": "[October 5th, 2023 8:32 PM] schofieldda: Hey first years!  I interned at Dell last year, but my internship did not come from on campus recruiting.  I interned with Dell Technologies Services (DTS) which doesn't recruit on campus, but does recruit MBA and graduate level interns.  I was talking with some people in DTS HR and they sent me some QR codes for internships in DTS.  There are some business, analytics, and data science MBA\/graduate level internships.  Scan the QR codes and apply if you are interested!",
+                "text": "Hey first years!  I interned at Dell last year, but my internship did not come from on campus recruiting.  I interned with Dell Technologies Services (DTS) which doesn't recruit on campus, but does recruit MBA and graduate level interns.  I was talking with some people in DTS HR and they sent me some QR codes for internships in DTS.  There are some business, analytics, and data science MBA\/graduate level internships.  Scan the QR codes and apply if you are interested!",
+                "author_name": "Austin Schofield",
+                "author_link": "https:\/\/byumba.slack.com\/team\/U03LXQE14NM",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_48.jpg",
+                "author_subname": "Austin Schofield",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LMGS73J8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

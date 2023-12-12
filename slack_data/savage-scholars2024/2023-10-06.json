@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "C73247C4-5EDB-4D3F-BFB3-25AF06E265BC",
+        "type": "message",
+        "text": "Does anyone know how much work the winter semester of savage scholars is? ",
+        "user": "U03LK39LQ2F",
+        "ts": "1696579965.732169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TpP+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone know how much work the winter semester of savage scholars is? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "127e7339b511",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4045053911267_127e7339b511c9e7bfca_72.png",
+            "first_name": "Ashli",
+            "real_name": "Ashli Asay",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ashliasay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696579965.732169",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696602459.274919",
+        "reply_users": [
+            "U03LK551XFU"
+        ],
+        "replies": [
+            {
+                "user": "U03LK551XFU",
+                "ts": "1696602459.274919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "74636BBB-2687-4561-BD3B-E6974723832B",
+        "type": "message",
+        "text": "We will have 5 projects like this semester. Probably depends on the projects. I imagine it would be similar to this semester as far as work load. ",
+        "user": "U03LK551XFU",
+        "ts": "1696602459.274919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kxomN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We will have 5 projects like this semester. Probably depends on the projects. I imagine it would be similar to this semester as far as work load. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LK551XFU",
+            "ts": "1696602589.000000"
+        },
+        "thread_ts": "1696579965.732169",
+        "parent_user_id": "U03LK39LQ2F"
+    }
+]

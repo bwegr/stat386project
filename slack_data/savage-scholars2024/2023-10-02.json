@@ -1,0 +1,283 @@
+[
+    {
+        "client_msg_id": "0812a3a9-77f2-4a10-965f-0190f1e416a7",
+        "type": "message",
+        "text": "Food sign up for Savage BBQ &amp; Potluck this Thursday, Oct 5 @ 6pm (We are providing the meat :slightly_smiling_face: ) It will be at 418 E Parkview Cir Vineyard, UT, United States @@channel <https:\/\/docs.google.com\/spreadsheets\/d\/1WHrbzIjs4JRBdoVBIpaK_MYPLwZ9rvf-NVTZk-DNcvQ\/edit?usp=sharing|https:\/\/docs.google.com\/spreadsheets\/d\/1WHrbzIjs4JRBdoVBIpaK_MYPLwZ9rvf-NVTZk-DNcvQ\/edit?usp=sharing>",
+        "user": "U03LMGXA3FW",
+        "ts": "1696258801.705389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pIpTM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Food sign up for Savage BBQ & Potluck this Thursday, Oct 5 @ 6pm (We are providing the meat "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) It will be at 418 E Parkview Cir Vineyard, UT, United States "
+                            },
+                            {
+                                "type": "text",
+                                "text": "@@channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1WHrbzIjs4JRBdoVBIpaK_MYPLwZ9rvf-NVTZk-DNcvQ\/edit?usp=sharing",
+                                "text": "https:\/\/docs.google.com\/spreadsheets\/d\/1WHrbzIjs4JRBdoVBIpaK_MYPLwZ9rvf-NVTZk-DNcvQ\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LK551XFU",
+                    "U03L4GN325D",
+                    "U03LCGQP0LW",
+                    "U03LXQCJA81",
+                    "U03LG779KGD"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A809CB22-9CD6-435C-9E4F-E09DC642C531",
+        "type": "message",
+        "text": "Done :)",
+        "user": "U03LMGX6W1J",
+        "ts": "1696259500.011399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uet5O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "af8409e31c70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-20\/5146521465492_af8409e31c707fc84cb1_72.jpg",
+            "first_name": "Gabriel",
+            "real_name": "Gabriel Henrique Zacheu",
+            "display_name": "Gabriel Zacheu",
+            "team": "T0ZBAEL59",
+            "name": "gabrielzacheu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LMGXA3FW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a84c8a1-ffd6-42b6-a172-c7784b4523b7",
+        "type": "message",
+        "text": "I'll be there as well",
+        "user": "U03LK39EPB5",
+        "ts": "1696269172.373659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LTrvw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll be there as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696011825.238829",
+        "parent_user_id": "U03LK551XFU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LK551XFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2f40f6f-4831-4367-ad72-7c676ef32437",
+        "type": "message",
+        "text": "<https:\/\/isp.byu.edu\/>\n\nOn the Savage trip application when you click on this link and then the trip there is information to fill out about your passport (step 3). Please fill this out if you haven't. Let me know if you have any question's or concerns.",
+        "user": "U03LK551XFU",
+        "ts": "1696272828.820059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ouvMG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/isp.byu.edu\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOn the Savage trip application when you click on this link and then the trip there is information to fill out about your passport (step 3). Please fill this out if you haven't. Let me know if you have any question's or concerns."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/isp.byu.edu\/",
+                "service_icon": "https:\/\/cdn.byu.edu\/shared-icons\/latest\/favicons\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/isp.byu.edu\/",
+                "fallback": "ISP",
+                "text": "ISP UI for applicants",
+                "title": "ISP",
+                "title_link": "https:\/\/isp.byu.edu\/",
+                "service_name": "isp.byu.edu"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb8bcbb5-6c9e-4bae-b64b-a60cc24ec32c",
+        "type": "message",
+        "text": "After talking with Scott and Barry we decided that keeping track of our hours would be beneficial for the program overall and for who we are consulting. Can each team member start keeping track of hours and back track on the previous weeks? I wont use this to compare each team or projects. This is just a way to measure the amount of service hours we have given.",
+        "user": "U03LK551XFU",
+        "ts": "1696274942.972539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LYP6a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "After talking with Scott and Barry we decided that keeping track of our hours would be beneficial for the program overall and for who we are consulting. Can each team member start keeping track of hours and back track on the previous weeks? I wont use this to compare each team or projects. This is just a way to measure the amount of service hours we have given."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LMGX6W1J",
+                    "U03LMGTRFN0",
+                    "U03LXQFQS3B",
+                    "U03LG7C9P8V"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U03LK385119"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "8784879c-d918-464f-af0e-7643c0d06cc0",
+        "type": "message",
+        "text": "Question about financial modeling course: What is the second half of the class (part B) focused on? I know that part A is focused on valuations. Does anyone have an opinion about the value of taking both vs just the first half?",
+        "user": "U05B0NFJ1S5",
+        "ts": "1698089465.272159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t1ug0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Question about financial modeling course: What is the second half of the class (part B) focused on? I know that part A is focused on valuations. Does anyone have an opinion about the value of taking both vs just the first half?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "95bddd7b2943",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5813565093446_95bddd7b2943626dbda2_72.jpg",
+            "first_name": "Ben",
+            "real_name": "Ben Crockett",
+            "display_name": "Ben Crockett",
+            "team": "T0ZBAEL59",
+            "name": "bencrockett3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698089465.272159",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698089510.833139",
+        "reply_users": [
+            "U03SZAWQBM4"
+        ],
+        "replies": [
+            {
+                "user": "U03SZAWQBM4",
+                "ts": "1698089510.833139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "534c55b0-7ef5-410b-b981-4de4fc278c20",
+        "type": "message",
+        "text": "Take the whole thing. It's meant to be a single class. Part A is building the Operating model. Part B uses the operating model to value it using LBO, merger model, comps, etc",
+        "user": "U03SZAWQBM4",
+        "ts": "1698089510.833139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iuZOy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Take the whole thing. It's meant to be a single class. Part A is building the Operating model. Part B uses the operating model to value it using LBO, merger model, comps, etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698089465.272159",
+        "parent_user_id": "U05B0NFJ1S5"
+    }
+]

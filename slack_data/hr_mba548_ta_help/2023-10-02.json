@@ -1,0 +1,337 @@
+[
+    {
+        "client_msg_id": "E8A1EDB4-D2A5-4CEB-9BAD-75E77F25F6C8",
+        "type": "message",
+        "text": "Is there more information about the Client Contact Info &amp; Topic assignment that’s due Thursday?",
+        "user": "U05AN0097RR",
+        "ts": "1696289092.847169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7+yrz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there more information about the Client Contact Info & Topic assignment that’s due Thursday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "46b881f493b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-12\/5889612046788_46b881f493b3c09be337_72.png",
+            "first_name": "Paula",
+            "real_name": "Paula",
+            "display_name": "Paula",
+            "team": "T0ZBAEL59",
+            "name": "kremserpaula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696289092.847169",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696292283.831519",
+        "reply_users": [
+            "U03LXQCJA81"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQCJA81",
+                "ts": "1696292283.831519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Here's what's listed in the Syllabus:\n\n\"Project Milestone 3: Find an Organization and Identify an HR Process to Analyze\n\nAfter getting to know each other and establishing the working rules of the team, you need to identify an organization that you are interested in working with, as well as an HR-related process that they would like your help analyzing. As a team, create a list of 5-6 organizations that would be intriguing to work with. Your “pitch” to each organization might go something like this:\n\n“My name is _________ and I am an MBA student at BYU. I’m taking a Human Resource Management class and we have been asked to conduct a service consulting project to help us learn how to analyze and improve HR processes in organizations. Could we meet to discuss some of the HR processes in your organization and how we might be able to help you analyze and improve your HR processes?”\n\nWhen you meet with a representative from an organization, help them understand the process and timing of the project and try to find an appropriate issue they are wrestling with, or would like to wrestle with, related to the concepts we will study in class (recruiting, reward systems\/retention, training, onboarding, etc.).\n\nOnce you have identified an issue, turn it into a research question that includes “how” and “what” and could be answered through collecting data. Example questions might include:\n• How effective is the organization’s current approach to recruiting and what could be done to make it better?\n• How effective is the organization’s current approach to onboarding and what could be done to make it better?\nYou will often have to approach more than one organization, so start early trying to identify your organization. You will also have a much more enjoyable experience if you pick an organization that you are excited about rather than one that is merely convenient! When you have identified an organization and a topic, upload the name of the organization, your client contact, and the question you are planning to research on Canvas so we can make sure you are heading down the right path.\"\n\nIs this helpful? Or are you looking for additional clarification?",
+        "user": "U03LXQCJA81",
+        "ts": "1696292283.831519",
+        "thread_ts": "1696289092.847169",
+        "root": {
+            "client_msg_id": "E8A1EDB4-D2A5-4CEB-9BAD-75E77F25F6C8",
+            "type": "message",
+            "text": "Is there more information about the Client Contact Info &amp; Topic assignment that’s due Thursday?",
+            "user": "U05AN0097RR",
+            "ts": "1696289092.847169",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7+yrz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Is there more information about the Client Contact Info & Topic assignment that’s due Thursday?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0ZBAEL59",
+            "thread_ts": "1696289092.847169",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1696292283.831519",
+            "reply_users": [
+                "U03LXQCJA81"
+            ],
+            "replies": [
+                {
+                    "user": "U03LXQCJA81",
+                    "ts": "1696292283.831519"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qJJy5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's what's listed in the Syllabus:\n\n\"Project Milestone 3: Find an Organization and Identify an HR Process to Analyze\n\nAfter getting to know each other and establishing the working rules of the team, you need to identify an organization that you are interested in working with, as well as an HR-related process that they would like your help analyzing. As a team, create a list of 5-6 organizations that would be intriguing to work with. Your “pitch” to each organization might go something like this:\n\n“My name is _________ and I am an MBA student at BYU. I’m taking a Human Resource Management class and we have been asked to conduct a service consulting project to help us learn how to analyze and improve HR processes in organizations. Could we meet to discuss some of the HR processes in your organization and how we might be able to help you analyze and improve your HR processes?”\n\nWhen you meet with a representative from an organization, help them understand the process and timing of the project and try to find an appropriate issue they are wrestling with, or would like to wrestle with, related to the concepts we will study in class (recruiting, reward systems\/retention, training, onboarding, etc.).\n\nOnce you have identified an issue, turn it into a research question that includes “how” and “what” and could be answered through collecting data. Example questions might include:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How effective is the organization’s current approach to recruiting and what could be done to make it better?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How effective is the organization’s current approach to onboarding and what could be done to make it better?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nYou will often have to approach more than one organization, so start early trying to identify your organization. You will also have a much more enjoyable experience if you pick an organization that you are excited about rather than one that is merely convenient! When you have identified an organization and a topic, upload the name of the organization, your client contact, and the question you are planning to research on Canvas so we can make sure you are heading down the right path.\"\n\nIs this helpful? Or are you looking for additional clarification?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "dcc86706-82a3-4ba3-a8cc-04233bf21611"
+    },
+    {
+        "client_msg_id": "13BA89EF-DCEA-4BC6-9029-C3A412625E9F",
+        "type": "message",
+        "text": "This is very helpful, thank you! I looked at the syllabus in canvas and couldn’t find this. Much appreciated!",
+        "user": "U05AN0097RR",
+        "ts": "1696292563.491169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QgTsb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is very helpful"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I looked at the syllabus in canvas and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "couldn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " find this"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Much appreciated"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "46b881f493b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-12\/5889612046788_46b881f493b3c09be337_72.png",
+            "first_name": "Paula",
+            "real_name": "Paula",
+            "display_name": "Paula",
+            "team": "T0ZBAEL59",
+            "name": "kremserpaula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696292563.491169",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696303336.142779",
+        "reply_users": [
+            "U03LXQCJA81"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQCJA81",
+                "ts": "1696303336.142779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "You might be having the same problem that I did – the syllabus tab doesn't really have anything on it :sweat_smile:  But, if you click on the syllabus link from the home page, that should be what you're looking for!",
+        "files": [
+            {
+                "id": "F05UEQX5DPH",
+                "created": 1696303333,
+                "timestamp": 1696303333,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LXQCJA81",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 401594,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05UEQX5DPH\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05UEQX5DPH\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UEQX5DPH-e37ffd5174\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UEQX5DPH-e37ffd5174\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UEQX5DPH-e37ffd5174\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 277,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UEQX5DPH-e37ffd5174\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 370,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UEQX5DPH-e37ffd5174\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UEQX5DPH-e37ffd5174\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 554,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UEQX5DPH-e37ffd5174\/image_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 616,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UEQX5DPH-e37ffd5174\/image_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 739,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05UEQX5DPH-e37ffd5174\/image_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 788,
+                "original_w": 1590,
+                "original_h": 1224,
+                "thumb_tiny": "AwAkADC0bJCSS7\/nSfYk\/wCej\/nVrr1pNq\/3R+VO4rFU2aDo7n8RQLNO7uPxFNvZXikRYwoBHOVqu9zPGcMEB\/3aLjsW\/sSf89H\/ADpVs0BB3vwc9amVVKglRkj0p\/Si4rBRSbh6ijcPUUhlK\/KrIjMcYFVbkhWAPcZq9dWwuHVvMC7R6ZqGSx812YzAZ9v\/AK9AF5PuL9BTqapCqBuHApdw9RQBGWIJHpR5je1I33j9aSmId5ho8w02igB3mN7UBjkD1NNpV+8PrQB\/\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LXQCJA81\/F05UEQX5DPH\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05UEQX5DPH-2da93be1dc",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LXQCJA81",
+        "display_as_bot": false,
+        "ts": "1696303336.142779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2RPu0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You might be having the same problem that I did – the syllabus tab doesn't really have anything on it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  But, if you click on the syllabus link from the home page, that should be what you're looking for!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6756f83f-1c05-494f-8976-c02c54bf2743",
+        "thread_ts": "1696292563.491169",
+        "parent_user_id": "U05AN0097RR"
+    }
+]

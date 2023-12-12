@@ -1,0 +1,270 @@
+[
+    {
+        "client_msg_id": "a9c23d35-3a46-4cfc-879e-71e33980b183",
+        "type": "message",
+        "text": "Si no es en \"Central\" no quiero nada :laughing:",
+        "user": "U03M8T51VUY",
+        "ts": "1698679940.723299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7LRm3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si no es en \"Central\" no quiero nada "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "916de150-6fac-484c-9fe4-01f27224b591",
+        "type": "message",
+        "text": "Los comentarios se ven buenos, pero hay locales que pagan para tener los review positivos, igual las fotos del menu se ven bastante bien",
+        "user": "U03M8T51VUY",
+        "ts": "1698680011.992939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ZUvw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Los comentarios se ven buenos, pero hay locales que pagan para tener los review positivos, igual las fotos del menu se ven bastante bien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5332E5A7-A5B6-4A22-BCD3-E4D53C5F0111",
+        "type": "message",
+        "text": "Soy peruano pero no he ido a ese restaurante :sweat_smile: ",
+        "user": "U022KBV79MH",
+        "ts": "1698684567.483039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4c8nB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Soy peruano pero no he ido a ese restaurante "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "af76c6f7624c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-06\/2378897901648_af76c6f7624c14f1ff75_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Navarro",
+            "display_name": "Alex",
+            "team": "T0ZBAEL59",
+            "name": "alexander.navarro56",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7348ab49-da85-48a8-b86c-776d08f32707",
+        "type": "message",
+        "text": "hahahahahah nooo. <@U022KBV79MH>, tienes algún restaurant de comida peruana preferido en Utah?",
+        "user": "U03LMGXDFB6",
+        "ts": "1698691405.775609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2zaf0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hahahahahah nooo. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022KBV79MH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", tienes algún restaurant de comida peruana preferido en Utah?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5C589C99-1F19-4926-B3AD-F6CA60263EEA",
+        "type": "message",
+        "text": "Yo voy a uno en Orem se llama Mixturas fusión. La comida es buena y no muy cara ",
+        "user": "U022KBV79MH",
+        "ts": "1698692193.781609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QAbVK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo voy a uno en Orem se llama Mixturas fusión. La comida es buena y no muy cara "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "af76c6f7624c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-06\/2378897901648_af76c6f7624c14f1ff75_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Navarro",
+            "display_name": "Alex",
+            "team": "T0ZBAEL59",
+            "name": "alexander.navarro56",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LMGXDFB6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "225442f3-76e7-4e43-911d-f9b1680def7a",
+        "type": "message",
+        "text": "Buenísimo! Muchas gracias! que con un hermano del barrio queríamos ir a comer a un buen restaurante de comida Peruana",
+        "user": "U03LMGXDFB6",
+        "ts": "1698693548.031889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xWAA7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Buenísimo! Muchas gracias! que con un hermano del barrio queríamos ir a comer a un buen restaurante de comida Peruana"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a69a8ef070ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-25\/5002998094422_a69a8ef070ef27af0ae4_72.png",
+            "first_name": "Fabian",
+            "real_name": "Fabian Serradell",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "fserrade",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U022KBV79MH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

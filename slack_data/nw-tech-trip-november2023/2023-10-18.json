@@ -1,0 +1,190 @@
+[
+    {
+        "client_msg_id": "ae26ebee-cd4c-4d34-9259-ee45b8d6e81b",
+        "type": "message",
+        "text": "<@U05BBQG8FTJ> did you have any suggestions for accommodation\/transportation. <@U05AK5HTE77> where will you sleep? <@U05GZPFH7SA> made any plans yet? If you're all willing, we could rent a car together, if not to Seattle, then maybe IN Seattle. It may not even be necessary; I have not looked closely at the distances.",
+        "user": "U05AN3TCTSN",
+        "ts": "1697670017.626479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5FS6r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQG8FTJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " did you have any suggestions for accommodation\/transportation. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AK5HTE77"
+                            },
+                            {
+                                "type": "text",
+                                "text": " where will you sleep? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05GZPFH7SA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " made any plans yet? If you're all willing, we could rent a car together, if not to Seattle, then maybe IN Seattle. It may not even be necessary; I have not looked closely at the distances."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697559788.471609",
+        "parent_user_id": "U05GZPFH7SA"
+    },
+    {
+        "client_msg_id": "D376CF48-45B4-4576-8634-84F027A53D24",
+        "type": "message",
+        "text": "<@U05AN3TCTSN> sorry about that. I think I’m actually going to go to the Dallas trip ",
+        "user": "U05GZPFH7SA",
+        "ts": "1697674192.330389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NxqDI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05AN3TCTSN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sorry about that"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " actually going to go to the Dallas trip "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2b948b9ac7ab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-24\/5793748341381_2b948b9ac7ab18f4c292_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Johnson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "tylerkennethjohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697559788.471609",
+        "parent_user_id": "U05GZPFH7SA"
+    },
+    {
+        "client_msg_id": "17688DD5-FFA5-4ED2-8337-87D8F734B297",
+        "type": "message",
+        "text": "<@U05AN3TCTSN> my wife is from the area so she’s coming too and we’ll be at hotels or family’s house",
+        "user": "U05AK5HTE77",
+        "ts": "1697675114.637889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8hzff",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05AN3TCTSN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " my wife is from the area so "
+                            },
+                            {
+                                "type": "text",
+                                "text": "she’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " coming too and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "we’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be at hotels or "
+                            },
+                            {
+                                "type": "text",
+                                "text": "family’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " house"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "47304120784f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5985056791331_47304120784f37c3d79b_72.png",
+            "first_name": "Erik",
+            "real_name": "Erik Christiansen",
+            "display_name": "Erik Christiansen",
+            "team": "T0ZBAEL59",
+            "name": "erik_christiansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697559788.471609",
+        "parent_user_id": "U05GZPFH7SA"
+    }
+]

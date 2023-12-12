@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "f06845a6-f1e3-4321-90a1-d05fa12eba51",
+        "type": "message",
+        "text": "Dear Friends\n\nPaccar is coming to campus today. This company does sponsor for some of their roles. This is a company that design and manufacture premium trucks (which must be a plus if you're into country music), located in Bellevue (WA).\nThere is a chance this is more focused on Supply Chain (as they are also here for the supply chain fair), but it is a big company with many MBA roles.\n\nFrom 6 to 7pm - Tanner Building Room W240.",
+        "user": "U03LMGSGBQC",
+        "ts": "1696441217.165699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CQrKe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear Friends\n\nPaccar is coming to campus today. This company does sponsor for some of their roles. This is a company that design and manufacture premium trucks (which must be a plus if you're into country music), located in Bellevue (WA).\nThere is a chance this is more focused on Supply Chain (as they are also here for the supply chain fair), but it is a big company with many MBA roles.\n\nFrom 6 to 7pm - Tanner Building Room W240."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "76a8dfc4bba0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-28\/4574292020339_76a8dfc4bba0c824500d_72.jpg",
+            "first_name": "Caio",
+            "real_name": "Caio Andrezzo",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andrezzocorp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "client_msg_id": "dae24f70-fdad-48b8-90cd-f14f8347451f",
+        "type": "message",
+        "text": "Hit the basketball emoji below if you're playin ball on Friday morning at 6:15 am! <!here>",
+        "user": "U03M8TCTA6L",
+        "ts": "1697115600.222389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6jsCc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hit the basketball emoji below if you're playin ball on Friday morning at 6:15 am! "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697115600.222389",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697166249.460219",
+        "reply_users": [
+            "U03M8TCTA6L"
+        ],
+        "replies": [
+            {
+                "user": "U03M8TCTA6L",
+                "ts": "1697166249.460219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U03M8TCTA6L",
+                    "U03LXQCJA81",
+                    "U03LG75NYSZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5663bfb8-1717-4314-8640-a47b5e8e5bdd",
+        "type": "message",
+        "text": "<!here> ^^^^",
+        "user": "U03M8TCTA6L",
+        "ts": "1697146389.543159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nzju0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "47BEF00C-0582-4F38-97D5-262084977124",
+        "type": "message",
+        "text": "I can’t tomorrow morning but I’d like to on other Friday mornings!",
+        "user": "U03LXQCEVKK",
+        "ts": "1697148971.202629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ewQXU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can’t tomorrow morning but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " like to on other Friday mornings!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "87d110ad-1687-4591-b05d-2587457bbb2e",
+        "type": "message",
+        "text": "There aren't enough to get a game going. Let's try again next week!",
+        "user": "U03M8TCTA6L",
+        "ts": "1697166249.460219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w5Ye9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There aren't enough to get a game going. Let's try again next week!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697115600.222389",
+        "parent_user_id": "U03M8TCTA6L",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U05B0NHGDG9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

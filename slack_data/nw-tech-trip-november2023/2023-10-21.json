@@ -1,0 +1,2624 @@
+[
+    {
+        "client_msg_id": "4276E468-7F24-4914-A881-F272BE1EAC6C",
+        "type": "message",
+        "text": "I’d be interested.  Not sure if I’ll be able to join the call but would be interested in joining housing",
+        "user": "U03LXQE14NM",
+        "ts": "1697899000.413299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j\/KHP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be interested.  Not sure if "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be able to join the call but would be interested in joining housing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc176dbcf62e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_72.jpg",
+            "first_name": "Austin",
+            "real_name": "Austin Schofield",
+            "display_name": "Austin Schofield",
+            "team": "T0ZBAEL59",
+            "name": "schofieldda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697857675.816439",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "9b62dcfe-894b-432b-8e6e-666bfd0d274c",
+        "type": "message",
+        "text": "Here's a place for 16 people in portland. $705 total $44 per person if split 16 ways, $47 - 15 ways, $50 - 14 ways, $54 - 13 ways etc. <https:\/\/www.airbnb.com\/rooms\/41741290?adults=16&amp;check_in=2023-11-07&amp;check_out=2023-11-08&amp;source_impression_id=p3_1697917446_xm7h9626Irb4UQV%2B&amp;previous_page_section_name=1000&amp;federated_search_id=f9d4ec8a-a2ae-4345-b6a4-2bca7f575044|https:\/\/www.airbnb.com\/rooms\/41741290?adults=16&amp;check_in=2023-11-07&amp;check_out=2023-1[…]1000&amp;federated_search_id=f9d4ec8a-a2ae-4345-b6a4-2bca7f575044>",
+        "user": "U05BBQG8FTJ",
+        "ts": "1697917667.191459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vgmNR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's a place for 16 people in portland. $705 total $44 per person if split 16 ways, $47 - 15 ways, $50 - 14 ways, $54 - 13 ways etc. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.airbnb.com\/rooms\/41741290?adults=16&check_in=2023-11-07&check_out=2023-11-08&source_impression_id=p3_1697917446_xm7h9626Irb4UQV%2B&previous_page_section_name=1000&federated_search_id=f9d4ec8a-a2ae-4345-b6a4-2bca7f575044",
+                                "text": "https:\/\/www.airbnb.com\/rooms\/41741290?adults=16&check_in=2023-11-07&check_out=2023-1[…]1000&federated_search_id=f9d4ec8a-a2ae-4345-b6a4-2bca7f575044"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.airbnb.com\/rooms\/41741290?adults=16&check_in=2023-11-07&check_out=2023-11-08&source_impression_id=p3_1697917446_xm7h9626Irb4UQV%2B&previous_page_section_name=1000&federated_search_id=f9d4ec8a-a2ae-4345-b6a4-2bca7f575044",
+                "image_url": "https:\/\/a0.muscache.com\/im\/pictures\/36e73641-4bd3-4af2-b50f-bcbb0ac976ff.jpg?im_w=720",
+                "image_width": 720,
+                "image_height": 480,
+                "image_bytes": 39343,
+                "service_icon": "https:\/\/a0.muscache.com\/airbnb\/static\/icons\/apple-touch-icon-76x76-3b313d93b1b5823293524b9764352ac9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.airbnb.com\/rooms\/41741290?adults=16&amp;check_in=2023-11-07&amp;check_out=2023-11-08&amp;source_impression_id=p3_1697917446_xm7h9626Irb4UQV%2B&amp;previous_page_section_name=1000&amp;federated_search_id=f9d4ec8a-a2ae-4345-b6a4-2bca7f575044",
+                "fallback": "Airbnb: Boutique hotel in Portland · 1 bedroom · 16 beds · 12 baths",
+                "text": "KEX Portland-Sixteen Bed Room",
+                "title": "Boutique hotel in Portland · 1 bedroom · 16 beds · 12 baths",
+                "title_link": "https:\/\/www.airbnb.com\/rooms\/41741290?adults=16&check_in=2023-11-07&check_out=2023-11-08&source_impression_id=p3_1697917446_xm7h9626Irb4UQV%2B&previous_page_section_name=1000&federated_search_id=f9d4ec8a-a2ae-4345-b6a4-2bca7f575044",
+                "service_name": "Airbnb"
+            }
+        ],
+        "thread_ts": "1697917667.191459",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697920174.996099",
+        "reply_users": [
+            "U05AMVCTLRZ",
+            "U05AQGJMMT6"
+        ],
+        "replies": [
+            {
+                "user": "U05AMVCTLRZ",
+                "ts": "1697917761.548549"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1697920174.996099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "44fd25fb-e9d1-4bcf-84e1-74d060fbdbf7",
+        "type": "message",
+        "text": "I'd be up for it!",
+        "user": "U05AMVCTLRZ",
+        "ts": "1697917761.548549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U23Kc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd be up for it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21cea2f50db5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5357074088198_21cea2f50db509542cea_72.png",
+            "first_name": "Travis",
+            "real_name": "Travis Crosby",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "crosbytrc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697917667.191459",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "parrotfast",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b80f7718-8b9e-4c22-ac2f-0856866f6abb",
+        "type": "message",
+        "text": "This place is about 30 minutes from downtown seattle and 15 minutes from the airport. $131 each if we split 16 ways. <https:\/\/www.airbnb.com\/rooms\/40411891?adults=16&check_in=2023-11-08&check_out=2023-11-11&source_impression_id=p3_1697917999_3eevN8u1zN8YkXUX&previous_page_section_name=1000&federated_search_id=d07fe3f6-efc6-4ab2-8ff6-3d1a71b3d62c|https:\/\/www.airbnb.com\/rooms\/40411891?adults=16&check_in=2023-11-08&check_out=2023-1[…]1000&federated_search_id=d07fe3f6-efc6-4ab2-8ff6-3d1a71b3d62c>",
+        "user": "U05BBQG8FTJ",
+        "ts": "1697918092.099339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w96F3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This place is about 30 minutes from downtown seattle and 15 minutes from the airport. $131 each if we split 16 ways. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.airbnb.com\/rooms\/40411891?adults=16&check_in=2023-11-08&check_out=2023-11-11&source_impression_id=p3_1697917999_3eevN8u1zN8YkXUX&previous_page_section_name=1000&federated_search_id=d07fe3f6-efc6-4ab2-8ff6-3d1a71b3d62c",
+                                "text": "https:\/\/www.airbnb.com\/rooms\/40411891?adults=16&check_in=2023-11-08&check_out=2023-1[…]1000&federated_search_id=d07fe3f6-efc6-4ab2-8ff6-3d1a71b3d62c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05BBQG8FTJ",
+            "ts": "1697918126.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.airbnb.com\/rooms\/40411891?adults=16&check_in=2023-11-08&check_out=2023-11-11&source_impression_id=p3_1697917999_3eevN8u1zN8YkXUX&previous_page_section_name=1000&federated_search_id=d07fe3f6-efc6-4ab2-8ff6-3d1a71b3d62c",
+                "image_url": "https:\/\/a0.muscache.com\/im\/pictures\/miso\/Hosting-40411891\/original\/edd7f302-03e3-4ca0-9713-fddfa3bc0a15.jpeg?im_w=720",
+                "image_width": 720,
+                "image_height": 480,
+                "image_bytes": 55671,
+                "service_icon": "https:\/\/a0.muscache.com\/airbnb\/static\/icons\/apple-touch-icon-76x76-3b313d93b1b5823293524b9764352ac9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.airbnb.com\/rooms\/40411891?adults=16&amp;check_in=2023-11-08&amp;check_out=2023-11-11&amp;source_impression_id=p3_1697917999_3eevN8u1zN8YkXUX&amp;previous_page_section_name=1000&amp;federated_search_id=d07fe3f6-efc6-4ab2-8ff6-3d1a71b3d62c",
+                "fallback": "Airbnb: Home in Seattle · ★4.77 · 7 bedrooms · 16 beds · 4 baths",
+                "text": "Panoramic Lake View 3800+ sqft House in Oasis",
+                "title": "Home in Seattle · ★4.77 · 7 bedrooms · 16 beds · 4 baths",
+                "title_link": "https:\/\/www.airbnb.com\/rooms\/40411891?adults=16&check_in=2023-11-08&check_out=2023-11-11&source_impression_id=p3_1697917999_3eevN8u1zN8YkXUX&previous_page_section_name=1000&federated_search_id=d07fe3f6-efc6-4ab2-8ff6-3d1a71b3d62c",
+                "service_name": "Airbnb"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c90adb43-6302-4019-ac3e-774ac0d35861",
+        "type": "message",
+        "text": "If we can get 16, total is $175 for each person. Comment below to let me know you're in. I would like to book tonight. Make sure and let those know who are interested to get on here and confirm. <@U03M8T6EJ8G> <@U05BBQEGSL8> <@U05AN02C0E7> <@U05AQGJMMT6> <@U05AMVCTLRZ> <@U05AQGJ30BE> <@U05B0NHGDG9> <@U03LXQE14NM> <@U05AN3TCTSN> <@U05GZPF8ZGW>",
+        "user": "U05BBQG8FTJ",
+        "ts": "1697918796.779359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ROofQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If we can get 16, total is $175 for each person. Comment below to let me know you're in. I would like to book tonight. Make sure and let those know who are interested to get on here and confirm. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03M8T6EJ8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQEGSL8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AN02C0E7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AQGJMMT6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AMVCTLRZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AQGJ30BE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05B0NHGDG9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LXQE14NM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AN3TCTSN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05GZPF8ZGW"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "reply_count": 27,
+        "reply_users_count": 13,
+        "latest_reply": "1697937944.588279",
+        "reply_users": [
+            "U05BBQEGSL8",
+            "U05AN02C0E7",
+            "U05AMVCTLRZ",
+            "U03LXQE14NM",
+            "U05AN3TCTSN",
+            "U05AFDTJEUW",
+            "U05BBQG8FTJ",
+            "U03M8T6EJ8G",
+            "U05AQGJMMT6",
+            "U05AN3R7398",
+            "U05B0NHGDG9",
+            "U05GZPF8ZGW",
+            "U05A7HD4XE3"
+        ],
+        "replies": [
+            {
+                "user": "U05BBQEGSL8",
+                "ts": "1697918836.347779"
+            },
+            {
+                "user": "U05AN02C0E7",
+                "ts": "1697918858.999449"
+            },
+            {
+                "user": "U05AMVCTLRZ",
+                "ts": "1697918914.393999"
+            },
+            {
+                "user": "U03LXQE14NM",
+                "ts": "1697918923.070759"
+            },
+            {
+                "user": "U05AMVCTLRZ",
+                "ts": "1697918928.932629"
+            },
+            {
+                "user": "U05AN3TCTSN",
+                "ts": "1697918960.651269"
+            },
+            {
+                "user": "U05AFDTJEUW",
+                "ts": "1697918968.102239"
+            },
+            {
+                "user": "U05BBQG8FTJ",
+                "ts": "1697919017.934709"
+            },
+            {
+                "user": "U05AMVCTLRZ",
+                "ts": "1697919088.574189"
+            },
+            {
+                "user": "U05BBQG8FTJ",
+                "ts": "1697919104.221289"
+            },
+            {
+                "user": "U05BBQG8FTJ",
+                "ts": "1697919153.120109"
+            },
+            {
+                "user": "U03M8T6EJ8G",
+                "ts": "1697919599.728689"
+            },
+            {
+                "user": "U05AN3TCTSN",
+                "ts": "1697919772.154349"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1697920141.755189"
+            },
+            {
+                "user": "U05AN3R7398",
+                "ts": "1697920435.989429"
+            },
+            {
+                "user": "U05B0NHGDG9",
+                "ts": "1697920457.490429"
+            },
+            {
+                "user": "U05BBQG8FTJ",
+                "ts": "1697920500.462769"
+            },
+            {
+                "user": "U05AN3R7398",
+                "ts": "1697920624.943749"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1697920659.408079"
+            },
+            {
+                "user": "U05AN3R7398",
+                "ts": "1697920664.380679"
+            },
+            {
+                "user": "U05BBQG8FTJ",
+                "ts": "1697920698.447789"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1697920728.461119"
+            },
+            {
+                "user": "U05AN3R7398",
+                "ts": "1697920734.585719"
+            },
+            {
+                "user": "U05GZPF8ZGW",
+                "ts": "1697920804.147189"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1697921049.394609"
+            },
+            {
+                "user": "U05A7HD4XE3",
+                "ts": "1697934451.368239"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1697937944.588279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "381e28dc-45e8-42d4-9a40-534d2782df58",
+        "type": "message",
+        "text": "Henrique",
+        "user": "U05BBQEGSL8",
+        "ts": "1697918836.347779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9aRNM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Henrique"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7534d1e53ffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-01\/5671255571779_7534d1e53ffa8b4cd432_72.jpg",
+            "first_name": "Henrique",
+            "real_name": "Henrique Diz Diz",
+            "display_name": "Henrique Diz Diz",
+            "team": "T0ZBAEL59",
+            "name": "henriquedizdiz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47b36b45-6721-40dd-b815-36a8556cc8e1",
+        "type": "message",
+        "text": "Julian",
+        "user": "U05AN02C0E7",
+        "ts": "1697918858.999449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dasSl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Julian"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c8a8b5ae6726",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5361571737781_c8a8b5ae6726bf382cce_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Antuña",
+            "display_name": "Julian Antuña",
+            "team": "T0ZBAEL59",
+            "name": "julian.rosario93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3398a41e-7332-489f-90d2-8432a3d020f3",
+        "type": "message",
+        "text": "I'm in, thanks for researching this JJ!",
+        "user": "U05AMVCTLRZ",
+        "ts": "1697918914.393999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1BKkh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm in, thanks for researching this JJ!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21cea2f50db5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5357074088198_21cea2f50db509542cea_72.png",
+            "first_name": "Travis",
+            "real_name": "Travis Crosby",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "crosbytrc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7dd9954-cee4-46e9-a3f3-07721203a120",
+        "type": "message",
+        "text": "I'm in",
+        "user": "U03LXQE14NM",
+        "ts": "1697918923.070759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GODWO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc176dbcf62e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_72.jpg",
+            "first_name": "Austin",
+            "real_name": "Austin Schofield",
+            "display_name": "Austin Schofield",
+            "team": "T0ZBAEL59",
+            "name": "schofieldda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e539c35-37a6-46f3-9472-37d21f9f5ac4",
+        "type": "message",
+        "text": "<@U05AFDTJEUW> You in?",
+        "user": "U05AMVCTLRZ",
+        "ts": "1697918928.932629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yE5Hq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05AFDTJEUW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You in?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21cea2f50db5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5357074088198_21cea2f50db509542cea_72.png",
+            "first_name": "Travis",
+            "real_name": "Travis Crosby",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "crosbytrc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "1eda3d06-a15a-4c2e-9822-612a291dee89",
+        "type": "message",
+        "text": "I'm in. Thanks JJ. Are you looking into transportation as well?",
+        "user": "U05AN3TCTSN",
+        "ts": "1697918960.651269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UJKIJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm in. Thanks JJ. Are you looking into transportation as well?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c5790f75-8861-4496-be0c-c4a93c76009b",
+        "type": "message",
+        "text": "I'm in!",
+        "user": "U05AFDTJEUW",
+        "ts": "1697918968.102239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i7XgK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm in!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "72b4e8495ef2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-18\/5924924451553_72b4e8495ef27fb8d9ff_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Chamberlain",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexander.chamberlain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "105359ec-de32-4474-852f-c4ac05f41bfe",
+        "type": "message",
+        "text": "<@U05AN3TCTSN> Sorry, our car is full. Maybe someone else on here will have room.",
+        "user": "U05BBQG8FTJ",
+        "ts": "1697919017.934709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SwJv3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05AN3TCTSN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sorry, our car is full. Maybe someone else on here will have room."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN3TCTSN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26306705-fe43-4c51-8a01-ff1044d9ac69",
+        "type": "message",
+        "text": "<@U05AN3TCTSN> Maybe we can see how many people are in on this housing situation together, then can divide up into cars after that. If JJ's car is full at 5, then maybe 11 people could split into 2 or 3 cars.",
+        "user": "U05AMVCTLRZ",
+        "ts": "1697919088.574189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a9GpI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05AN3TCTSN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Maybe we can see how many people are in on this housing situation together, then can divide up into cars after that. If JJ's car is full at 5, then maybe 11 people could split into 2 or 3 cars."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21cea2f50db5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5357074088198_21cea2f50db509542cea_72.png",
+            "first_name": "Travis",
+            "real_name": "Travis Crosby",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "crosbytrc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN3TCTSN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9e4102b-d397-4ef4-8dc4-4a8bacf33639",
+        "type": "message",
+        "text": "we're full at 7",
+        "user": "U05BBQG8FTJ",
+        "ts": "1697919104.221289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r9VgT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we're full at 7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "9729152d-5744-443d-8fbe-f6d1e00fb055",
+        "type": "message",
+        "text": "<@U05AN3TCTSN> are you flying into Portland?",
+        "user": "U05BBQG8FTJ",
+        "ts": "1697919153.120109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/GMVw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05AN3TCTSN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are you flying into Portland?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "BDB2853C-AC39-45D7-8776-B98CBEC14BEA",
+        "type": "message",
+        "text": "I’m in ! ",
+        "user": "U03M8T6EJ8G",
+        "ts": "1697919599.728689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wvArT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4dad93fa6dcf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-27\/5491285165794_4dad93fa6dcf57d01702_72.png",
+            "first_name": "Glenn",
+            "real_name": "Glenn Davalos",
+            "display_name": "Glenn Davalos",
+            "team": "T0ZBAEL59",
+            "name": "glenndavalos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ece64976-41ea-4a8d-8b76-2bc1050ef4a3",
+        "type": "message",
+        "text": "<@U05BBQG8FTJ> yes and no. I bought a ticket for a flight to Portland on Tuesday with a transfer in Seattle, but if you guys are staying in Seattle I'll just get off there",
+        "user": "U05AN3TCTSN",
+        "ts": "1697919772.154349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jfjUX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQG8FTJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yes and no. I bought a ticket for a flight to Portland on Tuesday with a transfer in Seattle, but if you guys are staying in Seattle I'll just get off there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d3245d838a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-04\/5369613606578_8d3245d838a8412b4a89_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Maljanovski",
+            "display_name": "Chris Maljanovski",
+            "team": "T0ZBAEL59",
+            "name": "cmaljanovski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22b1a629-7170-4ba1-80f7-6763f7c654ed",
+        "type": "message",
+        "text": "I'm in",
+        "user": "U05AQGJMMT6",
+        "ts": "1697920141.755189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fs1K5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5571fe67-2199-4eb8-8b33-bf7f3e5865d1",
+        "type": "message",
+        "text": "I'm in",
+        "user": "U05AQGJMMT6",
+        "ts": "1697920174.996099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fs1K5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697917667.191459",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "301EC574-2EDF-48D2-B630-62B50DD114E5",
+        "type": "message",
+        "text": "I am in",
+        "user": "U05AN3R7398",
+        "ts": "1697920435.989429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2d1bJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9130A381-99FE-40D0-83A4-E9A44F944893",
+        "type": "message",
+        "text": "I’m in",
+        "user": "U05B0NHGDG9",
+        "ts": "1697920457.490429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "faPYD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6aef7af62a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-13\/5893313366019_6aef7af62a81961b3c25_72.png",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Castro",
+            "display_name": "Hyrum Castro",
+            "team": "T0ZBAEL59",
+            "name": "castrohyrums",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "528E5739-DA2D-4639-9031-E57243591694",
+        "type": "message",
+        "text": "I’m in for counting purposes :joy: ",
+        "user": "U05BBQG8FTJ",
+        "ts": "1697920500.462769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wq8yq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in for counting purposes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U05B0NHGDG9",
+                    "U05AN3R7398",
+                    "U05GZPF8ZGW"
+                ],
+                "count": 3
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FB26C0E4-1102-4457-8434-E011B30B112B",
+        "type": "message",
+        "text": "$175 each person for how many nights?",
+        "user": "U05AN3R7398",
+        "ts": "1697920624.943749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I0\/E4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "$175 each person for how many nights?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "d272b5d9-f879-4e44-afb2-c241b4dd140a",
+        "type": "message",
+        "text": "Tue Wed Thu Fri - 4 nights",
+        "user": "U05AQGJMMT6",
+        "ts": "1697920659.408079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uOwTe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tue Wed Thu Fri - 4 nights"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN3R7398"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7E43A50D-41E6-41E2-ABCD-658132F7FEB2",
+        "type": "message",
+        "text": "Also, do you have the address of the airb&amp;b ?",
+        "user": "U05AN3R7398",
+        "ts": "1697920664.380679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AbGn2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, do you have the address of the airb&b ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "581B8587-465E-4749-9763-8C7BBAC6EC35",
+        "type": "message",
+        "text": "You don’t get the address until you purchase. ",
+        "user": "U05BBQG8FTJ",
+        "ts": "1697920698.447789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2GcYq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " get the address until you purchase"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "0a54c853-9738-48b2-99f7-32798c8dacff",
+        "type": "message",
+        "text": "I personally leave on Friday, but I'm willing to trade my share on the last night for a ride to the airport",
+        "user": "U05AQGJMMT6",
+        "ts": "1697920728.461119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wbExk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I personally leave on Friday, but I'm willing to trade my share on the last night for a ride to the airport"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05AQGJMMT6",
+            "ts": "1697920766.000000"
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "9A85DE6E-A042-4360-BD57-22FB43F3767D",
+        "type": "message",
+        "text": "Please let me know after you book tonight because I need that so the girls in my team can find hotel close to us",
+        "user": "U05AN3R7398",
+        "ts": "1697920734.585719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pv9mm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please let me know after you book tonight because I need that so the girls in my team can find hotel close to us"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05AN3R7398",
+            "ts": "1697920821.000000"
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "bc88d82b-0935-4212-a733-e964c8f342b0",
+        "type": "message",
+        "text": "I'm in too",
+        "user": "U05GZPF8ZGW",
+        "ts": "1697920804.147189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Og2YU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm in too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "945acac7f6df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-25\/5638334753522_945acac7f6df9148f163_72.jpg",
+            "first_name": "Francisco",
+            "real_name": "Francisco Sachun",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "franciscosachunsalaza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "1 - Henrique\n2 - Julian\n3 - Travis\n4 - Austin\n5 - Chris\n6 - Alex\n7 - Glenn\n8 - JC\n9 - Helaman\n10 - Hyrum\n11 - JJ\n12 - Francisco \n13 - \n14 - \n15 - \n16 -",
+        "user": "U05AQGJMMT6",
+        "ts": "1697921049.394609",
+        "thread_ts": "1697918796.779359",
+        "root": {
+            "client_msg_id": "c90adb43-6302-4019-ac3e-774ac0d35861",
+            "type": "message",
+            "text": "If we can get 16, total is $175 for each person. Comment below to let me know you're in. I would like to book tonight. Make sure and let those know who are interested to get on here and confirm. <@U03M8T6EJ8G> <@U05BBQEGSL8> <@U05AN02C0E7> <@U05AQGJMMT6> <@U05AMVCTLRZ> <@U05AQGJ30BE> <@U05B0NHGDG9> <@U03LXQE14NM> <@U05AN3TCTSN> <@U05GZPF8ZGW>",
+            "user": "U05BBQG8FTJ",
+            "ts": "1697918796.779359",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ROofQ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "If we can get 16, total is $175 for each person. Comment below to let me know you're in. I would like to book tonight. Make sure and let those know who are interested to get on here and confirm. "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03M8T6EJ8G"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U05BBQEGSL8"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U05AN02C0E7"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U05AQGJMMT6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U05AMVCTLRZ"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U05AQGJ30BE"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U05B0NHGDG9"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03LXQE14NM"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U05AN3TCTSN"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U05GZPF8ZGW"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0ZBAEL59",
+            "thread_ts": "1697918796.779359",
+            "reply_count": 27,
+            "reply_users_count": 13,
+            "latest_reply": "1697937944.588279",
+            "reply_users": [
+                "U05BBQEGSL8",
+                "U05AN02C0E7",
+                "U05AMVCTLRZ",
+                "U03LXQE14NM",
+                "U05AN3TCTSN",
+                "U05AFDTJEUW",
+                "U05BBQG8FTJ",
+                "U03M8T6EJ8G",
+                "U05AQGJMMT6",
+                "U05AN3R7398",
+                "U05B0NHGDG9",
+                "U05GZPF8ZGW",
+                "U05A7HD4XE3"
+            ],
+            "replies": [
+                {
+                    "user": "U05BBQEGSL8",
+                    "ts": "1697918836.347779"
+                },
+                {
+                    "user": "U05AN02C0E7",
+                    "ts": "1697918858.999449"
+                },
+                {
+                    "user": "U05AMVCTLRZ",
+                    "ts": "1697918914.393999"
+                },
+                {
+                    "user": "U03LXQE14NM",
+                    "ts": "1697918923.070759"
+                },
+                {
+                    "user": "U05AMVCTLRZ",
+                    "ts": "1697918928.932629"
+                },
+                {
+                    "user": "U05AN3TCTSN",
+                    "ts": "1697918960.651269"
+                },
+                {
+                    "user": "U05AFDTJEUW",
+                    "ts": "1697918968.102239"
+                },
+                {
+                    "user": "U05BBQG8FTJ",
+                    "ts": "1697919017.934709"
+                },
+                {
+                    "user": "U05AMVCTLRZ",
+                    "ts": "1697919088.574189"
+                },
+                {
+                    "user": "U05BBQG8FTJ",
+                    "ts": "1697919104.221289"
+                },
+                {
+                    "user": "U05BBQG8FTJ",
+                    "ts": "1697919153.120109"
+                },
+                {
+                    "user": "U03M8T6EJ8G",
+                    "ts": "1697919599.728689"
+                },
+                {
+                    "user": "U05AN3TCTSN",
+                    "ts": "1697919772.154349"
+                },
+                {
+                    "user": "U05AQGJMMT6",
+                    "ts": "1697920141.755189"
+                },
+                {
+                    "user": "U05AN3R7398",
+                    "ts": "1697920435.989429"
+                },
+                {
+                    "user": "U05B0NHGDG9",
+                    "ts": "1697920457.490429"
+                },
+                {
+                    "user": "U05BBQG8FTJ",
+                    "ts": "1697920500.462769"
+                },
+                {
+                    "user": "U05AN3R7398",
+                    "ts": "1697920624.943749"
+                },
+                {
+                    "user": "U05AQGJMMT6",
+                    "ts": "1697920659.408079"
+                },
+                {
+                    "user": "U05AN3R7398",
+                    "ts": "1697920664.380679"
+                },
+                {
+                    "user": "U05BBQG8FTJ",
+                    "ts": "1697920698.447789"
+                },
+                {
+                    "user": "U05AQGJMMT6",
+                    "ts": "1697920728.461119"
+                },
+                {
+                    "user": "U05AN3R7398",
+                    "ts": "1697920734.585719"
+                },
+                {
+                    "user": "U05GZPF8ZGW",
+                    "ts": "1697920804.147189"
+                },
+                {
+                    "user": "U05AQGJMMT6",
+                    "ts": "1697921049.394609"
+                },
+                {
+                    "user": "U05A7HD4XE3",
+                    "ts": "1697934451.368239"
+                },
+                {
+                    "user": "U05AQGJMMT6",
+                    "ts": "1697937944.588279"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IUt4j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1 - Henrique\n2 - Julian\n3 - Travis\n4 - Austin\n5 - Chris\n6 - Alex\n7 - Glenn\n8 - JC\n9 - Helaman\n10 - Hyrum\n11 - JJ\n12 - Francisco \n13 - \n14 - \n15 - \n16 -"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e5009098-3aef-4dc2-8b2f-e541ff7d791c"
+    },
+    {
+        "client_msg_id": "0ea86b08-d15a-4b95-b8a1-3f67417c560c",
+        "type": "message",
+        "text": "Looking for 4 more guys to fill up the 16-bed AirBnB, any of y'all interested? If so reply in JJ's thread above and call dibs! <@U05BBQEJNTA> <@U03M8TBLWTA> <@U03L4GN325D> <@U03TVL5E0M6> <@U05BBQD8SKS> <@U05BBQFD4V6> <@U05A7HD4XE3> <@U05DFU87M98> <@U05MZL07Q78> <@U05AFDRFJ3Y>",
+        "user": "U05AMVCTLRZ",
+        "ts": "1697922787.052219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FVdwX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looking for 4 more guys to fill up the 16-bed AirBnB, any of y'all interested? If so reply in JJ's thread above and call dibs! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQEJNTA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03M8TBLWTA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03L4GN325D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03TVL5E0M6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQD8SKS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQFD4V6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05A7HD4XE3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05DFU87M98"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05MZL07Q78"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AFDRFJ3Y"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21cea2f50db5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5357074088198_21cea2f50db509542cea_72.png",
+            "first_name": "Travis",
+            "real_name": "Travis Crosby",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "crosbytrc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697922787.052219",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1698112579.828279",
+        "reply_users": [
+            "U05AQGJMMT6",
+            "U03L4GN325D",
+            "U05AK5HTE77",
+            "U05AFDRFJ3Y"
+        ],
+        "replies": [
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1697937908.231609"
+            },
+            {
+                "user": "U03L4GN325D",
+                "ts": "1697948811.554979"
+            },
+            {
+                "user": "U05AK5HTE77",
+                "ts": "1698026470.534829"
+            },
+            {
+                "user": "U05AFDRFJ3Y",
+                "ts": "1698112579.828279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "B41B3B88-C591-49AB-84F4-E0F6D655794A",
+        "type": "message",
+        "text": "I’m in!",
+        "user": "U05A7HD4XE3",
+        "ts": "1697934451.368239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kKuGw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c68f834fd4f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-14\/5738427640581_c68f834fd4f7a8ea7b60_72.png",
+            "first_name": "Ken",
+            "real_name": "Ken Okada",
+            "display_name": "Ken Okada",
+            "team": "T0ZBAEL59",
+            "name": "kenokada924",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ",
+        "reactions": [
+            {
+                "name": "the_horns",
+                "users": [
+                    "U05BBQG8FTJ",
+                    "U05AQGJMMT6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05BBQG8FTJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4EAC3B48-EB35-412C-804C-98179B1EC829",
+        "type": "message",
+        "text": "<@U05DW80RSQM> <@U05D98WS6FQ> <@U05MZL0CBF0>  interested is going in on the housing mentioned above?",
+        "user": "U05BBQG8FTJ",
+        "ts": "1697935582.204699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jlKz8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05DW80RSQM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05D98WS6FQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05MZL0CBF0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  interested is going in on the housing mentioned above?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697935582.204699",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1698083438.117099",
+        "reply_users": [
+            "U05D98WS6FQ",
+            "U05AQGJMMT6",
+            "U05DW80RSQM",
+            "U05MZL0CBF0"
+        ],
+        "replies": [
+            {
+                "user": "U05D98WS6FQ",
+                "ts": "1697936467.335879"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1697937692.713679"
+            },
+            {
+                "user": "U05DW80RSQM",
+                "ts": "1697983214.512069"
+            },
+            {
+                "user": "U05MZL0CBF0",
+                "ts": "1698083438.117099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4a2904f0-7dc2-41f9-adea-384beafaa7e9",
+        "type": "message",
+        "text": "I actually have family in both areas, so already have accommodations setup. Sorry!",
+        "user": "U05D98WS6FQ",
+        "ts": "1697936467.335879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Knopq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I actually have family in both areas, so already have accommodations setup. Sorry!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "bf599ccf5e03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-30\/5822107966326_bf599ccf5e03b3d455b4_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Adams",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ekaj101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697935582.204699",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "a8b855d1-93a4-43c8-bbee-1db55d6c368f",
+        "type": "message",
+        "text": "I think Jake and Edgar already have a place to crash.",
+        "user": "U05AQGJMMT6",
+        "ts": "1697937692.713679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eTFVY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think Jake and Edgar already have a place to crash."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697935582.204699",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "ea749cbc-6717-4673-914d-7093af60c163",
+        "type": "message",
+        "text": "Also <@U03L4GN325D> <@U05AK5HTE77>",
+        "user": "U05AQGJMMT6",
+        "ts": "1697937908.231609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ob33W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03L4GN325D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AK5HTE77"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697922787.052219",
+        "parent_user_id": "U05AMVCTLRZ"
+    },
+    {
+        "client_msg_id": "b29b0303-66b9-45bb-b7c9-626c1409efc7",
+        "type": "message",
+        "text": "1 - Henrique\n2 - Julian\n3 - Travis\n4 - Austin\n5 - Chris\n6 - Alex\n7 - Glenn\n8 - JC\n9 - Helaman\n10 - Hyrum\n11 - JJ\n12 - Francisco\n13 - Ken Okada\n14 -\n15 -\n16 -",
+        "user": "U05AQGJMMT6",
+        "ts": "1697937944.588279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "By1CG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1 - Henrique\n2 - Julian\n3 - Travis\n4 - Austin\n5 - Chris\n6 - Alex\n7 - Glenn\n8 - JC\n9 - Helaman\n10 - Hyrum\n11 - JJ\n12 - Francisco\n13 - Ken Okada\n14 -\n15 -\n16 -"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697918796.779359",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "e846ccf8-e2da-4189-9246-abbc2a44ee18",
+        "type": "message",
+        "text": "<@U05BBQG8FTJ> can you get 100% refund if booked?",
+        "user": "U05AQGJMMT6",
+        "ts": "1697938048.551279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lHgBQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQG8FTJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you get 100% refund if booked?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "62AD56B3-87BA-4D0E-9847-DECD5DC3E723",
+        "type": "message",
+        "text": "Portland place is refundable, Seattle is non refundable. ",
+        "user": "U05BBQG8FTJ",
+        "ts": "1697939837.277069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/fzRq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Portland place is refundable, Seattle is non refundable"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697939837.277069",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697941363.507049",
+        "reply_users": [
+            "U05GZPF8ZGW"
+        ],
+        "replies": [
+            {
+                "user": "U05GZPF8ZGW",
+                "ts": "1697941363.507049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c1e26951-360d-46fa-9200-febfdfe4df73",
+        "type": "message",
+        "text": "Hey <@U05BBQG8FTJ> what do you think about what I asked you in DM, does it make sense for you?",
+        "user": "U05GZPF8ZGW",
+        "ts": "1697941363.507049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kvYwm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05BBQG8FTJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what do you think about what I asked you in DM, does it make sense for you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "945acac7f6df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-25\/5638334753522_945acac7f6df9148f163_72.jpg",
+            "first_name": "Francisco",
+            "real_name": "Francisco Sachun",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "franciscosachunsalaza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697939837.277069",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "F758AA2D-EEDD-4C81-8291-B09D9541A1CC",
+        "type": "message",
+        "text": "I”ll be staying with family. Looks great though thanks for asking. ",
+        "user": "U03L4GN325D",
+        "ts": "1697948811.554979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jrNvr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I”ll be staying with family. Looks great though thanks for asking. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697922787.052219",
+        "parent_user_id": "U05AMVCTLRZ"
+    }
+]

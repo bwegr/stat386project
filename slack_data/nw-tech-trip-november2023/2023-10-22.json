@@ -1,0 +1,234 @@
+[
+    {
+        "client_msg_id": "9f71eed6-027d-4b7c-b07a-c3c022c40a2c",
+        "type": "message",
+        "text": "Sorry JJ. I didn't check slack yesterday. And Yes Jake, Evan and I will stay in out friends house in seattle.",
+        "user": "U05DW80RSQM",
+        "ts": "1697983214.512069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "41ZZv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry JJ. I didn't check slack yesterday. And Yes Jake, Evan and I will stay in out friends house in seattle."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "06ecd2c8c90a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-12\/5872838161127_06ecd2c8c90a8c31dc52_72.jpg",
+            "first_name": "Edgar",
+            "real_name": "Edgar Pu",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "abm.elp90",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697935582.204699",
+        "parent_user_id": "U05BBQG8FTJ"
+    },
+    {
+        "client_msg_id": "bab393c1-734a-458c-99da-a5788e9c119f",
+        "type": "message",
+        "text": "Só i think we got 12 people, is there a place that can fit 12? Or would it be cheaper to separate?",
+        "user": "U05BBQEGSL8",
+        "ts": "1697999573.086089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YD3B9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Só i think we got 12 people, is there a place that can fit 12? Or would it be cheaper to separate?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7534d1e53ffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-01\/5671255571779_7534d1e53ffa8b4cd432_72.jpg",
+            "first_name": "Henrique",
+            "real_name": "Henrique Diz Diz",
+            "display_name": "Henrique Diz Diz",
+            "team": "T0ZBAEL59",
+            "name": "henriquedizdiz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "94538b08-fb86-451e-9c5c-df0af87fe0c7",
+        "type": "message",
+        "text": "There's 13 of us. For the current places, price would be 216. I looked a little bit to see if we could find cheaper but I'm not sure that we could. $54 a night is pretty hard to beat.",
+        "user": "U05BBQG8FTJ",
+        "ts": "1698002635.923869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ywho4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There's 13 of us. For the current places, price would be 216. I looked a little bit to see if we could find cheaper but I'm not sure that we could. $54 a night is pretty hard to beat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9ee9da4089",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5905637263669_8d9ee9da4089d0c7841c_72.png",
+            "first_name": "JJ",
+            "real_name": "JJ LeMoine",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jeff.lemoine66",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "311a7a13-2519-4013-ab27-acaa0b5754ef",
+        "type": "message",
+        "text": "I'm thinking there might be others who join at the last minute.",
+        "user": "U05AQGJMMT6",
+        "ts": "1698012947.448849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1JQ3h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm thinking there might be others who join at the last minute."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "86d5acb8-b3c9-415f-b6f1-ed5328b251d0",
+        "type": "message",
+        "text": "So I'd go for the 16 house, divided initially by 13 and eventually embrace others who might join",
+        "user": "U05AQGJMMT6",
+        "ts": "1698012985.643729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RsbT3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So I'd go for the 16 house, divided initially by 13 and eventually embrace others who might join"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3ccec7d5-1ac4-4b98-a1c0-8563053d1433",
+        "type": "message",
+        "text": "Thanks! I'm also staying with family.",
+        "user": "U05AK5HTE77",
+        "ts": "1698026470.534829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4y3dB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! I'm also staying with family."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "47304120784f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5985056791331_47304120784f37c3d79b_72.png",
+            "first_name": "Erik",
+            "real_name": "Erik Christiansen",
+            "display_name": "Erik Christiansen",
+            "team": "T0ZBAEL59",
+            "name": "erik_christiansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697922787.052219",
+        "parent_user_id": "U05AMVCTLRZ"
+    }
+]

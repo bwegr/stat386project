@@ -1,0 +1,297 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697231686.948309",
+        "user": "U03LMGYLSR2",
+        "text": "<@U03LMGYLSR2> has joined the channel"
+    },
+    {
+        "client_msg_id": "7C5102B1-B7C0-4C2E-B3BB-E93C1B175890",
+        "type": "message",
+        "text": "Dude what channel did I just join??",
+        "user": "U03LMGYLSR2",
+        "ts": "1697231715.103919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Il6bx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dude what channel did I just join??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LG7C5QAH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "574C1BDB-2382-4D11-841C-9C5CEE33E259",
+        "type": "message",
+        "text": "Most esoteric channel on slack",
+        "user": "U03LG7C5QAH",
+        "ts": "1697234390.531289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dGza8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Most esoteric channel on slack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f6454981-fb5e-47c9-a7aa-4c216809c062",
+        "type": "message",
+        "text": "It's the best kept secret in the MBA program",
+        "user": "U03LK39PKRR",
+        "ts": "1697236887.620749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7kynd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's the best kept secret in the MBA program"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "66206101-2A5B-4EF6-9EA3-EA0217E33F99",
+        "type": "message",
+        "text": "Let’s get this chat popping haha",
+        "user": "U03LMGYLSR2",
+        "ts": "1697236892.187889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bSRTW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " get this chat popping haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3B1FDCBA-03D5-416E-A529-6F0414BAD711",
+        "type": "message",
+        "text": "What are you guys doing this weekend? Adam you playing frisbee tonight??",
+        "user": "U03LG7C5QAH",
+        "ts": "1697249388.366399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MKq8g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What are you guys doing this weekend? Adam you playing frisbee tonight??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697249388.366399",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697287083.172579",
+        "reply_users": [
+            "U03LMGYLSR2",
+            "U03LG7C5QAH"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1697261275.320809"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1697287083.172579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03LMGYLSR2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5CDAB0C5-59AA-4D48-8401-C062F092E62E",
+        "type": "message",
+        "text": "No i couldn’t make it haha. Did you go??",
+        "user": "U03LMGYLSR2",
+        "ts": "1697261275.320809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RClN9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i"
+                            },
+                            {
+                                "type": "text",
+                                "text": " couldn’t make it haha"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Did you go??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697249388.366399",
+        "parent_user_id": "U03LG7C5QAH"
+    }
+]

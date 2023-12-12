@@ -1,0 +1,102 @@
+[
+    {
+        "client_msg_id": "F5BEE678-BF25-4BD7-9E07-C7679FF38DEA",
+        "type": "message",
+        "text": "You could do a \"Death by PowerPoint\" night, where people prepare random PowerPoints and share",
+        "user": "U03LG7DNSUV",
+        "ts": "1697476562.049169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QlEYE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You could do a \"Death by PowerPoint\" night, where people prepare random PowerPoints and share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "f3b8802bc2bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4003016629493_f3b8802bc2bc4748803b_72.png",
+            "first_name": "Jamie",
+            "real_name": "Jamie Wadsworth",
+            "display_name": "Jamie Wadsworth",
+            "team": "T0ZBAEL59",
+            "name": "jamie.p.wadsworth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697397473.057459",
+        "parent_user_id": "U03PKR5GQUQ",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U03PKR5GQUQ",
+                    "U03L4GUGBF1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FEC4C132-993D-47CE-A9A0-8306499C1F86",
+        "type": "message",
+        "text": "Bonus for making others do the entertaining",
+        "user": "U03LG7DNSUV",
+        "ts": "1697476584.893779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9+QSn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bonus for making others do the entertaining"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "f3b8802bc2bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4003016629493_f3b8802bc2bc4748803b_72.png",
+            "first_name": "Jamie",
+            "real_name": "Jamie Wadsworth",
+            "display_name": "Jamie Wadsworth",
+            "team": "T0ZBAEL59",
+            "name": "jamie.p.wadsworth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697397473.057459",
+        "parent_user_id": "U03PKR5GQUQ",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03PKR5GQUQ",
+                    "U03L4GUGBF1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

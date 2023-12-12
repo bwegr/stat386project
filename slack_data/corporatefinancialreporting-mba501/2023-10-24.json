@@ -1,0 +1,695 @@
+[
+    {
+        "client_msg_id": "a495736f-f6af-48a6-ae91-d4f92b18015a",
+        "type": "message",
+        "text": "Any TA hours today?",
+        "user": "U05DD0R2J6R",
+        "ts": "1698163715.023829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gdyrJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any TA hours today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9f2aa0222f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-23\/5782069155622_9f2aa0222f3469b2f8ea_72.jpg",
+            "first_name": "Danny",
+            "real_name": "Danny Gundersen",
+            "display_name": "Danny Gundersen",
+            "team": "T0ZBAEL59",
+            "name": "gundydc1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698163715.023829",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1698167534.704189",
+        "reply_users": [
+            "U03LK39EPB5",
+            "U05DD0R2J6R"
+        ],
+        "replies": [
+            {
+                "user": "U03LK39EPB5",
+                "ts": "1698164198.236739"
+            },
+            {
+                "user": "U05DD0R2J6R",
+                "ts": "1698164304.286419"
+            },
+            {
+                "user": "U03LK39EPB5",
+                "ts": "1698167534.704189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0739ffd8-a574-4369-a0c9-76e82af580da",
+        "type": "message",
+        "text": "I have at 3:30",
+        "user": "U03LK39EPB5",
+        "ts": "1698164198.236739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "crJBk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have at 3:30"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698163715.023829",
+        "parent_user_id": "U05DD0R2J6R"
+    },
+    {
+        "client_msg_id": "1d3c5982-576a-46d2-a5bf-440bae7137fa",
+        "type": "message",
+        "text": "What room? Also how long do they go? Trying to make an HR review at the same time.",
+        "user": "U05DD0R2J6R",
+        "ts": "1698164304.286419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0fX65",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What room? Also how long do they go? Trying to make an HR review at the same time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9f2aa0222f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-23\/5782069155622_9f2aa0222f3469b2f8ea_72.jpg",
+            "first_name": "Danny",
+            "real_name": "Danny Gundersen",
+            "display_name": "Danny Gundersen",
+            "team": "T0ZBAEL59",
+            "name": "gundydc1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05DD0R2J6R",
+            "ts": "1698164317.000000"
+        },
+        "thread_ts": "1698163715.023829",
+        "parent_user_id": "U05DD0R2J6R"
+    },
+    {
+        "client_msg_id": "f197a3f6-f910-48b6-89c8-9ba08f6322c9",
+        "type": "message",
+        "text": "1hr in the lounge",
+        "user": "U03LK39EPB5",
+        "ts": "1698167534.704189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fsVUR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1hr in the lounge"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698163715.023829",
+        "parent_user_id": "U05DD0R2J6R"
+    },
+    {
+        "type": "message",
+        "text": "Is having problem set 6 and 7 due on the same day (Oct. 31) a scheduling error? The following week we don't have anything scheduled.",
+        "files": [
+            {
+                "id": "F062PJMGEKW",
+                "created": 1698178164,
+                "timestamp": 1698178164,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05AN015NSX",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 80861,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062PJMGEKW\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062PJMGEKW\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062PJMGEKW-dec7a35594\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062PJMGEKW-dec7a35594\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062PJMGEKW-dec7a35594\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 294,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062PJMGEKW-dec7a35594\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 392,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062PJMGEKW-dec7a35594\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "original_w": 487,
+                "original_h": 597,
+                "thumb_tiny": "AwAwACfQbHHzGjj+8aU5\/u0nP90fnQA4cjg5peaTjHIo49KAFooooAYcf3qOP7\/60p\/3aTn+7+tABkD+P9aXcP7woHTkUvHpQAoII4ooooAYf9\/FHH9\/9aU\/7tJz\/d\/WgA4\/v\/rTgCO+aOMdKOKAFooooA\/\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05AN015NSX\/F062PJMGEKW\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F062PJMGEKW-f5a549e723",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05AN015NSX",
+        "display_as_bot": false,
+        "ts": "1698178234.824049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2+Ze5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is having problem set 6 and 7 due on the same day (Oct. 31) a scheduling error? The following week we don't have anything scheduled."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "31399d30-4490-46e5-83f4-ce138a05d9fd",
+        "thread_ts": "1698178234.824049",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698182816.974779",
+        "reply_users": [
+            "U03LK39EPB5"
+        ],
+        "replies": [
+            {
+                "user": "U03LK39EPB5",
+                "ts": "1698182816.974779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "22cdb987-eded-434c-9278-2050fe08b0b9",
+        "type": "message",
+        "text": "TA hours now in the lounge",
+        "user": "U03LK39EPB5",
+        "ts": "1698182801.490999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gqmuY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TA hours now in the lounge"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "051792bf-be3b-4390-8d23-e5ab5502179c",
+        "type": "message",
+        "text": "I've asked Drake, will let you know",
+        "user": "U03LK39EPB5",
+        "ts": "1698182816.974779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bSe8z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've asked Drake, will let you know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698178234.824049",
+        "parent_user_id": "U05AN015NSX",
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1734e6e-8d44-48a5-9335-6ef24fcc876c",
+        "type": "message",
+        "text": "<@U03LK39EPB5> So, is this question wanting 2019 and 2018 data? Or is it wanting us to use a different 10-K?",
+        "user": "U05DD0QU5MK",
+        "ts": "1698187579.241709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rsyIQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK39EPB5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " So, is this question wanting 2019 and 2018 data? Or is it wanting us to use a different 10-K?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "gc84bb28974b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c84bb28974bdc5d56235247044ed7d1a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Brandon",
+            "real_name": "Brandon Ward",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "wardbrandonc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107598.887219",
+        "parent_user_id": "U05A7HE2M8X"
+    },
+    {
+        "client_msg_id": "a2bf83c8-d1fc-4cf8-8e91-ef8de937f568",
+        "type": "message",
+        "text": "It's this 10k. You only need data from 2020 and 2019",
+        "user": "U05AQGJMMT6",
+        "ts": "1698187719.945539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DZga4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's this 10k. You only need data from 2020 and 2019"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107598.887219",
+        "parent_user_id": "U05A7HE2M8X"
+    },
+    {
+        "client_msg_id": "ac5a5833-594a-4f5e-908e-f763336bcad5",
+        "type": "message",
+        "text": "The 2018 data you need is already provided within the question",
+        "user": "U05AQGJMMT6",
+        "ts": "1698187765.650779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xpvUg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The 2018 data you need is already provided within the question"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107598.887219",
+        "parent_user_id": "U05A7HE2M8X"
+    },
+    {
+        "client_msg_id": "ed84b7ef-ea1f-4688-8e19-6ee3c6dba944",
+        "type": "message",
+        "text": "<@U05AQGJMMT6>, how do you find 2020 cost of sales if 2020 hasn't happened yet? The 10-K the question says to use is the one filed in February 2020, but that is for fiscal year 2019.",
+        "user": "U05DD0QU5MK",
+        "ts": "1698187996.233109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A0XcI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05AQGJMMT6"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", how do you find 2020 cost of sales if 2020 hasn't happened yet? The 10-K the question says to use is the one filed in February 2020, but that is for fiscal year 2019."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "gc84bb28974b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c84bb28974bdc5d56235247044ed7d1a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Brandon",
+            "real_name": "Brandon Ward",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "wardbrandonc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05DD0QU5MK",
+            "ts": "1698188018.000000"
+        },
+        "thread_ts": "1698107598.887219",
+        "parent_user_id": "U05A7HE2M8X"
+    },
+    {
+        "client_msg_id": "ad5cdc9a-e5c1-47f7-a0bd-408a13fb057e",
+        "type": "message",
+        "text": "<@U05DD0QU5MK> Wait. Are you talking about Gamestop or Cat?",
+        "user": "U05AQGJMMT6",
+        "ts": "1698188218.254449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uC5nd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05DD0QU5MK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Wait. Are you talking about Gamestop or Cat?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107598.887219",
+        "parent_user_id": "U05A7HE2M8X"
+    },
+    {
+        "client_msg_id": "37731af8-ebda-4bc9-af61-e720d71dd2d4",
+        "type": "message",
+        "text": "Gamestop. Question 1",
+        "user": "U05DD0QU5MK",
+        "ts": "1698188246.636789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UpbwF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gamestop. Question 1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "gc84bb28974b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c84bb28974bdc5d56235247044ed7d1a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Brandon",
+            "real_name": "Brandon Ward",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "wardbrandonc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107598.887219",
+        "parent_user_id": "U05A7HE2M8X"
+    },
+    {
+        "client_msg_id": "0f7f569d-5843-4796-8c0d-b1e18bd00ee4",
+        "type": "message",
+        "text": "Gamestop has a January year end. This means that most of their year actually falls into the calendar year before. I.e. the 10k filed as 2021 contains data from the 12 months leading up to that. So 11 of the 12 months were actually in 2020. So the column in the income statement is labeled 2020.\n\nBut then the question in the homework asks for the year ENDED.\n\nSo basically the question is asking you for 2020 and 2019. Which means that you need to be taking the information from the 2019 and 2018 income statements",
+        "user": "U03LK39EPB5",
+        "ts": "1698189317.098749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0BA+L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gamestop has a January year end. This means that most of their year actually falls into the calendar year before. I.e. the 10k filed as 2021 contains data from the 12 months leading up to that. So 11 of the 12 months were actually in 2020. So the column in the income statement is labeled 2020.\n\nBut then the question in the homework asks for the year ENDED.\n\nSo basically the question is asking you for 2020 and 2019. Which means that you need to be taking the information from the 2019 and 2018 income statements"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "481e2307a2ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-31\/4326358844000_481e2307a2ee44cc5b24_72.jpg",
+            "first_name": "Robyn",
+            "real_name": "Robyn de Kock",
+            "display_name": "Robyn de Kock",
+            "team": "T0ZBAEL59",
+            "name": "dekock.robyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107598.887219",
+        "parent_user_id": "U05A7HE2M8X"
+    },
+    {
+        "client_msg_id": "09ca193a-e449-4e4c-b58f-9ceb7680b4b7",
+        "type": "message",
+        "text": "Okay, so year ending in 2020, which is actually the 2019 column in the reports. And year ending in 2019, which is the 2018 column in the reports. Thank you for the clarification.",
+        "user": "U05DD0QU5MK",
+        "ts": "1698189417.171819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "06\/dw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, so year ending in 2020, which is actually the 2019 column in the reports. And year ending in 2019, which is the 2018 column in the reports. Thank you for the clarification."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "gc84bb28974b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c84bb28974bdc5d56235247044ed7d1a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Brandon",
+            "real_name": "Brandon Ward",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "wardbrandonc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107598.887219",
+        "parent_user_id": "U05A7HE2M8X"
+    }
+]

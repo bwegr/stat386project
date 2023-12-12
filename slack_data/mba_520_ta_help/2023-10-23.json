@@ -1,0 +1,141 @@
+[
+    {
+        "client_msg_id": "6445d917-9f74-40b4-b8bc-29d84e48b148",
+        "type": "message",
+        "text": "Just to be extra clear - we DON'T have to turn in problem set 3 tomorrow, correct?",
+        "user": "U05MZL0CBF0",
+        "ts": "1698074802.958249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LD\/AE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just to be extra clear - we DON'T have to turn in problem set 3 tomorrow, correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g195c4e0e70e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/195c4e0e70e05c3e70c8aebb37309b97.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Nate",
+            "real_name": "Nate Hardy",
+            "display_name": "Nate Hardy",
+            "team": "T0ZBAEL59",
+            "name": "natechardy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698074802.958249",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698075307.493409",
+        "reply_users": [
+            "U05AN015NSX"
+        ],
+        "replies": [
+            {
+                "user": "U05AN015NSX",
+                "ts": "1698075307.493409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e3f45ae4-adf6-42ee-94e2-2188bba5d5fe",
+        "type": "message",
+        "text": "Correct: \"So, I am giving you problem set 3 here, but you DO NOT have to turn it in at all. Just use it to study for the midterm.\"",
+        "user": "U05AN015NSX",
+        "ts": "1698075307.493409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "giw+I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Correct: \"So, I am giving you problem set 3 here, but you DO NOT have to turn it in at all. Just use it to study for the midterm.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698074802.958249",
+        "parent_user_id": "U05MZL0CBF0"
+    },
+    {
+        "client_msg_id": "C5A50489-23CC-47C4-A275-4FA31B28A3D3",
+        "type": "message",
+        "text": "I’ll be in the lounge for the next hour. Stop by with any  and all questions!",
+        "user": "U03TVL5QZFA",
+        "ts": "1698079728.114189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mzWO9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be in the lounge for the next hour. Stop by with any  and all questions"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b74233e5eaf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-14\/3935683184277_4b74233e5eaf91987ccb_72.jpg",
+            "first_name": "Johnny",
+            "real_name": "Johnny Blood",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "johnnyblood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "141CBDC7-C073-49E2-86A3-C2BF9FE8C65B",
+        "type": "message",
+        "text": "I don’t know anything about this. Can you fill me in? Maybe draw for me? ",
+        "user": "U03LK39LQ2F",
+        "ts": "1698390873.800979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NDOQu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " know anything about this. Can you fill me in? Maybe draw for me? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "127e7339b511",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4045053911267_127e7339b511c9e7bfca_72.png",
+            "first_name": "Ashli",
+            "real_name": "Ashli Asay",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ashliasay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698364419.096659",
+        "parent_user_id": "U03NW11JH19"
+    },
+    {
+        "client_msg_id": "B75784F4-92F0-49D0-8D2C-2D3F38B7C033",
+        "type": "message",
+        "text": "I just read the above. I will still be in London on December 5th, so I don’t think I’ll be able to participate.",
+        "user": "U03LK39LQ2F",
+        "ts": "1698390960.759519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nURBD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just read the above. I will still be in London on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "December"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 5th, so I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " think "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be able to participate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "127e7339b511",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4045053911267_127e7339b511c9e7bfca_72.png",
+            "first_name": "Ashli",
+            "real_name": "Ashli Asay",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ashliasay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698364419.096659",
+        "parent_user_id": "U03NW11JH19"
+    }
+]

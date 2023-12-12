@@ -1,0 +1,166 @@
+[
+    {
+        "client_msg_id": "da9987d9-f34a-4f6e-84bb-a11dd0cfd329",
+        "type": "message",
+        "text": "If (like me) you forgot which leadership skill you picked at the beginning of the semester, you can go <https:\/\/byu.instructure.com\/courses\/22263\/assignments\/829840|here> and click on \"Submission Details\" in the right column!",
+        "user": "U05B0NFT057",
+        "ts": "1698247078.614999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xJ3C+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If (like me) you forgot which leadership skill you picked at the beginning of the semester, you can go "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.instructure.com\/courses\/22263\/assignments\/829840",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and click on \"Submission Details\" in the right column!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b4fae223f474",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5821020410403_b4fae223f47431494eed_72.jpg",
+            "first_name": "Ashley",
+            "real_name": "Ashley Southard",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "asouthar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN015NSX",
+                    "U05AN3TCTSN",
+                    "U05BBQFD4V6",
+                    "U05BBQG8FTJ",
+                    "U05AK5HTE77",
+                    "U05B0NHD3LZ",
+                    "U05DD0R0XHB",
+                    "U05GRT17A87"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05f4bba8-1bdf-46a6-a03f-09f2b54ed3a4",
+        "type": "message",
+        "text": "Looks like we do not need to submit the storing telling! is that correct?",
+        "user": "U05AN01UD1R",
+        "ts": "1698283199.371649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rNt6m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like we do not need to submit the storing telling! is that correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9c494b969a1c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5806176267863_9c494b969a1cc91a4d11_72.jpg",
+            "first_name": "Upen",
+            "real_name": "Upen Rijal",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "upen99",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698283199.371649",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698283272.562169",
+        "reply_users": [
+            "U05AN015NSX"
+        ],
+        "replies": [
+            {
+                "user": "U05AN015NSX",
+                "ts": "1698283272.562169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "DB2921BD-A515-45B0-9E1D-43046B3262B1",
+        "type": "message",
+        "text": "Yep, that’s what I recall. We just need to come prepared to present to the group we are assigned in class. ",
+        "user": "U05AN015NSX",
+        "ts": "1698283272.562169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bFopQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "that’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what I recall. We just need to come prepared to present to the group we are assigned in class. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698283199.371649",
+        "parent_user_id": "U05AN01UD1R"
+    }
+]

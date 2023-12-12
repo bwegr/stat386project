@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "59856508-37fa-4998-9fd2-f626353e1c4b",
+        "type": "message",
+        "text": "<@U03LK56EXJN> Do you know if Entrepreneurial Marketing is offered for winter semester?",
+        "user": "U03LYFFN24R",
+        "ts": "1697407315.942679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GrHP7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK56EXJN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Do you know if Entrepreneurial Marketing is offered for winter semester?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "44781ea78eb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-03\/5713593038736_44781ea78eb0e4725f14_72.png",
+            "first_name": "Karen",
+            "real_name": "Karen Membreno",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "klmembreno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696368456.250229",
+        "parent_user_id": "U03LK52VCQ2"
+    },
+    {
+        "client_msg_id": "d99529ba-d4e1-474a-b383-4c255d3fb21e",
+        "type": "message",
+        "text": "It has been in Winter in the past! The class code is ENT 490R (make sure you pick the right section as different sections are different classes)",
+        "user": "U03LK56EXJN",
+        "ts": "1697407430.018509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PN54+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It has been in Winter in the past! The class code is ENT 490R (make sure you pick the right section as different sections are different classes)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "f0fa35dd6a38",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-29\/3740115766211_f0fa35dd6a387887760a_72.jpg",
+            "first_name": "Tanner",
+            "real_name": "Tanner Clement",
+            "display_name": "tanman",
+            "team": "T0ZBAEL59",
+            "name": "scariotjc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696368456.250229",
+        "parent_user_id": "U03LK52VCQ2"
+    }
+]

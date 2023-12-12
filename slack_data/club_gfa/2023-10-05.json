@@ -1,0 +1,417 @@
+[
+    {
+        "client_msg_id": "d4b4d50e-f705-4f56-a085-572d1b4a3930",
+        "type": "message",
+        "text": "I hate to abuse <!channel>, but I need urgent responses for tomorrow haha. Please reply to this thread with any specific questions you might have about case competitions etc so I can make sure to prepare for them and can answer them tomorrow. Thanks",
+        "user": "U03LMGYLSR2",
+        "ts": "1696539166.810389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hOF8V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hate to abuse "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", but I need urgent responses for tomorrow haha. Please reply to this thread with any specific questions you might have about case competitions etc so I can make sure to prepare for them and can answer them tomorrow. Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696539166.810389",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696553431.757629",
+        "reply_users": [
+            "U05AK5HTE77"
+        ],
+        "replies": [
+            {
+                "user": "U05AK5HTE77",
+                "ts": "1696553431.757629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1d41ccf3-5277-4ee7-a1ae-7d6b2390ad17",
+        "type": "message",
+        "text": "I noticed the Financial Modeling course has a block A and block B that are both at the same time and place. Is that half a semester each? Should I sign up for both?",
+        "user": "U05AK5HTE77",
+        "ts": "1696553335.428929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wWTaK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I noticed the Financial Modeling course has a block A and block B that are both at the same time and place. Is that half a semester each? Should I sign up for both?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "47304120784f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5985056791331_47304120784f37c3d79b_72.png",
+            "first_name": "Erik",
+            "real_name": "Erik Christiansen",
+            "display_name": "Erik Christiansen",
+            "team": "T0ZBAEL59",
+            "name": "erik_christiansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696553335.428929",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1697127140.944509",
+        "reply_users": [
+            "U03SZAWQBM4",
+            "U05AK5HTE77",
+            "U05DFQNU4EP",
+            "U03LK4YJGQJ",
+            "U03L4GN325D"
+        ],
+        "replies": [
+            {
+                "user": "U03SZAWQBM4",
+                "ts": "1696553594.825739"
+            },
+            {
+                "user": "U05AK5HTE77",
+                "ts": "1696553702.689329"
+            },
+            {
+                "user": "U05DFQNU4EP",
+                "ts": "1696561512.051629"
+            },
+            {
+                "user": "U03LK4YJGQJ",
+                "ts": "1696565816.332839"
+            },
+            {
+                "user": "U05DFQNU4EP",
+                "ts": "1696567831.636149"
+            },
+            {
+                "user": "U03L4GN325D",
+                "ts": "1697126786.411639"
+            },
+            {
+                "user": "U03SZAWQBM4",
+                "ts": "1697126811.556489"
+            },
+            {
+                "user": "U03L4GN325D",
+                "ts": "1697127140.944509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "502cadff-ba66-4dd8-8847-13618b728b41",
+        "type": "message",
+        "text": "I'd love an rough example of the type of analysis you did and what the competition looked like. Best practices to be competitive to win. And the best ways to get involved\/find ones to do.",
+        "user": "U05AK5HTE77",
+        "ts": "1696553431.757629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bkcoc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd love an rough example of the type of analysis you did and what the competition looked like. Best practices to be competitive to win. And the best ways to get involved\/find ones to do."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "47304120784f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5985056791331_47304120784f37c3d79b_72.png",
+            "first_name": "Erik",
+            "real_name": "Erik Christiansen",
+            "display_name": "Erik Christiansen",
+            "team": "T0ZBAEL59",
+            "name": "erik_christiansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696539166.810389",
+        "parent_user_id": "U03LMGYLSR2"
+    },
+    {
+        "client_msg_id": "2e23f322-d5d7-489a-a47e-8c5b84e670d0",
+        "type": "message",
+        "text": "It's the same class with no really good reason for being split into two terms. If you sign up for one you should sign up for the other one. Regarding bidding, the first one should be bidding priority since the second one builds off the first one.\n\nAlso, this is NOT simply an Excel class. There is a separate class for that. This is a financial modeling in Excel class. Lots of people dropped 2nd term last year because I don't think they understood that distinction. That being said, this was by FAR the most valuable, hands on class for finance in the entire MBA for me.",
+        "user": "U03SZAWQBM4",
+        "ts": "1696553594.825739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ns0Qo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's the same class with no really good reason for being split into two terms. If you sign up for one you should sign up for the other one. Regarding bidding, the first one should be bidding priority since the second one builds off the first one.\n\nAlso, this is NOT simply an Excel class. There is a separate class for that. This is a financial modeling in Excel class. Lots of people dropped 2nd term last year because I don't think they understood that distinction. That being said, this was by FAR the most valuable, hands on class for finance in the entire MBA for me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7e9498443384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-17\/4094154178549_7e9498443384c44e1f1b_72.jpg",
+            "first_name": "Chad",
+            "real_name": "Chad Larson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "chad_larson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03SZAWQBM4",
+            "ts": "1696553699.000000"
+        },
+        "thread_ts": "1696553335.428929",
+        "parent_user_id": "U05AK5HTE77"
+    },
+    {
+        "client_msg_id": "68541ed2-b9e2-4205-a04a-83bcc3d8d3e1",
+        "type": "message",
+        "text": "Okay that makes sense. Thank you, that is very helpful!",
+        "user": "U05AK5HTE77",
+        "ts": "1696553702.689329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t3ced",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay that makes sense. Thank you, that is very helpful!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "47304120784f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-03\/5985056791331_47304120784f37c3d79b_72.png",
+            "first_name": "Erik",
+            "real_name": "Erik Christiansen",
+            "display_name": "Erik Christiansen",
+            "team": "T0ZBAEL59",
+            "name": "erik_christiansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696553335.428929",
+        "parent_user_id": "U05AK5HTE77"
+    },
+    {
+        "client_msg_id": "ba50d626-1dd6-4c11-a1b2-78d65348d512",
+        "type": "message",
+        "text": "To clarify, under Financial Modeling B, it says that Financial Modeling A is prerequisite. They aren't two separate classes for two separate semesters?",
+        "user": "U05DFQNU4EP",
+        "ts": "1696561512.051629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eUsMd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To clarify, under Financial Modeling B, it says that Financial Modeling A is prerequisite. They aren't two separate classes for two separate semesters?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe53c672847",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-21\/5455152209798_fbe53c672847250a8ed4_72.png",
+            "first_name": "Hunter",
+            "real_name": "Hunter Blalack",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "blalackhunter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696553335.428929",
+        "parent_user_id": "U05AK5HTE77"
+    },
+    {
+        "client_msg_id": "387D9DD1-6D92-4A82-A8CE-9C7A44F22773",
+        "type": "message",
+        "text": "They are two “term” classes. So technically A goes until like late February\/early March, and then B goes for the rest of the semester. But both of them combined make up the entire semester",
+        "user": "U03LK4YJGQJ",
+        "ts": "1696565816.332839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TtmQJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They are two “term” classes"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " So technically A goes until like late February\/early March, and then B goes for the rest of the semester"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " But both of them combined make up the entire semester"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4bfa602a3916",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/4026473552256_4bfa602a39169e79a840_72.jpg",
+            "first_name": "Aaron",
+            "real_name": "Aaron Daines",
+            "display_name": "Aaron Daines",
+            "team": "T0ZBAEL59",
+            "name": "aaron.daines",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696553335.428929",
+        "parent_user_id": "U05AK5HTE77"
+    },
+    {
+        "client_msg_id": "341C4169-35B7-49F3-A7F6-7C4BB6B46AAF",
+        "type": "message",
+        "text": "Got it. Thank you!",
+        "user": "U05DFQNU4EP",
+        "ts": "1696567831.636149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Wd5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fbe53c672847",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-21\/5455152209798_fbe53c672847250a8ed4_72.png",
+            "first_name": "Hunter",
+            "real_name": "Hunter Blalack",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "blalackhunter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696553335.428929",
+        "parent_user_id": "U05AK5HTE77",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03LK4YJGQJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

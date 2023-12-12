@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "FAB893AC-96CC-45F8-8C36-F2777ADDEFD1",
+        "type": "message",
+        "text": "<!channel> reminder of the HLA event tonight, healthcare Leadership Workshop. See details above :point_up_2:  ",
+        "user": "U03LMGXA3FW",
+        "ts": "1697588017.052639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MkdNw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " reminder of the HLA event tonight, healthcare Leadership Workshop"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " See details above "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

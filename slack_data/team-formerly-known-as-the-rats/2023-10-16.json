@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "3E7849C7-6AD7-4BEE-90C5-658A86FDB615",
+        "type": "message",
+        "text": "In room 363 if anyone needs a room. Until 10:30am",
+        "user": "U03LMGTRFN0",
+        "ts": "1697463904.295639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D2YeV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In room 363 if anyone needs a room. Until 10:30am"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3796f75dca84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/3999386844117_3796f75dca843ea62054_72.png",
+            "first_name": "Jared",
+            "real_name": "Jared Sturgell",
+            "display_name": "Jared Sturgell",
+            "team": "T0ZBAEL59",
+            "name": "jared.sturgell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "the_horns::skin-tone-3",
+                "users": [
+                    "U03LCGM9XML"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

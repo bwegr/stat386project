@@ -1,0 +1,621 @@
+[
+    {
+        "client_msg_id": "D09C8965-2885-4981-AD41-E25A283E6090",
+        "type": "message",
+        "text": "<mailto:ashliasay@gmail.com|ashliasay@gmail.com>",
+        "user": "U03LK39LQ2F",
+        "ts": "1698391141.999139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "smwpL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:ashliasay@gmail.com",
+                                "text": "ashliasay@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "127e7339b511",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-06\/4045053911267_127e7339b511c9e7bfca_72.png",
+            "first_name": "Ashli",
+            "real_name": "Ashli Asay",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ashliasay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698339526.955669",
+        "parent_user_id": "U03L4GLKLTZ"
+    },
+    {
+        "client_msg_id": "EFFC7768-C497-4865-AE95-B5DD9B6A1F73",
+        "type": "message",
+        "text": "Be there in 2 mins :) ",
+        "user": "U05H6A4184T",
+        "ts": "1698415209.123049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LoaQY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Be there in 2 mins :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "79606dd47c09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5802269160551_79606dd47c09b377ebdf_72.png",
+            "first_name": "Carl",
+            "real_name": "Carl Majors",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "carlmajors",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698360396.220099",
+        "parent_user_id": "U05AMVCV3RR"
+    },
+    {
+        "client_msg_id": "9c1d2ba1-7b16-4a2a-8dac-2e134ccbbd9a",
+        "type": "message",
+        "text": "Volleyball tonight at 6pm! @SFH building. Come have fun! bring your spouse and friends! see you tonight!",
+        "user": "U03L4GQK4KZ",
+        "ts": "1698432176.776169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2B6ok",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Volleyball tonight at 6pm! @SFH building. Come have fun! bring your spouse and friends! see you tonight!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4b307be7eedc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3709097130420_4b307be7eedc4338b292_72.png",
+            "first_name": "Tulga",
+            "real_name": "Tulga Enkhbold",
+            "display_name": "Tulga",
+            "team": "T0ZBAEL59",
+            "name": "lukautah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698432176.776169",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698461766.892429",
+        "reply_users": [
+            "U03LK52VCQ2"
+        ],
+        "replies": [
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1698461766.892429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "volleyball",
+                "users": [
+                    "U03LXQCEVKK",
+                    "U03LK3AD1V1",
+                    "U03LXQE14NM"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6A42A278-AE6A-465E-8965-9D4F89539599",
+        "type": "message",
+        "text": "This is probably a crazy question but does anyone remember where to find the link for the professional photos they took of us during orientation? I looked through my email and couldn’t find it but maybe it was here on Slack somewhere? ",
+        "user": "U05DD0R44G5",
+        "ts": "1698451510.851329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NjqUX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is probably a crazy question but does anyone remember where to find the link for the professional photos they took of us during orientation"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I looked through my email and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "couldn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " find it but maybe it was here on Slack somewhere"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g1a32db1c729",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a32db1c729f89e1f3e02e7ed5b3ab36.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Nikki",
+            "real_name": "Nikki Maxon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nmaxon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698451510.851329",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698451678.992739",
+        "reply_users": [
+            "U05BBQDP59N",
+            "U05DD0R44G5"
+        ],
+        "replies": [
+            {
+                "user": "U05BBQDP59N",
+                "ts": "1698451583.776309"
+            },
+            {
+                "user": "U05DD0R44G5",
+                "ts": "1698451678.992739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "45FCE2CA-B126-40E6-8430-451E50196622",
+        "type": "message",
+        "text": "I believe it was an email from either Kirsten Kelly or Christine Roundy",
+        "user": "U05BBQDP59N",
+        "ts": "1698451583.776309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h6bs\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe it was an email from either Kirsten Kelly or Christine Roundy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9d365c02ed39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-08\/5714397176628_9d365c02ed398a6d3fb4_72.png",
+            "first_name": "Kjerstin",
+            "real_name": "Kjerstin Roberts",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "robertskjerstin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698451510.851329",
+        "parent_user_id": "U05DD0R44G5"
+    },
+    {
+        "client_msg_id": "93AF9DA7-44A8-443E-874B-7AAC7D48CE03",
+        "type": "message",
+        "text": "Perfect thanks I found it by searching Kirsten Kelly’s name in my email instead of Christine :raised_hands::skin-tone-3: thanks a million!",
+        "user": "U05DD0R44G5",
+        "ts": "1698451678.992739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vHSMz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect thanks I found it by searching Kirsten "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Kelly’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " name in my email instead of Christine "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c-1f3fc",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks a million"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "g1a32db1c729",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a32db1c729f89e1f3e02e7ed5b3ab36.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Nikki",
+            "real_name": "Nikki Maxon",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "nmaxon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698451510.851329",
+        "parent_user_id": "U05DD0R44G5",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05BBQDP59N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2405C817-406D-4FB9-95C4-B4B487BB841B",
+        "type": "message",
+        "text": "Tonight was fun, Tulga, thank you!",
+        "user": "U03LK52VCQ2",
+        "ts": "1698461766.892429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Zey+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tonight was fun, Tulga, thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698432176.776169",
+        "parent_user_id": "U03L4GQK4KZ"
+    },
+    {
+        "client_msg_id": "E6B2FE10-AB8B-4AE8-8CB1-27D139C2ADDC",
+        "type": "message",
+        "text": "It’s time to start rehearsing for the annual MBA Christmas program!! <@U05AN3RPDFU> and I are compiling the program and we are now looking for musicians of any type (vocals, instrumentalists) who’d like to perform a number in the program! We’ll have space for about 4 or 5 songs, PLUS there will be a choir (more info soon) for any and all who like to sing! If you’re interested, either DM me or respond in thread and we’ll get you more info soon. ALSO—if you know anyone in the program who’s a good musician, feel free to let us know! DECK THE HALLS!!!",
+        "user": "U03LK5045V0",
+        "ts": "1698468797.137779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "htbVD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " time to start rehearsing for the annual MBA Christmas program!! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05AN3RPDFU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I are compiling the program and we are now looking for musicians of any type (vocals, instrumentalists) who’d like to perform a number in the program"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "We’ll have"
+                            },
+                            {
+                                "type": "text",
+                                "text": " space for about 4 or 5 songs, PLUS there will be a choir (more info soon) for any and all who like to sing! If you’re interested, either DM me or respond in thread and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "we’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " get you more info soon"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " ALSO"
+                            },
+                            {
+                                "type": "text",
+                                "text": "—"
+                            },
+                            {
+                                "type": "text",
+                                "text": "if you know anyone in the program who’s a good musician, feel free to let us know! DECK THE HALLS!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b0a4fbd21f41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-25\/3705740993831_b0a4fbd21f41527354e8_72.jpg",
+            "first_name": "Cristian",
+            "real_name": "Cristian Torres",
+            "display_name": "Cristian Torres",
+            "team": "T0ZBAEL59",
+            "name": "cntorres",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698468797.137779",
+        "reply_count": 14,
+        "reply_users_count": 13,
+        "latest_reply": "1698701991.253119",
+        "reply_users": [
+            "U05AK5GQJ5B",
+            "U03L4GQK4KZ",
+            "U05MZL07Q78",
+            "U05H8SL2HFE",
+            "U05MZL0DLVC",
+            "U03LK5045V0",
+            "U03LCGQCM2S",
+            "U03LK3D5N2X",
+            "U03LCGM9XML",
+            "U03LK4YF3A6",
+            "U05B0NFT057",
+            "U03LXQLBGCR",
+            "U05BBQG6MKJ"
+        ],
+        "replies": [
+            {
+                "user": "U05AK5GQJ5B",
+                "ts": "1698471011.090279"
+            },
+            {
+                "user": "U03L4GQK4KZ",
+                "ts": "1698506484.536199"
+            },
+            {
+                "user": "U05MZL07Q78",
+                "ts": "1698517959.685619"
+            },
+            {
+                "user": "U05H8SL2HFE",
+                "ts": "1698518008.865769"
+            },
+            {
+                "user": "U05MZL0DLVC",
+                "ts": "1698518071.894099"
+            },
+            {
+                "user": "U03LK5045V0",
+                "ts": "1698521048.572909"
+            },
+            {
+                "user": "U03LCGQCM2S",
+                "ts": "1698531661.004099"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1698534699.431999"
+            },
+            {
+                "user": "U03LCGM9XML",
+                "ts": "1698534759.682649"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1698534841.644769"
+            },
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1698539936.733089"
+            },
+            {
+                "user": "U05B0NFT057",
+                "ts": "1698551467.892679"
+            },
+            {
+                "user": "U03LXQLBGCR",
+                "ts": "1698559279.504339"
+            },
+            {
+                "user": "U05BBQG6MKJ",
+                "ts": "1698701991.253119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "christmas_tree",
+                "users": [
+                    "U05A7HE11LP",
+                    "U03LMGYLSR2",
+                    "U03LK39PKRR",
+                    "U05AN3RPDFU",
+                    "U03LXQBTQJV",
+                    "U03L4GT3B55",
+                    "U05H6DGRMRQ",
+                    "U05H8SL2HFE",
+                    "U03LK3D5N2X",
+                    "U03L4GUGBF1",
+                    "U03PKR5GQUQ",
+                    "U05GRT17A87",
+                    "U05BBQFJ056"
+                ],
+                "count": 13
+            },
+            {
+                "name": "musical_score",
+                "users": [
+                    "U03PKR5GQUQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83558C18-9338-425C-B4A6-DCAF06CF42F7",
+        "type": "message",
+        "text": "Can musicians be spouses or just students?",
+        "user": "U05AK5GQJ5B",
+        "ts": "1698471011.090279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cVTt1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can musicians be spouses or just students?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21974fb52c29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-13\/5916046228688_21974fb52c299059b822_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Nelson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mdnelson07",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05AK5GQJ5B",
+            "ts": "1698471023.000000"
+        },
+        "thread_ts": "1698468797.137779",
+        "parent_user_id": "U03LK5045V0"
+    }
+]

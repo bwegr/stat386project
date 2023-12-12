@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "078c17a5-04ef-4bd6-a593-a45493c55be4",
+        "type": "message",
+        "text": "I will love that after this semester :scream:",
+        "user": "U05AN3R7398",
+        "ts": "1697818991.989929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XQcN6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will love that after this semester "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "scream",
+                                "unicode": "1f631"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "21252f17df03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5386423358544_21252f17df039282a4d4_72.jpg",
+            "first_name": "Helaman",
+            "real_name": "Helaman Cheng",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "helamanofrm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697755096.219269",
+        "parent_user_id": "U05BBQD8SKS",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

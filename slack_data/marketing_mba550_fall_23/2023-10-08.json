@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "914d7874-ca58-4795-a69b-ca40b3caf525",
+        "type": "message",
+        "text": "Yes, it's the same reading for all 3 days. Good question! I checked back on my schedule from last year and we had the same thing. It is a bit of a monster of a reading, but we will be going over brand (positioning especially) for the next few classes.",
+        "user": "U03L57R4HN3",
+        "ts": "1696778231.789379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z\/92M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, it's the same reading for all 3 days. Good question! I checked back on my schedule from last year and we had the same thing. It is a bit of a monster of a reading, but we will be going over brand (positioning especially) for the next few classes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696683601.110089",
+        "parent_user_id": "U05AN015NSX",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN015NSX",
+                    "U05AK5J04P7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

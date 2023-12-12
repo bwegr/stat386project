@@ -1,0 +1,156 @@
+[
+    {
+        "client_msg_id": "24b40c28-98a0-4974-ae94-bcf8bd3b3264",
+        "type": "message",
+        "text": "Looks like we can't \"formally\" turn in our retailers assignment into Canvas. Our team just emailed it to Bond. Hope everyone gets some sleep tonight.",
+        "user": "U03L57R4HN3",
+        "ts": "1698727938.463019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mgAPc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like we can't \"formally\" turn in our retailers assignment into Canvas. Our team just emailed it to Bond. Hope everyone gets some sleep tonight."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698727938.463019",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1698729456.727439",
+        "reply_users": [
+            "U03LK4YF3A6"
+        ],
+        "replies": [
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1698729442.129059"
+            },
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1698729456.727439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1df92011-a9dd-490d-b16b-83f90b4378a2",
+        "type": "message",
+        "text": "burning the midnight oil, we are!",
+        "user": "U03LK4YF3A6",
+        "ts": "1698729442.129059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CrHaj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "burning the midnight oil, we are!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698727938.463019",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "bot_id": "BQ1LN3JTY",
+        "type": "message",
+        "text": "this is fine",
+        "user": "U03LK4YF3A6",
+        "ts": "1698729456.727439",
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "ICovW",
+                "image_url": "https:\/\/media3.giphy.com\/media\/9M5jK4GXmD5o1irGrF\/giphy.gif?cid=6104955eo4fl9ll7gguui4qcy08t1hftll5uobet2k71p2rz&ep=v1_gifs_translate&rid=giphy.gif&ct=g",
+                "alt_text": "this is fine",
+                "title": {
+                    "type": "plain_text",
+                    "text": "this is fine",
+                    "emoji": true
+                },
+                "image_width": 436,
+                "image_height": 500,
+                "image_bytes": 801468,
+                "is_animated": true,
+                "fallback": "436x500px image"
+            },
+            {
+                "type": "context",
+                "block_id": "FLXi7",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "bot_profile": {
+            "id": "BQ1LN3JTY",
+            "app_id": "A0F827J2C",
+            "name": "giphy",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1572462548,
+            "team_id": "T0ZBAEL59"
+        },
+        "thread_ts": "1698727938.463019",
+        "parent_user_id": "U03L57R4HN3"
+    }
+]

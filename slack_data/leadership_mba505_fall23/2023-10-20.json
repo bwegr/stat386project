@@ -1,0 +1,227 @@
+[
+    {
+        "client_msg_id": "A0F26964-06A7-4646-9759-F8A6300C3E61",
+        "type": "message",
+        "text": "Heads up for all the people taking the midterm on campus. If you haven’t taken a test on proctorio before, it tracks all sound and movement, so you have to be really careful with where you take it. I’d recommend booking a single user study room in the library to take it so no one bothers you! Link: <https:\/\/lib.byu.edu\/services\/study-areas\/|https:\/\/lib.byu.edu\/services\/study-areas\/>",
+        "user": "U05BBQDP59N",
+        "ts": "1697838107.213499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x8xiA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heads up for all the people taking the midterm on campus. If you haven’t taken a test on proctorio before, it tracks all sound and movement, so you have to be really careful with where you take it. I’d recommend booking a single user study room in the library to take it so no one bothers you! Link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lib.byu.edu\/services\/study-areas\/",
+                                "text": "https:\/\/lib.byu.edu\/services\/study-areas\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9d365c02ed39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-08\/5714397176628_9d365c02ed398a6d3fb4_72.png",
+            "first_name": "Kjerstin",
+            "real_name": "Kjerstin Roberts",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "robertskjerstin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697838107.213499",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1698009392.542119",
+        "reply_users": [
+            "U05A7HE11LP",
+            "U05BBQDP59N",
+            "U05DD0R2J6R",
+            "U05AK5HTE77"
+        ],
+        "replies": [
+            {
+                "user": "U05A7HE11LP",
+                "ts": "1697842415.386539"
+            },
+            {
+                "user": "U05BBQDP59N",
+                "ts": "1697843055.948509"
+            },
+            {
+                "user": "U05DD0R2J6R",
+                "ts": "1697899065.886619"
+            },
+            {
+                "user": "U05AK5HTE77",
+                "ts": "1698009392.542119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U05AN015NSX",
+                    "U05AFDRFJ3Y",
+                    "U05GRT17A87"
+                ],
+                "count": 3
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U05A7HE11LP",
+                    "U05AK5J04P7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray::skin-tone-3",
+                "users": [
+                    "U05DD0R44G5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05D1CFKBJT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "72D3B05D-272F-44E7-89CE-2E0965842005",
+        "type": "message",
+        "text": "For some reason I thought we were taking this in class? Can we take it any time anywhere? ",
+        "user": "U05A7HE11LP",
+        "ts": "1697842415.386539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EpeKC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For some reason I thought we were taking this in class? Can we take it any time anywhere? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86bcefec8c8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5368002098996_86bcefec8c8e72c32fcb_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Belliston",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "alexisbelliston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697838107.213499",
+        "parent_user_id": "U05BBQDP59N",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN3TCTSN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0992309B-5B80-419D-A62F-5A664153CA45",
+        "type": "message",
+        "text": "<@U05A7HE11LP> she just sent an email that it’s on proctorio. You have any time from 7am until 11:59pm to take it:)",
+        "user": "U05BBQDP59N",
+        "ts": "1697843055.948509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oTm+p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05A7HE11LP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " she just sent an email that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on proctorio"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " You have any time from 7am until 11:59pm to take it:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9d365c02ed39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-08\/5714397176628_9d365c02ed398a6d3fb4_72.png",
+            "first_name": "Kjerstin",
+            "real_name": "Kjerstin Roberts",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "robertskjerstin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697838107.213499",
+        "parent_user_id": "U05BBQDP59N",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05A7HE11LP",
+                    "U05AN3TCTSN"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

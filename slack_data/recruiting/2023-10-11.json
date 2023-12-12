@@ -1,0 +1,703 @@
+[
+    {
+        "type": "message",
+        "text": "Hey Everyone! We have a great MBA networking event coming up! Oct 24th at 6pm in the Hinckley Building East Conference room. There will be all sorts of great companies represented there! Including but not limited to McKinsey, Bain, PWC, Slalom, Cicero, Bill, and many more! We are inviting all past MBA SCA Alumni and friends of the program that what to see BYU MBA's get into strategy or consulting roles!\n\nThere will be a soda bar and Hors d'oeuvres\nFree for SCA members and $3 for non-members\nBusiness Casual",
+        "files": [
+            {
+                "id": "F060QCAS4P4",
+                "created": 1697040594,
+                "timestamp": 1697040594,
+                "name": "IMG_0082.png",
+                "title": "IMG_0082",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 791469,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060QCAS4P4\/img_0082.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060QCAS4P4\/download\/img_0082.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060QCAS4P4-2c9fe7f848\/img_0082_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060QCAS4P4-2c9fe7f848\/img_0082_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060QCAS4P4-2c9fe7f848\/img_0082_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060QCAS4P4-2c9fe7f848\/img_0082_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 269,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060QCAS4P4-2c9fe7f848\/img_0082_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060QCAS4P4-2c9fe7f848\/img_0082_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 404,
+                "original_w": 793,
+                "original_h": 445,
+                "thumb_tiny": "AwAaADBwl+lIHAk3E4B9BUQU+opwjLd6q4EnmKf4z\/3zR5i\/3j167ahHFAJHTNUSTb1H8eeP7tIZF2n5iTj+7Tdx7k0hbg0gIwwGCV496cJSKiz8v4UEnnntUFEhYE4PWkDEdDTfSirQmSbz\/eoycH5uKRaQ9DTEf\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F060QCAS4P4\/img_0082.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060QCAS4P4-ce274ff1b5",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03NW11JH19",
+        "display_as_bot": false,
+        "team": "T0ZBAEL59",
+        "ts": "1697040598.167679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kFO2T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Everyone! We have a great MBA networking event coming up! Oct 24th at 6pm in the Hinckley Building East Conference room. There will be all sorts of great companies represented there! Including but not limited to McKinsey, Bain, PWC, Slalom, Cicero, Bill, and many more! We are inviting all past MBA SCA Alumni and friends of the program that what to see BYU MBA's get into strategy or consulting roles!"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "There will be a soda bar and Hors d'oeuvres"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Free for SCA members and $3 for non-members"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Business Casual"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "E886AAC1-CADF-4D93-9EDB-098CA6926698",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697040598.167679",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697046888.664049",
+        "reply_users": [
+            "U03LK3EKMNF"
+        ],
+        "replies": [
+            {
+                "user": "U03LK3EKMNF",
+                "ts": "1697046888.664049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U03LK56AUHG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LK56AUHG",
+                    "U05BBQFJ056"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1F15106D-A7E0-470D-9FA4-F26709FD00F1",
+        "type": "message",
+        "text": "Attention everyone! Slalom Consulting is coming to do an info session on *Wednesday 18th at 6 p.m*. in room TNBR W122. Slalom is an international based consulting firm that does all sorts of consulting. Slalom in Salt Lake focuses on Workforce Transformation. Slalom is SLC is open to full-time students and slalom in the US and globally is looking for interns and full-time.\n\n <https:\/\/www.slalom.com\/|https:\/\/www.slalom.com\/>\n<https:\/\/www.linkedin.com\/company\/slalom-consulting\/|https:\/\/www.linkedin.com\/company\/slalom-consulting\/>",
+        "user": "U03NW11JH19",
+        "ts": "1697041194.866499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wr4PS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Attention everyone! Slalom Consulting is coming to do an info session on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Wednesday 18th at 6 p.m",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". in room TNBR W122. Slalom is an international based consulting firm that does all sorts of consulting. Slalom in Salt Lake focuses on Workforce Transformation. Slalom is SLC is open to full-time students and slalom in the US and globally is looking for interns and full-time."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.slalom.com\/",
+                                "text": "https:\/\/www.slalom.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                                "text": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.slalom.com\/",
+                "thumb_url": "https:\/\/www.slalom.com\/sites\/default\/files\/2022-10\/refresh22-home-seo-810x560.jpg",
+                "thumb_width": 810,
+                "thumb_height": 560,
+                "id": 1,
+                "original_url": "https:\/\/www.slalom.com\/",
+                "fallback": "Slalom",
+                "text": "Slalom is a global consulting firm focused on strategy, technology, and business transformation.",
+                "title": "Slalom",
+                "title_link": "https:\/\/www.slalom.com\/",
+                "service_name": "Slalom"
+            },
+            {
+                "from_url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/D560BAQGQfV2I8gBttg\/company-logo_200_200\/0\/1697004164612?e=2147483647&v=beta&t=7sEg-4VDR1_u7UDbsAxzmxGkUot183NFsRxss5sEtD0",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 2,
+                "original_url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "fallback": "Slalom | LinkedIn",
+                "text": "Slalom | 218,855 followers on LinkedIn. We help people and organizations dream bigger, move faster, and build better tomorrows for all. | Slalom is a purpose-led, global business and technology consulting company. Our purpose—to help people and organizations dream bigger, move faster, and build better tomorrows for all—guides everything we do. And our north star is our vision of a world in which each person has the opportunity to love their life and work.",
+                "title": "Slalom | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ski",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "skier",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "80908a05-2169-4acc-8229-a69ab1ce0410",
+        "type": "message",
+        "text": "<https:\/\/www.resilienceleadershipcenter.com\/|The Center for Resilience Leadership> (located in provo canyon) is looking for MBA interns for next summer (and perhaps someone to start getting their feet wet in the organization prior to summer). Ideally candidates will have taken or is taking MBA 535 (Kim Clark’s class). Open to first or second years. The job would be relating to applying AI to psychotherapy in Utah county. Please contact Doug Orton for more details: <tel:2022583711|202-258-3711>",
+        "user": "U03LMGXA3FW",
+        "ts": "1697042906.978919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U7Flv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.resilienceleadershipcenter.com\/",
+                                "text": "The Center for Resilience Leadership"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (located in provo canyon) is looking for MBA interns for next summer (and perhaps someone to start getting their feet wet in the organization prior to summer). Ideally candidates will have taken or is taking MBA 535 (Kim Clark’s class). Open to first or second years. The job would be relating to applying AI to psychotherapy in Utah county. Please contact Doug Orton for more details: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:2022583711",
+                                "text": "202-258-3711"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "373602dff593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693309073190_373602dff593ea263f9b_72.png",
+            "first_name": "Samantha",
+            "real_name": "Samantha Turley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "samiturley21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/static.wixstatic.com\/media\/3bc9d1_b995993f2f034bf1a2b41b2be40a6227%7Emv2.png\/v1\/fit\/w_2500,h_1330,al_c\/3bc9d1_b995993f2f034bf1a2b41b2be40a6227%7Emv2.png",
+                "image_width": 137,
+                "image_height": 137,
+                "image_bytes": 9515,
+                "from_url": "https:\/\/www.resilienceleadershipcenter.com\/",
+                "service_icon": "https:\/\/static.wixstatic.com\/media\/3bc9d1_b995993f2f034bf1a2b41b2be40a6227%7Emv2.png\/v1\/fill\/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01\/3bc9d1_b995993f2f034bf1a2b41b2be40a6227%7Emv2.png",
+                "id": 1,
+                "original_url": "https:\/\/www.resilienceleadershipcenter.com\/",
+                "fallback": "CRL: Home | CRL",
+                "title": "Home | CRL",
+                "title_link": "https:\/\/www.resilienceleadershipcenter.com\/",
+                "service_name": "CRL"
+            }
+        ],
+        "thread_ts": "1697042906.978919",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697043658.408669",
+        "reply_users": [
+            "U03LXQCEVKK"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1697043658.408669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1697043658.408669"
+    },
+    {
+        "client_msg_id": "fafb359c-3420-443a-926d-16679148edca",
+        "type": "message",
+        "text": "interested! reached out!",
+        "user": "U03LXQCEVKK",
+        "ts": "1697043658.408669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tHWXR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "interested! reached out!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LXQCEVKK",
+            "ts": "1697043870.000000"
+        },
+        "thread_ts": "1697042906.978919",
+        "parent_user_id": "U03LMGXA3FW"
+    },
+    {
+        "client_msg_id": "f450b136-8df2-4ef8-ace4-59fea72294f3",
+        "type": "message",
+        "text": "Hard to keep track of everything on here, but figured if it was already posted it deserves a repost!\n\nBrand manager opportunity at Frazil! FT Role\n\n<https:\/\/frazil.pinpointhq.com\/postings\/28b15098-ac88-4838-bc53-0cbb512fa39a>",
+        "user": "U03LXQCEVKK",
+        "ts": "1697045773.844119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SYg59",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hard to keep track of everything on here, but figured if it was already posted it deserves a repost!\n\nBrand manager opportunity at Frazil! FT Role\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/frazil.pinpointhq.com\/postings\/28b15098-ac88-4838-bc53-0cbb512fa39a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/app.pinpointhq.com\/rails\/active_storage\/blobs\/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK05FVnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--916ca99e16f365cf6dc6ac23a20de9d510094ee3\/open_graph.png",
+                "image_width": 1200,
+                "image_height": 627,
+                "image_bytes": 649017,
+                "from_url": "https:\/\/frazil.pinpointhq.com\/postings\/28b15098-ac88-4838-bc53-0cbb512fa39a",
+                "service_icon": "https:\/\/res.cloudinary.com\/pinpointhq\/image\/upload\/c_fill,f_auto,h_32,q_auto,w_32\/v1\/uploads\/production\/aaka4z8rgx0u8qdymrso.png",
+                "id": 1,
+                "original_url": "https:\/\/frazil.pinpointhq.com\/postings\/28b15098-ac88-4838-bc53-0cbb512fa39a",
+                "fallback": "Brand Manager",
+                "text": "Job Opening: Brand Manager at Frazil in Salt Lake City, Utah.",
+                "title": "Brand Manager",
+                "title_link": "https:\/\/frazil.pinpointhq.com\/postings\/28b15098-ac88-4838-bc53-0cbb512fa39a",
+                "service_name": "frazil.pinpointhq.com"
+            }
+        ],
+        "thread_ts": "1697045773.844119",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697055882.238029",
+        "reply_users": [
+            "U03LXQE14NM"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQE14NM",
+                "ts": "1697055882.238029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "342ad830-526f-44bd-aaef-f01f2f59ba2e",
+        "type": "message",
+        "text": "Dude this will be awesome! It's hard to get all of these firms together just for MBAs, should be a great opportunity to get the foot in the door!",
+        "user": "U03LK3EKMNF",
+        "ts": "1697046888.664049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KIQyB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dude this will be awesome! It's hard to get all of these firms together just for MBAs, should be a great opportunity to get the foot in the door!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "708e718cb860",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-13\/3950037790081_708e718cb8606d3fadb8_72.png",
+            "first_name": "Jake",
+            "real_name": "Jake Preslar",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jacobpres4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697040598.167679",
+        "parent_user_id": "U03NW11JH19"
+    },
+    {
+        "client_msg_id": "32207feb-d78b-4750-b656-d16042b32dde",
+        "type": "message",
+        "text": "Sensiba is here in the atrium today until 2pm!\nThis is a tax and audit consulting company, and they have internships and full time opportunities! They consider international talent :wink:",
+        "user": "U03LMGSGBQC",
+        "ts": "1697047916.655229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ndjgg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sensiba is here in the atrium today until 2pm!\nThis is a tax and audit consulting company, and they have internships and full time opportunities! They consider international talent "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "76a8dfc4bba0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-28\/4574292020339_76a8dfc4bba0c824500d_72.jpg",
+            "first_name": "Caio",
+            "real_name": "Caio Andrezzo",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andrezzocorp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61DB91EB-E69E-4867-BBDE-5BDB4D7A9569",
+        "type": "message",
+        "text": "Awesome opportunity to work with a really cool Venture fund: <https:\/\/airtable.com\/appsSpsu09Eaw8dj8\/shrNB6sMsQaIJgaHP|https:\/\/airtable.com\/appsSpsu09Eaw8dj8\/shrNB6sMsQaIJgaHP>",
+        "user": "U03LG7BV35K",
+        "ts": "1697053300.447839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hNo6U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome opportunity to work with a really cool Venture fund: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/airtable.com\/appsSpsu09Eaw8dj8\/shrNB6sMsQaIJgaHP",
+                                "text": "https:\/\/airtable.com\/appsSpsu09Eaw8dj8\/shrNB6sMsQaIJgaHP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a65b94801176",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-05\/3784764901472_a65b94801176e0269011_72.png",
+            "first_name": "Hiwa",
+            "real_name": "Hiwa Naeʻole",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "j.w.naeole",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/static.airtable.com\/images\/oembed\/airtable.png",
+                "image_width": 1200,
+                "image_height": 628,
+                "image_bytes": 254455,
+                "from_url": "https:\/\/airtable.com\/appsSpsu09Eaw8dj8\/shrNB6sMsQaIJgaHP",
+                "service_icon": "https:\/\/airtable.com\/images\/favicon\/baymax\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/airtable.com\/appsSpsu09Eaw8dj8\/shrNB6sMsQaIJgaHP",
+                "fallback": "Airtable: Airtable | Everyone's app platform",
+                "text": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+                "title": "Airtable | Everyone's app platform",
+                "title_link": "https:\/\/airtable.com\/appsSpsu09Eaw8dj8\/shrNB6sMsQaIJgaHP",
+                "service_name": "Airtable"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62294DF2-2ED1-4B52-AED2-D8B0F99281E0",
+        "type": "message",
+        "text": "<@U03PKR5DAQY> ",
+        "user": "U03LXQE14NM",
+        "ts": "1697055882.238029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5b9nm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03PKR5DAQY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc176dbcf62e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-23\/3726381961473_cc176dbcf62ebe91e48a_72.jpg",
+            "first_name": "Austin",
+            "real_name": "Austin Schofield",
+            "display_name": "Austin Schofield",
+            "team": "T0ZBAEL59",
+            "name": "schofieldda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697045773.844119",
+        "parent_user_id": "U03LXQCEVKK",
+        "reactions": [
+            {
+                "name": "parrotfast",
+                "users": [
+                    "U03PKR5DAQY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

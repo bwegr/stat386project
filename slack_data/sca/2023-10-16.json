@@ -1,0 +1,213 @@
+[
+    {
+        "client_msg_id": "8102ae3c-1206-4c11-af24-5a69d31e15e5",
+        "type": "message",
+        "text": "Everyone, if you would like some extra practice with casing skills including but not limited to math, graph\/charts, frameworks, ect. The below website is super helpful! There is a membership fee which is about $35 or a trial you could use. I used it and it was super helpful!\n\n<https:\/\/www.rocketblocks.me\/>",
+        "user": "U03NW11JH19",
+        "ts": "1697470123.412589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y27k1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Everyone, if you would like some extra practice with casing skills including but not limited to math, graph\/charts, frameworks, ect. The below website is super helpful! There is a membership fee which is about $35 or a trial you could use. I used it and it was super helpful!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rocketblocks.me\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.rocketblocks.me\/images\/blog\/cards\/rocketblocks-interview-prep.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 88538,
+                "from_url": "https:\/\/www.rocketblocks.me\/",
+                "service_icon": "https:\/\/www.rocketblocks.me\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.rocketblocks.me\/",
+                "fallback": "RocketBlocks: Interview prep for consulting and tech",
+                "text": "Interview prep for consulting and tech careers. Built by experts from Google and McKinsey. Used by candidates everywhere, from Stanford to Tsinghua.",
+                "title": "RocketBlocks: Interview prep for consulting and tech",
+                "title_link": "https:\/\/www.rocketblocks.me\/",
+                "service_name": "rocketblocks.me"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "711bfcbc-5733-40f5-808e-28a16bd83eb2",
+        "type": "message",
+        "text": "Reminder everyone! Slalom Consulting is coming to do an info session on *Wednesday 18th at 6 p.m*. in room TNBR W122. Slalom is an international based consulting firm that does all sorts of consulting. Slalom in Salt Lake focuses on Workforce Transformation. (which to them means any change that a company is working through) Slalom is SLC is open to *full-time students and slalom in the US and globally is looking for interns and full-time.*\n\n <https:\/\/www.slalom.com\/>\n<https:\/\/www.linkedin.com\/company\/slalom-consulting\/>\n\n\n*Slalom*\n*<https:\/\/www.slalom.com\/|Slalom>*\nSlalom is a global consulting firm focused on strategy, technology, and business transformation.\n\n\n*<http:\/\/linkedin.com|linkedin.com>*\n*<https:\/\/www.linkedin.com\/company\/slalom-consulting\/|Slalom | LinkedIn>*\nSlalom | 218,807 followers on LinkedIn. We help people and organizations dream bigger, move faster, and build better tomorrows for all. | Slalom is a purpose-led, global business and technology consulting company. Our purpose—to help people and organizations dream bigger, move faster, and build better tomorrows for all—guides everything we do. And our north star is our vision of a world in which each person has the opportunity to love their life and work.",
+        "user": "U03NW11JH19",
+        "ts": "1697470229.367309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EjVjx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reminder everyone! Slalom Consulting is coming to do an info session on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Wednesday 18th at 6 p.m",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". in room TNBR W122. Slalom is an international based consulting firm that does all sorts of consulting. Slalom in Salt Lake focuses on Workforce Transformation. (which to them means any change that a company is working through) Slalom is SLC is open to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "full-time students and slalom in the US and globally is looking for interns and full-time.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.slalom.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slalom",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.slalom.com\/",
+                                "text": "Slalom",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSlalom is a global consulting firm focused on strategy, technology, and business transformation.\n\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/linkedin.com",
+                                "text": "linkedin.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                                "text": "Slalom | LinkedIn",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSlalom | 218,807 followers on LinkedIn. We help people and organizations dream bigger, move faster, and build better tomorrows for all. | Slalom is a purpose-led, global business and technology consulting company. Our purpose—to help people and organizations dream bigger, move faster, and build better tomorrows for all—guides everything we do. And our north star is our vision of a world in which each person has the opportunity to love their life and work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.slalom.com\/",
+                "thumb_url": "https:\/\/www.slalom.com\/sites\/default\/files\/2022-10\/refresh22-home-seo-810x560.jpg",
+                "thumb_width": 810,
+                "thumb_height": 560,
+                "id": 1,
+                "original_url": "https:\/\/www.slalom.com\/",
+                "fallback": "Slalom",
+                "text": "Slalom is a global consulting firm focused on strategy, technology, and business transformation.",
+                "title": "Slalom",
+                "title_link": "https:\/\/www.slalom.com\/",
+                "service_name": "Slalom"
+            },
+            {
+                "from_url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/D560BAQGFRbh3xhok1g\/company-logo_200_200\/0\/1697124516602?e=2147483647&v=beta&t=eW1Z3lGpYM5BjeUGfyWmX2YlTdbOIebbWP0mYJ_oI1g",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 2,
+                "original_url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "fallback": "Slalom | LinkedIn",
+                "text": "Slalom | 219,313 followers on LinkedIn. We help people and organizations dream bigger, move faster, and build better tomorrows for all. | Slalom is a purpose-led, global business and technology consulting company. Our purpose—to help people and organizations dream bigger, move faster, and build better tomorrows for all—guides everything we do. And our north star is our vision of a world in which each person has the opportunity to love their life and work.",
+                "title": "Slalom | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "service_name": "linkedin.com"
+            }
+        ]
+    }
+]

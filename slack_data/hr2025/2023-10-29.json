@@ -1,0 +1,196 @@
+[
+    {
+        "client_msg_id": "07771DD2-935D-4E02-9A26-DCC478A5663C",
+        "type": "message",
+        "text": "Below is the info for the *HR Advisory Board Conference on 11\/17*! This will take the place of our HR Pro Sem that day :slightly_smiling_face:\n\nThe BYU Human Resources Advisory Board is hosting a conference to meet with you, here at BYU, *November 17, 2023*. A box lunch will be catered by Brick Oven after the opening session where you will get to meet in small groups with the Advisory Board members and ask them any questions you would like.\n\n\tDuring the main breakout sessions, they will speak on topics such as:\n1)      Building a successful career in HR and navigating the real world\n2)      How to build your brand, network, and trust as an HR professional\n3)      Becoming a strategic HR partner mean by balancing strategy with operational excellence\n4)      Learning the importance of Change Management, AI\/Chat GPT and the impact of technology in HR\n5)      The art of becoming a leader and developing leaders\n6)      Hybrid work – implications on you AND implications on the employee experience\n\n\tWe ask that you *<https:\/\/marriott.byu.edu\/event\/obhrstdntconf2023|register here> BY NOV 1ST* so we may order lunch for you. Please take a minute to <https:\/\/marriott.byu.edu\/event\/obhrstdntconf2023\/speakers|read up on each Advisory Board Member> to see what companies they work for. It’s a great opportunity to network with them.",
+        "user": "U03LK52VCQ2",
+        "ts": "1698588172.246459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "faCFw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Below is the info for the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "HR Advisory Board Conference on 11\/17",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "! This will take the place of our HR Pro Sem "
+                            },
+                            {
+                                "type": "text",
+                                "text": "that day "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "The BYU Human Resources Advisory Board is hosting a conference to meet with you, here at BYU, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "November 17, 2023",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". A box lunch will be catered by Brick Oven after the opening session where you will get to meet in small groups with the Advisory Board members and ask them any questions you would like."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\tDuring the main breakout sessions, they will speak on topics such as:"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1)      Building a successful career in HR and navigating the real world"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2)      How to build your brand, network, and trust as an HR professional"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3)      Becoming a strategic HR partner mean by balancing strategy with operational excellence"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4)      Learning the importance of Change Management, AI\/Chat GPT and the impact of technology in HR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5)      The art of becoming a leader and developing leaders"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6)      Hybrid work – implications on you AND implications on the employee experience"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\tWe ask that you "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/marriott.byu.edu\/event\/obhrstdntconf2023",
+                                "text": "register here",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " BY NOV 1ST",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so we may order lunch for you. Please take a minute to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/marriott.byu.edu\/event\/obhrstdntconf2023\/speakers",
+                                "text": "read up on each Advisory Board Member"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to see what companies they work for. It’s a great opportunity to network with them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN015NSX",
+                    "U05AN3RPDFU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

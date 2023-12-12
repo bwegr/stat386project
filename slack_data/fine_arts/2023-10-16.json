@@ -1,0 +1,156 @@
+[
+    {
+        "client_msg_id": "A824738F-3195-4E6F-BB62-048833E5F0B5",
+        "type": "message",
+        "text": "This is very short notice, but our stake is putting on an FHE tonight that’s a devotional with well-known LDS artist Dan Wilson. I figured some fine arts folk may want to join in! It starts at 7:00 at 352 900 E, Provo, UT 84606. Our ward will be there at 6 to eat pizza, so you could join us early too!",
+        "user": "U03LXQCJA81",
+        "ts": "1697497310.362209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x\/uDa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is very short notice, but our stake is putting on an FHE tonight that’s a devotional with well-known LDS artist Dan Wilson"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " I figured some fine arts folk may want to join in! It starts at 7:00 at 352 900 E, Provo, UT 84606. Our ward will be there at 6 to eat pizza, so you could join us early too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Tomorrow instead of devo BYU is having its homecoming spectacular! It's a cool event with several of the performing groups on campus so I'd highly recommend going!",
+        "files": [
+            {
+                "id": "F0617FR6PLN",
+                "created": 1697503902,
+                "timestamp": 1697503902,
+                "name": "Screenshot_20231016-185131.png",
+                "title": "Screenshot_20231016-185131.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LK3D5N2X",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 1760335,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0617FR6PLN\/screenshot_20231016-185131.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0617FR6PLN\/download\/screenshot_20231016-185131.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617FR6PLN-38156a0bc2\/screenshot_20231016-185131_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617FR6PLN-38156a0bc2\/screenshot_20231016-185131_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617FR6PLN-38156a0bc2\/screenshot_20231016-185131_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 171,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617FR6PLN-38156a0bc2\/screenshot_20231016-185131_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 227,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617FR6PLN-38156a0bc2\/screenshot_20231016-185131_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617FR6PLN-38156a0bc2\/screenshot_20231016-185131_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 341,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617FR6PLN-38156a0bc2\/screenshot_20231016-185131_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1689,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617FR6PLN-38156a0bc2\/screenshot_20231016-185131_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 455,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0617FR6PLN-38156a0bc2\/screenshot_20231016-185131_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 485,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 2280,
+                "thumb_tiny": "AwAwABaYWcJTcUA\/CmC2gJxtA\/Kg3EiybFH0y2M1NE7yRlmypBxiqEQy2caY+VTn2pn2eP8AuL+VWZAdoYsT25plNCGbEd8seQOlSRJsTCD5c+tQKC3IU9eoFSxyGNChU9c8CpuMkfdt+YDGe1R5FDz7kxtYDPemeZVJiIxLNGoVFJAHbpU0E3yuZflYnjNZvnyY++1Bllxyx\/KpKNK5YSxKI2XOcmqvlSeoqr5r4+8aPNf+8aLiP\/\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK3D5N2X\/F0617FR6PLN\/screenshot_20231016-185131.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0617FR6PLN-ec5d17faaf",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LK3D5N2X",
+        "display_as_bot": false,
+        "ts": "1697503942.248659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WsxZf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tomorrow instead of devo BYU is having its homecoming spectacular! It's a cool event with several of the performing groups on campus so I'd highly recommend going!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "94bae679-1b35-4e35-8863-6b2a7c260437",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LXQCJA81",
+                    "U03L4GP8ZMM",
+                    "U03LXQLBGCR"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U03TVL5E0M6",
+                    "U03LXQLBGCR",
+                    "U03LMGSGBQC"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

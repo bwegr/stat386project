@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "8f93829f-3cd6-4920-9c7d-5e66c70d94fe",
+        "type": "message",
+        "text": "*Homecoming Finance Pro-Sem: Interview Prep*\n\nThis Friday we will have an interview prep Pro-Sem. As it’s Homecoming, first years will have the great opportunity to practice with and meet second years and alumni.\n\nAlso because it’s Homecoming, it will be fun! Since it’s *from 1-2:15pm* there’s no need for breakfast, so we will have candy and door prizes instead. Come for a laid-back, sweet time with friends, networking, and interview practice. We will still be in w208 and you are welcome to come even if you didn’t register for the full homecoming event. See you Friday!",
+        "user": "U03L4GN325D",
+        "ts": "1697594279.302959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WZkt1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Homecoming Finance Pro-Sem: Interview Prep",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis Friday we will have an interview prep Pro-Sem. As it’s Homecoming, first years will have the great opportunity to practice with and meet second years and alumni.\n\nAlso because it’s Homecoming, it will be fun! Since it’s "
+                            },
+                            {
+                                "type": "text",
+                                "text": "from 1-2:15pm ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "there’s no need for breakfast, so we will have candy and door prizes instead. Come for a laid-back, sweet time with friends, networking, and interview practice. We will still be in w208 and you are welcome to come even if you didn’t register for the full homecoming event. See you Friday!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U05DFQNU4EP",
+                    "U05DD0R44G5"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

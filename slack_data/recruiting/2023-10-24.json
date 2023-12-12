@@ -1,0 +1,453 @@
+[
+    {
+        "client_msg_id": "6C311B1E-1EFB-4C8E-BCBC-BFCF8FEB9483",
+        "type": "message",
+        "text": "Hey Everyone! It’s finally here! There will be companies with full-time and internship opportunities at this networking event today Oct 24th at 6pm in the Hinckley Building East Conference room. We are inviting all past MBA SCA Alumni and friends of the program that what to see BYU MBA's get into strategy or consulting roles!\n\nConsulting Companies committed: *McKinsey, Bain, PwC, Slalom, Cicero, Clozd* (looking to get more to come)\nStrategy Roles\/Companies Committed: *Bill, Dees Limited, School Leadership Alliance, Henry Schein One, Security Metrics, BYU TV* (looking to get more to come)\n\nIf you are interested in Consulting it will be a great opportunity!\n\nIf you are interested in Strategic roles or strategy roles this will be a great opportunity!\n\n*Many of these companies are looking for interns and full-time roles or have connections to opportunities!*\n\nThere will be a soda bar and Hors d'oeuvres\n*NOW FREE for everyone - we have decided to drop the fee (thank you, anonymous supporter)*\nBusiness Casual",
+        "user": "U03NW11JH19",
+        "ts": "1698161864.904019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pVf4c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Everyone! It’s finally here! There will be companies with full-time and internship opportunities at this networking event today Oct 24th at 6pm in the Hinckley Building East Conference room. We are inviting all past MBA SCA Alumni and friends of the program that what to see BYU MBA's get into strategy or consulting roles!"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Consulting Companies committed:"
+                            },
+                            {
+                                "type": "text",
+                                "text": " McKinsey, Bain, PwC, Slalom, Cicero, Clozd",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (looking to get more to come)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Strategy Roles\/Companies Committed: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Bill, Dees Limited, School Leadership Alliance, Henry Schein One, Security Metrics, BYU TV ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(looking to get more to come)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "If you are interested in Consulting it will be a great opportunity!"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "If you are interested in Strategic roles or strategy roles this will be a great opportunity!"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Many of these companies are looking for interns and full-time roles or have connections to opportunities!",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "There will be a soda bar and Hors d'oeuvres"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "NOW FREE for everyone - we have decided to drop the fee (thank you, anonymous supporter)",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Business Casual"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LK3EKMNF",
+                    "U03L4GLKLTZ",
+                    "U05DD0R2J6R"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "055d59ea-28f1-41df-83dd-ba76fef52d74",
+        "type": "message",
+        "text": "Enjoy this beauty\n\n<https:\/\/jobs.disneycareers.com\/job\/celebration\/technology-strategy-mba-intern-disney-parks-experiences-and-products-summer-2024\/391\/56193241888>",
+        "user": "U05AQGJMMT6",
+        "ts": "1698201092.033349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SKnFz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Enjoy this beauty\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.disneycareers.com\/job\/celebration\/technology-strategy-mba-intern-disney-parks-experiences-and-products-summer-2024\/391\/56193241888"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/tbcdn.talentbrew.com\/company\/391\/v3_0\/img\/og-image-ProfessionalInternships.jpg",
+                "image_width": 1600,
+                "image_height": 800,
+                "image_bytes": 428369,
+                "from_url": "https:\/\/jobs.disneycareers.com\/job\/celebration\/technology-strategy-mba-intern-disney-parks-experiences-and-products-summer-2024\/391\/56193241888",
+                "service_icon": "http:\/\/tbcdn.talentbrew.com\/company\/391\/img\/favicon\/favicon-15622.png",
+                "id": 1,
+                "original_url": "https:\/\/jobs.disneycareers.com\/job\/celebration\/technology-strategy-mba-intern-disney-parks-experiences-and-products-summer-2024\/391\/56193241888",
+                "fallback": "Technology Strategy MBA Intern, Disney Parks Experiences and Products, Summer 2024 at DISNEY",
+                "text": "Learn more about and apply for the Technology Strategy MBA Intern, Disney Parks Experiences and Products, Summer 2024 job at DISNEY here.",
+                "title": "Technology Strategy MBA Intern, Disney Parks Experiences and Products, Summer 2024 at DISNEY",
+                "title_link": "https:\/\/jobs.disneycareers.com\/job\/celebration\/technology-strategy-mba-intern-disney-parks-experiences-and-products-summer-2024\/391\/56193241888",
+                "service_name": "jobs.disneycareers.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pleading_face",
+                "users": [
+                    "U03LMGXDFB6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3DBA9693-22EF-4B99-88D8-D1677B893ED0",
+        "type": "message",
+        "text": "<https:\/\/careers.walmart.com\/us\/jobs\/WD1680147-2024-summer-mba-intern-walmart-connect-strategy|https:\/\/careers.walmart.com\/us\/jobs\/WD1680147-2024-summer-mba-intern-walmart-connect-strategy>",
+        "user": "U03PKR5881E",
+        "ts": "1698205143.809959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YqIK7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.walmart.com\/us\/jobs\/WD1680147-2024-summer-mba-intern-walmart-connect-strategy",
+                                "text": "https:\/\/careers.walmart.com\/us\/jobs\/WD1680147-2024-summer-mba-intern-walmart-connect-strategy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/walmart-careers.scdn3.secure.raxcdn.com\/dims4\/default\/8fffb40\/2147483647\/resize\/1600x\/quality\/90\/?url=https%3A%2F%2Fwalmart-careers.scdn3.secure.raxcdn.com%2Ff7%2Fce%2Fd26223244e448f64a3efa3baf79a%2Fwmt-merchheroimage-v2.0.jpg",
+                "image_width": 1600,
+                "image_height": 636,
+                "image_bytes": 160621,
+                "from_url": "https:\/\/careers.walmart.com\/us\/jobs\/WD1680147-2024-summer-mba-intern-walmart-connect-strategy",
+                "service_icon": "https:\/\/careers.walmart.com\/assets\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/careers.walmart.com\/us\/jobs\/WD1680147-2024-summer-mba-intern-walmart-connect-strategy",
+                "fallback": "2024 Summer MBA Intern: Walmart Connect Strategy",
+                "text": "Position Summary...What you'll do...Strategy &amp; Business Development Senior Manager (MBA) - Walmart Connect&amp;nbsp;About WMC&amp;nbsp;Want to change the face of digital advertising? Want to re-imagine how the world's largest omni-channel consumer database can be used to power targeted ad campaigns for the largest brands in the world? We are rethinking digital advertising here at Walmart and are looking for some great people to help make this happen.&amp;nbsp;&amp;nbsp;At Walmart Connect, We connect brands more meaningfully in customers’ everyday lives to accelerate shared growth. As stewards of our brand promise, “Save Money. Live Better,” we work alongside some of the most talented people in the world to engage with the more than 150M households who shop with us each week. This is a unique opportunity to join a high-visibility team with a big impact on our omni-channel business. We believe all digital advertising across search and display, both in-store and online, can be targeted, effective and accountable -- and we have Walmart's retail sales data to prove it&amp;nbsp;&amp;nbsp;Position Summary... What You'll Do...&amp;nbsp;&amp;nbsp;We are looking for a Strategy &amp; Business Development Senior Manager to join Walmart Connect’s (WMC) in-house Strategy team and help define new business opportunities. The WMC Strategy team is envisioning the future of WMC and its important role within Walmart.&amp;nbsp;&amp;nbsp;&amp;nbsp;In this role, you will help us formulate the future of retail advertising by defining and evaluating new strategies and businesses to grow Walmart Connect including partnerships, omnichannel partnerships, pilot program management, and M&amp;A to achieve that growth goal. We will need your strategic and critical-thinking skills to build upon our strengths and complement our offerings. You will scope market potential, evaluate competitors and identify what it takes to build a winning business while creating a set of actionable recommendations for WMC leadership and Walmart executives.&amp;nbsp;&amp;nbsp;Come join the team if you are:&amp;nbsp; Excited about the future of retail &amp; media&amp;nbsp;&amp;nbsp; Constantly thinking about the customer experience first&amp;nbsp; Passionate about technology, retail, or advertising including trends and competition&amp;nbsp; A critical thinker with the ability to distill complicated concepts into actionable strategies&amp;nbsp; Analytical with deep financial modeling experience to drive decision making&amp;nbsp;&amp;nbsp; Understand how to evaluate and recommend buy\/partner\/build&amp;nbsp; Able to influence and inspire action cross-functionally and confident about presenting recommendations to senior leadership&amp;nbsp;&amp;nbsp; &amp;nbsp;Responsibilities&amp;nbsp; Evaluate new strategies and opportunities for WMC including strategy definition, market opportunity sizing, competitive evaluation, business case building and identification of execution enablers that reinforce WMC strategies through differentiation\/competitive advantage&amp;nbsp; Build detailed, driver-level financial models and business scenario cases to inform planning and decision making&amp;nbsp; Identify possible M&amp;A or strategic partnerships to accelerate strategies including analyzing competitors, identifying capabilities acceleration, and leading business perspective in cross functional build\/buy\/partner analyses&amp;nbsp; Drive cross functional consensus building and developing partnership across stakeholders in strategy evaluation&amp;nbsp; Communicate WMC’s strategy, new business ideas and opportunities to leadership ranging from WMC business leaders to Walmart executives&amp;nbsp; Evaluate strategic partnerships to accelerate new offering’s go-to-market timeline&amp;nbsp; Collaborate across Walmart enterprise business partners and build strong cross enterprise relationships&amp;nbsp;&amp;nbsp; Qualifications&amp;nbsp; 3 to 5+ years of relevant experience in retail\/e-commerce, advertising, technology, or consulting\/investment banking and an “always on” attitude towards gaining more knowledge and leadership in these areas&amp;nbsp; Demonstrated knowledge of the digital advertising, technology and retail landscape and interest or experience with emerging technologies and retail or advertising trends&amp;nbsp; Comfort with ambiguity and experience with scoping new ideas or innovation&amp;nbsp; Strong quantitative skills and demonstrated ability to develop complex, driver level financial models&amp;nbsp;&amp;nbsp; Strong presentation, communication and influencing skills and comfort in interacting with executive level business and technical partners&amp;nbsp; Intellectually curious, high energy, and strong work ethic and ability to manage multiple high-visibility projects at one time&amp;nbsp; MBA required&amp;nbsp; &amp;nbsp;Primary Locations&amp;nbsp;221 River Street, Hoboken, NJ 07030, United States of America; 850 Cherry Avenue, San Bruno, CA 94066, United States of America&amp;nbsp;&amp;nbsp;About Walmart Connect&amp;nbsp;Want to change the face of digital advertising? Want to re-imagine how the world's largest omni-channel consumer database can be used to power targeted campaigns for the largest brands in the world? We are rethinking digital advertising here at Walmart and are looking for some great people to help make this happen.&amp;nbsp;&amp;nbsp;At Walmart, we enable the connection between brands and shoppers at unprecedented scale. As stewards of our brand promise, “Save Money. Live Better,” we work alongside some of the most talented people in the world to engage with the more than 150M households who shop with us each week. This is a unique opportunity to join a high-visibility team with a big impact on our omni-channel business. We believe all digital advertising across search, display, video and experiential can be targeted, effective and accountable -- and we have Walmart's retail sales data to prove it.&amp;nbsp;&amp;nbsp;Live our ValuesCulture Champion• Models the Walmart values to foster our culture; holds oneself and others accountable; and supports Walmart’s commitment to communities, social justice, corporate social responsibility, and sustainability; maintains and promotes the highest standards of integrity, ethics and compliance.Servant Leadership• Acts as an altruistic servant leader and is consistently humble, self-aware, honest, and transparent.Embrace ChangeCuriosity &amp; Courage• Demonstrates curiosity and a growth mindset; fosters an environment that supports learning, innovation, and intelligent risk-taking; and exhibits resilience in the face of setbacks.Digital Transformation &amp; Change• Seeks and implements continuous improvements and encourages the team to leverage new digital tools and ways of working.Deliver for the CustomerCustomer Focus• Delivers expected business results while putting the customer first and consistently applying an omni-merchant mindset and the EDLP and EDLC business models to all plans.Strategic Thinking• Adopts a holistic perspective that considers data, analytics, customer insights, and different parts of the business when making plans and shaping the team’s strategy.Focus on our AssociatesDiversity, Equity &amp; Inclusion• Identifies, attracts, and retains diverse and inclusive team members; builds a high-performing team; embraces diversity in all its forms; and actively supports diversity goal programs.Collaboration &amp; Influence• Builds strong and trusting relationships with team members and business partners; works collaboratively and cross-functionally to achieve objectives; and communicates with energy and positivity to motivate, influence, and inspire commitment and action.Talent Management• Creates a discipline and focus around developing talent, promotes an environment allowing everyone to bring their best selves to work, empowers associates and partners to act in the best interest of the customer and company, and regularly recognizes…",
+                "title": "2024 Summer MBA Intern: Walmart Connect Strategy",
+                "title_link": "https:\/\/careers.walmart.com\/us\/jobs\/WD1680147-2024-summer-mba-intern-walmart-connect-strategy",
+                "service_name": "careers.walmart.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92770078-1A29-4822-8B73-C92900836CB2",
+        "type": "message",
+        "text": "<https:\/\/careers.walmart.com\/us\/jobs\/WD1652661-2024-summer-intern-sams-club-merchandising-mba|https:\/\/careers.walmart.com\/us\/jobs\/WD1652661-2024-summer-intern-sams-club-merchandising-mba>",
+        "user": "U03PKR5881E",
+        "ts": "1698205201.076809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i0nVL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.walmart.com\/us\/jobs\/WD1652661-2024-summer-intern-sams-club-merchandising-mba",
+                                "text": "https:\/\/careers.walmart.com\/us\/jobs\/WD1652661-2024-summer-intern-sams-club-merchandising-mba"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/walmart-careers.scdn3.secure.raxcdn.com\/dims4\/default\/8fffb40\/2147483647\/resize\/1600x\/quality\/90\/?url=https%3A%2F%2Fwalmart-careers.scdn3.secure.raxcdn.com%2Ff7%2Fce%2Fd26223244e448f64a3efa3baf79a%2Fwmt-merchheroimage-v2.0.jpg",
+                "image_width": 1600,
+                "image_height": 636,
+                "image_bytes": 160621,
+                "from_url": "https:\/\/careers.walmart.com\/us\/jobs\/WD1652661-2024-summer-intern-sams-club-merchandising-mba",
+                "service_icon": "https:\/\/careers.walmart.com\/assets\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/careers.walmart.com\/us\/jobs\/WD1652661-2024-summer-intern-sams-club-merchandising-mba",
+                "fallback": "2024 Summer Intern: Sam's Club Merchandising MBA",
+                "text": "Position Summary...What you'll do...About Merchandising at Sam’s Club:&amp;nbsp;At Sam’s Club, we’re committed to becoming the membership you love most. We will do this by providing excellent products and services – in clubs, online and through mobile devices.&amp;nbsp; Today, Sam’s Club wants to be the most valuable membership for our members. We have grown to offer solutions not just for entrepreneurs and small businesses, but also for families and everyday living as we know that these two members shop the same way. Sam’s Club serves millions of members at <http:\/\/SamsClub.com|SamsClub.com> and almost 600 locations across the U.S. and Puerto Rico. &amp;nbsp;&amp;nbsp;A Merchandising internship at Sam’s Club means an opportunity to strategize for a Merchandise driven organization where you can influence a core aspect of the business. Here, our categories are multi-millions, sometimes even billion-dollar businesses. Be the go-to person for the latest data trends &amp; most importantly, the strategic direction for your category to create special experience in the club.&amp;nbsp;&amp;nbsp;&amp;nbsp;We are looking for tenacious MBAs who are strong problem solvers who can deliver solutions to complex, challenging problems. You will learn the core merchandising business as well as the support functions of Merchandising (such as Private Brands, Sourcing, Merchandising Execution, and Replenishment). You’ll help make a direct impact on a category strategy and help surprise and delight our members.&amp;nbsp;&amp;nbsp;We hire MBA interns within Merchandising into several areas. Some of these functions include: &amp;nbsp;·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Core Merchandising&amp;nbsp;·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Private Brands&amp;nbsp;·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Merchandise Execution&amp;nbsp;&amp;nbsp;Office Environment: Corporate&amp;nbsp;U.S. Hub Locations: Bentonville, AR&amp;nbsp;&amp;nbsp;&amp;nbsp;Minimum Qualifications:&amp;nbsp;·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Must be currently enrolled in an MBA degree program·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Expected graduation date between December 2024-August 2025&amp;nbsp;·&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3-5 years of full-time relevant experience (excludes internship and research-based roles)&amp;nbsp;Minimum Qualifications...Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. Preferred Qualifications...Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications. Primary Location...2101 SE SIMPLE SAVINGS DR, BENTONVILLE, AR 72712-4304, United States of America",
+                "title": "2024 Summer Intern: Sam's Club Merchandising MBA",
+                "title_link": "https:\/\/careers.walmart.com\/us\/jobs\/WD1652661-2024-summer-intern-sams-club-merchandising-mba",
+                "service_name": "careers.walmart.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51167CAA-84E9-49FE-85D6-8C67DC36E78B",
+        "type": "message",
+        "text": "<https:\/\/careers.walmart.com\/us\/jobs\/WD1684764-2024-summer-mba-intern-walmart-connect-product-management|https:\/\/careers.walmart.com\/us\/jobs\/WD1684764-2024-summer-mba-intern-walmart-connect-product-management>",
+        "user": "U03PKR5881E",
+        "ts": "1698205284.997359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i5ZTI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.walmart.com\/us\/jobs\/WD1684764-2024-summer-mba-intern-walmart-connect-product-management",
+                                "text": "https:\/\/careers.walmart.com\/us\/jobs\/WD1684764-2024-summer-mba-intern-walmart-connect-product-management"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/walmart-careers.scdn3.secure.raxcdn.com\/dims4\/default\/8fffb40\/2147483647\/resize\/1600x\/quality\/90\/?url=https%3A%2F%2Fwalmart-careers.scdn3.secure.raxcdn.com%2Ff7%2Fce%2Fd26223244e448f64a3efa3baf79a%2Fwmt-merchheroimage-v2.0.jpg",
+                "image_width": 1600,
+                "image_height": 636,
+                "image_bytes": 160621,
+                "from_url": "https:\/\/careers.walmart.com\/us\/jobs\/WD1684764-2024-summer-mba-intern-walmart-connect-product-management",
+                "service_icon": "https:\/\/careers.walmart.com\/assets\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/careers.walmart.com\/us\/jobs\/WD1684764-2024-summer-mba-intern-walmart-connect-product-management",
+                "fallback": "2024 Summer MBA Intern: Walmart Connect Product Management",
+                "text": "Position Summary...What you'll do...About WMC&amp;nbsp;Want to change the face of digital advertising? Want to re-imagine how the world's largest omni-channel consumer database can be used to power targeted ad campaigns for the largest brands in the world? We are rethinking digital advertising here at Walmart and are looking for some great people to help make this happen.&amp;nbsp;&amp;nbsp;At Walmart Connect, We connect brands more meaningfully in customers’ everyday lives to accelerate shared growth. As stewards of our brand promise, “Save Money. Live Better,” we work alongside some of the most talented people in the world to engage with the more than 150M households who shop with us each week. This is a unique opportunity to join a high-visibility team with a big impact on our omni-channel business. We believe all digital advertising across search and display, both in-store and online, can be targeted, effective and accountable -- and we have Walmart's retail sales data to prove it&amp;nbsp;&amp;nbsp;About the Team&amp;nbsp; &amp;nbsp;As a part of Walmart Connect, you’ll build industry defining omni-channel ad platforms at scale that enable Walmart suppliers to reach shoppers with relevant ads and high performing campaigns while helping shoppers discover products to enhance their shopping journey. &amp;nbsp;If you are motivated by complex, purposeful challenges, this role at Walmart Connect could be the fit you’ve been looking for.  We are looking for product managers to help reimagine the way we empower brand advertisers with best-in-class omni-channel advertising tools at scale. This role will lead the adoption of our advertising products across customer segments.&amp;nbsp;&amp;nbsp;You’ll sweep us off our feet if…&amp;nbsp; You’re comfortable influencing others, leading teams, managing stakeholders, getting buy-in from leadership, and communicating clearly&amp;nbsp; You have a test and learn mentality and an agile way of working to improve your team’s products&amp;nbsp; You like digging into data and doing some analysis&amp;nbsp; You’re excited about solving complex challenges&amp;nbsp; You’re customer-centric in spirit and in execution&amp;nbsp; You have hands on experience of driving product adoption&amp;nbsp; &amp;nbsp;You’ll make an impact by:&amp;nbsp; Driving growth and adoption for Walmart Connect advertising by tapping into new advertiser segments&amp;nbsp; Owning Go-To-Market strategy for key product launches and defining success criteria to measure product performance&amp;nbsp; Driving product lifecycle from requirement definitions, research, metrics analysis, technical specifications, development, testing, KPIs and other launch efforts&amp;nbsp; Working with data science, engineering, and other XFN partners to define the product requirements and driving end-to-end execution&amp;nbsp; Identifying new opportunities by conducting industry and competitive analysis to understand the emerging trends in advertising industry. Conducting customer research to define customer segments and identify needs to inform product roadmap.&amp;nbsp; Partnering with internal advertising sales team and Walmart retail teams to create unique, compelling experiences that benefit shoppers and our advertising clients&amp;nbsp; Defining vision and strategies for your product family, using domain expertise, internal and external best practices, identifying market opportunities, building business cases, and approving objectives&amp;nbsp; Building collaborative relationships with key partners by driving priorities aligned to business goals, communicating and prioritizing product roadmaps, and gaining buy-in from executive leadership&amp;nbsp; &amp;nbsp; Qualifications&amp;nbsp; Bachelor's degree required\/MBA a huge plus!&amp;nbsp; 2+ years in product management. Experience in digital advertising strongly preferred&amp;nbsp; Quantitative or engineering background is preferred&amp;nbsp; Digital advertising industry experience is preferred&amp;nbsp; &amp;nbsp;&amp;nbsp;Perks and Benefits &amp;nbsp;Beyond competitive pay, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.&amp;nbsp;  &amp;nbsp;Who We Are &amp;nbsp;Join Walmart and your work could help over 275 million global customers live better every week. Yes, we are the Fortune #1 company. But you’ll quickly find we’re a company who wants you to feel comfortable bringing your whole self to work. A career at Walmart is where the world’s most complex challenges meet a kinder way of life. Our mission spreads far beyond the walls of our stores. Join us and you'll discover why we are a world leader in diversity and inclusion, sustainability, and community involvement.  From day one, you’ll be empowered and equipped to do the best work of your life.  &amp;nbsp;&amp;nbsp;Walmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best&amp;nbsp;&amp;nbsp;Minimum Qualifications...&amp;nbsp;Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.&amp;nbsp;&amp;nbsp;Bachelor of Science and 5 years' product management experience OR Master of Science and 2 years' product management experience.&amp;nbsp;&amp;nbsp;Preferred Qualifications...&amp;nbsp;Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.&amp;nbsp;&amp;nbsp;&amp;nbsp;Primary Location...&amp;nbsp;850 Cherry Avenue, San Bruno, CA 94066-3031, United States of America&amp;nbsp;&amp;nbsp;Live our ValuesCulture Champion• Models the Walmart values to foster our culture; holds oneself and others accountable; and supports Walmart’s commitment to communities, social justice, corporate social responsibility, and sustainability; maintains and promotes the highest standards of integrity, ethics and compliance.Servant Leadership• Acts as an altruistic servant leader and is consistently humble, self-aware, honest, and transparent.Embrace ChangeCuriosity &amp; Courage• Demonstrates curiosity and a growth mindset; fosters an environment that supports learning, innovation, and intelligent risk-taking; and exhibits resilience in the face of setbacks.Digital Transformation &amp; Change• Seeks and implements continuous improvements and encourages the team to leverage new digital tools and ways of working.Deliver for the CustomerCustomer Focus• Delivers expected business results while putting the customer first and consistently applying an omni-merchant mindset and the EDLP and EDLC business models to all plans.Strategic Thinking• Adopts a holistic perspective that considers data, analytics, customer insights, and different parts of the business when making plans and shaping the team’s strategy.Focus on our AssociatesDiversity, Equity &amp; Inclusion• Identifies, attracts, and retains diverse and inclusive team members; builds a high-performing team; embraces diversity in all its forms; and actively supports diversity goal programs.Collaboration &amp; Influence• Builds strong and trusting relationships with team members and business partners; works collaboratively and cross-functionally to achieve objectives; and communicates with energy and positivity to motivate, influence, and inspire commitment and action.Talent Management• Creates a discipline and focus around developing talent, promotes an environment allowing everyone to bring their best selves to work, empowers associates and partners to act in the best interest of the customer and company, and regularly recognizes others’ contributions and <http:\/\/accomplishments.At|accomplishments.At> Walmart, we offer competitive pay as well as performance-based incentive awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(…",
+                "title": "2024 Summer MBA Intern: Walmart Connect Product Management",
+                "title_link": "https:\/\/careers.walmart.com\/us\/jobs\/WD1684764-2024-summer-mba-intern-walmart-connect-product-management",
+                "service_name": "careers.walmart.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7EEAFA22-BE24-4F3D-A11D-F0F435D3096E",
+        "type": "message",
+        "text": "<https:\/\/careers.walmart.com\/us\/jobs\/WD1680159-2024-summer-mba-intern-mfc-product-management|https:\/\/careers.walmart.com\/us\/jobs\/WD1680159-2024-summer-mba-intern-mfc-product-management>",
+        "user": "U03PKR5881E",
+        "ts": "1698205346.138269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K7eT+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.walmart.com\/us\/jobs\/WD1680159-2024-summer-mba-intern-mfc-product-management",
+                                "text": "https:\/\/careers.walmart.com\/us\/jobs\/WD1680159-2024-summer-mba-intern-mfc-product-management"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/walmart-careers.scdn3.secure.raxcdn.com\/dims4\/default\/8fffb40\/2147483647\/resize\/1600x\/quality\/90\/?url=https%3A%2F%2Fwalmart-careers.scdn3.secure.raxcdn.com%2Ff7%2Fce%2Fd26223244e448f64a3efa3baf79a%2Fwmt-merchheroimage-v2.0.jpg",
+                "image_width": 1600,
+                "image_height": 636,
+                "image_bytes": 160621,
+                "from_url": "https:\/\/careers.walmart.com\/us\/jobs\/WD1680159-2024-summer-mba-intern-mfc-product-management",
+                "service_icon": "https:\/\/careers.walmart.com\/assets\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/careers.walmart.com\/us\/jobs\/WD1680159-2024-summer-mba-intern-mfc-product-management",
+                "fallback": "2024 Summer MBA Intern: MFC Product Management",
+                "text": "Position Summary...What you'll do...Job Description – MBA Interns, Product Management for MFCJoin the Walmart Supply Chain organization and play a pivotal role in the growth and delivery of our cutting-edge Product team! Embrace the exciting opportunity to be part of a company founded on the belief that the customer is #1 - a belief that's not just a mantra, but our core way of doing business. As a member of our Supply Chain Team, you will be at the forefront of a retail revolution, working alongside passionate and driven individuals who are dedicated to delighting our customers and saving them both time and money in the most unexpected <http:\/\/ways.Be|ways.Be> a part of the game-changing Market Fulfilment Center team that collaborates closely with robotics and automation to develop groundbreaking ideas that serve our customers. Picture a world where your Walmart order is fulfilled entirely by robots, and you are the driving force behind making that happen by enabling the technology and tech products that power this extraordinary vision.So, what is a Market Fulfilment Center?These state-of-the-art facilities house fully automated robots that can store, pick, pack, and dispense items ordered by Walmart customers, ranging from groceries to general merchandise. MFCs are the cornerstone of our mission to help customers save money and time so they can live better. In today's fast-paced eCommerce landscape, streamlining the supply chain is crucial for scalable <http:\/\/operations.As|operations.As> the biggest player in the game, we trust our associates to innovate the future of Supply Chain! If you are motivated by complex, purposeful challenges, this role with the world's largest retailer could be the perfect fit you've been searching for.Key qualifications: Supply Chain Management experience, Warehouse Management Systems (WMS), Technology Product Management, Program Management, Distribution, or Ecommerce Fulfillment background Automation &amp; Robotics experience (a plus, but not required) Cross-functional team management Supply Chain Operations Management Don't miss out on this thrilling opportunity to shape the future of retail and make a lasting impact on the lives of millions of customers. Apply now and become a part of the Walmart Supply Chain family!You’ll Make an Impact by&amp;nbsp; Driving product lifecycle from requirement gathering, requirement writing, identifying, and measuring the value, partnering on the development, testing, and other launch efforts Defining vision and strategies for your product family, using domain expertise, internal and external best practices; identifying market opportunities, building business cases, and approving objectives Developing and enhancing products – you will manage product roadmaps, align business and technical needs, analyze customer and product data, turn customer insights into actionable initiatives, determine rollout strategy, and manage risks Help software engineers design and architect the best solution for technical needs. Developing scalable systems that will serve millions of customers across the US You’ll sweep us off our feet if… You’re a team player and goes well with others You’re comfortable with ambiguity and able to bring structure to it You’re passionate about solving complex problems You’re customer-centric in spirit and in execution You can work with details, but also see the big picture You’re comfortable influencing others, managing stakeholders, getting buy-in from leadership, and communicating clearly You are data-driven and a strategic thinker You’re organized and work with proper documentation Live our ValuesCulture Champion• Models the Walmart values to foster our culture; holds oneself and others accountable; and supports Walmart’s commitment to communities, social justice, corporate social responsibility, and sustainability; maintains and promotes the highest standards of integrity, ethics and compliance.Servant Leadership• Acts as an altruistic servant leader and is consistently humble, self-aware, honest, and transparent.Embrace ChangeCuriosity &amp; Courage• Demonstrates curiosity and a growth mindset; fosters an environment that supports learning, innovation, and intelligent risk-taking; and exhibits resilience in the face of setbacks.Digital Transformation &amp; Change• Seeks and implements continuous improvements and encourages the team to leverage new digital tools and ways of working.Deliver for the CustomerCustomer Focus• Delivers expected business results while putting the customer first and consistently applying an omni-merchant mindset and the EDLP and EDLC business models to all plans.Strategic Thinking• Adopts a holistic perspective that considers data, analytics, customer insights, and different parts of the business when making plans and shaping the team’s strategy.Focus on our AssociatesDiversity, Equity &amp; Inclusion• Identifies, attracts, and retains diverse and inclusive team members; builds a high-performing team; embraces diversity in all its forms; and actively supports diversity goal programs.Collaboration &amp; Influence• Builds strong and trusting relationships with team members and business partners; works collaboratively and cross-functionally to achieve objectives; and communicates with energy and positivity to motivate, influence, and inspire commitment and action.Talent Management• Creates a discipline and focus around developing talent, promotes an environment allowing everyone to bring their best selves to work, empowers associates and partners to act in the best interest of the customer and company, and regularly recognizes others’ contributions and <http:\/\/accomplishments.At|accomplishments.At> Walmart, we offer competitive pay as well as performance-based incentive awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.You will also receive PTO and\/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see <https:\/\/one.walmart.com\/notices> .Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms. For information about benefits and eligibility, see One.Walmart at <https:\/\/bit.ly\/3iOOb1J> .The annual salary range for this position is $65,000.00-$124,000.00Additional compensation includes annual or quarterly performance incentives.Additional compensation for certain positions may also include:- Regional Pay Zone (RPZ) (based on location)- Stock equity incentivesMinimum Qualifications...Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. Preferred Qualifications...Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications. Primary Location...840 W CALIFORNIA AVE, SUNNYVALE, CA 94086-4828, United States of America",
+                "title": "2024 Summer MBA Intern: MFC Product Management",
+                "title_link": "https:\/\/careers.walmart.com\/us\/jobs\/WD1680159-2024-summer-mba-intern-mfc-product-management",
+                "service_name": "careers.walmart.com"
+            }
+        ]
+    }
+]

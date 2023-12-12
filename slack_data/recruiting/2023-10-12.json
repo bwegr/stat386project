@@ -1,0 +1,168 @@
+[
+    {
+        "client_msg_id": "50CF3760-4793-4794-9073-32D022787F1C",
+        "type": "message",
+        "text": "Also interested :blush:  ",
+        "user": "U05BBQFJ056",
+        "ts": "1697118686.291049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4WRdU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also interested "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "0114fc285ea5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-13\/5734585427330_0114fc285ea570cdd820_72.png",
+            "first_name": "Jason",
+            "real_name": "Jason Allred",
+            "display_name": "Jason Allred",
+            "team": "T0ZBAEL59",
+            "name": "jasonallred12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696952386.531599",
+        "parent_user_id": "U03L57R4HN3"
+    },
+    {
+        "client_msg_id": "4ECABE46-4C0E-4379-A69A-A421EE3231E1",
+        "type": "message",
+        "text": "Dan Smith, VP of Copeland is upstairs in 575 from now until 4pm. FIRST YEARS are invited to stop by and get interview, resume, and recruiting advice and insights. Mock interviews!!!! So important! Go now!!!",
+        "user": "U03L57R4HN3",
+        "ts": "1697126125.138979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iUzkZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dan Smith, VP of Copeland is upstairs in 575 from now until 4pm. FIRST YEARS are invited to stop by and get interview, resume, and recruiting advice and insights. Mock interviews!!!! So important! Go now!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U03LK52VCQ2",
+                    "U03LK3D5N2X",
+                    "U05D98WS6FQ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LK3D5N2X",
+                    "U03M8T6EJ8G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ea6c290-f954-402f-b3f1-ffdabac5844a",
+        "type": "message",
+        "text": "Does anyone have info on Amazon's full-time roles?",
+        "user": "U03L4GT3B55",
+        "ts": "1697141353.692959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x\/l7D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have info on Amazon's full-time roles?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2316d1f98e87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4031956442416_2316d1f98e8766c806bd_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Jensen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "jensenmaggie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697141353.692959",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697203539.210659",
+        "reply_users": [
+            "U03LG7C9P8V"
+        ],
+        "replies": [
+            {
+                "user": "U03LG7C9P8V",
+                "ts": "1697203539.210659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

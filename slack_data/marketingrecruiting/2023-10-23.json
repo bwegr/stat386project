@@ -1,0 +1,163 @@
+[
+    {
+        "client_msg_id": "76fce729-9bf6-43b8-a3e4-df307845e580",
+        "type": "message",
+        "text": "Whirlpool Internship",
+        "user": "U05BBQEGSL8",
+        "ts": "1698109386.233039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fryVv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Whirlpool Internship"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7534d1e53ffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-01\/5671255571779_7534d1e53ffa8b4cd432_72.jpg",
+            "first_name": "Henrique",
+            "real_name": "Henrique Diz Diz",
+            "display_name": "Henrique Diz Diz",
+            "team": "T0ZBAEL59",
+            "name": "henriquedizdiz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05A7HF1DJB",
+                    "U05AMVD19GT",
+                    "U03LK4YF3A6"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ebe413cf-04e8-49a5-a5fb-508a8bbfcec9",
+        "type": "message",
+        "text": "<https:\/\/jobs.whirlpool.com\/careers\/search?query=INTERNSHIP&amp;location=United%20States&amp;pid=34377171749&amp;domain=whirlpool.com&amp;sort_by=relevance&amp;show_multiple=false#apply|https:\/\/jobs.whirlpool.com\/careers\/search?query=INTERNSHIP&amp;location=United%20States&amp;pi[…]&amp;domain=whirlpool.com&amp;sort_by=relevance&amp;show_multiple=false>",
+        "user": "U05BBQEGSL8",
+        "ts": "1698109387.748089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eKjpu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.whirlpool.com\/careers\/search?query=INTERNSHIP&location=United%20States&pid=34377171749&domain=whirlpool.com&sort_by=relevance&show_multiple=false#apply",
+                                "text": "https:\/\/jobs.whirlpool.com\/careers\/search?query=INTERNSHIP&location=United%20States&pi[…]&domain=whirlpool.com&sort_by=relevance&show_multiple=false"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "7534d1e53ffa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-01\/5671255571779_7534d1e53ffa8b4cd432_72.jpg",
+            "first_name": "Henrique",
+            "real_name": "Henrique Diz Diz",
+            "display_name": "Henrique Diz Diz",
+            "team": "T0ZBAEL59",
+            "name": "henriquedizdiz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/jobs.whirlpool.com\/careers\/search?query=INTERNSHIP&location=United%20States&pid=34377171749&domain=whirlpool.com&sort_by=relevance&show_multiple=false#apply",
+                "service_icon": "https:\/\/static.vscdn.net\/images\/careers\/demo\/whirlpool-sandbox\/WP_Favicon",
+                "id": 1,
+                "original_url": "https:\/\/jobs.whirlpool.com\/careers\/search?query=INTERNSHIP&amp;location=United%20States&amp;pid=34377171749&amp;domain=whirlpool.com&amp;sort_by=relevance&amp;show_multiple=false#apply",
+                "fallback": "Whirlpool Corporation",
+                "text": "Careers at Whirlpool Corporation",
+                "title": "Whirlpool Corporation",
+                "title_link": "https:\/\/jobs.whirlpool.com\/careers\/search?query=INTERNSHIP&location=United%20States&pid=34377171749&domain=whirlpool.com&sort_by=relevance&show_multiple=false#apply",
+                "service_name": "jobs.whirlpool.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EC5ABE49-93E4-4086-BA27-4D183CECFC83",
+        "type": "message",
+        "text": "Shared by Neal Armstrong from last Friday’s prosem:\n\nThanks for coming. They just posted this. <https:\/\/www.linkedin.com\/posts\/shawnskoog_mba-2024-internships-product-management-activity-7121275587503030272-96GV?utm_source=share&amp;utm_medium=member_ios|https:\/\/www.linkedin.com\/posts\/shawnskoog_mba-2024-internships-product-management-activity-7121275587503030272-96GV?utm_source=share&amp;utm_medium=member_ios>",
+        "user": "U05A7HEQV71",
+        "ts": "1698117593.371619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1UZ\/3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shared by Neal Armstrong from last Friday’s prosem:\n\nThanks for coming. They just posted this. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/shawnskoog_mba-2024-internships-product-management-activity-7121275587503030272-96GV?utm_source=share&utm_medium=member_ios",
+                                "text": "https:\/\/www.linkedin.com\/posts\/shawnskoog_mba-2024-internships-product-management-activity-7121275587503030272-96GV?utm_source=share&utm_medium=member_ios"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "fa48ca75f03b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-04\/5839586086774_fa48ca75f03bd5ed2885_72.png",
+            "first_name": "Harrison",
+            "real_name": "Harrison Christensen",
+            "display_name": "Harrison Christensen",
+            "team": "T0ZBAEL59",
+            "name": "hjchristensen97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/shawnskoog_mba-2024-internships-product-management-activity-7121275587503030272-96GV?utm_source=share&utm_medium=member_ios",
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/sync\/D5627AQEaWKByCz-jpQ\/articleshare-shrink_800\/0\/1697929612884?e=1698724800&v=beta&t=cEoAZ6KOfUblk3eLdFiMBgkYzMLZZDIKZleS_VMs0_Y",
+                "image_width": 800,
+                "image_height": 418,
+                "image_bytes": 10322,
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/shawnskoog_mba-2024-internships-product-management-activity-7121275587503030272-96GV?utm_source=share&amp;utm_medium=member_ios",
+                "fallback": "Shawn Skoog on LinkedIn: MBA 2024 Internships: Product Management, Marketing, Finance and Operations",
+                "text": "We&amp;#39;re excited to announce that NVIDIA&amp;#39;s 2024 Summer MBA Internship positions are available and we&amp;#39;re collecting interest here!\n#NVIDIA",
+                "title": "Shawn Skoog on LinkedIn: MBA 2024 Internships: Product Management, Marketing, Finance and Operations",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/shawnskoog_mba-2024-internships-product-management-activity-7121275587503030272-96GV?utm_source=share&utm_medium=member_ios",
+                "service_name": "linkedin.com"
+            }
+        ]
+    }
+]

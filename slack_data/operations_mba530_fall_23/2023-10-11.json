@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "1A181C08-FD8C-4141-ABD2-8BEA9B464C6B",
+        "type": "message",
+        "text": "<@U05D1CFKBJT> ",
+        "user": "U03M8TBLWTA",
+        "ts": "1697049148.087059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mGDc0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05D1CFKBJT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "1d4607decfc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3988998567393_1d4607decfc49118e4e0_72.png",
+            "first_name": "Collin",
+            "real_name": "Collin Pope",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "collinpope123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1695652492.368139",
+        "parent_user_id": "U03LK533VR8"
+    }
+]

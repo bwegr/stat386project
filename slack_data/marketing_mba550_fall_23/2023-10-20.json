@@ -1,0 +1,198 @@
+[
+    {
+        "client_msg_id": "b715ca16-514d-48f8-8e14-2d9476ff2c36",
+        "type": "message",
+        "text": "The link to the reading for Monday isn't working for me. Is there another way to access it?",
+        "user": "U05A7HE2M8X",
+        "ts": "1697827832.712489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Q7Su",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The link to the reading for Monday isn't working for me. Is there another way to access it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "bcdf6033580d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-09\/5716478234883_bcdf6033580d299410a6_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Wilkinson",
+            "display_name": "Jessica Wilkinson",
+            "team": "T0ZBAEL59",
+            "name": "jessicawilkinson53",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697827832.712489",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1697828040.197849",
+        "reply_users": [
+            "U03LK4YF3A6",
+            "U05AN015NSX",
+            "U05A7HE2M8X"
+        ],
+        "replies": [
+            {
+                "user": "U03LK4YF3A6",
+                "ts": "1697827879.727959"
+            },
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697827917.477749"
+            },
+            {
+                "user": "U05A7HE2M8X",
+                "ts": "1697828040.197849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ce7e8b56-9ea4-4450-b783-3239dd8336a2",
+        "type": "message",
+        "text": "Try here: <https:\/\/reserve.lib.byu.edu\/course\/55663\/>",
+        "user": "U03LK4YF3A6",
+        "ts": "1697827879.727959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JxOz9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Try here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/reserve.lib.byu.edu\/course\/55663\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697827832.712489",
+        "parent_user_id": "U05A7HE2M8X"
+    },
+    {
+        "client_msg_id": "0b10e6a9-701e-4871-8b6d-80fd69635f29",
+        "type": "message",
+        "text": "It's also the same reading as Oct. 16",
+        "user": "U05AN015NSX",
+        "ts": "1697827917.477749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kK6DC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's also the same reading as Oct. 16"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "da7fb4406028",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5347916990503_da7fb4406028dbcb9a85_72.jpg",
+            "first_name": "Spencer",
+            "real_name": "Spencer Larson",
+            "display_name": "Spencer Larson",
+            "team": "T0ZBAEL59",
+            "name": "stlarson98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697827832.712489",
+        "parent_user_id": "U05A7HE2M8X"
+    },
+    {
+        "client_msg_id": "eb19504f-90bc-4278-ac49-14449f7bac2b",
+        "type": "message",
+        "text": "Oh nice! Thank you!!",
+        "user": "U05A7HE2M8X",
+        "ts": "1697828040.197849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uy3+7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh nice! Thank you!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "bcdf6033580d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-09\/5716478234883_bcdf6033580d299410a6_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Wilkinson",
+            "display_name": "Jessica Wilkinson",
+            "team": "T0ZBAEL59",
+            "name": "jessicawilkinson53",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697827832.712489",
+        "parent_user_id": "U05A7HE2M8X",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN015NSX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

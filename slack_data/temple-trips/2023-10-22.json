@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "DCE402BA-D1A6-4AD6-81AB-C6739B5D6D5E",
+        "type": "message",
+        "text": "I’m doing initiatories at the Provo temple this Friday at 7:30am if anyone wants to join:)",
+        "user": "U05BBQDP59N",
+        "ts": "1698016889.146249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s9R2n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m doing initiatories at the Provo temple this Friday at 7:30am if anyone wants to join:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9d365c02ed39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-08\/5714397176628_9d365c02ed398a6d3fb4_72.png",
+            "first_name": "Kjerstin",
+            "real_name": "Kjerstin Roberts",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "robertskjerstin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698016889.146249",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698075753.508209",
+        "reply_users": [
+            "U05BBQFJ056"
+        ],
+        "replies": [
+            {
+                "user": "U05BBQFJ056",
+                "ts": "1698075753.508209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05BBQFJ056"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

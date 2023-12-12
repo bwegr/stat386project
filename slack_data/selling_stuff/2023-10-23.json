@@ -1,0 +1,426 @@
+[
+    {
+        "type": "message",
+        "text": "Hi! selling these 2 bikes, only used in summer!",
+        "files": [
+            {
+                "id": "F0632FND3LG",
+                "created": 1698079136,
+                "timestamp": 1698079136,
+                "name": "bike2.jpg",
+                "title": "bike2.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03M8T51VUY",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 1065001,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0632FND3LG\/bike2.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0632FND3LG\/download\/bike2.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0632FND3LG-f97ca4876e\/bike2_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0632FND3LG-f97ca4876e\/bike2_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0632FND3LG-f97ca4876e\/bike2_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0632FND3LG-f97ca4876e\/bike2_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0632FND3LG-f97ca4876e\/bike2_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0632FND3LG-f97ca4876e\/bike2_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0632FND3LG-f97ca4876e\/bike2_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0632FND3LG-f97ca4876e\/bike2_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0632FND3LG-f97ca4876e\/bike2_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACR7H5jSDIOR3qFn3EjOMdTSI+1sKPlI7npSGWN+xyHYY6g46U8qCKYgLDLHOakVQoAHAFADNrDtmjDf3RUlFAGYmVfOMjvUhJZ\/ukdhnvTmXABFD8oDzlaBFguETJ4wPwp0UgljDDv29KpBieWBPrzmrduqKmU\/i5oAlxS4oooGVDhk61EzbSB3zTx8rkGmSrzuoAdGGLZIGMYNPt9wlZR93OT7VHEZCpC4\/E1PEnljrkk5JoAno4oDDHNG5aAP\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03M8T51VUY\/F0632FND3LG\/bike2.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0632FND3LG-0a2fd7f389",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F062FV29JTW",
+                "created": 1698079141,
+                "timestamp": 1698079141,
+                "name": "Bike1.jpg",
+                "title": "Bike1.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03M8T51VUY",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 1180216,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062FV29JTW\/bike1.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F062FV29JTW\/download\/bike1.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062FV29JTW-254dcab5e1\/bike1_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062FV29JTW-254dcab5e1\/bike1_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062FV29JTW-254dcab5e1\/bike1_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062FV29JTW-254dcab5e1\/bike1_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062FV29JTW-254dcab5e1\/bike1_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062FV29JTW-254dcab5e1\/bike1_720.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062FV29JTW-254dcab5e1\/bike1_800.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062FV29JTW-254dcab5e1\/bike1_960.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F062FV29JTW-254dcab5e1\/bike1_1024.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSzRTXcIuWPHSlyMZzxSAUdRSE81DMX3KFYgMew5\/OpRnjigB280bzRsHcUbB6UAV5ijKA5AGenrUMUhZQpk4ApA\/zsSPmJx+HamZIA4AYEYxQBJJKylSr7u4BpUKF8Sks59eaZLHufeMKPQUmSMEBcjuaAFluHifarZXtntTPtkvqPyp\/mKOoBJ6kijzU\/ur+VAx5VWPFPSFQenNS7RjgUoHFAhhXimFR1p7ntTTigCF0G6m7B71KaKBn\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03M8T51VUY\/F062FV29JTW\/bike1.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F062FV29JTW-b7f95e0b47",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03M8T51VUY",
+        "ts": "1698079199.778079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Ofo9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! selling these 2 bikes, only used in summer!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0a65065b-9b29-4f06-86da-3ca1119e1ceb",
+        "thread_ts": "1698079199.778079",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1698080410.535829",
+        "reply_users": [
+            "U03LMGYLSR2",
+            "U03M8T51VUY",
+            "U05AQGJMMT6",
+            "U03LK3D5N2X"
+        ],
+        "replies": [
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1698079250.449419"
+            },
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1698079276.849699"
+            },
+            {
+                "user": "U03M8T51VUY",
+                "ts": "1698079358.165119"
+            },
+            {
+                "user": "U03M8T51VUY",
+                "ts": "1698079389.341259"
+            },
+            {
+                "user": "U05AQGJMMT6",
+                "ts": "1698080131.504539"
+            },
+            {
+                "user": "U03LK3D5N2X",
+                "ts": "1698080410.535829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c1d268b2-3474-47e7-b101-cf0c9e580b5e",
+        "type": "message",
+        "text": "Pricing??",
+        "user": "U03LMGYLSR2",
+        "ts": "1698079250.449419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DY1bY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pricing??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698079199.778079",
+        "parent_user_id": "U03M8T51VUY"
+    },
+    {
+        "client_msg_id": "2497c4f1-dd5f-47af-8782-c78f1477e462",
+        "type": "message",
+        "text": "I have no logical reason to be considering this, but the bike looks good and I don't have a bike hahaha",
+        "user": "U03LMGYLSR2",
+        "ts": "1698079276.849699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6pF9n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have no logical reason to be considering this, but the bike looks good and I don't have a bike hahaha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698079199.778079",
+        "parent_user_id": "U03M8T51VUY"
+    },
+    {
+        "client_msg_id": "6e9a63f2-a6b0-41c0-8b61-13d548d4ee0a",
+        "type": "message",
+        "text": ":cool-doge::awkward_monkey_look:",
+        "user": "U03M8T51VUY",
+        "ts": "1698079358.165119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m\/6oy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "cool-doge"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "awkward_monkey_look"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698079199.778079",
+        "parent_user_id": "U03M8T51VUY"
+    },
+    {
+        "client_msg_id": "001c5996-d861-4850-bce3-4a060afbfb27",
+        "type": "message",
+        "text": "I sent you the price by DM",
+        "user": "U03M8T51VUY",
+        "ts": "1698079389.341259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Plg8G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I sent you the price by DM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3f17163d6079",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-02\/3737862494295_3f17163d60793ffb3f95_72.jpg",
+            "first_name": "Jesús",
+            "real_name": "Jesús Mata",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "matafajardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698079199.778079",
+        "parent_user_id": "U03M8T51VUY",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LMGYLSR2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58b073e8-f3ee-432b-9596-6aa74ac9a3fe",
+        "type": "message",
+        "text": "I'm also interested. Can you send more details? (size, year, etc.)",
+        "user": "U05AQGJMMT6",
+        "ts": "1698080131.504539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7j2ro",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm also interested. Can you send more details? (size, year, etc.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "86b9fe7ca0ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-15\/5421183058375_86b9fe7ca0ea9a709a9d_72.jpg",
+            "first_name": "Julio",
+            "real_name": "Julio Cesar Augusto",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "augusto.jcesar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698079199.778079",
+        "parent_user_id": "U03M8T51VUY"
+    },
+    {
+        "client_msg_id": "785a9eab-41c4-489d-b4d3-62adae9a3e69",
+        "type": "message",
+        "text": "Could you send me pricing too please?",
+        "user": "U03LK3D5N2X",
+        "ts": "1698080410.535829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IYyQV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could you send me pricing too please?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698079199.778079",
+        "parent_user_id": "U03M8T51VUY"
+    }
+]

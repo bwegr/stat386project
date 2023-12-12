@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "A78F6300-FBD5-4165-A98D-39C678BC8A31",
+        "type": "message",
+        "text": "I can bring both as well. ",
+        "user": "U03PKR5881E",
+        "ts": "1697718723.725859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wmRpI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can bring both as well"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697674471.543699",
+        "parent_user_id": "U03LG7DNSUV"
+    }
+]

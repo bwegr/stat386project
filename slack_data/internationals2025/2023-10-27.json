@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "39f622eb-3d8a-4fda-8f48-6feccc60b3b6",
+        "type": "message",
+        "text": "<https:\/\/amazonpathwaysna.splashthat.com\/>",
+        "user": "U05AQGJ30BE",
+        "ts": "1698444542.159369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HkSst",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/amazonpathwaysna.splashthat.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c15903bfb069",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-17\/5428763610807_c15903bfb069762d8fbd_72.jpg",
+            "first_name": "Emmanuel",
+            "real_name": "Emmanuel Ezookwa Quaisie",
+            "display_name": "Emmanuel Ezookwa Quaisie",
+            "team": "T0ZBAEL59",
+            "name": "eequaisie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/amazonpathwaysna.splashthat.com\/",
+                "service_icon": "https:\/\/d24wuq6o951i2g.cloudfront.net\/img\/events\/id\/305\/3056092\/assets\/765.favicon-0.png",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/s3.clients.splashthat.com\/img\/events\/splash\/cards\/458732243.x3.8d8c2b60.png",
+                "thumb_width": 750,
+                "thumb_height": 1050,
+                "id": 1,
+                "original_url": "https:\/\/amazonpathwaysna.splashthat.com\/",
+                "fallback": "Pathways Operations Leadership Development Program North America",
+                "text": "Are you looking to become a leader in a global Fortune 100 company where you manage people, processes, and technology in one of the world’s leading logistics, transportation, and fulfillment operations? Would you enjoy the challenge of delivering a continuously improving customer experience to over 285 million customers globally? Does being on a fast track toward senior leadership roles at Amazon interest you? If the answer is yes, then the Amazon Pathways program may be right for you!  This site provides information for currently enrolled graduate students seeking Pathways roles (full-time and internship) in the United States and Canada. Pathways opportunities are also available in EMEA, India, Japan, and Mexico - all currently open Pathways roles can be found here.",
+                "title": "Pathways Operations Leadership Development Program North America",
+                "title_link": "https:\/\/amazonpathwaysna.splashthat.com\/",
+                "service_name": "amazonpathwaysna.splashthat.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05AN3TCTSN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

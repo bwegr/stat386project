@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "497c6c6d-34fb-4b9f-9e1b-73032867c6a7",
+        "type": "message",
+        "text": "I'm guessing this is a no-go for tomorrow, due to low numbers, right?",
+        "user": "U03LXQCJA81",
+        "ts": "1696827417.403799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qvvq7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm guessing this is a no-go for tomorrow, due to low numbers, right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696709105.636149",
+        "parent_user_id": "U03M8TCTA6L"
+    },
+    {
+        "client_msg_id": "0DBAE83B-50C5-47A6-B428-96F8ACA8B5AA",
+        "type": "message",
+        "text": "Correct :+1::skin-tone-4:  ",
+        "user": "U03M8TCTA6L",
+        "ts": "1696828051.072069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N\/Ub1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Correct "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup",
+                                "unicode": "1f44d-1f3fd",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696709105.636149",
+        "parent_user_id": "U03M8TCTA6L"
+    }
+]

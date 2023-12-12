@@ -1,0 +1,142 @@
+[
+    {
+        "client_msg_id": "a0286f41-a9ea-4181-97a6-b12032c78d8c",
+        "type": "message",
+        "text": "*Financial Modeling Preview Pro-Sem*\n\nWe are very excited to have Professor Brandon Muirhead come for our Pro-Sem this Friday. He will introduce himself, do a couple demo modeling exercises with us, and share his wisdom. He teaches one of the most popular classes in the program. It is full for next semester with a long wait list. If you’re enrolled or are curious for next year, please come!\n\nIt’s back to normal this week, so it will be from 9:30-10:45am in room w208. A light breakfast will be provided.",
+        "user": "U03L4GN325D",
+        "ts": "1698164057.701239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kxy3Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Financial Modeling Preview Pro-Sem",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWe are very excited to have Professor Brandon Muirhead come for our Pro-Sem this Friday. He will introduce himself, do a couple demo modeling exercises with us, and share his wisdom. He teaches one of the most popular classes in the program. It is full for next semester with a long wait list. If you’re enrolled or are curious for next year, please come!\n\nIt’s back to normal this week, so it will be from 9:30-10:45am in room w208. A light breakfast will be provided."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "hearts",
+                "users": [
+                    "U03LK3EKMNF",
+                    "U03L4GP8ZMM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e42ddece-da12-4885-a433-30c4d08a6bab",
+        "type": "message",
+        "text": "<@U03LMGV8Y12> How do we sign up?",
+        "user": "U05A7HC8FF1",
+        "ts": "1698167188.088379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DtkMV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LMGV8Y12"
+                            },
+                            {
+                                "type": "text",
+                                "text": " How do we sign up?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e82375f9477a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-10\/5557118263475_e82375f9477a060fd30d_72.png",
+            "first_name": "Kimball",
+            "real_name": "Kimball Palmer",
+            "display_name": "Kimball Palmer",
+            "team": "T0ZBAEL59",
+            "name": "kimball.palm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697849988.312699",
+        "parent_user_id": "U03LMGV8Y12"
+    },
+    {
+        "client_msg_id": "FD7E8FC6-714A-407A-A583-FC12E5B6503B",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1PHHshLXjWEarX4JjrdK_Vjh0fjQF8tkJlF_E-LhH8hY\/edit?usp=sharing|https:\/\/docs.google.com\/spreadsheets\/d\/1PHHshLXjWEarX4JjrdK_Vjh0fjQF8tkJlF_E-LhH8hY\/edit?usp=sharing>",
+        "user": "U03LMGV8Y12",
+        "ts": "1698175236.189509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zhYGa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1PHHshLXjWEarX4JjrdK_Vjh0fjQF8tkJlF_E-LhH8hY\/edit?usp=sharing",
+                                "text": "https:\/\/docs.google.com\/spreadsheets\/d\/1PHHshLXjWEarX4JjrdK_Vjh0fjQF8tkJlF_E-LhH8hY\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "11faedfd4201",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-16\/4093144696930_11faedfd42013ff3c8c3_72.png",
+            "first_name": "Aaron",
+            "real_name": "Aaron Ranger",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "aarontranger",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697849988.312699",
+        "parent_user_id": "U03LMGV8Y12"
+    }
+]

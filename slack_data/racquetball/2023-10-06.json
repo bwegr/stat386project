@@ -1,0 +1,152 @@
+[
+    {
+        "client_msg_id": "98DABAAE-BC20-4302-BE02-12049B43491A",
+        "type": "message",
+        "text": "Great news JJ. Good luck",
+        "user": "U05DD0QU5MK",
+        "ts": "1696593680.328489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0zEU6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great news JJ. Good luck"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "gc84bb28974b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c84bb28974bdc5d56235247044ed7d1a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Brandon",
+            "real_name": "Brandon Ward",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "wardbrandonc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05DD0QU5MK",
+            "ts": "1696593698.000000"
+        }
+    },
+    {
+        "client_msg_id": "E6C957EB-0D82-493B-A804-58CBC050EB10",
+        "type": "message",
+        "text": "Carl, I’m still heading that way if you still want to play. ",
+        "user": "U05DD0QU5MK",
+        "ts": "1696594240.514099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y8bDV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Carl, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " still heading that way if you still want to play"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "gc84bb28974b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c84bb28974bdc5d56235247044ed7d1a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Brandon",
+            "real_name": "Brandon Ward",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "wardbrandonc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "57E235F4-08F0-48F5-86FE-DEC77D2C56B3",
+        "type": "message",
+        "text": "Yep, I’ll be there at7:00 I have an extra racquet as well. ",
+        "user": "U05H6A4184T",
+        "ts": "1696595499.644509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4K0F4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be there at7:00 I have an extra racquet as well"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "79606dd47c09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5802269160551_79606dd47c09b377ebdf_72.png",
+            "first_name": "Carl",
+            "real_name": "Carl Majors",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "carlmajors",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

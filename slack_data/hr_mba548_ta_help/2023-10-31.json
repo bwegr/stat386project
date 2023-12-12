@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "a68952d9-0ff6-4fec-9b86-3c48a23bc9fa",
+        "type": "message",
+        "text": "Just in case anyone in section 1 looked for the quiz and it wasn't there, it should be now and thanks for being understanding!",
+        "user": "U03LK3D5N2X",
+        "ts": "1698791345.343339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JK2FT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just in case anyone in section 1 looked for the quiz and it wasn't there, it should be now and thanks for being understanding!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,2155 @@
+[
+    {
+        "client_msg_id": "7E024F82-9017-4DF9-ADB3-263005C48DDD",
+        "type": "message",
+        "text": "FYI the printer in the lounge is having issues. Not sure who to call to fix it. ",
+        "user": "U05GZPFMAA2",
+        "ts": "1696953887.003889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UTlT+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI the printer in the lounge is having issues"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Not sure who to call to fix it"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dae6d1b7129e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-25\/6099646149092_dae6d1b7129ed59f3cd8_72.png",
+            "first_name": "Val",
+            "real_name": "Val Fulton",
+            "display_name": "Val",
+            "team": "T0ZBAEL59",
+            "name": "valeriam.fulton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "rip",
+                "users": [
+                    "U03L4GUGBF1",
+                    "U03LXQCEVKK",
+                    "U05AMVD19GT",
+                    "U03LMGYLSR2",
+                    "U03NW11JH19",
+                    "U05AFDRFJ3Y",
+                    "U05AN02C0E7"
+                ],
+                "count": 7
+            },
+            {
+                "name": "ahhhhhhh",
+                "users": [
+                    "U03PKR5DAQY",
+                    "U03LXQLBGCR",
+                    "U03NW11JH19"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Last reminder to register for the BYU + Silicon Slopes: Growth Venture Connect Meet &amp; Greet\n\n*Registration will close at 4pm today.  If you register your resume will be sent out in the resume book to the company.  You can still come to the event if you do not register; however, your resume will not be included in the resume book.*\n\nThis event is a networking event NOT a hiring event but this is an opportunity to get your name on the radar of local growth stage companies.  We will have another event in the winter semester that will be focussed on hiring.\n\nAttire: Business casual and please wear your MBA name tag",
+        "user": "U03PKR5881E",
+        "ts": "1696955269.482329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gUEKe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last reminder to register for the BYU + Silicon Slopes: Growth Venture Connect Meet & Greet\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Registration will close at 4pm today.  If you register your resume will be sent out in the resume book to the company.  You can still come to the event if you do not register; however, your resume will not be included in the resume book.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis event is a networking event NOT a hiring event but this is an opportunity to get your name on the radar of local growth stage companies.  We will have another event in the winter semester that will be focussed on hiring.\n\nAttire: Business casual and please wear your MBA name tag"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "b6493dc7b1c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-25\/4115859849319_b6493dc7b1c7b0d81104_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa King",
+            "display_name": "Melissa King",
+            "team": "T0ZBAEL59",
+            "name": "melissaelaineking75",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1696438406.941159",
+                "author_id": "U03L57R4HN3",
+                "channel_id": "CKZ3F37N3",
+                "channel_team": "T0ZBAEL59",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T0ZBAEL59",
+                        "channel": "CKZ3F37N3",
+                        "ts": "1696438406.941159",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "fIa2j",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "BYU + Silicon Slopes: Growth Venture Connect",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Meet & Greet",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "What:",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " This is an MBA-only event where you can connect with local Growth companies. Not all are hiring at this moment, but the connections you make will be invaluable.\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Where:",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " N. Eldon Tanner Building (TNRB), Brigham Young University, Provo, Utah 84602\nRoom 410 (4th floor)\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "When:",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " Wednesday, October 11th, 2023\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Time:",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " 6pm – 9pm "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Light refreshments provided",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nWe hope to see you there! "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Register ",
+                                                    "style": {
+                                                        "bold": true,
+                                                        "italic": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/marriott.byu.edu\/event\/growthventure2023\/registration",
+                                                    "text": "here",
+                                                    "style": {
+                                                        "bold": true,
+                                                        "italic": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " or by using the QR code.",
+                                                    "style": {
+                                                        "bold": true,
+                                                        "italic": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F05V2KZV45T",
+                        "created": 1696438395,
+                        "timestamp": 1696438395,
+                        "name": "Growth-Venture-Connect_Web-Banner.jpg",
+                        "title": "Growth-Venture-Connect_Web-Banner.jpg",
+                        "mimetype": "image\/jpeg",
+                        "filetype": "jpg",
+                        "pretty_type": "JPEG",
+                        "user": "U03L57R4HN3",
+                        "user_team": "T0ZBAEL59",
+                        "editable": false,
+                        "size": 202131,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V2KZV45T\/growth-venture-connect_web-banner.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F05V2KZV45T\/download\/growth-venture-connect_web-banner.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_64.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_80.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_360.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 222,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_480.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 295,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F05V2KZV45T-6a3dc802f2\/growth-venture-connect_web-banner_160.jpg?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "original_w": 650,
+                        "original_h": 400,
+                        "thumb_tiny": "AwAdADDTpCQKjkkKtgCnFgoG\/r60AI0hIwqkH1I\/+vTd8mPf\/d\/+vTw6E4FO49qYiHdL6\/8Ajv8A9enIZC2GPH0\/+vUny+1HHtQBG8m18Y\/GlcjAJp5UE5NBUHqM0hkKkZHFPPU07Yo7CnYHpTER0q\/ep+B6UYFIZ\/\/Z",
+                        "permalink": "https:\/\/byumba.slack.com\/files\/U03L57R4HN3\/F05V2KZV45T\/growth-venture-connect_web-banner.jpg",
+                        "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F05V2KZV45T-40d284b1d0",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    },
+                    {
+                        "id": "F0604727CTT",
+                        "created": 1696438400,
+                        "timestamp": 1696438400,
+                        "name": "Untitled design (5).png",
+                        "title": "Untitled design (5).png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U03L57R4HN3",
+                        "user_team": "T0ZBAEL59",
+                        "editable": false,
+                        "size": 65038,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0604727CTT\/untitled_design__5_.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0604727CTT\/download\/untitled_design__5_.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 360,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 480,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 720,
+                        "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0604727CTT-ff82c22752\/untitled_design__5__800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 800,
+                        "original_w": 900,
+                        "original_h": 900,
+                        "thumb_tiny": "AwAwADDTooozQBFK3TnHOOuB60kTZwQ2VPByc4PtT3TIIxkHnFMjjICg8BTnnqTTETUUZopDCs6UYuGOR979frWjVGYKJXO4A7hgZyDxQBXLs0g3NtIODxnBPrT2KKpLMSOQVb16\/wCRSuw3hdpOOS2cZ9x+dIY1bec5J4B659+P8mgB8K7rkEEcMfQd60Kz7YLuTocNgbckD1rQoAKzrhGeV\/mXOSAMgemPrWjVR7Z2lLBhgnpn+lAELyyMAAwIH9M\/mPaoyxjRlI3Ln5TjJPfHHSrIs34LNkg8fN0\/+vSm1dnO5gA3UrkHFAEduFEiqGk3A\/xDHHp9Kv1VjtWjkUq3Axk7j834VaoA\/9k=",
+                        "permalink": "https:\/\/byumba.slack.com\/files\/U03L57R4HN3\/F0604727CTT\/untitled_design__5_.png",
+                        "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0604727CTT-dbe11d5abe",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "has_rich_preview": false,
+                        "file_access": "visible"
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/byumba.slack.com\/archives\/CKZ3F37N3\/p1696438406941159",
+                "is_share": true,
+                "fallback": "[October 4th, 2023 10:53 AM] britbennion: *BYU + Silicon Slopes: Growth Venture Connect*\n*Meet &amp; Greet*\n\n*What:* This is an MBA-only event where you can connect with local Growth companies. Not all are hiring at this moment, but the connections you make will be invaluable.\n\n*Where:* N. Eldon Tanner Building (TNRB), Brigham Young University, Provo, Utah 84602\nRoom 410 (4th floor)\n\n*When:* Wednesday, October 11th, 2023\n\n*Time:* 6pm – 9pm *Light refreshments provided*\n\nWe hope to see you there! _*Register <https:\/\/marriott.byu.edu\/event\/growthventure2023\/registration|here> or by using the QR code.*_",
+                "text": "*BYU + Silicon Slopes: Growth Venture Connect*\n*Meet &amp; Greet*\n\n*What:* This is an MBA-only event where you can connect with local Growth companies. Not all are hiring at this moment, but the connections you make will be invaluable.\n\n*Where:* N. Eldon Tanner Building (TNRB), Brigham Young University, Provo, Utah 84602\nRoom 410 (4th floor)\n\n*When:* Wednesday, October 11th, 2023\n\n*Time:* 6pm – 9pm *Light refreshments provided*\n\nWe hope to see you there! _*Register <https:\/\/marriott.byu.edu\/event\/growthventure2023\/registration|here> or by using the QR code.*_",
+                "author_name": "Brittany Bennion",
+                "author_link": "https:\/\/byumba.slack.com\/team\/U03L57R4HN3",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_48.jpg",
+                "author_subname": "Brittany Bennion",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89d6ae08-832c-439b-9348-26b577ee28c4",
+        "type": "message",
+        "text": "Devotional broadcast in W240",
+        "user": "U03LK551XFU",
+        "ts": "1696957867.263939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "au3Ty",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Devotional broadcast in W240"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cc2902323103",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-22\/4996034344114_cc290232310316dd0d15_72.jpg",
+            "first_name": "Hyrum",
+            "real_name": "Hyrum Mosley",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "hyrum.mosley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LXQCJA81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-6",
+                "users": [
+                    "U03LXQBTQJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4747bde5-3a07-404b-88d8-8957e764bf42",
+        "type": "message",
+        "text": "Hey MBA fam! I have a FREE 6 month Premium LinkedIn membership (A $240 value!) for sale or trade. Incredibly helpful with recruiting and networking.  I acquired it through the \"bigger and better\" activity from the negotiation class. Respond in the thread or DM me. It'll go to the best offer. Opportunity closes tomorrow at noon!",
+        "user": "U03LG7DNSUV",
+        "ts": "1696957985.124199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcm9a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey MBA fam! I have a FREE 6 month Premium LinkedIn membership (A $240 value!) for sale or trade. Incredibly helpful with recruiting and networking.  I acquired it through the \"bigger and better\" activity from the negotiation class. Respond in the thread or DM me. It'll go to the best offer. Opportunity closes tomorrow at noon!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "f3b8802bc2bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/4003016629493_f3b8802bc2bc4748803b_72.png",
+            "first_name": "Jamie",
+            "real_name": "Jamie Wadsworth",
+            "display_name": "Jamie Wadsworth",
+            "team": "T0ZBAEL59",
+            "name": "jamie.p.wadsworth",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696957985.124199",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1696969893.472269",
+        "reply_users": [
+            "U03LXQCEVKK",
+            "U03LMGYLSR2",
+            "U03LG7C5QAH"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1696958302.773249"
+            },
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1696958716.350589"
+            },
+            {
+                "user": "U03LG7C5QAH",
+                "ts": "1696969893.472269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "544deb7e-4a68-49fb-b7d5-37e6d8c8dc1b",
+        "type": "message",
+        "text": "I have two kidneys and I’m blood type O-. I doubt you’ll get a better offer than that",
+        "user": "U03LXQCEVKK",
+        "ts": "1696958302.773249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HoSoD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have two kidneys and I’m blood type O-. I doubt you’ll get a better offer than that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696957985.124199",
+        "parent_user_id": "U03LG7DNSUV",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U03LG7DNSUV",
+                    "U03M8TCTA6L",
+                    "U05HK2S6TLZ",
+                    "U03LK56EXJN"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86146e59-7129-4bb0-a4af-52d682b6c207",
+        "type": "message",
+        "text": "I'll give you a mini tootsie pop for it. But heres the catch: Orange flavor",
+        "user": "U03LMGYLSR2",
+        "ts": "1696958716.350589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DzbYW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll give you a mini tootsie pop for it. But heres the catch: Orange flavor"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696957985.124199",
+        "parent_user_id": "U03LG7DNSUV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U03LG7DNSUV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U03LXQCJA81",
+                    "U03M8TCTA6L",
+                    "U03LXQBTQJV",
+                    "U03LMGXA3FW",
+                    "U03LK56EXJN",
+                    "U03LXQCM22D",
+                    "U03L4GT3B55",
+                    "U03LG7C5QAH",
+                    "U03LCGQP0LW"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8534EC00-B130-4DA2-8F11-1834DC416C47",
+        "type": "message",
+        "text": "*Cougar Capital Info Session Update*\n\nHey everyone! We previously announced that we were having the info session tonight at 5 PM in room W208. We just found out that Dan is doing his midterm review at the same time- because of that, we are changing the info session to be *today at 4 PM in room W108*. We want to be sure everyone can make it to both. Thanks, and see you then!!",
+        "user": "U03LK4YJGQJ",
+        "ts": "1696962988.648969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gH2tw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cougar Capital Info Session Update\n\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! We previously announced that we were having the info session tonight at 5 PM in room W208"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " We just found out that Dan is doing his midterm review at the same time- because of that, we are changing the info session to be "
+                            },
+                            {
+                                "type": "text",
+                                "text": "today at 4 PM in room W108",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " We want to be sure everyone can make it to both"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks, and see you then!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "4bfa602a3916",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-28\/4026473552256_4bfa602a39169e79a840_72.jpg",
+            "first_name": "Aaron",
+            "real_name": "Aaron Daines",
+            "display_name": "Aaron Daines",
+            "team": "T0ZBAEL59",
+            "name": "aaron.daines",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03LG7BV35K",
+                    "U05B0NFJ1S5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LN7V9M0U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!channel> Hi all! For Kaizen we are doing a market research project and we want to interview current or recently (within one year) graduated students from the list of schools below. If you have a connection to a student, please list their name and school below and we’ll reach out to you to get more information!",
+        "files": [
+            {
+                "id": "F060FU56RNZ",
+                "created": 1696963535,
+                "timestamp": 1696963535,
+                "name": "Untitled document (2).pdf",
+                "title": "Untitled document (2).pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03LN7V9M0U",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 32555,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060FU56RNZ\/untitled_document__2_.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060FU56RNZ\/download\/untitled_document__2_.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060FU56RNZ-67ff604745\/untitled_document__2__thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LN7V9M0U\/F060FU56RNZ\/untitled_document__2_.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060FU56RNZ-bfc173362e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LN7V9M0U",
+        "display_as_bot": false,
+        "ts": "1696963567.740409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jGILy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi all! For Kaizen we are doing a market research project and we want to interview current or recently (within one year) graduated students from the list of schools below. If you have a connection to a student, please list their name and school below and we’ll reach out to you to get more information!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03LN7V9M0U",
+            "ts": "1696964060.000000"
+        },
+        "client_msg_id": "b4c96542-4f7b-4d11-9b16-4ad7876eea88",
+        "thread_ts": "1696963567.740409",
+        "reply_count": 10,
+        "reply_users_count": 8,
+        "latest_reply": "1697124608.249769",
+        "reply_users": [
+            "U05GZPF8ZGW",
+            "U03LK52VCQ2",
+            "U03PKR5GQUQ",
+            "U03LN7V9M0U",
+            "U05HK2SC7SM",
+            "U03LXQCJA81",
+            "U03L4GN325D",
+            "U03LXQFQS3B"
+        ],
+        "replies": [
+            {
+                "user": "U05GZPF8ZGW",
+                "ts": "1696964213.429949"
+            },
+            {
+                "user": "U05GZPF8ZGW",
+                "ts": "1696964267.377479"
+            },
+            {
+                "user": "U03LK52VCQ2",
+                "ts": "1696965013.264659"
+            },
+            {
+                "user": "U03PKR5GQUQ",
+                "ts": "1696965627.195429"
+            },
+            {
+                "user": "U03LN7V9M0U",
+                "ts": "1696965859.833769"
+            },
+            {
+                "user": "U05GZPF8ZGW",
+                "ts": "1696966277.284599"
+            },
+            {
+                "user": "U05HK2SC7SM",
+                "ts": "1696968251.511439"
+            },
+            {
+                "user": "U03LXQCJA81",
+                "ts": "1696979857.379029"
+            },
+            {
+                "user": "U03L4GN325D",
+                "ts": "1697060060.566439"
+            },
+            {
+                "user": "U03LXQFQS3B",
+                "ts": "1697124608.249769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "40b4ca33-735f-4516-b7b7-74c31bc451eb",
+        "type": "message",
+        "text": "<@U03LN7V9M0U> I have 02 friends from Wharton Business School (second year students) that would be willing to help out",
+        "user": "U05GZPF8ZGW",
+        "ts": "1696964213.429949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TyPyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LN7V9M0U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have 02 friends from Wharton Business School (second year students) that would be willing to help out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "945acac7f6df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-25\/5638334753522_945acac7f6df9148f163_72.jpg",
+            "first_name": "Francisco",
+            "real_name": "Francisco Sachun",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "franciscosachunsalaza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696963567.740409",
+        "parent_user_id": "U03LN7V9M0U",
+        "reactions": [
+            {
+                "name": "hearts",
+                "users": [
+                    "U03LN7V9M0U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e487d997-6cf6-4e2b-bbfa-f22c302abf40",
+        "type": "message",
+        "text": "Also Harvard Business School since my brother did his MBA there",
+        "user": "U05GZPF8ZGW",
+        "ts": "1696964267.377479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VoMD9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also Harvard Business School since my brother did his MBA there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "945acac7f6df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-25\/5638334753522_945acac7f6df9148f163_72.jpg",
+            "first_name": "Francisco",
+            "real_name": "Francisco Sachun",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "franciscosachunsalaza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696963567.740409",
+        "parent_user_id": "U03LN7V9M0U"
+    },
+    {
+        "client_msg_id": "4FA48350-2578-4F5F-A2AC-FC4728FE2316",
+        "type": "message",
+        "text": "I was there! Awesome job! ",
+        "user": "U03SRBYBAET",
+        "ts": "1696964521.307249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DTlea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was there! Awesome job! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6d964c44b7d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3918205904550_6d964c44b7d5cc71f366_72.jpg",
+            "first_name": "Coralee",
+            "real_name": "Coralee Choules",
+            "display_name": "Coralee Choules",
+            "team": "T0ZBAEL59",
+            "name": "coralee.choules",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696902155.504249",
+        "parent_user_id": "U03L4GT3B55"
+    },
+    {
+        "type": "message",
+        "text": "Making another plug for this... if you came back from your internship and thought \"I wish I had a more meaningful opportunity to go after\" this is for you:\n\nWe're having an info session on *buying a business* on October 17th, 5p -6p, room TBD.\n• What the economics of buying a business look like\n• What the benefits to buying a business are\n• How to start looking for a business to buy\n• Listen to experiences from a few BYU MBA grads that have bought businesses\n• Intro to the Acquisition Case Competition that will take place in November ($1000 cash prize to the winner) -- 1st\/2nd years can enter\n^^The Acquisition Case Comp will be on  :rotating_light: *Saturday, November 18th* :rotating_light: at the new Kiln in Provo. It will be an awesome chance to pitch your acquisition idea(s) to potential investors.\n\nIt's open to anybody, 1st or 2nd years -- just give us a thumbs up so we have a headcount for food.",
+        "files": [
+            {
+                "id": "F061801S23S",
+                "created": 1696964885,
+                "timestamp": 1696964885,
+                "name": "Screenshot 2023-10-10 at 1.08.01 PM.png",
+                "title": "Screenshot 2023-10-10 at 1.08.01 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LKPR602X",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 63822,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061801S23S\/screenshot_2023-10-10_at_1.08.01_pm.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061801S23S\/download\/screenshot_2023-10-10_at_1.08.01_pm.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061801S23S-18b0f456f5\/screenshot_2023-10-10_at_1.08.01_pm_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061801S23S-18b0f456f5\/screenshot_2023-10-10_at_1.08.01_pm_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061801S23S-18b0f456f5\/screenshot_2023-10-10_at_1.08.01_pm_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 76,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061801S23S-18b0f456f5\/screenshot_2023-10-10_at_1.08.01_pm_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 101,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061801S23S-18b0f456f5\/screenshot_2023-10-10_at_1.08.01_pm_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061801S23S-18b0f456f5\/screenshot_2023-10-10_at_1.08.01_pm_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 152,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061801S23S-18b0f456f5\/screenshot_2023-10-10_at_1.08.01_pm_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 169,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061801S23S-18b0f456f5\/screenshot_2023-10-10_at_1.08.01_pm_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 960,
+                "thumb_960_h": 202,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061801S23S-18b0f456f5\/screenshot_2023-10-10_at_1.08.01_pm_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 216,
+                "original_w": 1234,
+                "original_h": 260,
+                "thumb_tiny": "AwAKADC+ScnrRk+tOwPSnUANDcc0u4UtFACbhRuFLRQB\/9k=",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LKPR602X\/F061801S23S\/screenshot_2023-10-10_at_1.08.01_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061801S23S-35713e67c9",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LKPR602X",
+        "display_as_bot": false,
+        "ts": "1696964985.819629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1RHbU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Making another plug for this... if you came back from your internship and thought \"I wish I had a more meaningful opportunity to go after\" this is for you:\n\nWe're having an info session on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "buying a business ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "on October 17th, 5p -6p, room TBD.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What the economics of buying a business look like"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What the benefits to buying a business are"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How to start looking for a business to buy"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Listen to experiences from a few BYU MBA grads that have bought businesses"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Intro to the Acquisition Case Competition that will take place in November ($1000 cash prize to the winner) -- 1st\/2nd years can enter"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n^^The Acquisition Case Comp will be on  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Saturday, November 18th ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " at the new Kiln in Provo. It will be an awesome chance to pitch your acquisition idea(s) to potential investors.\n\nIt's open to anybody, 1st or 2nd years -- just give us a thumbs up so we have a headcount for food."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2634fa83-5323-43e7-86be-2650c7abeca3",
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "U05B0NFJ1S5",
+                    "U03LN7V9M0U",
+                    "U05A7HE5MTR",
+                    "U03LG776WFP",
+                    "U03LK551XFU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U03SZAWQBM4",
+                    "U05A7HE5MTR",
+                    "U03LK3EKMNF",
+                    "U03LG776WFP"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05A7HE5MTR",
+                    "U05A7HC8FF1",
+                    "U03LG776WFP",
+                    "U03LK551XFU",
+                    "U05DUHAKG8Z",
+                    "U03LG75NYSZ",
+                    "U05AK5HTE77",
+                    "U05AN01UD1R"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e4efbd91-0cd0-4cfc-941e-090d833c8cef",
+        "type": "message",
+        "text": "Are you wanting undergrad graduate or graduate school graduates?",
+        "user": "U03LK52VCQ2",
+        "ts": "1696965013.264659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "quUeC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you wanting undergrad graduate or graduate school graduates?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696963567.740409",
+        "parent_user_id": "U03LN7V9M0U"
+    },
+    {
+        "client_msg_id": "253d121f-b3a8-4f01-a806-899aeaa38801",
+        "type": "message",
+        "text": "I have a 2nd Year MBA contacts at:\n•Kellogg\n•Chapel Hill\n•Duke\n•Indiana University\n•Cornell\n•Michigan Ross",
+        "user": "U03PKR5GQUQ",
+        "ts": "1696965627.195429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xWzJs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have a 2nd Year MBA contacts at:\n•Kellogg\n•Chapel Hill\n•Duke\n•Indiana University\n•Cornell\n•Michigan Ross"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "dc8df7de893c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/3999803606982_dc8df7de893c145463cc_72.png",
+            "first_name": "Ashlee",
+            "real_name": "Ashlee Love",
+            "display_name": "Ashlee",
+            "team": "T0ZBAEL59",
+            "name": "ashleelove2017",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696963567.740409",
+        "parent_user_id": "U03LN7V9M0U",
+        "reactions": [
+            {
+                "name": "hearts",
+                "users": [
+                    "U03LN7V9M0U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fad7ff50-43e1-4fe2-8403-08d96deae37d",
+        "type": "message",
+        "text": "<@U03LK52VCQ2> sorry I should have clarified...MBA students!",
+        "user": "U03LN7V9M0U",
+        "ts": "1696965859.833769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/gwtJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK52VCQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sorry I should have clarified...MBA students!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8cac14895c81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3697224317173_8cac14895c8164615ff9_72.png",
+            "first_name": "Brenna",
+            "real_name": "Brenna Porter",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "brennaporter1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696963567.740409",
+        "parent_user_id": "U03LN7V9M0U",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e53f7dcb-a97b-4801-ad0a-6e3eba076dff",
+        "type": "message",
+        "text": "Cool! All my contacts already graduated from MBA, let me know if you need their contacts",
+        "user": "U05GZPF8ZGW",
+        "ts": "1696966277.284599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x2+TW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool! All my contacts already graduated from MBA, let me know if you need their contacts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "945acac7f6df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-25\/5638334753522_945acac7f6df9148f163_72.jpg",
+            "first_name": "Francisco",
+            "real_name": "Francisco Sachun",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "franciscosachunsalaza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696963567.740409",
+        "parent_user_id": "U03LN7V9M0U"
+    },
+    {
+        "client_msg_id": "0B63AC01-80BC-4260-ABF3-2C8C0C1BA247",
+        "type": "message",
+        "text": "I’ve got a friend currently at Chicago Booth! He’s willing to be interviewed! ",
+        "user": "U05HK2SC7SM",
+        "ts": "1696968251.511439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CJc+v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " got a friend currently at Chicago Booth! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "He’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " willing to be interviewed! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "63adecede729",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-14\/5586941810324_63adecede72955876601_72.jpg",
+            "first_name": "Braden",
+            "real_name": "Braden Whitaker",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "whitaker.braden",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696963567.740409",
+        "parent_user_id": "U03LN7V9M0U",
+        "reactions": [
+            {
+                "name": "hearts",
+                "users": [
+                    "U03LN7V9M0U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F060K94FH9Q",
+                "created": 1696968369,
+                "timestamp": 1696968369,
+                "name": "BDDF8E94-9ED0-447D-A6F9-AF80D3B979E8.png",
+                "title": "BDDF8E94-9ED0-447D-A6F9-AF80D3B979E8",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03LK551XFU",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 538088,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060K94FH9Q\/bddf8e94-9ed0-447d-a6f9-af80d3b979e8.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F060K94FH9Q\/download\/bddf8e94-9ed0-447d-a6f9-af80d3b979e8.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060K94FH9Q-e861dc3258\/bddf8e94-9ed0-447d-a6f9-af80d3b979e8_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060K94FH9Q-e861dc3258\/bddf8e94-9ed0-447d-a6f9-af80d3b979e8_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060K94FH9Q-e861dc3258\/bddf8e94-9ed0-447d-a6f9-af80d3b979e8_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060K94FH9Q-e861dc3258\/bddf8e94-9ed0-447d-a6f9-af80d3b979e8_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060K94FH9Q-e861dc3258\/bddf8e94-9ed0-447d-a6f9-af80d3b979e8_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060K94FH9Q-e861dc3258\/bddf8e94-9ed0-447d-a6f9-af80d3b979e8_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 557,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060K94FH9Q-e861dc3258\/bddf8e94-9ed0-447d-a6f9-af80d3b979e8_800.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1035,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060K94FH9Q-e861dc3258\/bddf8e94-9ed0-447d-a6f9-af80d3b979e8_960.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F060K94FH9Q-e861dc3258\/bddf8e94-9ed0-447d-a6f9-af80d3b979e8_1024.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_1024_w": 792,
+                "thumb_1024_h": 1024,
+                "original_w": 1546,
+                "original_h": 2000,
+                "thumb_tiny": "AwAwACW6xO48mpFBHUmk4BPGaMmpKHUUmeelJuPoaYh1FJ1paACkIPbGKWkwf7xoADkjtQOnNGD\/AHjQAc9TQAtFFFMAopCOaWkAUUUxyTwAaGA7cM4ozTEBGeKdQB\/\/2Q==",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03LK551XFU\/F060K94FH9Q\/bddf8e94-9ed0-447d-a6f9-af80d3b979e8.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F060K94FH9Q-545323719e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03LK551XFU",
+        "display_as_bot": false,
+        "ts": "1696968386.411439",
+        "client_msg_id": "F686A195-ED39-4BE6-BCF1-9C70207E4DB1",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LG7C5QAH",
+                    "U03LXQCEVKK",
+                    "U03LXQBTQJV",
+                    "U03LXQCJA81",
+                    "U05AFDSJH70"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77BC5C8E-D35C-43D1-8025-81B84E7B6FF7",
+        "type": "message",
+        "text": "I’ll match Adam’s offer",
+        "user": "U03LG7C5QAH",
+        "ts": "1696969893.472269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dDBPK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " match Adam’s offer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696957985.124199",
+        "parent_user_id": "U03LG7DNSUV",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U03LG7DNSUV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15B53102-8419-47EE-8DDB-F57BC039808E",
+        "type": "message",
+        "text": "This Friday around 7pm (after the temple) Kirsi and I are hiking the Y at sunset\/dusk and would love to have anyone join us! :blush:\nThe view of the city at night is really awesome and last time I hiked the Y at night, I saw a spider the size of a baseball with green eyes shine in my headlamp and that seems really Friday the 13th vibes :eyes: :spider: :flushed:!\nEquipment needed: headlamp or flashlight ( I have extras if needed!)\nFriends and fam welcome too. Post :hiking_boot: below if interested!!",
+        "user": "U03LK4YF3A6",
+        "ts": "1696977074.769939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "clTBU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This Friday around 7pm (after the temple) Kirsi and I are hiking the Y at sunset\/dusk and would love to have anyone join us! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThe view of the city at night is really awesome and last time I hiked the Y at night, I saw a spider the size of a baseball with green eyes shine in my headlamp and that seems really Friday the 13th vibes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spider",
+                                "unicode": "1f577-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flushed",
+                                "unicode": "1f633"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\nEquipment needed: headlamp or flashlight ( I have extras if needed!)\nFriends and fam welcome too. Post "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hiking_boot",
+                                "unicode": "1f97e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " below if interested!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3686677ded82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-29\/5820926152499_3686677ded820a9e4cbe_72.png",
+            "first_name": "Kelsee",
+            "real_name": "Kelsee Gates",
+            "display_name": "Kelsee Gates",
+            "team": "T0ZBAEL59",
+            "name": "kelsee690000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03LK4YF3A6",
+            "ts": "1696977713.000000"
+        },
+        "thread_ts": "1696977074.769939",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696978109.479539",
+        "reply_users": [
+            "U03LXQCEVKK",
+            "U026AGC0FDY"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQCEVKK",
+                "ts": "1696977289.220759"
+            },
+            {
+                "user": "U026AGC0FDY",
+                "ts": "1696978109.479539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "hiking_boot",
+                "users": [
+                    "U03LK4YF3A6",
+                    "U05BBQCRFU0",
+                    "U05AMVCTLRZ",
+                    "U03LK551XFU",
+                    "U03LK39PKRR"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U03L4GP8ZMM",
+                    "U03LXQLBGCR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "spider",
+                "users": [
+                    "U03LK4YBK7C",
+                    "U05BBQG6MKJ",
+                    "U03LK39PKRR",
+                    "U03LXQLBGCR"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58590a6b-f66e-41c5-b148-8a14f86cf959",
+        "type": "message",
+        "text": "can confirm, last time I did this I did in fact see a spider like the one kelsee was describing. We eliminated it, with fear, but it’s best to be on guard.",
+        "user": "U03LXQCEVKK",
+        "ts": "1696977289.220759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EedlG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can confirm, last time I did this I did in fact see a spider like the one kelsee was describing. We eliminated it, with fear, but it’s best to be on guard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "67ff394c55d5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-10\/4185197525159_67ff394c55d5f4936cf1_72.png",
+            "first_name": "Taylor",
+            "real_name": "Taylor Brooks",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "taylorleebrooks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696977074.769939",
+        "parent_user_id": "U03LK4YF3A6",
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U03LK4YF3A6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09851B05-E1A2-4277-A85B-E75491257989",
+        "type": "message",
+        "text": "This will forever haunt me!  <@U03LK4YF3A6> :spider:  :woman-gesturing-no::skin-tone-3:  :dizzy_face: ",
+        "user": "U026AGC0FDY",
+        "ts": "1696978109.479539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cr2GB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This will forever haunt me!  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LK4YF3A6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spider",
+                                "unicode": "1f577-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-gesturing-no",
+                                "unicode": "1f645-1f3fc-200d-2640-fe0f",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dizzy_face",
+                                "unicode": "1f635"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "03a5df413188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-30\/2668625236850_03a5df413188662cca8b_72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Jones",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "joneshannah2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696977074.769939",
+        "parent_user_id": "U03LK4YF3A6",
+        "reactions": [
+            {
+                "name": "face_with_peeking_eye",
+                "users": [
+                    "U03LK4YF3A6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42dfe8f1-6a91-4f9c-9f03-7d993157d946",
+        "type": "message",
+        "text": "A previous coworker of mine just finished Northwestern’s one-year MBA. Want me to see if he’s interested in chatting, since it's only a one-year program?",
+        "user": "U03LXQCJA81",
+        "ts": "1696979857.379029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uPhaV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A previous coworker of mine just finished Northwestern’s one-year MBA. Want me to see if he’s interested in chatting, since it's only a one-year program?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "977bccf02aa2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3870845506279_977bccf02aa266469a04_72.png",
+            "first_name": "Zach",
+            "real_name": "Zach Andersen",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "andersen.zach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696963567.740409",
+        "parent_user_id": "U03LN7V9M0U"
+    },
+    {
+        "client_msg_id": "5a6d18b5-4323-43a4-abc5-5b1c8cf9b1f5",
+        "type": "message",
+        "text": "Join <#C060LL8AD26|techtrek-ben-dal-2023> to coordinate transportation, lodging, and logistics for the Bentonville-Dallas trip!",
+        "user": "U03LK39PKRR",
+        "ts": "1696995859.096989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t3okQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Join "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C060LL8AD26"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to coordinate transportation, lodging, and logistics for the Bentonville-Dallas trip!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7cdf592-269b-4646-9925-65582a696122",
+        "type": "message",
+        "text": "Attention everyone! Slalom Consulting is coming to do an info session on *Wednesday 18th at 6 p.m*. in room TNBR W122. Slalom is an international based consulting firm that does all sorts of consulting. Slalom in Salt Lake focuses on Workforce Transformation. Slalom is SLC is open to full-time students and slalom in the US and globally is looking for interns and full-time.\n\n <https:\/\/www.slalom.com\/>\n<https:\/\/www.linkedin.com\/company\/slalom-consulting\/>",
+        "user": "U03NW11JH19",
+        "ts": "1697000855.674919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Jhel",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Attention everyone! Slalom Consulting is coming to do an info session on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Wednesday 18th at 6 p.m",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". in room TNBR W122. Slalom is an international based consulting firm that does all sorts of consulting. Slalom in Salt Lake focuses on Workforce Transformation. Slalom is SLC is open to full-time students and slalom in the US and globally is looking for interns and full-time.\n\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.slalom.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "73c25e7ba8b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3840815289140_73c25e7ba8b347a71717_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Williams",
+            "display_name": "Ben Williams",
+            "team": "T0ZBAEL59",
+            "name": "benjamincolewilliams",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.slalom.com\/",
+                "thumb_url": "https:\/\/www.slalom.com\/sites\/default\/files\/2022-10\/refresh22-home-seo-810x560.jpg",
+                "thumb_width": 810,
+                "thumb_height": 560,
+                "id": 1,
+                "original_url": "https:\/\/www.slalom.com\/",
+                "fallback": "Slalom",
+                "text": "Slalom is a global consulting firm focused on strategy, technology, and business transformation.",
+                "title": "Slalom",
+                "title_link": "https:\/\/www.slalom.com\/",
+                "service_name": "Slalom"
+            },
+            {
+                "from_url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "thumb_url": "https:\/\/media.licdn.com\/dms\/image\/D560BAQF1_gvyfp0Djg\/company-logo_200_200\/0\/1688224371804\/slalom_consulting_logo?e=2147483647&v=beta&t=WFzLMihDKb_z6gFJmX2nec239mgAECDB4i1p3cL73xg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 2,
+                "original_url": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "fallback": "Slalom | LinkedIn",
+                "text": "Slalom | 218,807 followers on LinkedIn. We help people and organizations dream bigger, move faster, and build better tomorrows for all. | Slalom is a purpose-led, global business and technology consulting company. Our purpose—to help people and organizations dream bigger, move faster, and build better tomorrows for all—guides everything we do. And our north star is our vision of a world in which each person has the opportunity to love their life and work.",
+                "title": "Slalom | LinkedIn",
+                "title_link": "https:\/\/www.linkedin.com\/company\/slalom-consulting\/",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "thread_ts": "1697000855.674919",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697038580.692709",
+        "reply_users": [
+            "U03L4GT3B55",
+            "U03NW11JH19"
+        ],
+        "replies": [
+            {
+                "user": "U03L4GT3B55",
+                "ts": "1697034040.474229"
+            },
+            {
+                "user": "U03NW11JH19",
+                "ts": "1697038580.692709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "skier",
+                "users": [
+                    "U03LK39PKRR",
+                    "U03LK52VCQ2"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05BBQDP59N",
+                    "U05AN3TCTSN",
+                    "U03LCGQP0LW",
+                    "U03LK5295DY"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U03LK52VCQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hey Everyone! We have a great MBA networking event coming up! Oct 24th at 6pm in the Hinckley Building East Conference room. There will be all sorts of great companies represented there! Including but not limited to McKinsey, Bain, PWC, Slalom, Cicero, Bill, and many more! We are inviting all past MBA SCA Alumni and friends of the program that what to see BYU MBA's get into strategy or consulting roles!\n\nThere will be a soda bar and Hors d'oeuvres\nFree for SCA members and $3 for non-members\nBusiness Casual",
+        "files": [
+            {
+                "id": "F0606EXLXPH",
+                "created": 1697001844,
+                "timestamp": 1697001844,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03NW11JH19",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 659682,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0606EXLXPH\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F0606EXLXPH\/download\/image.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0606EXLXPH-96e15b1d99\/image_64.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0606EXLXPH-96e15b1d99\/image_80.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0606EXLXPH-96e15b1d99\/image_360.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_360_w": 360,
+                "thumb_360_h": 198,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0606EXLXPH-96e15b1d99\/image_480.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_480_w": 480,
+                "thumb_480_h": 265,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0606EXLXPH-96e15b1d99\/image_160.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F0606EXLXPH-96e15b1d99\/image_720.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_720_w": 720,
+                "thumb_720_h": 397,
+                "original_w": 793,
+                "original_h": 437,
+                "thumb_tiny": "AwAaADBwl+lIHAk3E4B9BUQU+opwjJzzVXAk3qf4z\/3zS+Yv9\/v121AKASOlUSTb1HG\/PH92kMi7T82Tjptpm71NBbg0gIww4yOKcJcf\/WqMcpz6Up6fhUFDiwJ96QMR0NMbqKcatCY\/ef7woJbaeeKEAweKQjg0CP\/Z",
+                "permalink": "https:\/\/byumba.slack.com\/files\/U03NW11JH19\/F0606EXLXPH\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F0606EXLXPH-7c463431d8",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03NW11JH19",
+        "display_as_bot": false,
+        "ts": "1697001851.652979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gYpC8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Everyone! We have a great MBA networking event coming up! Oct 24th at 6pm in the Hinckley Building East Conference room. There will be all sorts of great companies represented there! Including but not limited to McKinsey, Bain, PWC, Slalom, Cicero, Bill, and many more! We are inviting all past MBA SCA Alumni and friends of the program that what to see BYU MBA's get into strategy or consulting roles!\n\nThere will be a soda bar and Hors d'oeuvres\nFree for SCA members and $3 for non-members\nBusiness Casual"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0de9a268-0844-4315-8aaf-599deada9488",
+        "thread_ts": "1697001851.652979",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697047023.687299",
+        "reply_users": [
+            "U05BBQDP59N",
+            "U03LK3EKMNF"
+        ],
+        "replies": [
+            {
+                "user": "U05BBQDP59N",
+                "ts": "1697031780.138479"
+            },
+            {
+                "user": "U03LK3EKMNF",
+                "ts": "1697047023.687299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05BBQDP59N",
+                    "U03L4GLKLTZ",
+                    "U03LK3EKMNF",
+                    "U03LXQFQS3B"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

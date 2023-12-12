@@ -1,0 +1,237 @@
+[
+    {
+        "client_msg_id": "7ac08876-20d3-48d5-a45e-ebe332eb087f",
+        "type": "message",
+        "text": "Where can we find the Murder Mystery case for Thursday?",
+        "user": "U05A7HE2M8X",
+        "ts": "1697496500.154359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ikpE4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where can we find the Murder Mystery case for Thursday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "bcdf6033580d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-09\/5716478234883_bcdf6033580d299410a6_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Wilkinson",
+            "display_name": "Jessica Wilkinson",
+            "team": "T0ZBAEL59",
+            "name": "jessicawilkinson53",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697496500.154359",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1697671426.757549",
+        "reply_users": [
+            "U05AN015NSX",
+            "U05D98WS6FQ"
+        ],
+        "replies": [
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697496804.155499"
+            },
+            {
+                "user": "U05D98WS6FQ",
+                "ts": "1697496809.077009"
+            },
+            {
+                "user": "U05D98WS6FQ",
+                "ts": "1697496819.076539"
+            },
+            {
+                "user": "U05AN015NSX",
+                "ts": "1697671426.757549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "\"On Thursday, we will spend our time discussing the Murder Mystery Case. My gift to you—no need to discuss this one beforehand with your team, we will discuss it in class. You simply need to read the materials and decide who killed Robert. Please find attached the case for your review.\"",
+        "files": [
+            {
+                "id": "F061AT4CGP7",
+                "created": 1697496799,
+                "timestamp": 1697496799,
+                "name": "Case of Robert Guion B.pdf",
+                "title": "Case of Robert Guion B.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05AN015NSX",
+                "user_team": "T0ZBAEL59",
+                "editable": false,
+                "size": 3417704,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061AT4CGP7\/case_of_robert_guion_b.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0ZBAEL59-F061AT4CGP7\/download\/case_of_robert_guion_b.pdf?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0ZBAEL59-F061AT4CGP7-1b5821ad3c\/case_of_robert_guion_b_thumb_pdf.png?t=xoxe-33384496179-6155032394736-6131945144787-01857774735eba63135eda3d31da0931",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/byumba.slack.com\/files\/U05AN015NSX\/F061AT4CGP7\/case_of_robert_guion_b.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T0ZBAEL59-F061AT4CGP7-67a7901725",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05AN015NSX",
+        "display_as_bot": false,
+        "ts": "1697496804.155499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OaoNl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"On Thursday, we will spend our time discussing the Murder Mystery Case. My gift to you—no need to discuss this one beforehand with your team, we will discuss it in class. You simply need to read the materials and decide who killed Robert. Please find attached the case for your review.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f6abb824-9d99-4fcf-aa60-dd626a09293d",
+        "thread_ts": "1697496500.154359",
+        "parent_user_id": "U05A7HE2M8X",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05D98WS6FQ",
+                    "U05H8SL2HFE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05A7HE2M8X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2db60be7-ee47-42a3-b376-d0328ae2ee9a",
+        "type": "message",
+        "text": "I believe Professor Howell emailed us all on Friday last week and included the case as an attachment",
+        "user": "U05D98WS6FQ",
+        "ts": "1697496809.077009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8tqvL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe Professor Howell emailed us all on Friday last week and included the case as an attachment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "bf599ccf5e03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-30\/5822107966326_bf599ccf5e03b3d455b4_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Adams",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ekaj101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697496500.154359",
+        "parent_user_id": "U05A7HE2M8X"
+    },
+    {
+        "client_msg_id": "f2bfbf4e-8393-442f-a85b-d25e5c7e3a61",
+        "type": "message",
+        "text": "Spencer was too fast for me xD",
+        "user": "U05D98WS6FQ",
+        "ts": "1697496819.076539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SXCg7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Spencer was too fast for me xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "bf599ccf5e03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-30\/5822107966326_bf599ccf5e03b3d455b4_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Adams",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "ekaj101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697496500.154359",
+        "parent_user_id": "U05A7HE2M8X",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U05AN015NSX",
+                    "U05AK5HTE77"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "6c9e7bfb-7806-4458-b139-dbf3500fd551",
+        "type": "message",
+        "text": "Brandon, I'd also love some information on 593R!",
+        "user": "U05DD0R2J6R",
+        "ts": "1697539197.010779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bYRqq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brandon, I'd also love some information on 593R!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "9f2aa0222f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-08-23\/5782069155622_9f2aa0222f3469b2f8ea_72.jpg",
+            "first_name": "Danny",
+            "real_name": "Danny Gundersen",
+            "display_name": "Danny Gundersen",
+            "team": "T0ZBAEL59",
+            "name": "gundydc1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697480226.020479",
+        "parent_user_id": "U03LG7C5QAH"
+    },
+    {
+        "client_msg_id": "b382021d-8790-4c2e-9f9d-0e8bb3a9db4e",
+        "type": "message",
+        "text": "<@U05DD0R2J6R> Long story short, I would highly recommend it! It's been one of my favorite (and most valuable) courses in the MBA program. What makes it so great is the practicality of the content. We work on building a series of hard data skills in the context of real-world problems. Assignments consist of taking these problems end-to-end from raw data, analysis, and visualization, all the way to recommendations on a slide. Everything is done in the frame of how it would look in a consulting engagement and the course is taught by two full-time consultants (one from McKinsey, one from Bain). The course does assume some prior exposure to Python, R, and SQL.",
+        "user": "U03LK39PKRR",
+        "ts": "1697589835.024389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "13Kc3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05DD0R2J6R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Long story short, I would highly recommend it! It's been one of my favorite (and most valuable) courses in the MBA program. What makes it so great is the practicality of the content. We work on building a series of hard data skills in the context of real-world problems. Assignments consist of taking these problems end-to-end from raw data, analysis, and visualization, all the way to recommendations on a slide. Everything is done in the frame of how it would look in a consulting engagement and the course is taught by two full-time consultants (one from McKinsey, one from Bain). The course does assume some prior exposure to Python, R, and SQL."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "6543395dff06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-22\/3975986642771_6543395dff0661ca07c6_72.jpg",
+            "first_name": "Brandon",
+            "real_name": "Brandon Wegrowski",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bwegrowski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697480226.020479",
+        "parent_user_id": "U03LG7C5QAH",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05DD0R2J6R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7992F2BA-B077-48EF-8E37-2E3D5A60BA96",
+        "type": "message",
+        "text": "Sounds awesome honestly",
+        "user": "U03LG7C5QAH",
+        "ts": "1697599570.074279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EBHzP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds awesome honestly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "22f84fff7d9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-08\/5233704124420_22f84fff7d9fcadb1a11_72.jpg",
+            "first_name": "Tyler",
+            "real_name": "Tyler Hill",
+            "display_name": "Tyler Hill",
+            "team": "T0ZBAEL59",
+            "name": "t.wakefield.hill",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697480226.020479",
+        "parent_user_id": "U03LG7C5QAH",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U03LK39PKRR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

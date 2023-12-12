@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "880a74f0-0420-4dfb-9a0f-b7e6d2345d26",
+        "type": "message",
+        "text": "Hi everyone, I want to keep your calendars up to date. There will be no Finance Pro-Sem this coming Friday, the 13th. On the 20th, our Pro-Sem time will be adjusted for the Homecoming Schedule. We will have an interactive Finance Pro-Sem alongside alumni taking part in the MBA Multi-Year Alumni Reunion that day. The Pro-Sem will be from 1-2:30pm on the 20th. Room to be determined. Enjoy the rest of your weekend!",
+        "user": "U03L4GN325D",
+        "ts": "1696719239.302829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WikRD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, I want to keep your calendars up to date. There will be no Finance Pro-Sem this coming Friday, the 13th. On the 20th, our Pro-Sem time will be adjusted for the Homecoming Schedule. We will have an interactive Finance Pro-Sem alongside alumni taking part in the MBA Multi-Year Alumni Reunion that day. The Pro-Sem will be from 1-2:30pm on the 20th. Room to be determined. Enjoy the rest of your weekend!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "740dcb7df12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-06\/4901137423205_740dcb7df12ffaddfb93_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Mecham",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "mecham.devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

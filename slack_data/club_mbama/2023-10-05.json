@@ -1,0 +1,191 @@
+[
+    {
+        "client_msg_id": "31D300AC-BCDA-46B1-BEE3-2A0BE9E8526B",
+        "type": "message",
+        "text": "What Tanner said! You’re the greatest <@U03LK4YF3A6> ",
+        "user": "U05A7HC8FF1",
+        "ts": "1696519360.712319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "biTyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What Tanner said! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "You’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the greatest "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03LK4YF3A6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "e82375f9477a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-10\/5557118263475_e82375f9477a060fd30d_72.png",
+            "first_name": "Kimball",
+            "real_name": "Kimball Palmer",
+            "display_name": "Kimball Palmer",
+            "team": "T0ZBAEL59",
+            "name": "kimball.palm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696467026.905579",
+        "parent_user_id": "U03LK4YF3A6",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LK4YF3A6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8a18b84-fe5d-48e7-81a4-e6a89b4862d1",
+        "type": "message",
+        "text": "Hi hi! Looks like the deadline for the Kimberly-Clark Associate Brand Manager internship got pushed to this Friday so there's still time to apply! Send in your applications via Handshake ASAP! :face_with_cowboy_hat:",
+        "user": "U05H6DGRMRQ",
+        "ts": "1696520193.360199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5+Oih",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi hi! Looks like the deadline for the Kimberly-Clark Associate Brand Manager internship got pushed to this Friday so there's still time to apply! Send in your applications via Handshake ASAP! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_cowboy_hat",
+                                "unicode": "1f920"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3c2ec700a5a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-17\/5591211363973_3c2ec700a5a55348339c_72.png",
+            "first_name": "Camila",
+            "real_name": "Camila Costa",
+            "display_name": "Camila Costa",
+            "team": "T0ZBAEL59",
+            "name": "cami.costa1611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03LK4YF3A6",
+                    "U03L57R4HN3",
+                    "U05GZPF8ZGW"
+                ],
+                "count": 3
+            },
+            {
+                "name": "clapping_inclusive",
+                "users": [
+                    "U03LK4YF3A6",
+                    "U03L57R4HN3",
+                    "U05MZL0EKHU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "roll_of_paper",
+                "users": [
+                    "U03LK4YF3A6",
+                    "U03L57R4HN3",
+                    "U03LXQE14NM"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c4848d48-1d76-4ad1-8a21-b333617e2bd4",
+        "type": "message",
+        "text": "We're looking into getting MBAMA swag for this year and need your help for some initial input about what we should look into. Please take this short survey if you want your opinion to be heard! <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfH9Hz_O0-iScG_eRa3gyu47RUpuPh8k_gZ8CY70Nqd7HM8wQ\/viewform?usp=sf_link>",
+        "user": "U03LK3D5N2X",
+        "ts": "1696545596.260109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iEbPU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We're looking into getting MBAMA swag for this year and need your help for some initial input about what we should look into. Please take this short survey if you want your opinion to be heard! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfH9Hz_O0-iScG_eRa3gyu47RUpuPh8k_gZ8CY70Nqd7HM8wQ\/viewform?usp=sf_link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "8d9e877eaaf8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-02\/4485178132704_8d9e877eaaf803992a3e_72.jpg",
+            "first_name": "Bette",
+            "real_name": "Bette Benson",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "bjhopkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05A7HE11LP",
+                    "U03LMGXA3FW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

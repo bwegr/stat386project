@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697131139.892899",
+        "user": "U03LG7DG3TP",
+        "text": "<@U03LG7DG3TP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697135762.530259",
+        "user": "U05BBQG8FTJ",
+        "text": "<@U05BBQG8FTJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1697135803.710839",
+        "user": "U03PKR5GQUQ",
+        "text": "<@U03PKR5GQUQ> has joined the channel"
+    }
+]

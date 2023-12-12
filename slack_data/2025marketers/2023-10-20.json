@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "a24f68b9-d8d9-442d-b1bf-f1b8947594fb",
+        "type": "message",
+        "text": "<@U05AN02C0E7> Yes, this is an internal info session from career services specifically to those looking for tech roles, including Dell. This is not a Dell sponsored event.",
+        "user": "U03L57R4HN3",
+        "ts": "1697859979.712889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T5k+O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05AN02C0E7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes, this is an internal info session from career services specifically to those looking for tech roles, including Dell. This is not a Dell sponsored event."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "2f47764806af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3694832406710_2f47764806af93c03af3_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Bennion",
+            "display_name": "Brit Bennion",
+            "team": "T0ZBAEL59",
+            "name": "britbennion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697777380.824809",
+        "parent_user_id": "U03L57R4HN3",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U05AN02C0E7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3928eeb-6194-4091-ad3e-95395823677a",
+        "type": "message",
+        "text": "thanks!",
+        "user": "U05AN02C0E7",
+        "ts": "1697860010.481959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OJlya",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c8a8b5ae6726",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-02\/5361571737781_c8a8b5ae6726bf382cce_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Antuña",
+            "display_name": "Julian Antuña",
+            "team": "T0ZBAEL59",
+            "name": "julian.rosario93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697777380.824809",
+        "parent_user_id": "U03L57R4HN3"
+    }
+]

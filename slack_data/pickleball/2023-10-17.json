@@ -1,0 +1,367 @@
+[
+    {
+        "client_msg_id": "347659c0-3f99-4db0-b782-179c74f2a609",
+        "type": "message",
+        "text": "What do we think of making our own swell class by getting memberships somewhere and playing a few times a week?",
+        "user": "U03LMGYLSR2",
+        "ts": "1697553363.666699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZVCzr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do we think of making our own swell class by getting memberships somewhere and playing a few times a week?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697553363.666699",
+        "reply_count": 7,
+        "reply_users_count": 6,
+        "latest_reply": "1698184648.721399",
+        "reply_users": [
+            "U03LXQH9QMP",
+            "U03M8TCTA6L",
+            "U03LMGYLSR2",
+            "U03LKPRD403",
+            "U03LK52CR7U",
+            "U03M8T87HDE"
+        ],
+        "replies": [
+            {
+                "user": "U03LXQH9QMP",
+                "ts": "1697554066.007639"
+            },
+            {
+                "user": "U03M8TCTA6L",
+                "ts": "1697556995.364879"
+            },
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1697568356.171929"
+            },
+            {
+                "user": "U03LMGYLSR2",
+                "ts": "1697568376.715689"
+            },
+            {
+                "user": "U03LKPRD403",
+                "ts": "1697568497.276149"
+            },
+            {
+                "user": "U03LK52CR7U",
+                "ts": "1697665085.255789"
+            },
+            {
+                "user": "U03M8T87HDE",
+                "ts": "1698184648.721399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U03LKPRD403",
+                    "U03M8TCTA6L",
+                    "U05A7HD4XE3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U03LKPRD403",
+                    "U03M8TCTA6L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U03LKPRD403"
+                ],
+                "count": 1
+            },
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U03LK3D5N2X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11E992AE-36A5-40F3-8E5A-6CC37D102382",
+        "type": "message",
+        "text": "I’m interested! Do you think we could have some training \/ drills as part of it? Or would it just be time to play?",
+        "user": "U03LXQH9QMP",
+        "ts": "1697554066.007639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W1OTB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " interested"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Do you think we could have some training \/ drills as part of it? Or would it just be time to play?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "cb5054046f89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-21\/3693679244662_cb5054046f89b6a31324_72.png",
+            "first_name": "Nate",
+            "real_name": "Nate Vance",
+            "display_name": "Nate Vance",
+            "team": "T0ZBAEL59",
+            "name": "nathanvance12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697553363.666699",
+        "parent_user_id": "U03LMGYLSR2"
+    },
+    {
+        "client_msg_id": "DA79C31F-9359-4654-83C1-4FF5E442FEBA",
+        "type": "message",
+        "text": "Tell me more… :thinking_face: sounds interesting ",
+        "user": "U03M8TCTA6L",
+        "ts": "1697556995.364879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/oubO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tell me more"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sounds interesting "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "c37e1c61f0bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-02\/3887372396916_c37e1c61f0bd65b13aae_72.jpg",
+            "first_name": "Moses",
+            "real_name": "Moses Lotulelei",
+            "display_name": "Moses Lotulelei",
+            "team": "T0ZBAEL59",
+            "name": "moseselotulelei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697553363.666699",
+        "parent_user_id": "U03LMGYLSR2"
+    },
+    {
+        "client_msg_id": "1cd82233-4930-42e8-9a63-734e8c7c5127",
+        "type": "message",
+        "text": "I'm thinking of reserving a few courts somewhere, maybe getting passes, and like coordinating so we get good quality games going. maybe good quality drills would be a good idea. We only serve a few times each game, so drilling it can be pretty useful for me. And my 3rd shots",
+        "user": "U03LMGYLSR2",
+        "ts": "1697568356.171929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r27lA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm thinking of reserving a few courts somewhere, maybe getting passes, and like coordinating so we get good quality games going. maybe good quality drills would be a good idea. We only serve a few times each game, so drilling it can be pretty useful for me. And my 3rd shots"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697553363.666699",
+        "parent_user_id": "U03LMGYLSR2"
+    },
+    {
+        "client_msg_id": "acf932c6-cedf-4538-85c2-fe001982d431",
+        "type": "message",
+        "text": "<@U03LK52CR7U> <@U03M8T87HDE> interested?",
+        "user": "U03LMGYLSR2",
+        "ts": "1697568376.715689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vs\/a7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03LK52CR7U"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03M8T87HDE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " interested?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "a514e749232e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-17\/3810194524210_a514e749232ec8804d69_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Navar",
+            "display_name": "Adam Navar",
+            "team": "T0ZBAEL59",
+            "name": "navaradam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697553363.666699",
+        "parent_user_id": "U03LMGYLSR2"
+    },
+    {
+        "client_msg_id": "f1ab6ea2-a710-4c0b-94d2-faa14aa370c4",
+        "type": "message",
+        "text": "Do the indoor tennis courts here allow pickleball play?",
+        "user": "U03LKPRD403",
+        "ts": "1697568497.276149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XDvBW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do the indoor tennis courts here allow pickleball play?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "3713f7e206fb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-27\/3723723290418_3713f7e206fb82b542cb_72.png",
+            "first_name": "Micah",
+            "real_name": "Micah Perry",
+            "display_name": "Micah",
+            "team": "T0ZBAEL59",
+            "name": "micahfperry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697553363.666699",
+        "parent_user_id": "U03LMGYLSR2",
+        "reactions": [
+            {
+                "name": "shrug",
+                "users": [
+                    "U03LMGYLSR2"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

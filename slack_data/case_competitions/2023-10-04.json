@@ -1,0 +1,152 @@
+[
+    {
+        "client_msg_id": "6faefb88-1818-46f4-a0fe-bb9756260f09",
+        "type": "message",
+        "text": "<!channel>\nEvery year, Baylor University hosts an *MBA Ethics Case Competition* and *the Marriott School has been invited once again to participate*. This year's competition will be held on the *Baylor campus November 9-10* (NO MBA classes Nov 8-10).\n\nPlease complete <https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_8c5iu4JXa5fK75A|this short survey> *by midnight tonight (10\/4)* if you are interested in being considered. If you are selected, *your travel and board will be paid for* by the MBA Program.\n\n_If you have any questions, feel free to reach out of Brad Owens, Marriott School Ethics Faculty, at <mailto:bpo@byu.edu|bpo@byu.edu>._",
+        "user": "U03LK52VCQ2",
+        "ts": "1696447868.505319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PNEkU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEvery year, Baylor University hosts an "
+                            },
+                            {
+                                "type": "text",
+                                "text": "MBA Ethics Case Competition",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "the Marriott School has been invited once again to participate",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". This year's competition will be held on the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Baylor campus November 9-10 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(NO MBA classes Nov 8-10).\n\nPlease complete "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/byu.az1.qualtrics.com\/jfe\/form\/SV_8c5iu4JXa5fK75A",
+                                "text": "this short survey"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "by midnight tonight (10\/4)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you are interested in being considered. If you are selected, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "your travel and board will be paid for",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " by the MBA Program.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "If you have any questions, feel free to reach out of Brad Owens, Marriott School Ethics Faculty, at ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:bpo@byu.edu",
+                                "text": "bpo@byu.edu",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0ZBAEL59",
+        "user_team": "T0ZBAEL59",
+        "source_team": "T0ZBAEL59",
+        "user_profile": {
+            "avatar_hash": "37c1b29d7025",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-07\/5865845330018_37c1b29d702553c29245_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Lesā",
+            "display_name": "",
+            "team": "T0ZBAEL59",
+            "name": "meganelesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696448625.240499",
+        "user": "U03L4GT3B55",
+        "text": "<@U03L4GT3B55> has joined the channel",
+        "inviter": "U03LK52VCQ2"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696449117.135959",
+        "user": "U05DJBMDG0L",
+        "text": "<@U05DJBMDG0L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696449395.527589",
+        "user": "U05D98WS6FQ",
+        "text": "<@U05D98WS6FQ> has joined the channel"
+    }
+]
