@@ -1,0 +1,46 @@
+Below is the feedback I recieved and (mostly) implemented...
+
+Kaden:
+"Hey Brandon! I really liked your topic, I thought it was quite clever. Here's my 2 cents:
+
+Post 1: I really like your design and layout, it looks clean and professional. My suggestion would be to 
+add a link to your next post at the bottom for easy access. I know it would be retrospective, but it would 
+help set up your readers for more.
+
+Post 2: I love your questions and graphs, they were very interesting. I did notice a type on this line: 
+"Then we simply take that lit of dictionaries". Other than that, my other suggestion would be to change 
+up the graph style a little bit, all of them look very similar (except the network graph, and that one 
+was pretty hard to decipher).
+
+Overall, I thought you did a really great job! Good work!"
+
+
+Isaac Aguilar:
+"Hi Brandon, Data - Cleanup blog is very well organized. I think you meet every requirement for the class. 
+I speacilly liked that added a table to your blog instead of an image of your table. (That was indirect 
+feedback for me hehe).
+
+For your EDA, I like your conclusion about the possible connections in the program, though I wish they 
+were more easy to identify in the plot. I liked that you put the code so it is easier to replicate, but 
+it might be to much for the blog. That's just personal opinion."
+
+
+Davis Dowdle:
+"Hey Brandon! If it's not too late, here's some of my feedback:
+
+Post 1: I really liked this because it was super concise and organized. Not super important but it might be 
+helpful to quickly comment some of the code chunks so the reader can skim some of the code easier but it's 
+not that deep. If you're already past it, don't worry about it.
+
+Post 2: I like the Q&A format. It makes the format legible and easy to follow. I think maybe you could be a 
+little more specific about how analyzing this data can be meaningful in the conclusion. Maybe some examples 
+would be nice. It might also be nice if you briefly mention why this is impactful in the introduction so the 
+reader can understand the impact of your findings as they read.
+
+Nice work man!"
+
+
+
+
+
+
